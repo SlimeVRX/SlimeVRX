@@ -1,0 +1,9271 @@
+1
+00:00:00,256 --> 00:00:06,400
+So have randos drop-in just going to say I'm not recording guys
+
+2
+00:00:09,216 --> 00:00:15,360
+You guys can do her it's like we're just starting right now I want to
+
+3
+00:00:15,616 --> 00:00:21,248
+He's the one that's actually coming up in the video
+
+4
+00:00:21,504 --> 00:00:27,648
+Okay looks like it's coming up for me
+
+5
+00:00:28,928 --> 00:00:35,072
+Hey everyone hold on here still trying to figure out when people start rolling in
+
+6
+00:00:35,328 --> 00:00:37,376
+Will be doing like the official start
+
+7
+00:00:37,632 --> 00:00:39,936
+Yeah probably maybe
+
+8
+00:00:40,448 --> 00:00:40,960
+No no
+
+9
+00:00:41,728 --> 00:00:43,264
+How to make a note about that
+
+10
+00:00:44,288 --> 00:00:50,432
+Crew launch
+
+11
+00:00:52,992 --> 00:00:59,136
+Oh that's right we have notes oh no we didn't do any of the things on the nose
+
+12
+00:00:59,392 --> 00:01:02,976
+Oh no I didn't bring my microphone
+
+13
+00:01:03,232 --> 00:01:06,816
+We did some of them though
+
+14
+00:01:07,328 --> 00:01:10,912
+Okay got it
+
+15
+00:01:11,680 --> 00:01:13,728
+Howdy from New Zealand
+
+16
+00:01:13,984 --> 00:01:15,520
+Hello Bruce
+
+17
+00:01:16,288 --> 00:01:22,432
+Hi everyone
+
+18
+00:01:23,456 --> 00:01:27,040
+Cuz it was a bad like Batman
+
+19
+00:01:31,648 --> 00:01:36,256
+You could have named it through swings
+
+20
+00:01:37,280 --> 00:01:39,840
+Maybe 20 man
+
+21
+00:01:40,096 --> 00:01:43,424
+You don't I do them in the evening it's so convenient for so few people
+
+22
+00:01:43,936 --> 00:01:45,472
+2 p.m. in Tasmania
+
+23
+00:01:45,728 --> 00:01:47,520
+How convenient is that
+
+24
+00:01:49,056 --> 00:01:50,336
+Pennsylvania
+
+25
+00:01:51,360 --> 00:01:54,688
+I think most of the complaints you're getting are from Europe though
+
+26
+00:01:55,200 --> 00:02:01,344
+Yeah sorry European I'm going to try to start doing it earlier it just doesn't work
+
+27
+00:02:01,600 --> 00:02:07,744
+Hey everybody how are the levels like is this good if I yell into the mic real loud is that like painful
+
+28
+00:02:08,000 --> 00:02:10,304
+When John speaks John speak
+
+29
+00:02:11,840 --> 00:02:13,120
+John speak
+
+30
+00:02:15,936 --> 00:02:17,472
+At full volume it's like
+
+31
+00:02:17,728 --> 00:02:21,312
+It's a bit much but it's what about you are you
+
+32
+00:02:21,568 --> 00:02:24,128
+Let me see testing123
+
+33
+00:02:27,968 --> 00:02:34,112
+Yes it painful. Okay I guess I just have to learn how not to yell
+
+34
+00:02:34,368 --> 00:02:39,744
+Don't y'all what are you can you guys hear John when he starts talking
+
+35
+00:02:40,000 --> 00:02:46,144
+Okay okay I guess I should probably turn it down just a hair
+
+36
+00:02:52,800 --> 00:02:58,944
+Yeah it is 5 I'm going to try to make this a little bit shorter
+
+37
+00:02:59,200 --> 00:03:05,344
+I really want to make sure
+
+38
+00:03:05,600 --> 00:03:11,744
+Yeah I got it I got to actually commit to code more to also we don't have a Adam here today so we do
+
+39
+00:03:12,000 --> 00:03:18,144
+Don't have like the awesome computer thing going on so I hope that this doesn't like overload my
+
+40
+00:03:18,400 --> 00:03:20,448
+My poor little laptop here
+
+41
+00:03:22,496 --> 00:03:23,776
+Don't know I just closed it
+
+42
+00:03:24,032 --> 00:03:30,176
+Nope not yet I actually just purchased all of the parts for desktop
+
+43
+00:03:30,432 --> 00:03:34,784
+Slow shipping to take my time
+
+44
+00:03:35,040 --> 00:03:36,576
+Everyone who
+
+45
+00:03:36,832 --> 00:03:42,976
+I love bottom desktops I'm going to re-enter the world of of desktop users
+
+46
+00:03:43,232 --> 00:03:45,024
+My laptop but
+
+47
+00:03:46,304 --> 00:03:47,072
+The song
+
+48
+00:03:47,328 --> 00:03:52,704
+I'll just painfully slow to edit 1080p video
+
+49
+00:03:53,472 --> 00:03:56,032
+Do the windows but you should probably just come over here too
+
+50
+00:03:56,544 --> 00:04:02,688
+Scump
+
+51
+00:04:02,944 --> 00:04:09,088
+Doesn't know I know I know
+
+52
+00:04:10,880 --> 00:04:14,208
+We'll start doing things at
+
+53
+00:04:14,464 --> 00:04:14,976
+Okay
+
+54
+00:04:15,488 --> 00:04:19,327
+That's actually more like 10 minutes from now
+
+55
+00:04:21,887 --> 00:04:28,031
+No although I do have a new esp8266 Gadget that I will be presenting later on
+
+56
+00:04:28,287 --> 00:04:34,431
+This coming week
+
+57
+00:04:34,687 --> 00:04:40,831
+Sex with an IMU and a bunch of other stuff all kind of crammed into it the biggest feature of it is that it has
+
+58
+00:04:41,087 --> 00:04:47,231
+Has a lithium ion battery charger like at the same time as having the circuit for USB so you can just like
+
+59
+00:04:47,487 --> 00:04:53,631
+Like plug it into micro USB while its operating and it charges its battery and then you unplug it and it keeps
+
+60
+00:04:53,887 --> 00:05:00,031
+Working so have you got cursor is do you guys see my cursor today there is a cursor
+
+61
+00:05:00,287 --> 00:05:01,567
+I hope you see it
+
+62
+00:05:02,079 --> 00:05:05,407
+Can you see my cursor miles
+
+63
+00:05:08,991 --> 00:05:09,759
+Yep it's there
+
+64
+00:05:10,015 --> 00:05:11,039
+Okay good good
+
+65
+00:05:11,295 --> 00:05:13,087
+Oh hey wow that's weird
+
+66
+00:05:13,599 --> 00:05:15,647
+Twiddling around others
+
+67
+00:05:16,159 --> 00:05:16,671
+Yeah
+
+68
+00:05:17,183 --> 00:05:21,535
+I guess we'll will let this thing go for a second he rents shrink this window
+
+69
+00:05:26,911 --> 00:05:29,471
+Okay and keep that up
+
+70
+00:05:29,983 --> 00:05:32,287
+Let's chat
+
+71
+00:05:32,799 --> 00:05:35,615
+People
+
+72
+00:05:37,663 --> 00:05:43,807
+Yeah I would do after use a really low-res preview on my laptop otherwise just gets out of hand
+
+73
+00:05:44,063 --> 00:05:50,207
+What's a wemos I've never heard of that I've seen it on Twitter but I never
+
+74
+00:05:50,463 --> 00:05:52,255
+Directly looked into what it was
+
+75
+00:06:00,703 --> 00:06:01,727
+Good luck today
+
+76
+00:06:14,015 --> 00:06:18,111
+Hot sign is actually something that
+
+77
+00:06:18,623 --> 00:06:20,671
+We put together
+
+78
+00:06:20,927 --> 00:06:21,951
+Or aiyappa
+
+79
+00:06:22,207 --> 00:06:25,279
+That was Adam Charles
+
+80
+00:06:25,535 --> 00:06:27,583
+Did the wiring right and then
+
+81
+00:06:27,839 --> 00:06:29,631
+Give me that in the shop super off
+
+82
+00:06:29,887 --> 00:06:35,775
+Yeah we for Unity if you guys know anybody who wants a sign like that it is Wi-Fi controllable
+
+83
+00:06:36,031 --> 00:06:40,639
+So I can take my cell phone here and connect up to it
+
+84
+00:06:41,151 --> 00:06:42,943
+Strong mode
+
+85
+00:06:44,735 --> 00:06:50,879
+Take my cell phone and if I connect into it it automatically connect to my cell phone
+
+86
+00:06:51,391 --> 00:06:52,671
+As you can
+
+87
+00:06:52,927 --> 00:06:59,071
+You can't really see clearly yet it does have an esp8266 into in it which is I guess
+
+88
+00:06:59,327 --> 00:07:00,351
+What else would you expect
+
+89
+00:07:00,607 --> 00:07:02,655
+If I visit
+
+90
+00:07:03,679 --> 00:07:07,519
+192.1 58.4 .1
+
+91
+00:07:08,287 --> 00:07:11,359
+Right there it loads the
+
+92
+00:07:11,615 --> 00:07:13,663
+For the house
+
+93
+00:07:14,431 --> 00:07:19,295
+Floods that the little webpage for at the control so I can go under
+
+94
+00:07:19,551 --> 00:07:20,575
+LEDs
+
+95
+00:07:22,879 --> 00:07:26,463
+And you can see that it's showing via the effect that's going on right now
+
+96
+00:07:26,975 --> 00:07:33,119
+And Kane fused I don't really know how to pronounce his name but he
+
+97
+00:07:33,375 --> 00:07:36,703
+He put a lot of work into this to make me a really nice interface
+
+98
+00:07:36,959 --> 00:07:43,103
+So LED pattern to say it was 14 was the good one reason
+
+99
+00:07:44,383 --> 00:07:45,151
+And
+
+100
+00:07:49,247 --> 00:07:55,391
+So just by using the phone I can go click the button and it it changes the patterns
+
+101
+00:07:55,647 --> 00:08:00,511
+Thalia product if you guys want to get custom signs made we totally do it
+
+102
+00:08:06,911 --> 00:08:12,543
+Hell yeah I know what I'm doing doesn't really have anything to do with that
+
+103
+00:08:13,055 --> 00:08:14,079
+Packer
+
+104
+00:08:14,591 --> 00:08:18,175
+Is that how you pronounce your name Packer Acer paker pack
+
+105
+00:08:23,039 --> 00:08:24,063
+Packard Bell
+
+106
+00:08:26,367 --> 00:08:27,391
+Throwback
+
+107
+00:08:27,647 --> 00:08:30,975
+Let's see how many people do we have in this 42
+
+108
+00:08:31,487 --> 00:08:37,631
+That seems like a nice number start with 4343
+
+109
+00:08:37,887 --> 00:08:39,167
+Person but we were waiting for you
+
+110
+00:08:40,703 --> 00:08:43,519
+Packer got it
+
+111
+00:08:44,287 --> 00:08:46,591
+Okay I guess I said 15 minutes 10 minutes
+
+112
+00:08:48,639 --> 00:08:50,431
+It's only 7 minutes away
+
+113
+00:08:51,711 --> 00:08:57,855
+Sure let's just keep on chilling or things going well humidity you have no idea where
+
+114
+00:08:58,111 --> 00:08:58,879
+You're going with this
+
+115
+00:08:59,135 --> 00:09:05,279
+All all say something whatever I'm getting to the point
+
+116
+00:09:05,535 --> 00:09:06,303
+Communicate
+
+117
+00:09:06,559 --> 00:09:12,703
+Facebook texts
+
+118
+00:09:12,959 --> 00:09:19,103
+Speak now. So yeah
+
+119
+00:09:19,359 --> 00:09:25,503
+Break it down
+
+120
+00:09:26,783 --> 00:09:31,647
+Yeah what's up
+
+121
+00:09:31,903 --> 00:09:37,535
+Why I said where is the common core for scientist
+
+122
+00:09:37,791 --> 00:09:43,935
+Redundant I will get into what I'm doing tonight at 10:15
+
+123
+00:09:44,191 --> 00:09:48,799
+10:15
+
+124
+00:09:49,311 --> 00:09:55,455
+Guys on topic
+
+125
+00:09:55,711 --> 00:09:58,783
+Is just saying where's the the new math for
+
+126
+00:09:59,039 --> 00:10:05,183
+It's okay
+
+127
+00:10:05,439 --> 00:10:07,743
+I don't need a phone off
+
+128
+00:10:07,999 --> 00:10:08,511
+I have
+
+129
+00:10:08,767 --> 00:10:10,047
+Have enough
+
+130
+00:10:13,375 --> 00:10:15,167
+K I'm blind LOL
+
+131
+00:10:19,263 --> 00:10:20,031
+What
+
+132
+00:10:20,287 --> 00:10:22,335
+I don't know somebody named
+
+133
+00:10:22,847 --> 00:10:25,663
+Redundant HD Thursday I'm blind
+
+134
+00:10:29,503 --> 00:10:32,831
+Hi blind I'm Thomas
+
+135
+00:10:38,719 --> 00:10:41,279
+See if I can get all this out
+
+136
+00:10:51,775 --> 00:10:54,079
+Every moment we can
+
+137
+00:10:59,711 --> 00:11:04,575
+So strange to see you here and then here
+
+138
+00:11:04,831 --> 00:11:10,975
+Doing different things I can do two things at once if those things are slightly offset by a few seconds
+
+139
+00:11:14,559 --> 00:11:16,863
+310 the morning in the UK
+
+140
+00:11:17,119 --> 00:11:23,263
+And this other person says they are Christmas drunk in Ireland High Christmas
+
+141
+00:11:23,519 --> 00:11:27,615
+33
+
+142
+00:11:27,871 --> 00:11:31,199
+Call Justin
+
+143
+00:11:32,735 --> 00:11:38,879
+Plugging in the Vive right now this day will be
+
+144
+00:11:39,135 --> 00:11:45,279
+Today that I have the least preparation before the livestream to do the livestream so it's going to be pretty much by the Sea Tow
+
+145
+00:11:45,535 --> 00:11:47,327
+All of our pants
+
+146
+00:11:50,143 --> 00:11:52,703
+Apparently Christmas frog is different from regular bra
+
+147
+00:11:55,519 --> 00:11:56,287
+Okay
+
+148
+00:11:58,079 --> 00:12:00,639
+Memory NEOS it's about 5 seconds I say
+
+149
+00:12:01,407 --> 00:12:07,551
+Yes of Hitler
+
+150
+00:12:07,807 --> 00:12:09,855
+Lochmoor whiskey involved in Christmas frog
+
+151
+00:12:12,927 --> 00:12:13,695
+Also keep
+
+152
+00:12:13,951 --> 00:12:14,975
+On topic
+
+153
+00:12:16,255 --> 00:12:20,351
+And we do have the YouTube Community guidelines so
+
+154
+00:12:22,143 --> 00:12:23,679
+3 minutes to go
+
+155
+00:12:24,191 --> 00:12:24,959
+2 minutes to go
+
+156
+00:12:25,471 --> 00:12:26,495
+Start a few minutes ago
+
+157
+00:12:27,519 --> 00:12:28,031
+Time
+
+158
+00:12:28,799 --> 00:12:29,567
+Tim Henson
+
+159
+00:12:29,823 --> 00:12:30,847
+30 seconds
+
+160
+00:12:36,991 --> 00:12:39,039
+What is the global today
+
+161
+00:12:40,063 --> 00:12:43,647
+No it's not just the been coding decoder
+
+162
+00:12:43,903 --> 00:12:49,023
+It's a it's a couple things this is going to be kind of recapping what works being done right now
+
+163
+00:12:49,279 --> 00:12:50,815
+And
+
+164
+00:12:51,071 --> 00:12:55,423
+You guys can wait one more minute to hear what it's about well minute half here but it stopped
+
+165
+00:13:03,871 --> 00:13:05,407
+Pisces
+
+166
+00:13:06,175 --> 00:13:07,199
+I don't know who you are
+
+167
+00:13:11,295 --> 00:13:13,343
+One minute
+
+168
+00:13:15,135 --> 00:13:17,951
+Venice in the chat he thanks you for the caramel for
+
+169
+00:13:18,207 --> 00:13:21,791
+Oh hi Ben I'm sorry
+
+170
+00:13:22,047 --> 00:13:25,887
+But for those of you who
+
+171
+00:13:26,143 --> 00:13:27,935
+Oh gosh I don't have a picture
+
+172
+00:13:31,263 --> 00:13:34,335
+I'm going to have to go off stream for just a second
+
+173
+00:13:58,655 --> 00:14:01,983
+Then I don't believe Adam hasn't Twitter does he
+
+174
+00:14:02,239 --> 00:14:04,031
+No Adam does not have a Twitter
+
+175
+00:14:07,103 --> 00:14:09,919
+Just make sure you guys couldn't see anything could you
+
+176
+00:14:10,431 --> 00:14:12,735
+For that bit it was just like a black screen I'm guessing
+
+177
+00:14:13,503 --> 00:14:15,295
+Okay good good
+
+178
+00:14:23,999 --> 00:14:25,535
+Oh yeah
+
+179
+00:14:25,791 --> 00:14:30,399
+He responded Charles
+
+180
+00:14:30,655 --> 00:14:36,799
+It's black when I switch back to my my personal account
+
+181
+00:14:37,055 --> 00:14:43,199
+Sound on my laptop I do everything else from this account I think I'm actually doing this logging into a hardware terminal
+
+182
+00:14:43,455 --> 00:14:48,063
+Rpt terminal by definition of virtual terminal but
+
+183
+00:14:48,575 --> 00:14:51,391
+Weight GT terminal virtual terminal
+
+184
+00:14:51,903 --> 00:14:54,207
+It's like ATM machine okay
+
+185
+00:14:55,487 --> 00:14:56,767
+Okay
+
+186
+00:14:57,023 --> 00:14:59,583
+I think it's time to get started
+
+187
+00:15:00,095 --> 00:15:06,239
+Okay everyone thanks for coming out to the 5th live stream now it's actually the third in the second row
+
+188
+00:15:06,495 --> 00:15:12,639
+Group or we try to find the locations of the lighthouses I think there may be some other ways to come about this but right now
+
+189
+00:15:12,895 --> 00:15:19,039
+Now I'm kind of heading down the whole find the lighthouses but before we even get there if there's just been a ton of problem
+
+190
+00:15:19,295 --> 00:15:24,415
+We've been running into just like one after another after another mostly due to the fact that I'm terrible of coding
+
+191
+00:15:24,671 --> 00:15:30,815
+Which makes me wonder what I'm good at but on any rate so we're going to have to today figure out
+
+192
+00:15:31,071 --> 00:15:37,215
+A little bit more about what's going on with the Watchmen a little bit more about how to do some of the disambiguation
+
+193
+00:15:37,471 --> 00:15:43,615
+Of the light timing signals and I don't know maybe I'll be able to get a chance to show you guys a little bit more about what
+
+194
+00:15:43,871 --> 00:15:45,919
+What we talked about in the
+
+195
+00:15:46,175 --> 00:15:50,783
+If you know it that's a much better place to start let's actually start going through the issues right now
+
+196
+00:15:51,039 --> 00:15:57,183
+So some of the the issues by the way I encourage everybody to join along checkout a copy of
+
+197
+00:15:57,439 --> 00:16:02,047
+I've survived if you have I've fired up on your bike and if you have problems with that
+
+198
+00:16:02,815 --> 00:16:03,327
+Patchett
+
+199
+00:16:03,583 --> 00:16:05,375
+Do a push request and I'll handle it
+
+200
+00:16:06,911 --> 00:16:11,007
+That is if it works make sure your code Works before you do the pull request
+
+201
+00:16:13,055 --> 00:16:19,199
+So some of the things the one the issue from the last time determining the location of lighthouses is now up to
+
+202
+00:16:19,455 --> 00:16:25,343
+297 comments from just about everybody and this was from the
+
+203
+00:16:25,599 --> 00:16:30,463
+From the livestream event that we did two weeks ago at my parent's cabin
+
+204
+00:16:30,719 --> 00:16:35,839
+So punch people visualize where the points were realized we got the normals wrong
+
+205
+00:16:36,095 --> 00:16:42,239
+Amazing things happened where Ben was able to get HTC to send me my config file so I could
+
+206
+00:16:42,495 --> 00:16:44,287
+Unbrick the the Vive
+
+207
+00:16:44,799 --> 00:16:50,943
+And we started to really dig in a bunch of different techniques were kind of brought up
+
+208
+00:16:51,199 --> 00:16:54,015
+Perspective npl like the PNP problems
+
+209
+00:16:54,271 --> 00:16:58,623
+And I don't remember the name posit I think it was positive
+
+210
+00:16:59,135 --> 00:17:05,279
+Was that name of the technique I'm just various techniques 54 talked about to do what it seems like we're
+
+211
+00:17:05,535 --> 00:17:06,047
+Trying to do
+
+212
+00:17:06,303 --> 00:17:12,447
+But one of the really big things is that the problem with the Vive is different from that
+
+213
+00:17:12,703 --> 00:17:15,007
+And Alan Yates the guy
+
+214
+00:17:15,263 --> 00:17:20,127
+I guess we should call him the Godfather of Lighthouse technology now
+
+215
+00:17:20,383 --> 00:17:26,527
+Actually buy the wave and if you can reply and chat and tell me if if if Yates is actually doctor Yeats
+
+216
+00:17:26,783 --> 00:17:31,647
+Somebody said dr. Yates and one of the things I'm really curious if I should be calling him dr. you
+
+217
+00:17:31,903 --> 00:17:32,927
+At any rate
+
+218
+00:17:33,183 --> 00:17:35,487
+They pointed out that
+
+219
+00:17:35,743 --> 00:17:41,887
+He pointed out that all of this mess that has to be done with like pasta and the PNP Pro
+
+220
+00:17:42,143 --> 00:17:44,703
+Problem missing I can find the opencv
+
+221
+00:17:44,959 --> 00:17:47,007
+Epmp paper
+
+222
+00:17:47,263 --> 00:17:49,311
+I think this is it
+
+223
+00:17:50,079 --> 00:17:51,359
+No that's not it
+
+224
+00:17:53,663 --> 00:17:59,807
+I can't find it point is there's all these really complicated techniques to figure out where cameras are
+
+225
+00:18:00,063 --> 00:18:03,647
+Based on like three representations of the environment
+
+226
+00:18:03,903 --> 00:18:10,047
+And it's really complicated because of such a mess that there is with all the stuff
+
+227
+00:18:10,303 --> 00:18:16,447
+Torsion and everything else that exists with cameras people try telling me that that's the future of VR and that's just
+
+228
+00:18:16,703 --> 00:18:18,239
+Completely bogus because
+
+229
+00:18:18,495 --> 00:18:24,639
+It's just totally impossible to calibrate to anywhere close to the scale that Lighthouse thickness
+
+230
+00:18:24,895 --> 00:18:31,039
+Knology can be calibrated to a lot but for the most part I think that we're kind of shy
+
+231
+00:18:31,295 --> 00:18:37,439
+Flying away from some of these already existing Solutions in really trying to forge forward with our own
+
+232
+00:18:39,487 --> 00:18:45,631
+For better for worse if you out there I'm talking to you anybody who knows how to coat it all one steak
+
+233
+00:18:45,887 --> 00:18:52,031
+The crack at this problem for this part of the problem I do have all of the other the files of
+
+234
+00:18:52,287 --> 00:18:54,847
+Available under common data for project
+
+235
+00:18:55,103 --> 00:18:59,967
+So if you want to go give something a shot and try to like pitch in and see if you can figure some of the stuff out
+
+236
+00:19:00,223 --> 00:19:05,087
+I do have a CSV that recorded from the the real systems
+
+237
+00:19:05,343 --> 00:19:06,879
+That's all right there
+
+238
+00:19:07,135 --> 00:19:10,719
+At any rate so determined location lighthouses
+
+239
+00:19:10,975 --> 00:19:12,255
+A ton of fun stuff
+
+240
+00:19:13,791 --> 00:19:15,583
+Having hard time here
+
+241
+00:19:15,839 --> 00:19:18,655
+A bunch of fun stuff happened
+
+242
+00:19:20,703 --> 00:19:24,287
+PK tubes if I can find his post
+
+243
+00:19:25,567 --> 00:19:26,079
+Oh
+
+244
+00:19:26,591 --> 00:19:32,735
+Something else we forgot about a half a day finally posted Allen yates's talk
+
+245
+00:19:32,991 --> 00:19:39,135
+I can't find it here where we relegates actually went into
+
+246
+00:19:39,391 --> 00:19:45,535
+By the way it's been responding chat been said you should totally call him.
+
+247
+00:19:45,791 --> 00:19:51,935
+And then someone else has responded that his Lincoln does not mention doctor so okay
+
+248
+00:19:52,191 --> 00:19:58,335
+You should call him dr. V K Tuesday no it's okay you stalked I renamed
+
+249
+00:20:04,991 --> 00:20:06,271
+Altus dr. yang
+
+250
+00:20:06,527 --> 00:20:10,623
+So dr. Yates totally explained in his
+
+251
+00:20:10,879 --> 00:20:15,743
+And I wish I could little bit older for getting closing in on it
+
+252
+00:20:15,999 --> 00:20:22,143
+I totally went into a lot of details about the hardware and software problems that surrounded
+
+253
+00:20:22,399 --> 00:20:28,543
+The creation of the Vive and why it was not trivial which I would not expect it to me look stupid easy
+
+254
+00:20:28,799 --> 00:20:30,847
+But he points out that
+
+255
+00:20:31,103 --> 00:20:37,247
+I'm obviously not the smartest one in the room when he started busting out the whole point about the fluid dynamics linear
+
+256
+00:20:38,271 --> 00:20:40,319
+Something fluid dynamics something Motors
+
+257
+00:20:40,575 --> 00:20:44,671
+I'm like okay got it this is way outside or something I'm going to be doing in my basement
+
+258
+00:20:46,719 --> 00:20:52,607
+Any rate if you guys do want to go see a really awesome talk about how the lighthouses work
+
+259
+00:20:52,863 --> 00:20:55,423
+Totally check out the hack of the article
+
+260
+00:20:56,703 --> 00:20:59,775
+You know what I think I might just post this in the
+
+261
+00:21:00,031 --> 00:21:01,823
+In the
+
+262
+00:21:02,079 --> 00:21:03,103
+The read me here
+
+263
+00:21:11,039 --> 00:21:16,159
+Extra resources pack-a-day article
+
+264
+00:21:17,184 --> 00:21:20,512
+Article and video with doctor
+
+265
+00:21:24,608 --> 00:21:28,448
+On how they made the Vive a thing
+
+266
+00:21:29,472 --> 00:21:30,240
+Okay
+
+267
+00:21:30,752 --> 00:21:36,640
+Moving on
+
+268
+00:21:42,016 --> 00:21:48,160
+One thing we had a note on his but I do need to do more get pushing and I'm going to really
+
+269
+00:21:48,416 --> 00:21:54,560
+Make an effort for that this time and I will also paste this into the chat
+
+270
+00:21:57,632 --> 00:22:03,520
+Hey Charles just try the opencv algorithms I found out today was very noisy with some light filtering I was able to get
+
+271
+00:22:04,032 --> 00:22:08,896
+I was fairly precisely Octavio if you want and you're up for it
+
+272
+00:22:09,152 --> 00:22:15,296
+Please please pinch in here start trying to pitch in
+
+273
+00:22:15,552 --> 00:22:21,696
+Specifically finding the lighthouses we can get away with something other than the MIT license
+
+274
+00:22:21,952 --> 00:22:28,096
+For what Mayan gold needs to be though I would really like it if we could just keep everything seed and
+
+275
+00:22:28,352 --> 00:22:33,728
+Everything minimal requirements I know what the opencv stuff you kind of have to pull in opencv
+
+276
+00:22:33,984 --> 00:22:37,568
+And that's that's kind of a big deal
+
+277
+00:22:38,592 --> 00:22:40,896
+So going back to all of this
+
+278
+00:22:44,224 --> 00:22:50,368
+So Alan needs kind of hopped in and he pointed out that the the volumetric plots that we were plotting out
+
+279
+00:22:50,624 --> 00:22:54,720
+Last time didn't really make a lot of sense to him as to why
+
+280
+00:22:54,976 --> 00:23:01,120
+Why the data would look the way it did and I totally get that but I think that to me
+
+281
+00:23:01,376 --> 00:23:04,704
+It made a lot of sense because any of
+
+282
+00:23:04,960 --> 00:23:09,312
+Well we'll go into Howell my Approach is working soon but he pointed out there was a little bit strange
+
+283
+00:23:09,568 --> 00:23:13,920
+That's one of the things are going to try today is to try to view that data in a different way
+
+284
+00:23:14,176 --> 00:23:18,784
+Or or analyzed in a different way that might be a little bit friendlier to finding the centroid be
+
+285
+00:23:19,040 --> 00:23:23,136
+The most likely location of the lighthouse
+
+286
+00:23:24,160 --> 00:23:24,928
+Okay
+
+287
+00:23:27,488 --> 00:23:29,536
+I think anything else
+
+288
+00:23:30,048 --> 00:23:33,632
+Just that right now my plan forward is by
+
+289
+00:23:34,400 --> 00:23:40,544
+I'm going to we got to go figure out what's going on with the exact pulses and why some of the stuff isn't lining up the way I thought
+
+290
+00:23:40,800 --> 00:23:45,152
+I think some of it has to do with the disambiguating being rough
+
+291
+00:23:45,408 --> 00:23:51,552
+My disintegrator is not very good so if you think you can figure out a disambiguation the signals the pulse
+
+292
+00:23:51,808 --> 00:23:55,648
+Houses of light and what they mean better than I can which you probably can
+
+293
+00:23:55,904 --> 00:23:58,208
+I go in there give that a shot
+
+294
+00:23:58,464 --> 00:24:01,792
+I have an example of some of the code that I did use
+
+295
+00:24:02,304 --> 00:24:06,912
+It's a little different now but it's almost the same if you look in the GitHub repo
+
+296
+00:24:07,168 --> 00:24:09,984
+And I collected a bunch of data and we uncovered a bug
+
+297
+00:24:10,496 --> 00:24:14,848
+One so far which I'm sure there's more with the Bendy coding
+
+298
+00:24:15,360 --> 00:24:17,664
+So that was that was kind of fun
+
+299
+00:24:19,712 --> 00:24:25,856
+Pepsi I'm just kind of rambling right now this is there any direction anybody in chat has your questions
+
+300
+00:24:26,112 --> 00:24:32,256
+Different couple like basic questions they've been trying to summarize like just
+
+301
+00:24:32,512 --> 00:24:38,144
+What's going on here about like trying to reverse engineer with the Bibleman case
+
+302
+00:24:40,960 --> 00:24:47,104
+Okay I don't think I want to spend five minutes explaining how the vibe works
+
+303
+00:24:47,360 --> 00:24:51,200
+In this this this life has to have done that about every other time
+
+304
+00:24:51,456 --> 00:24:54,528
+I'm sorry I'm going to avoid that this time
+
+305
+00:24:54,784 --> 00:25:00,160
+So I do appreciate that you guys are kind of chatting back and forth in chat so we can keep things rolling
+
+306
+00:25:00,416 --> 00:25:03,232
+Figure it out for themselves
+
+307
+00:25:04,768 --> 00:25:07,584
+It's probably best to do the first video
+
+308
+00:25:07,840 --> 00:25:13,984
+I like the summer video Summer video yes I am going to try to get a thumri video edited but I
+
+309
+00:25:14,240 --> 00:25:20,384
+I unfortunately do have another closet commercial esp8266 project I need to go make a video for and
+
+310
+00:25:20,640 --> 00:25:26,784
+I need to get out the door like ASAP because parts are literally just waiting to go out the
+
+311
+00:25:28,576 --> 00:25:34,720
+Need to make the video I am sure it later on the broadcast I'll explain that to which at the time
+
+312
+00:25:34,976 --> 00:25:40,608
+I was not thinking about the buy but now that they might be able to work together
+
+313
+00:25:41,120 --> 00:25:47,264
+I'm trying to think of anything else that really happened that was that cool I mean just the really The Big Three
+
+314
+00:25:47,520 --> 00:25:48,800
+Freebasic
+
+315
+00:25:51,360 --> 00:25:57,504
+Three basic bugs the first fog being check
+
+316
+00:25:57,760 --> 00:26:03,904
+Been coding to the bank holding is still something's not right with it in my code I'm not interpreting
+
+317
+00:26:04,160 --> 00:26:10,304
+Something correctly I don't know what it is but we're probably going to have to go scope that out some
+
+318
+00:26:10,560 --> 00:26:13,376
+That that can be done kind of in parallel with this other stuff
+
+319
+00:26:13,888 --> 00:26:19,008
+One of the other things has to do with improving
+
+320
+00:26:19,264 --> 00:26:20,288
+The disc
+
+321
+00:26:20,544 --> 00:26:26,688
+And big you a tour and that's the thing that can kind of tell me based on these flashes of light
+
+322
+00:26:26,944 --> 00:26:31,040
+Where is this photo diode based on this lighthouses sweeps
+
+323
+00:26:31,296 --> 00:26:37,440
+That's going to have to invite where it is I don't mean where it is I mean where it is and 2ds face
+
+324
+00:26:37,696 --> 00:26:43,840
+So like if I were to shoot a real from the lighthouse where would that go through what point would that go through
+
+325
+00:26:44,096 --> 00:26:48,192
+That's that's what they needed for and finally
+
+326
+00:26:48,448 --> 00:26:54,592
+Really doing one or two things one finding Lighthouse positions
+
+327
+00:26:55,872 --> 00:26:59,456
+Or finding another way altogether
+
+328
+00:27:01,248 --> 00:27:07,392
+Or something because what we need for face 3 so we're still in phase two of this project which is annoying
+
+329
+00:27:07,648 --> 00:27:12,512
+I thought we would move in but it's harder than I thought just like everything else I've ever tried it
+
+330
+00:27:12,768 --> 00:27:15,328
+It's just always more difficult than I could hope
+
+331
+00:27:15,584 --> 00:27:18,400
+Phase two is where we
+
+332
+00:27:18,656 --> 00:27:20,960
+Find the lighthouses
+
+333
+00:27:21,216 --> 00:27:27,360
+Phase three is where we can track a point and a
+
+334
+00:27:27,616 --> 00:27:28,128
+Hose
+
+335
+00:27:28,384 --> 00:27:34,528
+And phase four is where we used and
+
+336
+00:27:34,784 --> 00:27:40,928
+And if you guys have been paying attention to the GitHub things I am really tempted to just Jo
+
+337
+00:27:41,184 --> 00:27:42,208
+Jump straight there
+
+338
+00:27:43,488 --> 00:27:49,632
+So I have actually done a fair bit of computer vision stuff before this is a picture from a project from a
+
+339
+00:27:49,888 --> 00:27:56,032
+While ago where I was just tracking using cameras really really inexpensive planners
+
+340
+00:27:56,288 --> 00:27:58,592
+Oh got it
+
+341
+00:27:59,104 --> 00:28:02,944
+Can you say something so I can get your name to moderate
+
+342
+00:28:07,040 --> 00:28:08,832
+Can't do anything either
+
+343
+00:28:09,344 --> 00:28:11,648
+Say something in chat and I'll mod you
+
+344
+00:28:11,904 --> 00:28:13,440
+To him
+
+345
+00:28:14,208 --> 00:28:16,256
+Set user as moderator
+
+346
+00:28:19,840 --> 00:28:25,984
+So it's not that I haven't ever done any kind of tracking systems before and I
+
+347
+00:28:26,240 --> 00:28:28,032
+I have dealt with them
+
+348
+00:28:28,288 --> 00:28:34,432
+I've dealt with commercial ones and I've kind of rolled my own never had to do anything really precise though
+
+349
+00:28:34,688 --> 00:28:40,832
+Except for my thesis had to be really precise but that was a different problem altogether so it was much easier to
+
+350
+00:28:41,088 --> 00:28:42,624
+Much easier to accomplish like
+
+351
+00:28:42,880 --> 00:28:49,024
+Mm level tracking but it was totally different solution very easy to do
+
+352
+00:28:49,280 --> 00:28:53,120
+But I know like I'm toying with just creating a pose
+
+353
+00:28:53,376 --> 00:28:54,656
+Like a
+
+354
+00:28:54,912 --> 00:28:56,960
+What are those things called where you have like
+
+355
+00:28:57,216 --> 00:29:03,360
+Seasoning stainless Center
+
+356
+00:29:03,616 --> 00:29:05,408
+Nothing that has the x y and z
+
+357
+00:29:05,920 --> 00:29:09,248
+Oh
+
+358
+00:29:09,504 --> 00:29:14,880
+Display the actors I don't know
+
+359
+00:29:15,136 --> 00:29:17,952
+But it's like being the physical
+
+360
+00:29:18,976 --> 00:29:25,120
+Whatever it is
+
+361
+00:29:25,376 --> 00:29:27,424
+One request from the chat
+
+362
+00:29:27,680 --> 00:29:33,824
+New I have the chat window on the sides they can see it cuz it doesn't get archived with the screen
+
+363
+00:29:34,080 --> 00:29:36,640
+Oh okay
+
+364
+00:29:37,664 --> 00:29:43,808
+Oh I know I do know they want to make it to it that anybody who's watching it later can watch the
+
+365
+00:29:44,064 --> 00:29:49,952
+I will said it's always on top okay and I will scale this so that that work
+
+366
+00:29:54,816 --> 00:30:00,960
+Okay
+
+367
+00:30:01,216 --> 00:30:04,800
+Frame that's the right word I'm just toying with
+
+368
+00:30:05,056 --> 00:30:07,616
+Using a coordinate frame in 3D space
+
+369
+00:30:07,872 --> 00:30:14,016
+Plopping it on the floor in the middle having one meter between each one of the stupid accies and then having the light
+
+370
+00:30:14,272 --> 00:30:20,416
+Lighthouses figure out where those are and then we can just straight-up resolve position
+
+371
+00:30:20,672 --> 00:30:22,976
+Define their universe
+
+372
+00:30:23,232 --> 00:30:24,256
+I'm 20 with it
+
+373
+00:30:24,512 --> 00:30:25,024
+But
+
+374
+00:30:25,280 --> 00:30:27,840
+Not necessarily
+
+375
+00:30:29,120 --> 00:30:30,912
+Going to happen
+
+376
+00:30:31,168 --> 00:30:34,496
+After all it is kind of skipping phases
+
+377
+00:30:34,752 --> 00:30:40,896
+Phases two and three all together kind of use for to go back to and I have no
+
+378
+00:30:41,152 --> 00:30:46,528
+No idea how hard it's going to be to use the esp8266 as a detector in this sort of situation
+
+379
+00:30:46,784 --> 00:30:51,904
+So I really kind of want to go through in order but maybe maybe not
+
+380
+00:30:52,160 --> 00:30:56,256
+Anything else that came up in chat that I should be addressing right now
+
+381
+00:30:58,560 --> 00:31:04,704
+Okay so going forward some of my plans on this one
+
+382
+00:31:05,216 --> 00:31:07,520
+So from last time
+
+383
+00:31:08,800 --> 00:31:09,824
+Fossil Pathak
+
+384
+00:31:16,736 --> 00:31:22,880
+If I was using voxel tastic to go visualize some
+
+385
+00:31:23,136 --> 00:31:29,280
+Some 3D models of how would it look like the the lighthouse data
+
+386
+00:31:29,536 --> 00:31:35,680
+Who let the knotwork rgba pretty
+
+387
+00:31:35,936 --> 00:31:38,240
+232
+
+388
+00:31:39,008 --> 00:31:41,568
+54
+
+389
+00:31:42,336 --> 00:31:48,480
+Yeah there we go
+
+390
+00:31:48,736 --> 00:31:53,088
+Plastic tube you what the
+
+391
+00:31:53,344 --> 00:31:56,160
+Have you what the the shells look like what the
+
+392
+00:31:56,416 --> 00:32:02,560
+The shells are the likelihood of a lighthouse seen any one of these
+
+393
+00:32:02,816 --> 00:32:03,584
+Locations
+
+394
+00:32:03,840 --> 00:32:06,912
+And as you can see that it's it was a little bit rough
+
+395
+00:32:09,472 --> 00:32:10,240
+So
+
+396
+00:32:12,032 --> 00:32:14,080
+Didn't really work that well
+
+397
+00:32:14,592 --> 00:32:20,736
+I did try though and we're still going to keep going right now this is being viewed
+
+398
+00:32:20,992 --> 00:32:22,528
+And kind of Cartesian space
+
+399
+00:32:22,784 --> 00:32:28,928
+And I want to try to move it into Polar space and I think it's going to like really kind of bound itself into a centroidal
+
+400
+00:32:29,184 --> 00:32:30,208
+A lot better that way
+
+401
+00:32:30,720 --> 00:32:34,304
+One of the other things to note is that Alan Yates was a little bit
+
+402
+00:32:34,560 --> 00:32:38,656
+Concerned over the fact these look like shells rather than kind of blobs
+
+403
+00:32:38,912 --> 00:32:43,520
+So I don't really know what to make of that right now but we're totally going to look into that
+
+404
+00:32:43,776 --> 00:32:49,920
+So we can totally just visualize the different possibilities of
+
+405
+00:32:50,176 --> 00:32:52,224
+Lighthouse not that
+
+406
+00:32:54,784 --> 00:32:58,624
+Totally pie visualizing different possibilities
+
+407
+00:32:59,648 --> 00:33:04,512
+Like this is I guess the our Lighthouse where it's like Yeah The Lighthouse is totally in there
+
+408
+00:33:09,120 --> 00:33:11,936
+Locations jeopardized by the rotated wattles
+
+409
+00:33:13,472 --> 00:33:17,568
+Steve Hamilton normals before doing that
+
+410
+00:33:18,080 --> 00:33:20,384
+Doing what the visualization
+
+411
+00:33:21,408 --> 00:33:27,040
+Remember you were having an issue with the headset normal seeing tilted in
+
+412
+00:33:27,296 --> 00:33:32,672
+I don't remember that I know that I know that there was a problem somebody had with it but then
+
+413
+00:33:33,184 --> 00:33:38,048
+I don't believe there's any problem now did we check that before we did the beta
+
+414
+00:33:38,304 --> 00:33:44,448
+Hope it in ya The Laurels weren't actually facing outward
+
+415
+00:33:44,704 --> 00:33:45,984
+Play should be there all
+
+416
+00:33:46,496 --> 00:33:48,032
+Focus play straight down
+
+417
+00:33:48,800 --> 00:33:52,128
+What's what's the normal time the headset itself at War
+
+418
+00:33:52,896 --> 00:33:53,664
+Oh
+
+419
+00:33:56,992 --> 00:33:57,760
+I don't think so
+
+420
+00:33:58,272 --> 00:34:02,880
+Let me check the one guy did do the open scad thing
+
+421
+00:34:05,440 --> 00:34:07,488
+So those normals are all Hokie
+
+422
+00:34:08,256 --> 00:34:09,536
+Those are all Hokie
+
+423
+00:34:10,560 --> 00:34:11,840
+I don't know what's going on there
+
+424
+00:34:12,352 --> 00:34:16,704
+I don't know this person visualized the normals and open scad and it looks just fine
+
+425
+00:34:21,312 --> 00:34:23,616
+Mary Hackman everyone
+
+426
+00:34:27,456 --> 00:34:28,736
+Anyway
+
+427
+00:34:29,504 --> 00:34:31,040
+Yeah that one down the bottom
+
+428
+00:34:34,368 --> 00:34:36,928
+Yeah it does look correct so
+
+429
+00:34:45,376 --> 00:34:49,472
+Put in timeout how good
+
+430
+00:34:50,240 --> 00:34:56,384
+Anyway moving on Soviet visualization is kind of a point Cloud saying these are all of the possible places
+
+431
+00:34:56,640 --> 00:34:57,920
+Could be
+
+432
+00:34:58,432 --> 00:35:00,224
+How likely it is it is it any of them
+
+433
+00:35:02,272 --> 00:35:06,880
+I can make it so it visualization sold more so you can see that for at least some amounts of data
+
+434
+00:35:07,136 --> 00:35:09,696
+It converges really nicely like
+
+435
+00:35:09,952 --> 00:35:15,840
+You know the head like houses got to be in there so some of the things I wanted to do
+
+436
+00:35:16,096 --> 00:35:22,240
+Was I wanted to use the normals of which way it's pointed toe
+
+437
+00:35:30,432 --> 00:35:36,576
+I will not touch the significant now so each one of these sensors
+
+438
+00:35:36,832 --> 00:35:42,976
+Tear on the headset it has a normal associated with it I was my first look at them like
+
+439
+00:35:43,232 --> 00:35:46,816
+World they do that
+
+440
+00:35:48,864 --> 00:35:52,960
+I always I I never go into a situation assuming that I'm
+
+441
+00:35:53,984 --> 00:35:58,592
+The dumbest person in in the room but I will always be quick to realize that
+
+442
+00:35:58,848 --> 00:36:00,128
+As best as I can
+
+443
+00:36:01,152 --> 00:36:07,296
+But Eric was looking at like why would they put normals in with this data that seems completely used
+
+444
+00:36:07,552 --> 00:36:11,648
+I'm already using
+
+445
+00:36:11,904 --> 00:36:16,256
+So because there's a normal associated with this it tells you which way is pointed
+
+446
+00:36:16,512 --> 00:36:20,352
+So all the sudden there's a lighthouse up there behind the camera
+
+447
+00:36:20,608 --> 00:36:22,656
+And if I hold it like this then
+
+448
+00:36:22,912 --> 00:36:29,056
+Yeah that that sensor can totally see that Lighthouse but if I hold it like that and it's pointed at that Lighthouse over there
+
+449
+00:36:29,312 --> 00:36:35,456
+See it so really quick we can just immediately cut out that is a possibility of where those this lighthouses
+
+450
+00:36:35,712 --> 00:36:41,856
+Because this photo sensor here is getting data from it so you can do real quick
+
+451
+00:36:42,112 --> 00:36:42,624
+How to cut out
+
+452
+00:36:42,880 --> 00:36:48,768
+For one of the other things that I doctor Yeats has pointed out through a lot of this is that
+
+453
+00:36:49,024 --> 00:36:52,608
+The normal itself and the the the angle
+
+454
+00:36:52,864 --> 00:36:55,424
+And the distance from the lighthouse
+
+455
+00:36:55,680 --> 00:37:01,824
+Will control the length of the pulse now I'm hoping we collect some data on that this time
+
+456
+00:37:02,080 --> 00:37:08,224
+To try to get an idea as to how much the distance affects the Paul and how much the orientation affect the pulse
+
+457
+00:37:08,480 --> 00:37:11,552
+But I'm thinking we can use that
+
+458
+00:37:11,808 --> 00:37:17,440
+To help narrow down the picture so though the date of might look like this right now
+
+459
+00:37:17,696 --> 00:37:21,280
+Or I mean I gots a little bit worse if you look at the other one must look at
+
+460
+00:37:21,536 --> 00:37:23,328
+Our lighthouse
+
+461
+00:37:29,728 --> 00:37:33,568
+You look at this man it just does not know where that other lighthouses
+
+462
+00:37:33,824 --> 00:37:39,968
+I'm thinking that by using the normal data and having it like the rotation control that way you can do a
+
+463
+00:37:40,224 --> 00:37:46,368
+Much better job it kind of narrowing this down I don't know that that's true but I think that's true
+
+464
+00:37:46,624 --> 00:37:52,768
+The the other thing I wanted to try was to put the Watchmen controllers farther out
+
+465
+00:37:53,024 --> 00:37:58,656
+I still have this sitting in the center of the room 15 the coordinates frame and having to watch them controllers
+
+466
+00:37:58,912 --> 00:38:05,056
+Having Watchman controllers on the floor on either side and using them to
+
+467
+00:38:05,312 --> 00:38:11,456
+Kind of determine like okay it's not possible for this Lighthouse to be here and then this one to be here
+
+468
+00:38:11,712 --> 00:38:16,064
+Because if this was the case then the geometry for the the
+
+469
+00:38:16,320 --> 00:38:20,160
+The angles for where the the Watchmen are wouldn't lineup
+
+470
+00:38:20,416 --> 00:38:26,304
+And to be able to rule out that early come up with the score of How likely or unlikely
+
+471
+00:38:26,560 --> 00:38:29,632
+That we have the position and composed of a
+
+472
+00:38:29,888 --> 00:38:32,448
+A specific Lighthouse correct
+
+473
+00:38:32,704 --> 00:38:38,336
+Spell make it really easy to just kind of start ruling things out and hopefully narrow down where the lighthouses are
+
+474
+00:38:38,848 --> 00:38:44,992
+See how that goes and I did mention in the the issue that I am toying with just giving
+
+475
+00:38:45,248 --> 00:38:46,272
+Straight to phase 4
+
+476
+00:38:46,528 --> 00:38:47,296
+Not doing yet
+
+477
+00:38:50,112 --> 00:38:52,928
+Think that's it for the summary
+
+478
+00:38:56,000 --> 00:38:59,840
+I can't really think of anything else really happened over the last week that's
+
+479
+00:39:00,096 --> 00:39:01,376
+It's that big
+
+480
+00:39:04,192 --> 00:39:08,032
+The other than dr. Yates posting some cryptic things to Twitter
+
+481
+00:39:12,128 --> 00:39:13,920
+I'll see if I can find one of them
+
+482
+00:39:16,224 --> 00:39:22,112
+Calendar dr. I can't remember that time doctor
+
+483
+00:39:22,624 --> 00:39:25,184
+I posted a really neat picture here of
+
+484
+00:39:25,440 --> 00:39:31,584
+What happens to the region of convergence for the 2D Lighthouse problem as you rotate the initial speed
+
+485
+00:39:32,096 --> 00:39:33,120
+Depose
+
+486
+00:39:33,376 --> 00:39:34,656
+Through a full-term
+
+487
+00:39:36,192 --> 00:39:40,800
+I'm guessing that means that when you're just making a rough guess in the dark is to what
+
+488
+00:39:41,056 --> 00:39:43,104
+Where the lighthouse my
+
+489
+00:39:43,360 --> 00:39:49,504
+What is what happens over time as you move that potential pose I don't know for sure
+
+490
+00:39:50,784 --> 00:39:56,928
+I don't know there's a lot of nomenclature that because I'm so new to this I have no idea how to even barely speak
+
+491
+00:39:57,184 --> 00:39:58,720
+The same language is
+
+492
+00:39:58,976 --> 00:40:00,000
+Is
+
+493
+00:40:00,512 --> 00:40:05,376
+Fannin dr. Yates because so many times like they here's what you do
+
+494
+00:40:05,632 --> 00:40:11,776
+And I have to go spend the next like four hours figuring out how to actually do the thing they just completely gave
+
+495
+00:40:12,032 --> 00:40:14,848
+Give me the answer for
+
+496
+00:40:15,104 --> 00:40:17,408
+Orientation LightScribe
+
+497
+00:40:17,920 --> 00:40:18,944
+I believe
+
+498
+00:40:20,480 --> 00:40:26,624
+Who's Ruby orientation and position
+
+499
+00:40:26,880 --> 00:40:29,440
+Location I can believe that
+
+500
+00:40:29,696 --> 00:40:35,840
+I'm not imagine for this for this image yes that's just
+
+501
+00:40:36,096 --> 00:40:37,632
+From Unity
+
+502
+00:40:39,168 --> 00:40:39,936
+Okay
+
+503
+00:40:40,192 --> 00:40:46,336
+But then why would it be the initial seed pose unless he's referring to like Hammer here object here
+
+504
+00:40:46,592 --> 00:40:52,736
+Lighthouses guesses hear lighthouses get to your Lighthouse to get to your lighthouses yesterday
+
+505
+00:40:52,992 --> 00:40:59,136
+They don't
+
+506
+00:40:59,392 --> 00:41:05,536
+I have to figure out where they are
+
+507
+00:41:05,792 --> 00:41:07,584
+I think what he's saying is
+
+508
+00:41:08,096 --> 00:41:10,656
+If you have Lighthouse tile and you take that
+
+509
+00:41:10,912 --> 00:41:14,240
+And then you slowly rotated throw-in combine the data
+
+510
+00:41:15,008 --> 00:41:17,056
+Change the gas like that
+
+511
+00:41:20,384 --> 00:41:24,736
+But rotating around what like rotating around the point man gets around itself
+
+512
+00:41:24,992 --> 00:41:28,320
+Location Point rotational irritating it
+
+513
+00:41:29,600 --> 00:41:35,744
+But would it be the the the lighthouse rotating or would-be the lighthouse rotating in 3D space around the corner
+
+514
+00:41:40,352 --> 00:41:42,400
+Well this is just a stimulated
+
+515
+00:41:42,656 --> 00:41:43,680
+Problem I think
+
+516
+00:41:45,472 --> 00:41:51,616
+Well you could ask yeah
+
+517
+00:41:51,872 --> 00:41:55,967
+Dr. Yates
+
+518
+00:41:56,223 --> 00:42:01,343
+Too late you already know your secret
+
+519
+00:42:02,623 --> 00:42:06,975
+Oh by the way if you are curious the reason I was thinking doctor Yeats was
+
+520
+00:42:07,231 --> 00:42:11,327
+I first saw that was
+
+521
+00:42:15,423 --> 00:42:19,007
+Yeah right here I was somebody who is not named
+
+522
+00:42:19,263 --> 00:42:20,799
+I mentioned
+
+523
+00:42:21,055 --> 00:42:26,175
+I see doctor Yeats has already responded to more intelligent posting to threaten us like dr.yeh
+
+524
+00:42:34,367 --> 00:42:40,511
+Dr. Gates entity color is the number of the aeration totopos Verge 21
+
+525
+00:42:40,767 --> 00:42:44,607
+Um position urad wrote a orientation
+
+526
+00:42:44,863 --> 00:42:47,935
+Wait one micrometer micro rod
+
+527
+00:42:48,447 --> 00:42:51,007
+That would appear to be the case
+
+528
+00:42:51,519 --> 00:42:57,663
+Is that using fake ideal date or is that using real like did you actually capture some data cuz
+
+529
+00:42:57,919 --> 00:43:01,503
+There is no way I'm getting any of my data to converge to Within
+
+530
+00:43:02,271 --> 00:43:06,879
+Purple is where one micrometer singular
+
+531
+00:43:08,415 --> 00:43:09,951
+Singular
+
+532
+00:43:10,463 --> 00:43:11,487
+Yeah
+
+533
+00:43:12,255 --> 00:43:13,023
+Oh no
+
+534
+00:43:13,535 --> 00:43:19,679
+Photomath
+
+535
+00:43:19,935 --> 00:43:26,079
+I heard jacobia before so you're actually somehow I don't know what the problem would look like
+
+536
+00:43:26,335 --> 00:43:29,407
+Matrix problem that can just convert
+
+537
+00:43:30,175 --> 00:43:34,271
+I would be me to send me I just looping through a raise and just hoping for the best
+
+538
+00:43:37,599 --> 00:43:43,743
+Yeah I did see a doctor Gates's hackaday presentation video in fact
+
+539
+00:43:43,999 --> 00:43:48,095
+With all of the hacker. Hack a day
+
+540
+00:43:48,351 --> 00:43:53,727
+But just sounds funny when I say all of the hack of anyway all of the hackaday
+
+541
+00:43:54,239 --> 00:44:00,383
+Presentations from the hackaday superconference like even hoses there for one of them that I should have just
+
+542
+00:44:00,639 --> 00:44:02,431
+Gone like that would have been so worth it
+
+543
+00:44:02,687 --> 00:44:05,503
+Just to mean any one of those talks now
+
+544
+00:44:06,015 --> 00:44:12,159
+I would have been there I would have known
+
+545
+00:44:12,671 --> 00:44:17,023
+The month sound I when was the Super conference obey weeks before I knew about it
+
+546
+00:44:17,279 --> 00:44:23,423
+Cuz it is a little bit sad that I did not even find out that this Lighthouse system existed it all in
+
+547
+00:44:23,679 --> 00:44:24,191
+Until like
+
+548
+00:44:24,447 --> 00:44:26,239
+The week before Thanksgiving
+
+549
+00:44:28,287 --> 00:44:30,591
+400 * 1
+
+550
+00:44:31,103 --> 00:44:36,735
+23 is a lot different than 400 times and p array
+
+551
+00:44:36,991 --> 00:44:39,039
+Oh are you making fun of the fact that
+
+552
+00:44:39,295 --> 00:44:40,831
+That my
+
+553
+00:44:43,903 --> 00:44:50,047
+Okay you guys are starting to I know you guys know what you're talkin about to each other
+
+554
+00:44:50,303 --> 00:44:52,863
+But I think there's some information
+
+555
+00:44:53,375 --> 00:44:57,215
+Not
+
+556
+00:44:57,727 --> 00:45:01,823
+Oh no
+
+557
+00:45:02,079 --> 00:45:08,223
+MPI mean unless you're making a joke at me about my Approach being
+
+558
+00:45:08,479 --> 00:45:11,295
+On polynomial but it is by definition
+
+559
+00:45:11,551 --> 00:45:17,439
+Polynomial right like oh van to the 6th which is how terrible my algorithm is it still polynomial
+
+560
+00:45:20,767 --> 00:45:22,303
+That was my own python bug
+
+561
+00:45:23,839 --> 00:45:26,655
+400 000
+
+562
+00:45:27,935 --> 00:45:34,079
+100 * 1231 copies of 123 but I don't understand what that has to do with
+
+563
+00:45:37,151 --> 00:45:37,663
+Okay
+
+564
+00:45:37,919 --> 00:45:41,503
+Got it I'm as you can tell I'm not a python guy
+
+565
+00:45:42,783 --> 00:45:45,599
+You want me to go right this out will that
+
+566
+00:45:45,855 --> 00:45:48,415
+Well that's a laptop dying
+
+567
+00:45:50,719 --> 00:45:53,023
+Closing that closing that okay
+
+568
+00:45:53,791 --> 00:45:55,071
+What did you do to it
+
+569
+00:45:55,583 --> 00:45:59,679
+It's just so slow it's just that flow
+
+570
+00:46:04,799 --> 00:46:06,591
+Come on come on okay
+
+571
+00:46:07,103 --> 00:46:08,895
+Is a lot different than
+
+572
+00:46:09,663 --> 00:46:11,199
+I must see what this looks like
+
+573
+00:46:12,735 --> 00:46:16,831
+Injecting says he's solving future Lee health problems while you're solving salt float
+
+574
+00:46:23,999 --> 00:46:26,047
+Where did he say that
+
+575
+00:46:26,303 --> 00:46:32,447
+Absolutely earlier it's going to be 10 Jackson is solving future lighthouse
+
+576
+00:46:32,703 --> 00:46:38,847
+Problems while I'm solving solve Lighthouse problem yeah I totally believe you
+
+577
+00:46:39,103 --> 00:46:45,247
+But it's someday someday I'm going to be solving Lighthouse problems that will
+
+578
+00:46:45,503 --> 00:46:47,807
+Will never be your Lighthouse problems
+
+579
+00:46:48,063 --> 00:46:53,951
+In fact they will be Lighthouse problems I will create entirely of my own accord
+
+580
+00:46:54,463 --> 00:47:00,607
+Like the third
+
+581
+00:47:00,863 --> 00:47:07,007
+Why why do they exist says that
+
+582
+00:47:07,263 --> 00:47:10,847
+Operation not a scalar multiplication
+
+583
+00:47:12,127 --> 00:47:18,271
+Oh that's cool so it's like almost like
+
+584
+00:47:18,527 --> 00:47:24,671
+Finken convolution
+
+585
+00:47:24,927 --> 00:47:31,071
+Would make 400 400 123
+
+586
+00:47:31,327 --> 00:47:37,471
+Tannerite x 400 but I regret that I don't understand what that has to do with anything we've been talking about
+
+587
+00:47:37,727 --> 00:47:43,871
+Unless that has directly to do with the picture you posted to
+
+588
+00:47:44,127 --> 00:47:50,271
+Anyting
+
+589
+00:47:50,527 --> 00:47:56,671
+Okay
+
+590
+00:47:56,927 --> 00:47:58,207
+Laptop is
+
+591
+00:47:58,463 --> 00:48:04,607
+Cuz this is like I think it was
+
+592
+00:48:04,863 --> 00:48:06,143
+The first
+
+593
+00:48:06,655 --> 00:48:12,799
+I5 of the type but it's a 2450m which is
+
+594
+00:48:13,055 --> 00:48:19,199
+Like I guess a little bit faster than a quarter to Duo but it's absolutely
+
+595
+00:48:19,455 --> 00:48:23,551
+Cuz the laptop itself is like
+
+596
+00:48:26,111 --> 00:48:26,623
+Tony
+
+597
+00:48:27,135 --> 00:48:29,951
+Nope.
+
+598
+00:48:32,511 --> 00:48:33,535
+Okay
+
+599
+00:48:40,191 --> 00:48:42,751
+I also feel a little embarrassed I can't even figure out how to like
+
+600
+00:48:43,007 --> 00:48:43,519
+Make
+
+601
+00:48:43,775 --> 00:48:45,567
+No I don't have them hot
+
+602
+00:48:48,895 --> 00:48:49,407
+What
+
+603
+00:48:54,527 --> 00:49:00,671
+ShopRite of Ono
+
+604
+00:49:07,327 --> 00:49:13,471
+Oh wow okay just turned away out
+
+605
+00:49:13,727 --> 00:49:19,871
+Okay
+
+606
+00:49:26,527 --> 00:49:32,671
+Looking like a lot of background fresh yeah I know it's coming through
+
+607
+00:49:32,927 --> 00:49:39,071
+Normal microphone a little annoying
+
+608
+00:49:52,127 --> 00:49:58,271
+Let's hope that I can
+
+609
+00:49:58,527 --> 00:50:04,671
+What's the okay is the sound back to normal now can you guys hear clearly
+
+610
+00:50:04,927 --> 00:50:11,071
+The answer is don't put the laptop over while the webcam is plugged in because
+
+611
+00:50:11,327 --> 00:50:17,471
+Laptop also has terrible
+
+612
+00:50:17,727 --> 00:50:23,871
+So
+
+613
+00:50:24,127 --> 00:50:30,271
+It's really loud. High game
+
+614
+00:50:30,527 --> 00:50:36,671
+Well no cuz that's going to sound all crunchy
+
+615
+00:50:36,927 --> 00:50:43,071
+Okay hold on
+
+616
+00:50:43,327 --> 00:50:49,471
+Can you guys good now
+
+617
+00:50:49,727 --> 00:50:55,871
+Good now it's odd that doesn't
+
+618
+00:50:56,127 --> 00:51:02,271
+I hope I won't need to reboot
+
+619
+00:51:02,527 --> 00:51:08,671
+Stream to get that to work
+
+620
+00:51:08,927 --> 00:51:15,071
+What about if I just leave the volume down is this is this microphone good for everyone or
+
+621
+00:51:15,327 --> 00:51:21,471
+Balada background humming system humming okay got it so we really have to figure that one out
+
+622
+00:51:28,127 --> 00:51:34,271
+Timolol do I will just pause and restart
+
+623
+00:51:34,527 --> 00:51:40,671
+Laptops on board Mike I am but now I'm trying to push away from it okay can you guys hear me clearly
+
+624
+00:51:40,927 --> 00:51:43,231
+Really now does that work
+
+625
+00:51:43,487 --> 00:51:48,351
+Oh you got it okay if that's the answer whenever that happens I felt so good Lord
+
+626
+00:51:48,607 --> 00:51:54,751
+Oh my gosh so many messages
+
+627
+00:51:55,007 --> 00:51:59,103
+Okay
+
+628
+00:52:00,895 --> 00:52:03,967
+Song
+
+629
+00:52:07,807 --> 00:52:13,951
+Backcountry
+
+630
+00:52:24,703 --> 00:52:29,567
+All in an effort to just click on copy and paste this one thing
+
+631
+00:52:36,223 --> 00:52:42,367
+Oh you're saying that's a lot different then that no
+
+632
+00:52:42,623 --> 00:52:48,767
+Steve values Racine position or something that was for the
+
+633
+00:52:49,023 --> 00:52:55,167
+Dr Yeates Twitter video Twitter picture
+
+634
+00:52:55,423 --> 00:53:01,567
+No I don't think so region of Yeti solver convert
+
+635
+00:53:01,823 --> 00:53:07,967
+Initial seed pose through full-time
+
+636
+00:53:11,551 --> 00:53:17,695
+Yeah sorry this definitely works better with simple screen recorder OBS definitely when I
+
+637
+00:53:17,951 --> 00:53:24,095
+Never I have Adam's laptop and Olivia anyway I don't actually have a released
+
+638
+00:53:24,351 --> 00:53:29,983
+I would plan for today other than I was going to collect some data
+
+639
+00:53:32,031 --> 00:53:38,175
+I think he's had enough of the doctor Yeats is no academic credentials Beyond ice cream
+
+640
+00:53:43,039 --> 00:53:45,087
+Summit research
+
+641
+00:53:45,855 --> 00:53:49,183
+I'm clearly not a real witch doctor
+
+642
+00:53:49,439 --> 00:53:55,583
+Dr Yeats what is your title if valve or your position
+
+643
+00:53:55,839 --> 00:54:01,983
+Never really asked
+
+644
+00:54:10,431 --> 00:54:16,575
+We don't have pedals are positions that tell
+
+645
+00:54:16,831 --> 00:54:20,415
+Very
+
+646
+00:54:21,183 --> 00:54:27,327
+Abnormal culture as far as companies go there if you're hired
+
+647
+00:54:27,583 --> 00:54:29,375
+You're basically on the same one
+
+648
+00:54:29,631 --> 00:54:30,911
+That's a little crazy
+
+649
+00:54:31,167 --> 00:54:32,703
+It is very unusual
+
+650
+00:54:32,959 --> 00:54:33,983
+That is crazy
+
+651
+00:54:34,239 --> 00:54:36,799
+Basically there are no bosses or
+
+652
+00:54:38,079 --> 00:54:39,871
+I guess the only person who would have
+
+653
+00:54:40,383 --> 00:54:43,711
+A little more weight pull would probably be given
+
+654
+00:54:44,991 --> 00:54:49,855
+Okay but yes there's no official losses
+
+655
+00:54:50,111 --> 00:54:51,903
+I'm still pretty sure
+
+656
+00:54:53,183 --> 00:54:53,695
+Keith
+
+657
+00:54:54,719 --> 00:55:00,863
+Just released Kawasaki cardiologist neurologist like phrenology like brain phrenology
+
+658
+00:55:05,471 --> 00:55:07,263
+Okay let's see
+
+659
+00:55:07,519 --> 00:55:09,823
+Lucky Lighthouse virologist
+
+660
+00:55:12,127 --> 00:55:13,407
+Is that
+
+661
+00:55:19,295 --> 00:55:25,439
+But actually what that mean
+
+662
+00:55:34,399 --> 00:55:39,007
+Neurologist video cut out for me
+
+663
+00:55:40,031 --> 00:55:41,055
+I know why
+
+664
+00:55:41,823 --> 00:55:47,967
+Okay just came back hold on let me Jack in myself moving now
+
+665
+00:55:52,319 --> 00:55:57,439
+Okay and hopefully it will connect in
+
+666
+00:55:57,951 --> 00:55:59,231
+Streaming on Wifi bad
+
+667
+00:55:59,487 --> 00:56:03,583
+Yes okay now we're actually streaming on regular so good to go
+
+668
+00:56:06,143 --> 00:56:07,423
+I think we have
+
+669
+00:56:09,471 --> 00:56:11,775
+Stalled enough here
+
+670
+00:56:12,031 --> 00:56:15,103
+Coco somebody
+
+671
+00:56:16,127 --> 00:56:17,663
+And let's make sure that
+
+672
+00:56:17,919 --> 00:56:21,247
+Some of this data will actually work
+
+673
+00:56:23,295 --> 00:56:27,135
+Actually I need to make a new issue
+
+674
+00:56:31,999 --> 00:56:34,815
+Daytona recorder
+
+675
+00:56:36,607 --> 00:56:40,703
+I know it make clean all cuz I know I've done a lot of stuff that could break that
+
+676
+00:56:40,959 --> 00:56:42,751
+Guitar tuning
+
+677
+00:56:45,311 --> 00:56:46,591
+Right now
+
+678
+00:56:46,847 --> 00:56:52,991
+Work the first time tracking tracking but collecting date
+
+679
+00:56:53,247 --> 00:56:54,015
+Data from the
+
+680
+00:56:55,551 --> 00:56:57,343
+This thing
+
+681
+00:56:58,367 --> 00:57:03,231
+Timer
+
+682
+00:57:06,303 --> 00:57:08,351
+But I didn't move
+
+683
+00:57:10,655 --> 00:57:12,447
+Sudo get install coffee
+
+684
+00:57:13,727 --> 00:57:14,239
+Yes
+
+685
+00:57:14,495 --> 00:57:20,639
+I could go for some right now it is 11
+
+686
+00:57:20,895 --> 00:57:27,039
+Oh I'm sorry Mindy
+
+687
+00:57:27,295 --> 00:57:29,855
+I got a song but like
+
+688
+00:57:30,111 --> 00:57:32,159
+I thought for 5 hours after work
+
+689
+00:57:35,231 --> 00:57:36,255
+That's weird
+
+690
+00:57:36,511 --> 00:57:37,791
+What's weird
+
+691
+00:57:38,047 --> 00:57:43,679
+There's like one pose I can get it in where we just say it's freaking out sometimes
+
+692
+00:57:43,935 --> 00:57:50,079
+Oh I am too close. Yeah I think I am
+
+693
+00:57:50,335 --> 00:57:56,479
+I actually to close is that
+
+694
+00:57:56,735 --> 00:58:02,879
+Use the venerable Ben
+
+695
+00:58:03,135 --> 00:58:09,279
+What is your title
+
+696
+00:58:09,535 --> 00:58:15,679
+We have dr yates and the problem is that prevents
+
+697
+00:58:15,935 --> 00:58:22,079
+Terrible prevents me from getting too close to Lighthouse
+
+698
+00:58:22,335 --> 00:58:25,663
+Cuz the regular actual data pulses that sweet
+
+699
+00:58:25,919 --> 00:58:32,063
+Are so long when you get that close to the lighthouse because as the date of sweeping over
+
+700
+00:58:32,319 --> 00:58:38,463
+I just take so long to go poop that I'm entering the pulses is those
+
+701
+00:58:38,719 --> 00:58:41,279
+They were actually coming from a lighthouse itself
+
+702
+00:58:41,535 --> 00:58:43,583
+So that's why if I get this
+
+703
+00:58:46,655 --> 00:58:51,263
+Papa. Bear
+
+704
+00:58:51,519 --> 00:58:53,567
+So we have the lighthouse up there
+
+705
+00:58:54,847 --> 00:58:57,663
+And then I'm going to go sweet this down to me
+
+706
+00:58:57,919 --> 00:58:59,455
+Sony here
+
+707
+00:58:59,711 --> 00:59:04,063
+Lighthouse up there be here lighthouses there
+
+708
+00:59:04,319 --> 00:59:10,463
+Okay
+
+709
+00:59:10,719 --> 00:59:16,863
+So you'll see that these numbers right here
+
+710
+00:59:17,119 --> 00:59:23,263
+The column right here so if it's far away that they're relatively small
+
+711
+00:59:29,919 --> 00:59:36,063
+Scrap for
+
+712
+00:59:36,319 --> 00:59:42,463
+Can you turn around and face this one and make sure the other one can't see it
+
+713
+00:59:42,719 --> 00:59:48,863
+Towing
+
+714
+00:59:49,119 --> 00:59:55,263
+Gay an alpha around the other way
+
+715
+00:59:55,519 --> 01:00:01,663
+Why is that not a quarter
+
+716
+01:00:01,919 --> 01:00:08,063
+Is what we're doing right now
+
+717
+01:00:08,319 --> 01:00:14,463
+How in the world am I ever going to do this in like 5 hours a week. Where you want me to
+
+718
+01:00:14,719 --> 01:00:20,863
+Oh that's a good point indeed have to do this from scratch
+
+719
+01:00:21,119 --> 01:00:26,495
+Something's freaking it out right now I don't know what that is
+
+720
+01:00:26,751 --> 01:00:32,895
+Ben is the best guy and after Gates of heartbreak I
+
+721
+01:00:33,151 --> 01:00:35,455
+What doesn't make any sense the hell I've received it
+
+722
+01:00:35,711 --> 01:00:40,575
+Figure it out I'm sorry right now Chief virologist Gates
+
+723
+01:00:43,903 --> 01:00:48,767
+Right but why is it freaking out and of course then says he's a terrible math guy
+
+724
+01:00:49,535 --> 01:00:55,679
+So I know math people but they've never been able to can like convey to me
+
+725
+01:00:55,935 --> 01:01:02,079
+In a way that I can have some time but it's very rare that they can convey Matthew things in a way that I can understand
+
+726
+01:01:03,103 --> 01:01:09,247
+So very often I just end up doing terrible things to get by I'm curious if that's similar
+
+727
+01:01:10,271 --> 01:01:16,415
+Bodenheimer asks how important are the flashes are we using them
+
+728
+01:01:16,671 --> 01:01:22,815
+Location in this instance
+
+729
+01:01:23,071 --> 01:01:29,215
+In order for us to figure out where to plot the points on the screen which not doing too hot with right
+
+730
+01:01:29,471 --> 01:01:32,031
+Right now
+
+731
+01:01:32,287 --> 01:01:38,431
+Don't know why in order to do that on the screen here for the
+
+732
+01:01:40,991 --> 01:01:44,575
+Not working but
+
+733
+01:01:44,831 --> 01:01:50,207
+I'll make it work but most the time
+
+734
+01:01:50,463 --> 01:01:56,607
+What I do is I time the difference between the flash of light and what time they get swept so as I move
+
+735
+01:01:56,863 --> 01:01:57,887
+This way in this way
+
+736
+01:01:58,143 --> 01:02:04,287
+You can see it moving up and down a fair bit also it is I have never
+
+737
+01:02:04,543 --> 01:02:10,175
+Never seen it this glitchy me see if I'm just doing something terrible
+
+738
+01:02:10,687 --> 01:02:16,831
+Jittery hard to say buy a book computational forum
+
+739
+01:02:17,087 --> 01:02:19,135
+Optic
+
+740
+01:02:21,695 --> 01:02:27,839
+Am I doing
+
+741
+01:02:28,095 --> 01:02:30,911
+My wife
+
+742
+01:02:38,335 --> 01:02:44,479
+How to take care of I'm not doing something dumb lately divorce Eightfold attend at you later
+
+743
+01:02:44,735 --> 01:02:50,879
+No I need her first of all that is what the other guy I can remember his name right now while he's working
+
+744
+01:02:51,135 --> 01:02:57,279
+And it looks promising to me but I have a difficult time really understanding is Kobe
+
+745
+01:02:57,535 --> 01:03:03,679
+One comment in the entire thing one
+
+746
+01:03:05,215 --> 01:03:11,359
+Jay pichete I know his real name
+
+747
+01:03:11,615 --> 01:03:15,711
+File
+
+748
+01:03:15,967 --> 01:03:22,111
+Disintegrator Dusty Julian picked picked
+
+749
+01:03:22,367 --> 01:03:23,903
+I can't pronounce his real name cuz I don't know it
+
+750
+01:03:25,183 --> 01:03:25,951
+Yeah
+
+751
+01:03:26,207 --> 01:03:30,303
+Haven't give up at 4 a.m. Optik problem solution to our current problem
+
+752
+01:03:30,559 --> 01:03:35,935
+Okay yes possible
+
+753
+01:03:36,191 --> 01:03:39,519
+Phrenologist phonology
+
+754
+01:03:39,775 --> 01:03:41,055
+What was the word again
+
+755
+01:03:41,311 --> 01:03:43,871
+Virologist virologist
+
+756
+01:03:51,295 --> 01:03:57,439
+But I guess something's going on and no I'm not stepping on my own memory something's just busted
+
+757
+01:03:57,695 --> 01:04:01,023
+Boston
+
+758
+01:04:08,959 --> 01:04:11,263
+Wicked
+
+759
+01:04:25,087 --> 01:04:27,135
+Come on
+
+760
+01:04:28,159 --> 01:04:30,207
+Factory Card outlet even still freaking out
+
+761
+01:04:32,767 --> 01:04:36,351
+That was pretty freaking out
+
+762
+01:04:37,887 --> 01:04:44,031
+I'm sure
+
+763
+01:04:44,287 --> 01:04:46,079
+What is going on here
+
+764
+01:04:57,599 --> 01:04:59,903
+Mustafa's more busted than I realized
+
+765
+01:05:00,159 --> 01:05:04,255
+Right now we're not actually using
+
+766
+01:05:04,767 --> 01:05:08,351
+Julian new
+
+767
+01:05:08,607 --> 01:05:13,471
+Disambiguation her I'd love to use but if I can find the comment
+
+768
+01:05:14,239 --> 01:05:18,079
+Here, just maxed allowed gift for a match
+
+769
+01:05:18,335 --> 01:05:24,479
+Okay I guess I can understand what that means
+
+770
+01:05:24,735 --> 01:05:27,295
+Simply complicated
+
+771
+01:05:27,551 --> 01:05:33,695
+Be here so why is this doing that
+
+772
+01:05:33,951 --> 01:05:34,463
+Beta
+
+773
+01:05:37,279 --> 01:05:43,423
+Go on the things I've been doing a pair of it is printing out date at the distant the UA doorstep to try to understand least what in the world is going
+
+774
+01:05:44,447 --> 01:05:45,471
+Sort of what's going on
+
+775
+01:05:45,727 --> 01:05:49,055
+Hold this up until it disappears
+
+776
+01:05:49,823 --> 01:05:53,407
+Close it out see why in the world that disappear
+
+777
+01:06:00,063 --> 01:06:03,647
+Okay to talk about right now
+
+778
+01:06:05,439 --> 01:06:08,255
+I see here it's really simplified as though
+
+779
+01:06:09,279 --> 01:06:11,583
+We should probably switch mode a
+
+780
+01:06:18,239 --> 01:06:20,799
+Something something cooler Edge Phillips
+
+781
+01:06:23,103 --> 01:06:29,247
+Yeah you're right they are JK Oxys I really should Define it that way I like that you guys
+
+782
+01:06:29,503 --> 01:06:34,623
+Did they saying K instead of X and Y that way it really helped like prevent them of the confusion
+
+783
+01:06:36,415 --> 01:06:38,719
+Do you like where you're going with the polar coordinate system
+
+784
+01:06:38,975 --> 01:06:42,815
+What
+
+785
+01:06:43,071 --> 01:06:46,911
+Show the Cartesian that I've been doing I don't know if they like that
+
+786
+01:06:47,423 --> 01:06:48,447
+Still
+
+787
+01:06:48,959 --> 01:06:55,103
+So I don't know
+
+788
+01:06:55,359 --> 01:06:58,431
+Cartesian in the act like I'm not dealing
+
+789
+01:06:58,687 --> 01:07:04,831
+Because in order for me to know where I am the 3D space I have to be able to give a matrix to the videogame to say yo but the
+
+790
+01:07:05,087 --> 01:07:05,599
+Camera here
+
+791
+01:07:06,111 --> 01:07:12,255
+As soon as I get the video game looked at Matrix
+
+792
+01:07:12,511 --> 01:07:18,399
+After a lot of other math but I'm going to find out real soon that Cindy really painful but I'm just going to power through it and hope for the best
+
+793
+01:07:18,655 --> 01:07:21,727
+I can get there I'm pretty sure I can just like
+
+794
+01:07:23,263 --> 01:07:26,335
+Witches did hopes everything will be fine like
+
+795
+01:07:26,591 --> 01:07:29,407
+Terrible but fine
+
+796
+01:07:29,663 --> 01:07:35,807
+But now I do need to know where the camera is in 3D space in order to do that and I need to know where my little ESP
+
+797
+01:07:40,415 --> 01:07:45,279
+I will not be done just in time for 1 KB challenge even if I was
+
+798
+01:07:45,535 --> 01:07:51,679
+And I already mentioned before I don't think I'm going to be competing in the one KB challenge cuz somebody already wrote in operating system
+
+799
+01:07:51,935 --> 01:07:55,007
+It is it
+
+800
+01:07:55,263 --> 01:08:01,407
+Had the text editor a compiler it's got a file system it's got everything in one sale by
+
+801
+01:08:01,663 --> 01:08:03,455
+Yeah that was so crazy
+
+802
+01:08:04,735 --> 01:08:07,039
+Any racist to hear
+
+803
+01:08:14,207 --> 01:08:20,351
+Okay there we go so why is it
+
+804
+01:08:20,607 --> 01:08:23,167
+Freaking out sometimes
+
+805
+01:08:23,935 --> 01:08:26,239
+What is causing it to wig
+
+806
+01:08:34,175 --> 01:08:38,015
+Just make some changes my algorithm maybe I need to revert that
+
+807
+01:08:41,087 --> 01:08:44,927
+Oh no I have not done get reverting in so long
+
+808
+01:08:45,695 --> 01:08:49,023
+I'm doing it live terrible
+
+809
+01:08:52,095 --> 01:08:55,423
+Suburban
+
+810
+01:08:55,935 --> 01:08:58,239
+No no wait
+
+811
+01:08:58,495 --> 01:09:02,591
+I know you would never use Stevia nowadays
+
+812
+01:09:19,743 --> 01:09:21,279
+How do I view history
+
+813
+01:09:22,303 --> 01:09:24,351
+History history are you history
+
+814
+01:09:26,143 --> 01:09:26,911
+History
+
+815
+01:09:27,167 --> 01:09:32,031
+Call Haley that button right there says that puller should make triangulation easier
+
+816
+01:09:32,543 --> 01:09:33,055
+But
+
+817
+01:09:33,311 --> 01:09:39,455
+They want nothing to do with that mask
+
+818
+01:09:39,711 --> 01:09:45,855
+Going to use them initially to determine the location for Lighthouse and then once and not even that I'm going to
+
+819
+01:09:46,111 --> 01:09:46,879
+Actually use the color
+
+820
+01:09:47,135 --> 01:09:53,279
+Poke color coordinate polar coordinates to determine the optimal pose with respect
+
+821
+01:09:53,535 --> 01:09:55,839
+To the
+
+822
+01:09:57,375 --> 01:09:59,679
+Stimulated
+
+823
+01:10:00,447 --> 01:10:06,591
+Triangle thing going on make sure we get the position correct of the the cameras
+
+824
+01:10:06,847 --> 01:10:07,871
+Everything else in Cartesian
+
+825
+01:10:12,735 --> 01:10:16,063
+You might have missed it this is free number 5 practice
+
+826
+01:10:25,023 --> 01:10:27,583
+Git checkout the branch how do you do it
+
+827
+01:10:29,631 --> 01:10:35,519
+Just check out
+
+828
+01:10:35,775 --> 01:10:41,919
+I did not copy and paste that I intended to
+
+829
+01:10:48,575 --> 01:10:54,719
+Says just stick to Cartesian
+
+830
+01:10:54,975 --> 01:11:01,119
+Finding the centroid of that funny shape becomes much easier if that particular thing is in
+
+831
+01:11:01,375 --> 01:11:07,519
+Polar coordinate
+
+832
+01:11:07,775 --> 01:11:10,335
+Where the lighthouses are
+
+833
+01:11:10,591 --> 01:11:16,735
+Long-wear watermelon way from meeting care about polar coordinates
+
+834
+01:11:18,015 --> 01:11:22,111
+I think that I think so
+
+835
+01:11:22,367 --> 01:11:28,511
+I mean I don't think we have to care about polar but I just think that polar will produce a better centroid like the gaussian
+
+836
+01:11:28,767 --> 01:11:33,375
+Revolution will not be this funky shell which is not God and it would become a gaussian distribution
+
+837
+01:11:33,631 --> 01:11:36,191
+Which you can relatively easily find the
+
+838
+01:11:36,447 --> 01:11:37,215
+The centroid of
+
+839
+01:11:47,199 --> 01:11:51,039
+Okay how do you do this now is that right that work
+
+840
+01:12:00,511 --> 01:12:01,535
+Little freaking out
+
+841
+01:12:03,583 --> 01:12:08,447
+No it is not till freaking out so clearly something broken the last couple
+
+842
+01:12:08,959 --> 01:12:11,519
+RAB and we're going to probably have to figure that out
+
+843
+01:12:12,287 --> 01:12:14,591
+Totally
+
+844
+01:12:17,151 --> 01:12:22,783
+Much better right now
+
+845
+01:12:23,039 --> 01:12:25,343
+See how close I get this
+
+846
+01:12:26,111 --> 01:12:27,391
+I thought it
+
+847
+01:12:27,647 --> 01:12:33,791
+So what were actually looking at is the the position from the lighthouses point of view
+
+848
+01:12:34,047 --> 01:12:38,911
+Of all of the dots on the front of the face of the bhmd
+
+849
+01:12:39,167 --> 01:12:42,751
+The one on the left is the lighthouse that's on the side
+
+850
+01:12:43,007 --> 01:12:49,151
+And then the one on the right just one right here is the lighthouse that's up to the upper left-hand
+
+851
+01:12:49,407 --> 01:12:51,967
+Corner of the unity sign
+
+852
+01:12:53,503 --> 01:12:56,063
+Okay there I see it better now it was just
+
+853
+01:12:57,599 --> 01:13:03,743
+You were talking about it but I was watching The Stream So.
+
+854
+01:13:04,511 --> 01:13:08,863
+I wish that I had the lighthouse in view
+
+855
+01:13:09,631 --> 01:13:11,423
+Okay so
+
+856
+01:13:11,935 --> 01:13:13,727
+Cancel that
+
+857
+01:13:14,495 --> 01:13:16,543
+Figure out where this all went wrong
+
+858
+01:13:16,799 --> 01:13:18,591
+Some something went wrong somewhere
+
+859
+01:13:21,919 --> 01:13:27,295
+Oh you know what this is going to be hard because his pretty much supersedes mine
+
+860
+01:13:31,647 --> 01:13:33,695
+Understand Version Control
+
+861
+01:13:34,207 --> 01:13:35,743
+Cephas works
+
+862
+01:13:38,815 --> 01:13:40,607
+Somebody says you should make a Discord
+
+863
+01:13:41,631 --> 01:13:42,399
+What's the Discord
+
+864
+01:13:42,911 --> 01:13:44,959
+Discord is a new voice and chat
+
+865
+01:13:45,215 --> 01:13:48,031
+Program basically it's like having this
+
+866
+01:13:48,287 --> 01:13:51,359
+But live all the time and it's long so your messages
+
+867
+01:13:51,871 --> 01:13:55,199
+I received for people that don't know what I guess basically
+
+868
+01:13:55,455 --> 01:14:01,087
+But it has built-in voice chat too so you can do voice chat rooms as well as like multiple different chat rooms
+
+869
+01:14:01,599 --> 01:14:07,743
+Are you can assign people different roles like moderators Frosted Flake engineer's or whatever
+
+870
+01:14:07,999 --> 01:14:10,815
+But it's not in the YouTube chat so
+
+871
+01:14:11,071 --> 01:14:16,447
+It would give people a place for if they find something there to post it and believe it
+
+872
+01:14:16,703 --> 01:14:22,591
+Similar to the issues except it's more fluid okay
+
+873
+01:14:23,103 --> 01:14:25,407
+Discord is the value
+
+874
+01:14:26,431 --> 01:14:31,551
+If you want to set it up for next time I'm up for it right now though I would like to know the same
+
+875
+01:14:32,063 --> 01:14:34,367
+So let's see if this fix that
+
+876
+01:14:35,903 --> 01:14:38,975
+Right now I'm just bug fixing stops if you don't like bug fixing
+
+877
+01:14:39,487 --> 01:14:41,791
+Not going to be your your day
+
+878
+01:14:43,327 --> 01:14:45,119
+What is going on why can't it
+
+879
+01:14:54,847 --> 01:14:59,199
+Oh that's right this was after I started getting the data from the
+
+880
+01:14:59,967 --> 01:15:01,759
+Okay time power on the Watchmen
+
+881
+01:15:02,271 --> 01:15:08,415
+I unfortunately changed things a little bit so it requires the Watchman to be online
+
+882
+01:15:08,671 --> 01:15:09,951
+So can pull the config from them
+
+883
+01:15:13,023 --> 01:15:14,815
+These guys are now
+
+884
+01:15:16,095 --> 01:15:19,423
+Got fire them up
+
+885
+01:15:20,959 --> 01:15:24,543
+I'll look into making a Discord server for you and I'll send you the info
+
+886
+01:15:25,567 --> 01:15:26,335
+Okay
+
+887
+01:15:28,895 --> 01:15:29,663
+Noel
+
+888
+01:15:30,687 --> 01:15:31,455
+Logo
+
+889
+01:15:32,479 --> 01:15:33,503
+I'll go
+
+890
+01:15:54,751 --> 01:15:55,263
+Okay
+
+891
+01:16:00,639 --> 01:16:03,967
+So I have a random question
+
+892
+01:16:05,503 --> 01:16:08,319
+Neurologist Yates and
+
+893
+01:16:10,367 --> 01:16:12,159
+Then we have to have a better name for you
+
+894
+01:16:13,439 --> 01:16:19,583
+In your estimation how long is this going to take us to get to where we want to be are we talkin like
+
+895
+01:16:19,839 --> 01:16:22,911
+30 live streams or like
+
+896
+01:16:24,447 --> 01:16:26,239
+What can we just call him Uncle Ben
+
+897
+01:16:26,495 --> 01:16:28,287
+Uncle Ben
+
+898
+01:16:44,671 --> 01:16:45,695
+Turn off
+
+899
+01:16:47,231 --> 01:16:47,743
+Yeah
+
+900
+01:16:47,999 --> 01:16:52,095
+I just turned back on the Watchmen turn off on their own to some reason
+
+901
+01:16:53,631 --> 01:16:58,495
+Yeah well I mean I get to make sense if I stopped using it really good
+
+902
+01:17:03,359 --> 01:17:05,151
+You can look up how long it took you
+
+903
+01:17:10,783 --> 01:17:15,903
+Oh that's not good that's going to be getting data from these
+
+904
+01:17:17,951 --> 01:17:18,975
+Free
+
+905
+01:17:21,023 --> 01:17:24,607
+It depends how much gets done live versus between sessions
+
+906
+01:17:29,471 --> 01:17:31,775
+I am shooting for a
+
+907
+01:17:32,287 --> 01:17:38,431
+Maybe about 33% lives 66% behind-the-scenes like
+
+908
+01:17:38,687 --> 01:17:41,247
+I spent like 4 hours last night just
+
+909
+01:17:41,759 --> 01:17:47,903
+Banging my head against the wall trying to figure out why why the timing on my bank order stuff was all wrong
+
+910
+01:17:48,159 --> 01:17:49,439
+Embarrassing
+
+911
+01:17:49,951 --> 01:17:52,767
+I'm really dumb reasons
+
+912
+01:17:54,815 --> 01:17:57,375
+Oh how do you like the term been coating to in
+
+913
+01:17:57,887 --> 01:17:58,655
+That was the
+
+914
+01:18:07,615 --> 01:18:08,127
+What
+
+915
+01:18:10,687 --> 01:18:16,831
+Did you say you know I know the bank holding that's going on with the
+
+916
+01:18:17,087 --> 01:18:17,855
+The Watchmen
+
+917
+01:18:20,159 --> 01:18:22,975
+Would you say that the lighthouse intersection is Ben coming
+
+918
+01:18:25,791 --> 01:18:26,815
+No it would be
+
+919
+01:18:27,327 --> 01:18:30,911
+He does not name everything after himself
+
+920
+01:18:31,423 --> 01:18:37,567
+Don't know then Cody remember
+
+921
+01:18:37,823 --> 01:18:41,919
+When you do something and you give it to the world or the internet or somebody
+
+922
+01:18:42,175 --> 01:18:48,319
+It becomes theirs and they get to determine how is pronounce so like gift or gift
+
+923
+01:18:48,831 --> 01:18:51,903
+Even though the Creator maintain their called GIFs
+
+924
+01:18:52,159 --> 01:18:56,255
+Because the internet now owns gifts we've named them gifts
+
+925
+01:18:56,511 --> 01:18:57,791
+And they will be gapped
+
+926
+01:19:00,351 --> 01:19:06,495
+And we pronounce the name of animals giraffes
+
+927
+01:19:07,519 --> 01:19:13,663
+I don't really want to get to like all of my plan to the Lattimer just really lost a little embarrassing but I really really really want to get to eat
+
+928
+01:19:13,919 --> 01:19:20,063
+82-66 tracking in the scope of a system with the entire system being honest
+
+929
+01:19:20,319 --> 01:19:21,599
+Of its own
+
+930
+01:19:22,879 --> 01:19:25,951
+So we don't actually have to
+
+931
+01:19:26,975 --> 01:19:32,351
+I'd like rely on any of the libraries and we don't have to rely on anything open-source libraries
+
+932
+01:19:32,607 --> 01:19:36,191
+We got now face Italy found out a lot more incomplete than I ever realized
+
+933
+01:19:36,447 --> 01:19:39,775
+And more data
+
+934
+01:19:40,031 --> 01:19:42,335
+Then I have patient for
+
+935
+01:19:43,103 --> 01:19:46,687
+Esp8266 is 160 +
+
+936
+01:19:46,943 --> 01:19:52,575
+Esp32 is 240 MHz esp32 is dual-core we'll just see what happens
+
+937
+01:20:00,767 --> 01:20:02,047
+Go back to the newest
+
+938
+01:20:16,384 --> 01:20:21,760
+Acer says the SPs expensive compared to the 8266
+
+939
+01:20:23,040 --> 01:20:24,320
+Esp32
+
+940
+01:20:44,288 --> 01:20:45,824
+The $3 piece
+
+941
+01:20:47,104 --> 01:20:48,384
+Cheap as dirt
+
+942
+01:20:49,152 --> 01:20:55,296
+How much is a Navy 266xp 8285 for a dollar
+
+943
+01:20:55,552 --> 01:20:56,576
+I think
+
+944
+01:20:57,344 --> 01:21:02,720
+86 Oz are $2 with the 86 on the board everything else for two bucks so
+
+945
+01:21:03,744 --> 01:21:05,792
+Box yeah
+
+946
+01:21:06,304 --> 01:21:09,632
+Agassi would require an extra chip and all but you know you're talkin a buck
+
+947
+01:21:17,312 --> 01:21:21,664
+Getting something shipped from America to Denmark will cost me a month's rent
+
+948
+01:21:21,920 --> 01:21:26,016
+No I will ship it to you for $2 and
+
+949
+01:21:27,040 --> 01:21:33,184
+What is it $2 note $3.15 from us like anywhere in the world
+
+950
+01:21:33,696 --> 01:21:36,512
+Do you mean you wanted on a dead Ford yeah good luck with that
+
+951
+01:21:44,704 --> 01:21:49,568
+Still freaking out sometime
+
+952
+01:21:50,336 --> 01:21:54,432
+That's how I do it if I want to go to eBay and I I buy them
+
+953
+01:21:55,968 --> 01:21:58,272
+I buy them from
+
+954
+01:21:58,784 --> 01:22:00,576
+From from the sky here
+
+955
+01:22:03,392 --> 01:22:05,440
+Guy says taobao is amazing
+
+956
+01:22:08,512 --> 01:22:09,792
+If you can read Chinese
+
+957
+01:22:12,096 --> 01:22:18,240
+Specifically I'm not actually allowed to say where I get the distributor for most of the
+
+958
+01:22:18,496 --> 01:22:21,568
+Scott rotch if he's that I'm aware of so
+
+959
+01:22:21,824 --> 01:22:23,104
+I do have
+
+960
+01:22:23,360 --> 01:22:29,504
+I'm actually the guy who fell from everybody and I unfortunately I'm not really able to say who might have to get
+
+961
+01:22:29,760 --> 01:22:32,320
+Need the chip to go to 32 everybody else so
+
+962
+01:22:37,952 --> 01:22:41,536
+I just checked out master that means on the new one right
+
+963
+01:22:41,792 --> 01:22:43,328
+Sure Thang
+
+964
+01:22:46,144 --> 01:22:49,216
+Twerking
+
+965
+01:22:51,008 --> 01:22:52,544
+Sure what's going on here
+
+966
+01:23:04,576 --> 01:23:08,416
+Better watch out somebody's 12-yard microchip Mafia
+
+967
+01:23:12,000 --> 01:23:13,024
+There's nothing
+
+968
+01:23:13,280 --> 01:23:15,072
+Illegal about what I'm doing that I'm aware
+
+969
+01:23:16,864 --> 01:23:17,632
+I think
+
+970
+01:23:21,216 --> 01:23:23,264
+No, I don't want to copy that I want to
+
+971
+01:23:25,568 --> 01:23:29,152
+I'm not going to look at that bird
+
+972
+01:23:29,920 --> 01:23:33,248
+I think I can just India just go buy it off eBay
+
+973
+01:23:33,504 --> 01:23:34,528
+Try to find a way
+
+974
+01:23:43,488 --> 01:23:47,584
+By the way that's not just a selling point of the esp8266 that is
+
+975
+01:23:47,840 --> 01:23:53,984
+The magic of the esp8266 is that it is somehow they will FCC license the module
+
+976
+01:23:54,240 --> 01:23:55,264
+Without having a
+
+977
+01:23:56,288 --> 01:23:58,592
+Without already having to have the
+
+978
+01:23:58,848 --> 01:24:03,712
+Power supply and everything built into the module which I don't understand how they did
+
+979
+01:24:03,968 --> 01:24:06,016
+Cuz I thought the rules were pretty clear on that
+
+980
+01:24:06,272 --> 01:24:10,368
+Probably did it and so I'm good with that I'm more than happy to
+
+981
+01:24:11,136 --> 01:24:15,232
+Use the wonderfulness that some person got ft certified
+
+982
+01:24:53,632 --> 01:24:56,448
+If you plan on stop
+
+983
+01:24:56,704 --> 01:25:02,848
+Stop using the 66 S430 to dance around in time I might reduce my
+
+984
+01:25:03,104 --> 01:25:09,248
+But they really a different purposes so on this particular project with light survive
+
+985
+01:25:09,760 --> 01:25:15,904
+Ddst instead of E85 which are the esp8266 with the black built-in
+
+986
+01:25:16,416 --> 01:25:22,560
+Would be really good for just having one esp-4 Center cuz it can sample at 80 MHz
+
+987
+01:25:22,816 --> 01:25:24,608
+Ethiopian
+
+988
+01:25:24,864 --> 01:25:28,192
+Have tons of frosting is 150 MHz / LED
+
+989
+01:25:28,448 --> 01:25:33,312
+And then you can back up the change because they're only a buck up heat
+
+990
+01:25:33,568 --> 01:25:34,080
+Like
+
+991
+01:25:34,336 --> 01:25:40,480
+You can just use them everywhere but the sp32 is four different projects for much bigger project 1
+
+992
+01:25:40,736 --> 01:25:43,552
+Okay I need to go talk to like a camera
+
+993
+01:25:43,808 --> 01:25:46,112
+Or I need to be able to like I don't know
+
+994
+01:25:46,624 --> 01:25:48,672
+Do serious lifting like things like
+
+995
+01:25:50,464 --> 01:25:56,608
+Big project but the esp8266 still spectacular for any kind of small price
+
+996
+01:26:01,984 --> 01:26:07,360
+Yeah you know what I am going to I'm starting to acknowledge that there's just no way to get serious work
+
+997
+01:26:08,384 --> 01:26:10,944
+I just made a really loud okay
+
+998
+01:26:12,736 --> 01:26:18,880
+That that yeah any kind of theories work really has got to get done offline at least for a while I think we really lucked out on the fur
+
+999
+01:26:19,136 --> 01:26:20,928
+First few live live streams
+
+1000
+01:26:21,184 --> 01:26:22,208
+Where
+
+1001
+01:26:22,464 --> 01:26:26,048
+Where I was somehow able to work and focus at the same time but
+
+1002
+01:26:26,816 --> 01:26:29,888
+Yeah that was clearly a short-lived phenomenon
+
+1003
+01:26:30,144 --> 01:26:36,288
+You've never been much of a speak and code type person either have you know I've never been a freaking code person
+
+1004
+01:26:36,544 --> 01:26:39,360
+I'm trying to get but
+
+1005
+01:26:46,016 --> 01:26:52,160
+And right now all I'm trying to do is just figure out what in the world is going on so the chief pathologist says the penny
+
+1006
+01:26:52,416 --> 01:26:58,304
+Dean and Elena first to get anywhere
+
+1007
+01:27:01,376 --> 01:27:02,912
+Right now trying to figure out if
+
+1008
+01:27:03,680 --> 01:27:04,960
+This disintegrator
+
+1009
+01:27:07,008 --> 01:27:08,800
+Trying to figure out where things went wrong
+
+1010
+01:27:11,104 --> 01:27:12,128
+Ftfe
+
+1011
+01:27:13,408 --> 01:27:19,296
+Pacer says that they have to pay $24 fee for import duties for anything more than $11
+
+1012
+01:27:19,808 --> 01:27:23,904
+Pacer that's just fine because he has keys are cheap as dirt
+
+1013
+01:27:24,416 --> 01:27:24,928
+So
+
+1014
+01:27:42,592 --> 01:27:47,200
+Might try the new disambiguation her and the old one and the
+
+1015
+01:27:47,456 --> 01:27:53,600
+Maybe was somewhere else in the tree that change that I'm unaware of
+
+1016
+01:27:55,904 --> 01:28:00,256
+What is a gift bisect I do not know what it is thank you want to do that right now
+
+1017
+01:28:01,280 --> 01:28:07,424
+That's better, I've never done an operation with get before I don't want to do the operation live on air
+
+1018
+01:28:07,936 --> 01:28:09,472
+I guess not really are
+
+1019
+01:28:10,240 --> 01:28:11,008
+But
+
+1020
+01:28:11,264 --> 01:28:15,872
+I guess some people where they have Wi-Fi connections their houses
+
+1021
+01:28:18,176 --> 01:28:18,944
+Stop thinking
+
+1022
+01:28:19,456 --> 01:28:20,736
+Stop thinking
+
+1023
+01:28:27,648 --> 01:28:33,792
+Are there any types of movements we need big tires rotation of headset and translation
+
+1024
+01:28:34,048 --> 01:28:40,192
+Translation
+
+1025
+01:28:54,784 --> 01:28:55,552
+Somebody's husband
+
+1026
+01:28:56,064 --> 01:28:58,368
+I need a question time or something
+
+1027
+01:28:59,392 --> 01:29:01,952
+Yeah I do need to focus a little bit more on
+
+1028
+01:29:02,976 --> 01:29:06,048
+Separating out when I'm actually focusing on working
+
+1029
+01:29:07,840 --> 01:29:09,120
+Talking to people
+
+1030
+01:29:09,632 --> 01:29:11,424
+But I'm pretty adhd's.
+
+1031
+01:29:13,472 --> 01:29:14,240
+So hard to deal
+
+1032
+01:29:17,312 --> 01:29:20,384
+I'm probably not any better than you on that either so
+
+1033
+01:29:20,896 --> 01:29:22,944
+This is probably a terrible combination
+
+1034
+01:29:25,760 --> 01:29:29,856
+I should probably go out farther than I am right now but I'm just kind of like
+
+1035
+01:29:30,368 --> 01:29:32,160
+There's so much going on
+
+1036
+01:29:32,416 --> 01:29:33,184
+What's up
+
+1037
+01:29:35,232 --> 01:29:38,816
+I know that
+
+1038
+01:29:45,216 --> 01:29:48,032
+Isaac automated binary Servpro blog
+
+1039
+01:29:49,312 --> 01:29:54,432
+Marquis commit as good or bad and it lets you move on to the next contestant
+
+1040
+01:29:54,944 --> 01:29:57,504
+Palm
+
+1041
+01:29:58,016 --> 01:30:01,344
+Yes that does sound like something really good
+
+1042
+01:30:03,136 --> 01:30:08,512
+Painter if you would like for you to pacifically do you buy it off me on eBay
+
+1043
+01:30:08,768 --> 01:30:09,536
+And you Market
+
+1044
+01:30:10,048 --> 01:30:13,888
+I will if you're willing to not tell anybody what the actual cost is
+
+1045
+01:30:14,144 --> 01:30:20,288
+I will mark it as the actual cost on your eBay thing and you will not have to pay the
+
+1046
+01:30:20,544 --> 01:30:23,360
+The that particular import fee
+
+1047
+01:30:25,664 --> 01:30:28,736
+But please Market as you because you know you have that problem
+
+1048
+01:30:35,904 --> 01:30:39,744
+I don't think that's it it looks like the problem might be somewhere else
+
+1049
+01:30:40,256 --> 01:30:42,048
+Where else could it be though
+
+1050
+01:30:43,328 --> 01:30:44,608
+The new one
+
+1051
+01:30:50,752 --> 01:30:53,824
+Heck I don't even know if it's is wrong or right I mean it looks pretty good
+
+1052
+01:31:16,352 --> 01:31:17,888
+It looks better
+
+1053
+01:31:18,400 --> 01:31:19,168
+Yeah but I'm not
+
+1054
+01:31:19,424 --> 01:31:22,752
+Check out master
+
+1055
+01:31:31,200 --> 01:31:32,992
+Oh yeah wow it is host
+
+1056
+01:31:34,784 --> 01:31:37,088
+So what in the world is going on there
+
+1057
+01:31:37,344 --> 01:31:37,856
+What
+
+1058
+01:31:38,368 --> 01:31:40,672
+Just completely hose
+
+1059
+01:31:40,928 --> 01:31:45,024
+Icy Point jumping all over the place
+
+1060
+01:31:45,280 --> 01:31:45,792
+Whoa
+
+1061
+01:31:46,048 --> 01:31:48,352
+So that was when I did the
+
+1062
+01:31:49,632 --> 01:31:50,656
+Check
+
+1063
+01:31:50,912 --> 01:31:54,752
+Something between the two of those really bad yeah
+
+1064
+01:31:55,776 --> 01:31:58,592
+Okay maybe we do need to actually do some
+
+1065
+01:31:59,616 --> 01:32:05,760
+Who is the what
+
+1066
+01:32:06,016 --> 01:32:12,160
+Who is the person who suggested using it bisects you have any very good references for
+
+1067
+01:32:12,416 --> 01:32:16,256
+For me to try to use get bisect cuz they both sound like the correct thing to do
+
+1068
+01:32:16,768 --> 01:32:18,816
+Animal 1111
+
+1069
+01:32:19,840 --> 01:32:20,608
+Can you
+
+1070
+01:32:20,864 --> 01:32:24,960
+Animal honey if you can just
+
+1071
+01:32:25,216 --> 01:32:27,776
+Pasting a reference cuz I'm willing to try right now
+
+1072
+01:32:29,824 --> 01:32:35,712
+I don't actually know what files changed here and also I'm used to operating in a much higher resolution but
+
+1073
+01:32:36,224 --> 01:32:42,368
+GitHub in
+
+1074
+01:32:42,624 --> 01:32:44,160
+K Mix-Ups Warframe slips
+
+1075
+01:32:44,416 --> 01:32:45,952
+Yes I have definitely noticed that
+
+1076
+01:32:46,208 --> 01:32:50,816
+I'm not really worried about clearing out the JK Mix-Ups right now
+
+1077
+01:32:51,072 --> 01:32:57,216
+I will be later but usually when I'm doing the tests the thing sitting in the middle
+
+1078
+01:32:57,472 --> 01:33:01,056
+Where things broke because I do clearly have code that works much
+
+1079
+01:33:01,312 --> 01:33:02,080
+Better butt
+
+1080
+01:33:05,664 --> 01:33:07,456
+Don't know what's up with this
+
+1081
+01:33:13,600 --> 01:33:15,136
+Yeah that's
+
+1082
+01:33:15,392 --> 01:33:17,184
+I've heard that a lot robbed
+
+1083
+01:33:17,952 --> 01:33:19,744
+Definitely heard that a lot
+
+1084
+01:33:21,792 --> 01:33:22,560
+What do you say
+
+1085
+01:33:23,072 --> 01:33:25,888
+List of the best coders are somewhere on the Spectrum
+
+1086
+01:33:26,912 --> 01:33:28,960
+I can believe that I might be I don't know
+
+1087
+01:33:30,496 --> 01:33:36,640
+That was not even the same what I was growing up but I have very little doubt and if I was throwing up nowadays they would have said that that was the problem
+
+1088
+01:33:46,368 --> 01:33:47,136
+Dumb
+
+1089
+01:33:47,392 --> 01:33:48,160
+Things
+
+1090
+01:33:50,720 --> 01:33:53,536
+Do you need those over there or can you send them to me to keep trying them on
+
+1091
+01:33:53,792 --> 01:33:56,096
+No I just
+
+1092
+01:34:02,240 --> 01:34:04,544
+In the world
+
+1093
+01:34:08,128 --> 01:34:11,200
+What changed in that pipeline between those two
+
+1094
+01:34:22,976 --> 01:34:27,328
+I'm going to do something stupid because I cannot bring the livestream myself live streaming
+
+1095
+01:34:33,984 --> 01:34:37,312
+Oh yeah that was like an intermediate one
+
+1096
+01:34:54,464 --> 01:35:00,608
+You're saying good bad is this literally what you type gets good goodbye text good
+
+1097
+01:35:01,632 --> 01:35:04,960
+And then I get commit and then get bisect bad head
+
+1098
+01:35:08,032 --> 01:35:09,312
+Charles the telling you
+
+1099
+01:35:09,568 --> 01:35:10,848
+But you have to get good
+
+1100
+01:35:13,152 --> 01:35:16,224
+Does best advice I've ever received one of my boxes in my past
+
+1101
+01:35:16,480 --> 01:35:22,624
+Courier jobs
+
+1102
+01:35:22,880 --> 01:35:24,672
+Sun live streaming us live streaming
+
+1103
+01:35:28,000 --> 01:35:29,536
+I don't know why it just
+
+1104
+01:35:29,792 --> 01:35:31,328
+Sounded like a good idea at the time
+
+1105
+01:35:36,192 --> 01:35:37,472
+Okay I'm not
+
+1106
+01:35:42,336 --> 01:35:43,872
+I'm going to call this one good
+
+1107
+01:35:44,640 --> 01:35:48,224
+Let's do that I'm going to learn something new today get 5 sect
+
+1108
+01:35:48,992 --> 01:35:49,760
+Start
+
+1109
+01:35:50,272 --> 01:35:50,784
+Get
+
+1110
+01:35:51,040 --> 01:35:52,576
+Bisect good
+
+1111
+01:35:53,600 --> 01:35:54,112
+Hey
+
+1112
+01:35:54,624 --> 01:35:55,904
+Git bisect
+
+1113
+01:35:56,160 --> 01:35:56,928
+Bad
+
+1114
+01:35:57,184 --> 01:35:57,696
+Head
+
+1115
+01:36:08,960 --> 01:36:11,776
+What did I do wrong
+
+1116
+01:36:20,224 --> 01:36:24,064
+I'm about ready to just not do that and just revert some code but
+
+1117
+01:36:32,000 --> 01:36:34,560
+Do I have to check out Alpine
+
+1118
+01:36:46,848 --> 01:36:48,640
+Checked out bad
+
+1119
+01:36:49,664 --> 01:36:50,176
+What is it
+
+1120
+01:36:50,432 --> 01:36:51,456
+Add I've never
+
+1121
+01:36:51,712 --> 01:36:54,272
+It already is so Good by S start
+
+1122
+01:36:55,808 --> 01:36:58,368
+Attached attached
+
+1123
+01:37:01,440 --> 01:37:03,232
+Here on the Sha
+
+1124
+01:37:04,512 --> 01:37:06,560
+I don't know but I thought that was
+
+1125
+01:37:08,096 --> 01:37:10,656
+Past Maya knowledge of get now
+
+1126
+01:37:10,912 --> 01:37:13,472
+Howdy for is an old thing
+
+1127
+01:37:13,728 --> 01:37:16,032
+What
+
+1128
+01:37:20,896 --> 01:37:27,040
+Firewood SVN guy man I'm so out of my element
+
+1129
+01:37:27,296 --> 01:37:29,856
+Here
+
+1130
+01:37:31,904 --> 01:37:35,232
+Do git bisect reset before you start again
+
+1131
+01:37:36,512 --> 01:37:39,072
+Because you checked out an unlabeled commit
+
+1132
+01:37:45,728 --> 01:37:46,496
+Nope
+
+1133
+01:37:47,776 --> 01:37:49,824
+Wow I'm just terrible at the Opera tonight
+
+1134
+01:37:51,872 --> 01:37:55,456
+Okay start yet
+
+1135
+01:37:55,968 --> 01:37:59,040
+Hey okay
+
+1136
+01:38:00,064 --> 01:38:01,344
+Get B
+
+1137
+01:38:02,368 --> 01:38:03,648
+Bad
+
+1138
+01:38:15,936 --> 01:38:18,496
+I don't have any I don't do I have a family
+
+1139
+01:38:19,520 --> 01:38:20,032
+Commit
+
+1140
+01:38:24,640 --> 01:38:26,432
+Oh great things are broken now
+
+1141
+01:38:29,760 --> 01:38:35,136
+This is why I was afraid of trying to get things now it's Mastercool and origin right
+
+1142
+01:38:36,928 --> 01:38:38,464
+Liked it like completely
+
+1143
+01:38:38,720 --> 01:38:40,512
+Reset it or does it ever get
+
+1144
+01:38:43,328 --> 01:38:49,472
+Oh hahaha it's all falling apart
+
+1145
+01:38:49,728 --> 01:38:52,288
+That is what you have checked out your check out failed
+
+1146
+01:38:52,800 --> 01:38:54,336
+No it's pretty happy to me
+
+1147
+01:38:58,688 --> 01:38:59,456
+Today
+
+1148
+01:39:03,296 --> 01:39:05,344
+Someone said he's Master instead of head
+
+1149
+01:39:07,648 --> 01:39:10,464
+Getmycheck reset menus Master instead of head
+
+1150
+01:39:14,304 --> 01:39:17,120
+Data
+
+1151
+01:39:17,888 --> 01:39:18,912
+Hey get
+
+1152
+01:39:19,168 --> 01:39:21,984
+Hi
+
+1153
+01:39:22,240 --> 01:39:23,008
+Of the head
+
+1154
+01:39:24,800 --> 01:39:25,312
+Get
+
+1155
+01:39:25,568 --> 01:39:26,336
+Check out
+
+1156
+01:39:27,104 --> 01:39:28,896
+Had
+
+1157
+01:39:29,152 --> 01:39:30,176
+Okay
+
+1158
+01:39:30,688 --> 01:39:31,456
+Then
+
+1159
+01:39:31,712 --> 01:39:35,296
+Get bisect
+
+1160
+01:39:37,088 --> 01:39:40,160
+Okay what do I do next let's do Twix plays
+
+1161
+01:39:40,416 --> 01:39:46,560
+Yeah
+
+1162
+01:39:46,816 --> 01:39:50,912
+I will ever do is never open this one again
+
+1163
+01:39:52,960 --> 01:39:55,776
+I will edit it to like the first 10 minutes are always day
+
+1164
+01:40:09,600 --> 01:40:12,160
+Give it to explain
+
+1165
+01:40:13,696 --> 01:40:17,792
+Easier to understand get them to use get
+
+1166
+01:40:19,584 --> 01:40:22,400
+Hubris in a terrible way
+
+1167
+01:40:24,704 --> 01:40:26,496
+So what they're saying is they get it
+
+1168
+01:40:41,600 --> 01:40:47,744
+Whenever I see these things like we are not bisecting I just imagine them being said and Linus Torvalds voice
+
+1169
+01:40:51,072 --> 01:40:51,584
+I just
+
+1170
+01:40:53,376 --> 01:40:54,400
+It's so weird
+
+1171
+01:40:56,192 --> 01:41:01,056
+Do is copy the last commit from GitHub instead of using head
+
+1172
+01:42:03,008 --> 01:42:05,824
+Wow whatever this commit was broke everything
+
+1173
+01:42:07,616 --> 01:42:11,200
+How do I mark this one is I did a thing
+
+1174
+01:42:11,456 --> 01:42:14,528
+If I want to move on I know this is bad I just want to
+
+1175
+01:42:15,808 --> 01:42:18,112
+Say okay what do I do next
+
+1176
+01:42:19,392 --> 01:42:20,416
+See what is it today
+
+1177
+01:42:24,512 --> 01:42:27,328
+Get bicycle skip
+
+1178
+01:42:27,584 --> 01:42:28,864
+Skip
+
+1179
+01:42:30,144 --> 01:42:32,192
+Do I want to say bad or skip skip
+
+1180
+01:42:32,448 --> 01:42:35,008
+Skip from two different people okay
+
+1181
+01:42:37,312 --> 01:42:39,104
+Okay well that once also bad
+
+1182
+01:42:43,712 --> 01:42:44,736
+Todd building again
+
+1183
+01:42:46,016 --> 01:42:46,784
+Duke Lane
+
+1184
+01:42:51,904 --> 01:42:58,048
+Yay the internet Charles how to use get thank-you internet
+
+1185
+01:43:02,144 --> 01:43:05,984
+I'm going to open up a new ticket cuz this has happened a few times before
+
+1186
+01:43:07,008 --> 01:43:09,312
+Do not know why
+
+1187
+01:43:11,104 --> 01:43:16,224
+Sometimes data just stopped flowing from the hmd
+
+1188
+01:43:16,992 --> 01:43:18,784
+Don't know why
+
+1189
+01:43:19,552 --> 01:43:21,344
+Sometimes
+
+1190
+01:43:22,112 --> 01:43:28,256
+The HMV randomly decide
+
+1191
+01:43:32,608 --> 01:43:36,448
+Even when finding the light on Magic
+
+1192
+01:43:39,776 --> 01:43:45,408
+Apparently you using git bisect to on a large codebase is a nightmare
+
+1193
+01:43:45,920 --> 01:43:47,456
+Beloved principal butt
+
+1194
+01:43:47,712 --> 01:43:53,344
+It gets ugly know I'm sending it the power on command I'm sending it that magic thing
+
+1195
+01:43:53,856 --> 01:43:56,928
+But the mattress have to unplug and
+
+1196
+01:43:57,696 --> 01:43:59,488
+Replug
+
+1197
+01:43:59,744 --> 01:44:00,512
+Wait a minute
+
+1198
+01:44:02,560 --> 01:44:03,840
+Waking up.
+
+1199
+01:44:04,096 --> 01:44:06,656
+Define don't know why
+
+1200
+01:44:06,912 --> 01:44:13,056
+Stainsby magic like if I plug it in my run it I doesn't give me any data until I send the magic spell to go turn on
+
+1201
+01:44:13,312 --> 01:44:14,080
+Magic is
+
+1202
+01:44:14,848 --> 01:44:16,128
+Oh what is the magic
+
+1203
+01:44:18,688 --> 01:44:20,992
+Power on command is located here
+
+1204
+01:44:29,184 --> 01:44:30,208
+It's this one
+
+1205
+01:44:31,488 --> 01:44:32,512
+I hope you can read that
+
+1206
+01:44:33,024 --> 01:44:34,048
+I know it's terrible
+
+1207
+01:44:35,328 --> 01:44:40,448
+But this this thing here totally does it saying I copy and pasted it from like a
+
+1208
+01:44:40,704 --> 01:44:43,776
+Wireshark session with the
+
+1209
+01:44:44,032 --> 01:44:47,104
+Somebody I think Meryl was the guy who published that
+
+1210
+01:44:54,784 --> 01:44:58,112
+Yeah then wants to know what the power on command is
+
+1211
+01:44:58,624 --> 01:45:00,416
+No I know I just showed it to him
+
+1212
+01:45:01,184 --> 01:45:07,328
+Then if you want to know it's just Vive underscore magic underscore power underscore on
+
+1213
+01:45:09,632 --> 01:45:15,776
+Okay I'm going to go
+
+1214
+01:45:16,032 --> 01:45:16,800
+Rock Solid
+
+1215
+01:45:17,312 --> 01:45:18,592
+It is just
+
+1216
+01:45:18,848 --> 01:45:20,128
+Like foam
+
+1217
+01:45:21,152 --> 01:45:26,016
+Track track track track track track
+
+1218
+01:45:27,296 --> 01:45:30,112
+Price it now say git bisect
+
+1219
+01:45:30,368 --> 01:45:30,880
+Good
+
+1220
+01:45:33,696 --> 01:45:34,720
+You done got cut
+
+1221
+01:45:37,024 --> 01:45:39,328
+0 revision
+
+1222
+01:45:45,216 --> 01:45:50,336
+So if this kid is good say get my some good I'm going with this is terrible
+
+1223
+01:45:56,736 --> 01:46:00,064
+Yeah if it's bad to terrible
+
+1224
+01:46:00,832 --> 01:46:06,976
+So if I move this around it like randomly like you'll see it go like straight on the diagonals and stuff
+
+1225
+01:46:07,232 --> 01:46:08,768
+I like that it's totally hosed
+
+1226
+01:46:09,280 --> 01:46:11,584
+IPic
+
+1227
+01:46:12,096 --> 01:46:14,912
+The points to finally jump out along the way
+
+1228
+01:46:17,216 --> 01:46:17,728
+Did you make
+
+1229
+01:46:20,800 --> 01:46:21,312
+Yes
+
+1230
+01:46:22,080 --> 01:46:24,128
+I did not make clean that time but I mean not
+
+1231
+01:46:24,640 --> 01:46:26,688
+Great I don't even know how to go back to it
+
+1232
+01:46:30,016 --> 01:46:31,808
+Okay so what do I do how do I tell the difference
+
+1233
+01:46:33,088 --> 01:46:35,136
+So I do get myself Ana
+
+1234
+01:46:36,672 --> 01:46:38,208
+Goodbye
+
+1235
+01:46:41,792 --> 01:46:46,400
+What do I do what do I do I see numbers and hatches and junk that I don't understand
+
+1236
+01:46:46,656 --> 01:46:48,960
+All I see is git bisect bad
+
+1237
+01:46:49,216 --> 01:46:51,520
+Get show
+
+1238
+01:46:53,056 --> 01:46:53,824
+Okay
+
+1239
+01:47:00,736 --> 01:47:03,808
+Oh okay that might be a problem
+
+1240
+01:47:15,840 --> 01:47:16,352
+No
+
+1241
+01:47:16,864 --> 01:47:18,656
+Chilling Yulia the definition
+
+1242
+01:47:19,424 --> 01:47:20,448
+Yeah
+
+1243
+01:47:22,752 --> 01:47:27,872
+So that makes sense why that would be outside of that codes that's all stuff I've already manually made sure was fine
+
+1244
+01:47:28,640 --> 01:47:32,992
+That stuff here is down in the The Watchmen disambiguated stuff
+
+1245
+01:47:34,272 --> 01:47:38,368
+Dino is good so it looks like it's just this thing right here
+
+1246
+01:47:45,536 --> 01:47:47,584
+How do I stop it
+
+1247
+01:47:48,352 --> 01:47:49,376
+Bisect
+
+1248
+01:47:49,632 --> 01:47:50,400
+Cancel
+
+1249
+01:47:52,192 --> 01:47:52,960
+Stop
+
+1250
+01:47:54,496 --> 01:47:55,264
+Rita
+
+1251
+01:47:56,288 --> 01:47:57,056
+Okay
+
+1252
+01:47:57,824 --> 01:47:59,872
+Git checkout head
+
+1253
+01:48:00,896 --> 01:48:02,432
+After after
+
+1254
+01:48:02,688 --> 01:48:03,456
+Yeah
+
+1255
+01:48:03,968 --> 01:48:09,600
+Master head in origin I have no idea what the difference between
+
+1256
+01:48:10,624 --> 01:48:14,208
+At one point I probably could have told you but now I don't remember
+
+1257
+01:48:16,256 --> 01:48:22,400
+I think it's like Master is actually wear the new one is in Heathers was pointing to An Origin is the actual repository where it lives
+
+1258
+01:48:22,656 --> 01:48:24,448
+But I would have a hard time with
+
+1259
+01:48:26,752 --> 01:48:30,848
+Masters the name of the brand so hopefully it should be bad right now
+
+1260
+01:48:32,640 --> 01:48:35,456
+Head is always the Sham checked out
+
+1261
+01:48:35,968 --> 01:48:38,016
+An Origin is GitHub in this case
+
+1262
+01:48:40,832 --> 01:48:44,416
+Masters Branch name head is
+
+1263
+01:48:53,376 --> 01:48:59,520
+Get whatever they think it bisects head it was like I have no idea what you're talking about because
+
+1264
+01:48:59,776 --> 01:49:01,312
+I was still on the Old Branch
+
+1265
+01:49:01,824 --> 01:49:03,616
+I could have been active in like master
+
+1266
+01:49:03,872 --> 01:49:07,200
+Somebody wants to know if they can get the source code for Unity sign
+
+1267
+01:49:08,480 --> 01:49:11,040
+Yes I get home
+
+1268
+01:49:11,552 --> 01:49:16,160
+Yes for the unity sign it is GitHub.com
+
+1269
+01:49:17,184 --> 01:49:22,816
+PN lore updp 6832 2012 i2f
+
+1270
+01:49:23,840 --> 01:49:25,888
+Right here
+
+1271
+01:49:27,936 --> 01:49:29,472
+I think they said in chat
+
+1272
+01:49:34,080 --> 01:49:37,152
+Wait what did we do to USB valve. See
+
+1273
+01:49:38,944 --> 01:49:40,480
+Wait what do you mean
+
+1274
+01:49:40,736 --> 01:49:43,296
+Oh no no no no
+
+1275
+01:49:43,552 --> 01:49:49,696
+No I don't know what any of those b mean in there I just know that you guys puked it out at the headset sometime
+
+1276
+01:49:49,952 --> 01:49:55,072
+If I puke it out of the headset to that might make it do what I want
+
+1277
+01:49:55,328 --> 01:49:59,424
+I puked it out the headset and it made it do what I want most of the time
+
+1278
+01:50:02,240 --> 01:50:05,056
+Oh never mind now I feel like an idiot
+
+1279
+01:50:05,824 --> 01:50:08,640
+Okay so this is broken let's go fix it
+
+1280
+01:50:09,152 --> 01:50:10,688
+I think it's right
+
+1281
+01:50:10,944 --> 01:50:11,968
+Year
+
+1282
+01:50:12,992 --> 01:50:15,296
+That was commenting that out
+
+1283
+01:50:22,208 --> 01:50:23,744
+The same
+
+1284
+01:50:48,320 --> 01:50:49,600
+Why is it read only
+
+1285
+01:50:49,856 --> 01:50:51,136
+What is going on here
+
+1286
+01:51:23,392 --> 01:51:24,928
+Nope still freaking it out
+
+1287
+01:51:51,040 --> 01:51:53,088
+There is mounting the chocolate here
+
+1288
+01:51:54,624 --> 01:52:00,000
+On the dining room kitchen
+
+1289
+01:52:01,792 --> 01:52:04,352
+Yeah you said dining room
+
+1290
+01:52:04,608 --> 01:52:08,448
+Chocolate we're still trying to get rid of all of her Halloween candy
+
+1291
+01:52:13,056 --> 01:52:15,104
+Take anything you want
+
+1292
+01:52:18,432 --> 01:52:19,712
+Nope
+
+1293
+01:52:23,808 --> 01:52:28,672
+You want I should have gone I should have written down the stuff from get by text so I would have been able to go back to it
+
+1294
+01:52:29,440 --> 01:52:33,536
+But I'm guessing it seems like they get bicycle done
+
+1295
+01:52:35,584 --> 01:52:41,728
+The chief religious says he should just write another descendant you later for you know
+
+1296
+01:52:41,984 --> 01:52:43,264
+Ray what's another one
+
+1297
+01:52:44,800 --> 01:52:50,944
+There's enough other problems right now it's not just the disambiguation or something is just what it was
+
+1298
+01:52:51,200 --> 01:52:52,736
+Working the other day too
+
+1299
+01:52:53,248 --> 01:52:54,528
+Although now
+
+1300
+01:52:59,904 --> 01:53:06,048
+You know what I'm going to use the Charles mechanism for finding this which is totally like the subversion awful
+
+1301
+01:53:06,304 --> 01:53:11,168
+Let's just go do that
+
+1302
+01:53:15,776 --> 01:53:17,056
+Survive
+
+1303
+01:53:36,000 --> 01:53:38,048
+Remember what I said about
+
+1304
+01:53:38,816 --> 01:53:40,864
+Poet holtby Catalyst for me to in math
+
+1305
+01:53:42,144 --> 01:53:42,656
+Milkshake
+
+1306
+01:53:47,776 --> 01:53:53,408
+Begley milkshakes right now
+
+1307
+01:53:57,760 --> 01:54:01,856
+Unless there's like stuff in the freezer that I don't know about Brandon
+
+1308
+01:54:06,720 --> 01:54:12,864
+I got to a good of it I'm trying to take a more complex situation just to be able to shed this expense into the more complex
+
+1309
+01:54:20,544 --> 01:54:23,104
+You write an app that makes more sense to me
+
+1310
+01:54:23,360 --> 01:54:26,688
+Basic things like
+
+1311
+01:54:28,224 --> 01:54:31,040
+Usurping the compost thing for my slowly got more complicated
+
+1312
+01:54:32,064 --> 01:54:36,416
+I guess not worry said like there's that whole costume Shake in there
+
+1313
+01:54:37,696 --> 01:54:42,304
+There's a whole frosting shaky ideas to things that are closer to the The Watch
+
+1314
+01:54:42,560 --> 01:54:44,608
+Like if I move it up and down
+
+1315
+01:54:44,864 --> 01:54:51,008
+If I'm closer to it than the Delta angle Delta's appeared much larger cuz that's all we really know is he
+
+1316
+01:54:51,264 --> 01:54:51,776
+Engel Beltre
+
+1317
+01:54:55,104 --> 01:54:58,176
+We don't know position relative to Lighthouse really no angles
+
+1318
+01:55:02,016 --> 01:55:05,600
+I am not speaking a language I am speaking in terms okay
+
+1319
+01:55:06,112 --> 01:55:09,440
+Do you want to talk about this right now
+
+1320
+01:55:12,000 --> 01:55:14,048
+How confident are you that this is
+
+1321
+01:55:14,304 --> 01:55:15,584
+Something to go down
+
+1322
+01:55:15,840 --> 01:55:21,984
+I wanted to finish the complex situation first
+
+1323
+01:55:22,240 --> 01:55:24,032
+Chocolate milkshake
+
+1324
+01:55:24,288 --> 01:55:25,568
+Well
+
+1325
+01:55:25,824 --> 01:55:27,872
+I mean the closest milkshake would be like
+
+1326
+01:55:28,128 --> 01:55:30,432
+7-Eleven sell
+
+1327
+01:55:30,944 --> 01:55:34,272
+Yeah I don't think anything else is open tonight
+
+1328
+01:55:34,528 --> 01:55:37,088
+Crackdonalds probably even
+
+1329
+01:55:37,344 --> 01:55:39,904
+Wawa cookout
+
+1330
+01:55:40,672 --> 01:55:41,440
+Cookout
+
+1331
+01:55:41,696 --> 01:55:43,232
+They don't have cookout in the North
+
+1332
+01:55:46,560 --> 01:55:48,096
+For reference the
+
+1333
+01:55:48,352 --> 01:55:54,496
+Charlottesville or Harrisonburg
+
+1334
+01:55:54,752 --> 01:55:57,568
+Voice
+
+1335
+01:55:58,080 --> 01:56:00,896
+Is he your making a lot of sense.
+
+1336
+01:56:01,152 --> 01:56:07,296
+Mindy is person you're hearing disembodied voices stand over this way
+
+1337
+01:56:07,552 --> 01:56:13,696
+Well if you want to work that true I'm confident that we will still have time to do it cuz we're only up to
+
+1338
+01:56:15,232 --> 01:56:21,376
+Oh gosh what is that workout to what's wrong
+
+1339
+01:56:21,632 --> 01:56:26,496
+Your master is making sense and that you we should continue down whatever path you are speaking
+
+1340
+01:56:26,752 --> 01:56:32,896
+Okay
+
+1341
+01:56:35,968 --> 01:56:42,112
+Okay how about that lets you that that's a good way to start so doctor doctor phrenologist
+
+1342
+01:56:42,368 --> 01:56:48,512
+That phonology hi Mindy
+
+1343
+01:56:48,768 --> 01:56:54,912
+I'm into one of the bases that that I think maybe in correct me if I'm wrong Mindy that you're coming from is the idea that that you
+
+1344
+01:56:55,168 --> 01:56:57,984
+You may not need to know Lighthouse locations
+
+1345
+01:56:58,240 --> 01:57:01,056
+Okay also sugar equals math
+
+1346
+01:57:02,592 --> 01:57:03,872
+Chocolate specifically
+
+1347
+01:57:05,664 --> 01:57:11,808
+Is she going to become a farala just too and we just I don't understand
+
+1348
+01:57:18,464 --> 01:57:21,024
+Degree to be the smartest person in the room so
+
+1349
+01:57:21,280 --> 01:57:22,816
+If we have just discovered now
+
+1350
+01:57:24,864 --> 01:57:31,008
+There's different types of intelligence Charles Sledgehammer to code problem
+
+1351
+01:57:31,264 --> 01:57:37,408
+Until they do what I tell him
+
+1352
+01:57:37,664 --> 01:57:43,808
+Bncollege don't see eye-to-eye at all
+
+1353
+01:57:44,064 --> 01:57:47,392
+Ulysses trying to kill me right now so
+
+1354
+01:57:59,168 --> 01:58:01,728
+You guys have any coffee grounds
+
+1355
+01:58:01,984 --> 01:58:06,848
+Probably not
+
+1356
+01:58:07,616 --> 01:58:10,944
+Apparently
+
+1357
+01:58:11,968 --> 01:58:14,784
+Talk.
+
+1358
+01:58:15,296 --> 01:58:18,368
+Apparently wait you know it's been as a pilot
+
+1359
+01:58:19,136 --> 01:58:22,720
+What what do you call Pilots their special name for them
+
+1360
+01:58:22,976 --> 01:58:29,120
+Chocolate orange
+
+1361
+01:58:35,776 --> 01:58:39,360
+What's it called
+
+1362
+01:58:39,616 --> 01:58:42,688
+Captain Jack's that I like that Captain Jackson
+
+1363
+01:58:43,712 --> 01:58:45,760
+How to make Cracker Jacks
+
+1364
+01:58:48,064 --> 01:58:53,440
+So now we have Captain Jackson and Doctor definitely performing better so
+
+1365
+01:58:54,720 --> 01:58:56,768
+Make sure that I did what I think I did
+
+1366
+01:59:00,352 --> 01:59:03,936
+Has the dr yates will feel better if you call him captain
+
+1367
+01:59:04,192 --> 01:59:06,496
+Call bencaz
+
+1368
+01:59:20,832 --> 01:59:25,952
+Oh I tried pulling a trick in here
+
+1369
+01:59:38,752 --> 01:59:44,896
+Open Xposed
+
+1370
+01:59:45,152 --> 01:59:47,712
+Stop
+
+1371
+01:59:49,504 --> 01:59:55,648
+I really have to I'm going to have to do something in my life to spend more time working on this tub during the week so we can
+
+1372
+01:59:55,904 --> 02:00:02,048
+Keep this a weekend and it not be terrible cuz I feel so bad that we're spending an hour right now
+
+1373
+02:00:02,304 --> 02:00:03,584
+Like
+
+1374
+02:00:03,840 --> 02:00:06,912
+Digging through the Charles mad
+
+1375
+02:00:07,168 --> 02:00:10,240
+When we could be talking about Captain
+
+1376
+02:00:10,752 --> 02:00:12,032
+Captain Jack's
+
+1377
+02:00:12,544 --> 02:00:13,568
+Empanology
+
+1378
+02:00:14,080 --> 02:00:19,200
+I'm finally done with classes for now so now I have time to go through this code and we'll go do it
+
+1379
+02:00:19,456 --> 02:00:22,016
+Do it this week make it happen make it good
+
+1380
+02:00:22,528 --> 02:00:24,832
+So
+
+1381
+02:00:25,088 --> 02:00:27,392
+The whole lot
+
+1382
+02:00:27,648 --> 02:00:28,416
+Captain
+
+1383
+02:00:28,672 --> 02:00:30,976
+Captain Jackson and sinologist
+
+1384
+02:00:31,232 --> 02:00:35,840
+Is having some rain like them together
+
+1385
+02:00:36,096 --> 02:00:42,240
+Oh Captain My Jackson but no but like it's like you know like so-and-so and his sidekick if I don't know which
+
+1386
+02:00:46,080 --> 02:00:46,592
+Yeah
+
+1387
+02:00:47,872 --> 02:00:50,688
+I can still pretend
+
+1388
+02:00:58,112 --> 02:01:00,416
+Maybe it's like what incident command
+
+1389
+02:01:00,672 --> 02:01:01,184
+Paris
+
+1390
+02:01:02,976 --> 02:01:09,120
+Parasuicidal boy and that guy but maybe we can move from the light
+
+1391
+02:01:09,376 --> 02:01:15,008
+Trying to classify a dynamic duo that hold that we don't really like we we interact with
+
+1392
+02:01:15,264 --> 02:01:16,032
+Sparingly
+
+1393
+02:01:17,056 --> 02:01:19,872
+Yeah okay okay we're moving we're moving we're moving
+
+1394
+02:01:23,712 --> 02:01:26,784
+You know there's computers to do the more complex situation
+
+1395
+02:01:28,064 --> 02:01:31,648
+And maybe if we get there you can help me do that but
+
+1396
+02:01:36,768 --> 02:01:37,792
+Can I do this
+
+1397
+02:01:38,048 --> 02:01:41,376
+Are you ready to talk it over with
+
+1398
+02:01:42,144 --> 02:01:44,448
+First ask
+
+1399
+02:01:45,472 --> 02:01:47,264
+Don't know what happened to my codebase
+
+1400
+02:01:48,032 --> 02:01:52,128
+I'll keep working on this so
+
+1401
+02:01:53,920 --> 02:01:56,736
+Who here wants to hear Mindy's
+
+1402
+02:01:58,016 --> 02:02:02,368
+Ideas of how to do this without finding the location of the lighthouses
+
+1403
+02:02:03,392 --> 02:02:03,904
+Go
+
+1404
+02:02:07,488 --> 02:02:13,632
+I mean you're going to get it whether you want it or not. Okay
+
+1405
+02:02:13,888 --> 02:02:20,032
+Here at least that around this way and Willamette
+
+1406
+02:02:20,288 --> 02:02:23,104
+Camera down at you
+
+1407
+02:02:23,872 --> 02:02:30,016
+Now it's time for Lindy's math corner
+
+1408
+02:02:30,272 --> 02:02:34,880
+Significantly simpler than Dave's math time
+
+1409
+02:02:35,136 --> 02:02:36,928
+Make video bigger
+
+1410
+02:02:37,184 --> 02:02:41,792
+I think if we're going to you might want to make the video that I actually shows what
+
+1411
+02:02:42,304 --> 02:02:43,328
+He's doing
+
+1412
+02:02:43,840 --> 02:02:49,984
+Barramundi
+
+1413
+02:02:50,240 --> 02:02:54,080
+Loosen a video of her over top of where the CO2 showing
+
+1414
+02:02:54,592 --> 02:03:00,736
+Basically people want to be able to see her white board more clearly
+
+1415
+02:03:00,992 --> 02:03:07,136
+I mean this is super complex and soul
+
+1416
+02:03:07,392 --> 02:03:13,536
+Okay well hold on let me let me switch it so
+
+1417
+02:03:20,192 --> 02:03:23,776
+Plus I haven't talked about how to tell any of you this so this might be wrong
+
+1418
+02:03:27,360 --> 02:03:32,224
+I will hopefully figure out how to get this all merge together while she's explaining it to
+
+1419
+02:03:32,992 --> 02:03:38,368
+We now have that you are the voice of reason I can hazmats and The Mindy Project
+
+1420
+02:03:38,624 --> 02:03:44,768
+No
+
+1421
+02:03:51,168 --> 02:03:57,312
+I was looking at doing where I want to go to closer
+
+1422
+02:04:05,248 --> 02:04:11,392
+Well hello there we go
+
+1423
+02:04:11,648 --> 02:04:13,184
+Charlton to work
+
+1424
+02:04:14,208 --> 02:04:20,096
+Mark here for this
+
+1425
+02:04:20,864 --> 02:04:21,632
+I don't know
+
+1426
+02:04:24,448 --> 02:04:30,592
+Phrenologist says oh God we're old
+
+1427
+02:04:31,616 --> 02:04:36,224
+Mork & Mindy thing
+
+1428
+02:04:43,648 --> 02:04:49,792
+Walmart antennas go ahead and explain don't worry we'll tell you if you don't understand okay and you guys will handle that
+
+1429
+02:04:50,048 --> 02:04:56,192
+Well I can go try to bug the code right at timer 125
+
+1430
+02:04:56,448 --> 02:05:02,592
+Wentworth with the first time then we'll go back and try to explain it better the second time can you see me can we see the board
+
+1431
+02:05:02,848 --> 02:05:08,992
+Only the board do we want to see you
+
+1432
+02:05:16,672 --> 02:05:17,952
+That looks like I got the light fixed
+
+1433
+02:05:22,048 --> 02:05:23,328
+Okay yeah
+
+1434
+02:05:24,864 --> 02:05:27,936
+OK Google
+
+1435
+02:05:28,192 --> 02:05:34,336
+Nope that's fine
+
+1436
+02:05:39,968 --> 02:05:46,112
+Okay it's all my hypothesis is that you don't need to know where the lighthouses are at
+
+1437
+02:05:46,368 --> 02:05:52,512
+You only need to know like some of the First Data we got was like I think someone stated it was only relative
+
+1438
+02:05:52,768 --> 02:05:55,840
+Positions positions and I was like
+
+1439
+02:05:56,096 --> 02:05:57,888
+Thinking about it and I was like yeah
+
+1440
+02:05:58,656 --> 02:06:00,448
+That's nice of elegant
+
+1441
+02:06:00,704 --> 02:06:05,056
+Actually because that's all you outside with Dinah you really want me and anyway
+
+1442
+02:06:07,104 --> 02:06:13,248
+And so I really hope you're talking so bear with me on this one I might lose my voice
+
+1443
+02:06:14,528 --> 02:06:17,344
+So I'm assuming
+
+1444
+02:06:17,600 --> 02:06:23,744
+That we are using six sensors on the headset
+
+1445
+02:06:26,304 --> 02:06:32,192
+And I realize this headset has points in the xy&z direction
+
+1446
+02:06:33,216 --> 02:06:35,264
+And that's really useful
+
+1447
+02:06:35,520 --> 02:06:41,664
+Minnesota rethinking about a problem you never taken a Physics course you always want to be like all my nose what are absolutely
+
+1448
+02:06:41,920 --> 02:06:43,968
+Don't change that I can rely on
+
+1449
+02:06:44,224 --> 02:06:50,368
+I realize that the headset the distance between all of these sensors
+
+1450
+02:06:50,624 --> 02:06:56,768
+Where you are then
+
+1451
+02:06:57,024 --> 02:07:03,168
+Speaking of distances and translations of the z-axis
+
+1452
+02:07:03,424 --> 02:07:08,544
+We just performed an example of one of those things are a few
+
+1453
+02:07:09,056 --> 02:07:11,104
+Nevermind
+
+1454
+02:07:12,128 --> 02:07:14,688
+Really don't like talking
+
+1455
+02:07:15,200 --> 02:07:18,272
+Okay now everything is in to you including you
+
+1456
+02:07:21,856 --> 02:07:28,000
+I made some marks on it and
+
+1457
+02:07:28,256 --> 02:07:34,400
+Homes are the distances between these sensors so I mark
+
+1458
+02:07:35,168 --> 02:07:36,448
+Three sensors
+
+1459
+02:07:37,216 --> 02:07:43,360
+On Eastside 1A 2A and 3A and I pick
+
+1460
+02:07:43,616 --> 02:07:47,712
+This one specifically because these ones with have a nice elegant like
+
+1461
+02:07:48,224 --> 02:07:54,368
+Right in the middle very obvious very in front and then I picked these two because
+
+1462
+02:07:54,624 --> 02:08:00,768
+Today seems to be in line with these two down here and so I can kind of just
+
+1463
+02:08:01,024 --> 02:08:07,168
+Whatever I do the math it gives me quite a few zeros to work with and zero as a really nice
+
+1464
+02:08:09,728 --> 02:08:11,008
+Gypsum
+
+1465
+02:08:11,264 --> 02:08:13,824
+Then I worked out some actual numbers
+
+1466
+02:08:14,848 --> 02:08:17,664
+For determining the distances between
+
+1467
+02:08:18,432 --> 02:08:24,576
+These and kind of like a generic faky unit because I don't really care how many centimeters or millimeters of these actually
+
+1468
+02:08:24,832 --> 02:08:30,976
+We are the computer probably doesn't know that either so
+
+1469
+02:08:31,232 --> 02:08:32,256
+For each thing is
+
+1470
+02:08:32,512 --> 02:08:36,864
+Yeah but it doesn't matter what you wanted is for the sake of what I'm doing right now
+
+1471
+02:08:37,376 --> 02:08:40,960
+So I assume that these two are basically two units away from each other
+
+1472
+02:08:46,592 --> 02:08:51,456
+Actually sorry I use these two but he took the stickers off and became ambiguous
+
+1473
+02:08:52,480 --> 02:08:54,528
+Using those two sensors
+
+1474
+02:08:57,600 --> 02:09:01,184
+Resume these rtn sway from each other in the
+
+1475
+02:09:01,440 --> 02:09:07,584
+X-axis and they are 0 units from each other in the y-axis and in the Z
+
+1476
+02:09:07,840 --> 02:09:13,984
+Access these two are about halfway in between the slang
+
+1477
+02:09:14,240 --> 02:09:20,384
+Asymmetry and the sensor over here so I kind of assumed this was one unit these are one
+
+1478
+02:09:20,640 --> 02:09:22,432
+Away from each other
+
+1479
+02:09:23,456 --> 02:09:29,600
+And so basically a half unit to the midpoint hacking it to the midpoint and here I assume these were
+
+1480
+02:09:30,112 --> 02:09:33,184
+These words in the same
+
+1481
+02:09:33,440 --> 02:09:36,768
+Why location as these to appear
+
+1482
+02:09:37,024 --> 02:09:43,168
+These two are also one unit away from each other a half unit
+
+1483
+02:09:43,424 --> 02:09:44,960
+From the midpoint hacking
+
+1484
+02:09:47,776 --> 02:09:53,920
+And then there's some z-axis stuff if you're still looking at it head-on
+
+1485
+02:09:54,176 --> 02:10:00,320
+Then in the z-axis there's some difference between there's no difference between the a the one
+
+1486
+02:10:00,576 --> 02:10:01,600
+2A
+
+1487
+02:10:02,368 --> 02:10:03,648
+To b-1b
+
+1488
+02:10:04,160 --> 02:10:07,744
+And there is a difference between the 12
+
+1489
+02:10:09,024 --> 02:10:10,816
+Or the 1A
+
+1490
+02:10:12,352 --> 02:10:15,936
+3A Andy 2A 3A
+
+1491
+02:10:16,448 --> 02:10:22,592
+And bison the same for the other side as well and so then you have some z-axis information as well
+
+1492
+02:10:24,896 --> 02:10:31,040
+Eventually I made some assumptions about how far those were from each other and that's what all of these numbers are down here
+
+1493
+02:10:34,624 --> 02:10:37,696
+That's what all of these numbers are down here
+
+1494
+02:10:38,720 --> 02:10:40,768
+So
+
+1495
+02:10:48,192 --> 02:10:52,544
+So these are the initial positions essentially from each other as I said
+
+1496
+02:10:53,056 --> 02:10:55,872
+This is change in x
+
+1497
+02:10:56,128 --> 02:10:56,896
+4
+
+1498
+02:10:58,176 --> 02:11:01,504
+The set of ones
+
+1499
+02:11:03,040 --> 02:11:05,856
+They do right here is the change in x
+
+1500
+02:11:06,368 --> 02:11:08,160
+For the son of Wands
+
+1501
+02:11:08,672 --> 02:11:11,488
+This is the change in X for the set of twos
+
+1502
+02:11:12,512 --> 02:11:14,816
+And this is the change in X for the set of threes
+
+1503
+02:11:15,072 --> 02:11:16,096
+Down here
+
+1504
+02:11:16,864 --> 02:11:22,496
+This change in X being like the distance and eventually or don't want to think a distance is time
+
+1505
+02:11:22,752 --> 02:11:25,824
+Sounds kind of weird but
+
+1506
+02:11:26,080 --> 02:11:31,200
+That goes back to what our nuns are constants are it sounds like these
+
+1507
+02:11:31,968 --> 02:11:33,504
+Motors
+
+1508
+02:11:35,552 --> 02:11:36,320
+Emit light
+
+1509
+02:11:37,344 --> 02:11:41,440
+Will do so in a constant frequency so no matter what
+
+1510
+02:11:41,696 --> 02:11:46,304
+I know the frequency is I haven't really been listening half the time
+
+1511
+02:11:46,560 --> 02:11:49,376
+. if you thinking text one full Revolution
+
+1512
+02:11:49,888 --> 02:11:56,032
+Is a little bit too specific
+
+1513
+02:11:56,288 --> 02:11:59,872
+Okay 800,000
+
+1514
+02:12:01,152 --> 02:12:01,920
+I don't even know that
+
+1515
+02:12:04,992 --> 02:12:05,504
+Okay
+
+1516
+02:12:05,760 --> 02:12:06,528
+So
+
+1517
+02:12:07,040 --> 02:12:12,672
+Whatever something sweeps it will always sleep in the same amount of time
+
+1518
+02:12:12,928 --> 02:12:15,232
+Oh so you can use that to your advantage
+
+1519
+02:12:15,744 --> 02:12:18,304
+Explain an hour later since I mean
+
+1520
+02:12:20,608 --> 02:12:26,752
+So then I was like you don't we can even figure out the distance Not Just Between the set of Wands tattoo
+
+1521
+02:12:27,008 --> 02:12:29,056
+The distance between like
+
+1522
+02:12:29,312 --> 02:12:31,872
+1 a.m. tree
+
+1523
+02:12:34,432 --> 02:12:35,456
+Or
+
+1524
+02:12:36,224 --> 02:12:39,808
+181 entryway and then train PA
+
+1525
+02:12:40,064 --> 02:12:43,648
+And all of those are going to the same thing as every other side cuz pretty symmetry
+
+1526
+02:12:44,928 --> 02:12:50,560
+Everything's fine
+
+1527
+02:12:50,816 --> 02:12:54,144
+Delia
+
+1528
+02:12:54,912 --> 02:13:01,056
+Then I wasn't really sure what I was going to need it when it wasn't going to need so I went ahead and did some math and run to find the distance of a segment
+
+1529
+02:13:01,312 --> 02:13:02,848
+In real space
+
+1530
+02:13:03,360 --> 02:13:09,504
+To figure out like hey if I want to find the actual distance in real space between like 1 and 3 a.m.
+
+1531
+02:13:09,760 --> 02:13:12,320
+This little pretty equation up here
+
+1532
+02:13:12,576 --> 02:13:18,720
+Define the distance of a segment so far I don't know if I need it or not I haven't actually gone through and done more complex situation of some of the
+
+1533
+02:13:18,976 --> 02:13:22,048
+Movements but maybe that'll be used later on
+
+1534
+02:13:22,560 --> 02:13:24,864
+But just in case it is there
+
+1535
+02:13:26,656 --> 02:13:31,776
+Do I need to explain the nones more about how I know we're different
+
+1536
+02:13:32,288 --> 02:13:38,176
+Sensors are in a relation to each other that they are absolutely not going to be changing changing that's the most important point is that
+
+1537
+02:13:38,688 --> 02:13:40,992
+This will always be true
+
+1538
+02:13:41,760 --> 02:13:43,296
+If you hold
+
+1539
+02:13:43,552 --> 02:13:49,696
+T1 and T2 constancy 182 always be constant
+
+1540
+02:13:49,952 --> 02:13:51,744
+Respect to the headset constant
+
+1541
+02:13:52,000 --> 02:13:58,144
+With respect to the other sensor so like the space between these two sensors will never change
+
+1542
+02:13:58,400 --> 02:14:04,544
+I'm okay with that nobody else
+
+1543
+02:14:04,800 --> 02:14:07,616
+I said is it essentially proof that relative coordinates are good enough
+
+1544
+02:14:09,152 --> 02:14:10,176
+Yes
+
+1545
+02:14:14,784 --> 02:14:15,552
+That's the only thing
+
+1546
+02:14:16,576 --> 02:14:22,720
+I don't know if that's the only thing I'm really thought explain
+
+1547
+02:14:22,976 --> 02:14:24,768
+I think I understand what you're saying is
+
+1548
+02:14:25,024 --> 02:14:31,168
+Like like as long as we're sure because we are sure we're sure that the Physicians on headset do not change
+
+1549
+02:14:31,424 --> 02:14:32,448
+Relative to each other
+
+1550
+02:14:32,960 --> 02:14:35,008
+If it's sitting still
+
+1551
+02:14:36,288 --> 02:14:42,432
+They're visiting so you things are going to change except for like jittering Aaron all that whatever
+
+1552
+02:14:42,688 --> 02:14:48,320
+You can take that information and be like what does that mean something
+
+1553
+02:14:48,576 --> 02:14:54,720
+And I think what it could possibly be true is that if you see a change in one very specific
+
+1554
+02:14:54,976 --> 02:14:57,792
+That will mean one very specific type of movement
+
+1555
+02:14:58,304 --> 02:15:04,448
+For example if we want translation and if you want to see translation in the ax x axis than Siri
+
+1556
+02:15:04,704 --> 02:15:05,984
+This way
+
+1557
+02:15:08,032 --> 02:15:11,104
+Okay
+
+1558
+02:15:11,360 --> 02:15:17,504
+You can kind of think of the sweep as something that creates the court Cartesian
+
+1559
+02:15:17,760 --> 02:15:22,624
+Coordinate system for you and so assume is sweeping this way
+
+1560
+02:15:22,880 --> 02:15:28,256
+I like this point in space you can mark this basically as like
+
+1561
+02:15:28,512 --> 02:15:30,816
+Tu at 1
+
+1562
+02:15:31,072 --> 02:15:34,400
+As it passes by the next 12-unit to T3
+
+1563
+02:15:35,168 --> 02:15:37,472
+30 equals
+
+1564
+02:15:37,984 --> 02:15:41,312
+1 T equals 2 tbsp excetera 41
+
+1565
+02:15:41,568 --> 02:15:45,920
+And the same thing for 22 as it goes up and down you can still Marquez
+
+1566
+02:15:46,432 --> 02:15:52,576
+Whoever passes by this place is always be 21 22 23 24 25
+
+1567
+02:15:52,832 --> 02:15:58,976
+System for you by doing these
+
+1568
+02:15:59,232 --> 02:16:01,024
+Which I have no idea what kind of
+
+1569
+02:16:04,608 --> 02:16:05,120
+What
+
+1570
+02:16:05,632 --> 02:16:11,776
+Things other than what your wear like that if they've moved in the middle something bad things happen
+
+1571
+02:16:12,032 --> 02:16:14,848
+I don't really know
+
+1572
+02:16:15,104 --> 02:16:21,248
+Oh got ya belly band
+
+1573
+02:16:21,504 --> 02:16:22,784
+Freaks out
+
+1574
+02:16:23,552 --> 02:16:25,856
+That's appropriate for I'm hypothesizing so
+
+1575
+02:16:26,368 --> 02:16:27,136
+Cool
+
+1576
+02:16:27,392 --> 02:16:29,696
+Kind of bad but yeah
+
+1577
+02:16:30,976 --> 02:16:37,120
+You don't pump lighthouses if you do a minute
+
+1578
+02:16:37,376 --> 02:16:43,520
+I've always just stop and read in the whole room calibration
+
+1579
+02:16:43,776 --> 02:16:47,872
+It's like a like a teetering thing they can actually beat hi-yah
+
+1580
+02:16:48,384 --> 02:16:51,200
+But if you knocked about a position you're pretty
+
+1581
+02:16:51,456 --> 02:16:52,736
+What's crew
+
+1582
+02:16:53,248 --> 02:16:57,344
+Doctor virologist says
+
+1583
+02:16:57,600 --> 02:17:02,976
+I have never tried to formulate it without using the base station coordinate system the observation changes with motion
+
+1584
+02:17:03,232 --> 02:17:08,096
+Fly you to solve for the coordinate system so he thinks that this is possible
+
+1585
+02:17:08,608 --> 02:17:09,632
+Okay keep going
+
+1586
+02:17:10,144 --> 02:17:10,656
+Wendy
+
+1587
+02:17:11,936 --> 02:17:17,824
+Okay so what you can do with keeping his mind is that
+
+1588
+02:17:18,336 --> 02:17:22,944
+If you if you want translation along X so
+
+1589
+02:17:23,456 --> 02:17:25,760
+Anthony still and it moves this way
+
+1590
+02:17:26,016 --> 02:17:27,040
+Or this way
+
+1591
+02:17:27,296 --> 02:17:30,624
+Then the time at which then it receives like
+
+1592
+02:17:31,392 --> 02:17:34,464
+1234
+
+1593
+02:17:34,720 --> 02:17:40,352
+But if you move it this way then it's going to it's going to hit a little bit sooner is going to be 12
+
+1594
+02:17:40,608 --> 02:17:42,144
+Did not hit 34
+
+1595
+02:17:44,448 --> 02:17:48,800
+And so to think of this when a protective the headset because Lighthouse isn't actually do anything
+
+1596
+02:17:49,056 --> 02:17:52,896
+The headsets like oh hey I got it
+
+1597
+02:17:53,408 --> 02:17:59,552
+Repercussion comes in handy here so think of it in measures of 44
+
+1598
+02:17:59,808 --> 02:18:02,624
+But are looping through each other so you have like
+
+1599
+02:18:02,880 --> 02:18:06,720
+1234m is this way at all of a sudden
+
+1600
+02:18:06,976 --> 02:18:13,120
+Your measures become kind of like 1234 no hits if you think of it from this perspective iffy
+
+1601
+02:18:13,376 --> 02:18:16,192
+It's a bunch of looping like music measures
+
+1602
+02:18:16,448 --> 02:18:22,592
+By the way Captain Jackson says it's recording you
+
+1603
+02:18:22,848 --> 02:18:28,992
+The most important
+
+1604
+02:18:35,648 --> 02:18:39,232
+If you is a precise time from when this week happens
+
+1605
+02:18:39,488 --> 02:18:42,304
+You have to make constant adjustments internal Ada
+
+1606
+02:18:42,816 --> 02:18:44,864
+Will I keep everything perfectly in line
+
+1607
+02:18:45,376 --> 02:18:48,448
+Absolutely
+
+1608
+02:18:48,704 --> 02:18:54,848
+Yes I think so it's like a stabilizer
+
+1609
+02:18:55,104 --> 02:18:57,408
+I think his comments
+
+1610
+02:18:57,664 --> 02:19:03,808
+A directed Jab
+
+1611
+02:19:04,064 --> 02:19:06,368
+Sorry sorry
+
+1612
+02:19:06,880 --> 02:19:13,024
+And Doctor Gates also says well you end up knowing where the bases are either in
+
+1613
+02:19:13,280 --> 02:19:13,792
+Implicitly
+
+1614
+02:19:14,048 --> 02:19:19,168
+It's some kind of stay for explicitly as blucian that use them directly
+
+1615
+02:19:19,424 --> 02:19:19,936
+Okay
+
+1616
+02:19:20,704 --> 02:19:26,848
+I think that's
+
+1617
+02:19:27,104 --> 02:19:30,944
+Why you really need to okay
+
+1618
+02:19:37,856 --> 02:19:42,976
+Translation want to access x-axis and then translation on the y-axis work the same exact way except like
+
+1619
+02:19:43,232 --> 02:19:48,352
+Instead of the measures going from side to side like you would see it and music measure all the and down
+
+1620
+02:19:48,864 --> 02:19:51,680
+Can awaken some music games
+
+1621
+02:19:52,192 --> 02:19:58,336
+And then if you have movement I want to see access something I noticed whenever we're at the cabin is
+
+1622
+02:19:58,592 --> 02:20:03,968
+Your distances between your known sensors increase and decrease over here
+
+1623
+02:20:04,480 --> 02:20:10,112
+The distance between the two sensors these two sensors new sensors if you back it up
+
+1624
+02:20:10,624 --> 02:20:15,744
+The old seemed to increase in so in terms of time whenever you think of it that way
+
+1625
+02:20:17,280 --> 02:20:19,072
+It will kind of be
+
+1626
+02:20:20,352 --> 02:20:21,376
+Large room
+
+1627
+02:20:21,632 --> 02:20:22,656
+Changes
+
+1628
+02:20:22,912 --> 02:20:23,680
+In
+
+1629
+02:20:24,448 --> 02:20:26,496
+It's so here it will be like
+
+1630
+02:20:27,264 --> 02:20:30,848
+Bam Bam Bam hero be like bam
+
+1631
+02:20:31,360 --> 02:20:35,456
+Damn that's like hyperbole obviously won't slow down that much but
+
+1632
+02:20:35,712 --> 02:20:40,832
+It's an example of what will happen there and if you get it a lot closer than it's going to be like
+
+1633
+02:20:41,088 --> 02:20:42,112
+Bam Bam Bam
+
+1634
+02:20:43,136 --> 02:20:46,720
+And so that's if those hits
+
+1635
+02:20:47,232 --> 02:20:50,560
+Oil change in the X & Y axis
+
+1636
+02:20:51,072 --> 02:20:57,216
+I'm going to stay in a particular way that will have translation along the exercises EXs
+
+1637
+02:20:57,472 --> 02:21:03,616
+There's a few questions so Mandy what you're saying makes sense to me but would
+
+1638
+02:21:03,872 --> 02:21:05,920
+Are you be able to know the absolute coordinate
+
+1639
+02:21:06,176 --> 02:21:08,224
+If you don't know where the lighthouses are
+
+1640
+02:21:15,136 --> 02:21:20,512
+Anyting so I guess I would have to do with more if you were inside of the room
+
+1641
+02:21:20,768 --> 02:21:26,912
+Would it be able to know like where you are in the room or like really if you start here
+
+1642
+02:21:28,960 --> 02:21:31,776
+There is more by the way
+
+1643
+02:21:33,568 --> 02:21:35,360
+Because you know I'm
+
+1644
+02:21:37,664 --> 02:21:40,736
+Can somebody else with a reasonable laptop
+
+1645
+02:21:40,992 --> 02:21:45,344
+Can you lock checked yet
+
+1646
+02:21:45,600 --> 02:21:47,136
+Are you can't pay Mike
+
+1647
+02:21:47,392 --> 02:21:52,000
+You come over here with the laptop cuz you can actually do you chat on it my laptop's like totally
+
+1648
+02:21:52,512 --> 02:21:53,024
+Not
+
+1649
+02:21:53,536 --> 02:21:54,816
+Okay
+
+1650
+02:21:56,096 --> 02:21:56,608
+Hold on
+
+1651
+02:21:56,864 --> 02:21:57,376
+Okay
+
+1652
+02:21:57,888 --> 02:22:00,704
+The general idea
+
+1653
+02:22:01,984 --> 02:22:05,312
+Who sings in Grimes to punch a population challenge.
+
+1654
+02:22:08,640 --> 02:22:14,784
+Previously like astronomy might think about
+
+1655
+02:22:17,344 --> 02:22:18,368
+Crayon
+
+1656
+02:22:19,904 --> 02:22:23,488
+Are all the lighthouses are in the lowest anyway
+
+1657
+02:22:24,000 --> 02:22:26,816
+With the movement in X and Y and rotation
+
+1658
+02:22:29,888 --> 02:22:34,496
+Increase the time in history that was going to be where I go next
+
+1659
+02:22:40,640 --> 02:22:41,920
+Oh my gosh
+
+1660
+02:22:46,528 --> 02:22:52,672
+I'm going to keep explaining
+
+1661
+02:22:52,928 --> 02:22:59,072
+You can either end of it you can predictively kind of expected to become a later time so don't need to worry about
+
+1662
+02:22:59,328 --> 02:23:00,096
+Emotions
+
+1663
+02:23:00,608 --> 02:23:06,752
+Charles are you getting this I want one who having a hard time
+
+1664
+02:23:07,008 --> 02:23:11,616
+I'm I know I know that that is kind of cuz I'm probably the one who maybe the one who writes it
+
+1665
+02:23:17,248 --> 02:23:23,392
+Yeah
+
+1666
+02:23:23,648 --> 02:23:24,416
+What I do understand
+
+1667
+02:23:24,672 --> 02:23:30,816
+Is the idea of being able to measure everything with relative motions from where we are which I could probably like back until like
+
+1668
+02:23:31,072 --> 02:23:33,376
+Absolute positions from initial starting position
+
+1669
+02:23:33,888 --> 02:23:34,400
+But
+
+1670
+02:23:34,656 --> 02:23:40,800
+What I don't understand is as you would get closer or farther from a lighthouse
+
+1671
+02:23:41,056 --> 02:23:42,336
+That relationship
+
+1672
+02:23:42,592 --> 02:23:48,736
+Like if you move forward and then left and right versus a few move back and then left and right
+
+1673
+02:23:48,992 --> 02:23:55,136
+Situation surrounding try to get to you after I tried doing the basement
+
+1674
+02:23:55,392 --> 02:24:00,000
+Complex thing
+
+1675
+02:24:00,256 --> 02:24:06,400
+Pecan
+
+1676
+02:24:06,656 --> 02:24:09,216
+El hogar we know that
+
+1677
+02:24:09,472 --> 02:24:15,616
+With invisible space rotation can happen translation can happen and really those are the only
+
+1678
+02:24:15,872 --> 02:24:22,016
+Two things I think we came up with so what I'm trying to do I guess right now is explained
+
+1679
+02:24:22,272 --> 02:24:28,416
+What eats like a profile position
+
+1680
+02:24:28,672 --> 02:24:34,816
+Single position profile
+
+1681
+02:24:35,072 --> 02:24:41,216
+Movements along translation along X Y and Z and rotation along x y and z
+
+1682
+02:24:41,472 --> 02:24:47,616
+And then after we kind of understand those basic six things and maybe we can get to a more complex situation where you are
+
+1683
+02:24:47,872 --> 02:24:54,016
+More like rotating and moving at the same time kind of why I'd be like hey let's have a computer help us try to do to calculations
+
+1684
+02:24:54,272 --> 02:24:59,392
+Because computers are great like that and I'm pretty sure to be probably already built stuff that can do that for us
+
+1685
+02:25:00,928 --> 02:25:02,976
+What is horses conceptualizing as I think these
+
+1686
+02:25:03,232 --> 02:25:05,792
+Base examples are probably what we need to import first
+
+1687
+02:25:07,584 --> 02:25:10,656
+Soda translation along x y and z
+
+1688
+02:25:14,240 --> 02:25:20,384
+Something also point out as far as our nose go is that whenever we are thinking
+
+1689
+02:25:20,640 --> 02:25:25,760
+About this movement and he sleeps while we need to know the information
+
+1690
+02:25:27,296 --> 02:25:33,440
+There is no way for us to blatantly be given the information we have to conclude all the information based off of
+
+1691
+02:25:33,696 --> 02:25:35,744
+Information that were given
+
+1692
+02:25:36,000 --> 02:25:38,048
+And is Cartesian system.
+
+1693
+02:25:38,304 --> 02:25:41,376
+The to sweep sideways and up and down give us
+
+1694
+02:25:44,192 --> 02:25:47,776
+And again I kind of showed that we can get in D by
+
+1695
+02:25:48,032 --> 02:25:49,568
+If all points
+
+1696
+02:25:49,824 --> 02:25:52,128
+Between X and Y
+
+1697
+02:25:53,152 --> 02:25:54,944
+Increase or decrease
+
+1698
+02:25:55,456 --> 02:26:01,600
+If it just acts so that's whenever we get into rotation why does not change but
+
+1699
+02:26:01,856 --> 02:26:04,928
+Increases in all the sudden that kind of signaling signaling rotation
+
+1700
+02:26:05,440 --> 02:26:11,584
+ISO rotation along the x-axis will be like
+
+1701
+02:26:11,840 --> 02:26:16,960
+Kind of answer then you're having like your y-axis is getting smaller
+
+1702
+02:26:17,472 --> 02:26:21,312
+And then larger is fluctuating in the y-axis but not the sea
+
+1703
+02:26:21,568 --> 02:26:25,664
+X-axis and y-axis that we're not giving that information
+
+1704
+02:26:26,176 --> 02:26:32,320
+Stop by the sweeps rotation along the y-axis it will look like this and
+
+1705
+02:26:32,576 --> 02:26:36,672
+And that will be fluctuations in only the X and not the Y
+
+1706
+02:26:37,184 --> 02:26:43,328
+I don't know if you guys cut taxes
+
+1707
+02:26:43,584 --> 02:26:46,656
+If you rotate along this y-axis
+
+1708
+02:26:47,424 --> 02:26:50,240
+Then your space between
+
+1709
+02:26:50,496 --> 02:26:55,360
+Did axe is going to be slowly decreasing as a retainer and why
+
+1710
+02:26:55,872 --> 02:27:00,992
+Full rotation of the z-axis which will be this thing coming here
+
+1711
+02:27:01,504 --> 02:27:03,296
+It will be like this
+
+1712
+02:27:03,808 --> 02:27:08,928
+And so this will be a change in X & Y
+
+1713
+02:27:09,440 --> 02:27:15,584
+In a very very different way than what you're seeing in all EX and why's increase and decrease that's not what's Happening Here
+
+1714
+02:27:15,840 --> 02:27:21,984
+It is a translation along X and Y and
+
+1715
+02:27:22,240 --> 02:27:24,800
+Minnesota defense isn't really changing in between them
+
+1716
+02:27:25,568 --> 02:27:29,920
+However these are cheap ones
+
+1717
+02:27:30,176 --> 02:27:32,992
+Change if you want to change the key to our changing
+
+1718
+02:27:33,760 --> 02:27:35,552
+Actually
+
+1719
+02:27:39,904 --> 02:27:46,048
+What is the score for a single lighthouse
+
+1720
+02:27:46,304 --> 02:27:52,448
+Inverse way to describe it from my point of view that you would be able to ride basically
+
+1721
+02:27:52,704 --> 02:27:56,288
+Function so different changes in particular aspect of
+
+1722
+02:27:56,544 --> 02:27:57,568
+Depose
+
+1723
+02:27:57,824 --> 02:27:59,104
+In
+
+1724
+02:27:59,360 --> 02:28:03,968
+In the lighthouse view like from lighthouses point-of-view even though it doesn't think
+
+1725
+02:28:04,224 --> 02:28:06,784
+Would have particular changes on the
+
+1726
+02:28:08,576 --> 02:28:10,624
+XYZ in 3D space
+
+1727
+02:28:10,880 --> 02:28:15,232
+I guess for me I only see that is really having an impact
+
+1728
+02:28:15,488 --> 02:28:18,048
+With one Lighthouse butt
+
+1729
+02:28:18,560 --> 02:28:23,680
+It still is within the divisors point-of-view or the headsets point-of-view
+
+1730
+02:28:24,192 --> 02:28:28,544
+So like if you say like translate X it's going to you're talking about translating
+
+1731
+02:28:29,312 --> 02:28:30,080
+Ax
+
+1732
+02:28:30,336 --> 02:28:33,152
+And like y&z
+
+1733
+02:28:33,408 --> 02:28:34,176
+But
+
+1734
+02:28:34,432 --> 02:28:36,480
+I guess from my point of view like from
+
+1735
+02:28:37,248 --> 02:28:41,088
+I don't know unless there's got to be a way of Translating that back to
+
+1736
+02:28:42,624 --> 02:28:46,720
+That's interesting so you'd be able to if you would even do it over an area you could then
+
+1737
+02:28:46,976 --> 02:28:50,816
+Make it so you can make transformation
+
+1738
+02:28:51,072 --> 02:28:57,216
+From like the the hmds local point-of-view so like this in this
+
+1739
+02:28:57,472 --> 02:29:03,616
+Become like where those go in 3D space cuz if the end of the day we do need to know
+
+1740
+02:29:03,872 --> 02:29:08,224
+Like with respect to the room where the headset is so we can render it from that point of view
+
+1741
+02:29:08,480 --> 02:29:08,992
+But
+
+1742
+02:29:09,760 --> 02:29:12,576
+I don't know why I got to think about that more cuz that would
+
+1743
+02:29:15,136 --> 02:29:17,952
+More than a specific solution
+
+1744
+02:29:22,048 --> 02:29:27,168
+I don't know why I still have to turn to this more for me at least I don't know
+
+1745
+02:29:39,200 --> 02:29:42,784
+I don't know what sponge sponge man is saying
+
+1746
+02:29:44,832 --> 02:29:50,976
+Not calculus linear algebra going to make do calculator
+
+1747
+02:29:51,232 --> 02:29:52,768
+Calculus
+
+1748
+02:29:53,024 --> 02:29:54,304
+.
+
+1749
+02:29:54,816 --> 02:29:55,584
+But
+
+1750
+02:29:56,096 --> 02:30:02,240
+I don't think that you want to be integrating differences over time you'll never be able to handle the error Accu
+
+1751
+02:30:02,496 --> 02:30:03,008
+Malaysia
+
+1752
+02:30:03,520 --> 02:30:08,128
+So he saying is as you move like up and around and all of that
+
+1753
+02:30:08,384 --> 02:30:13,760
+You're going to like drift overtime and you're not going to be in the absolute space of the the area
+
+1754
+02:30:14,272 --> 02:30:17,088
+But now the thing that I wonder if a hybrid approach would work
+
+1755
+02:30:18,112 --> 02:30:18,624
+Where
+
+1756
+02:30:19,392 --> 02:30:22,464
+You kind of getting some sort of ground crew
+
+1757
+02:30:25,792 --> 02:30:27,328
+Complexity
+
+1758
+02:30:30,144 --> 02:30:36,032
+But we're really trying to do like 10 different things that anytime the same time TCL 987
+
+1759
+02:30:36,544 --> 02:30:42,688
+We are we basically all have ADHD the terrible project
+
+1760
+02:30:42,944 --> 02:30:44,992
+Umpd HGTV doing
+
+1761
+02:30:47,296 --> 02:30:53,440
+I don't actually have been says you are correct as far as there's a function that tells you
+
+1762
+02:30:53,696 --> 02:30:57,536
+Changes in Lighthouse measurements will imply changes impose
+
+1763
+02:30:59,840 --> 02:31:01,888
+But it's a function of the current pose
+
+1764
+02:31:03,936 --> 02:31:08,800
+At most abstract lighthouse
+
+1765
+02:31:10,336 --> 02:31:16,480
+Oh yeah except your question so been do you do strictly mean in relative post position or in some sense
+
+1766
+02:31:16,736 --> 02:31:17,248
+Absolutely
+
+1767
+02:31:19,296 --> 02:31:25,440
+My biggest question are all of these differences based on the potential initial initial position or all
+
+1768
+02:31:25,696 --> 02:31:29,792
+All of them based on the position it just came from
+
+1769
+02:31:30,048 --> 02:31:33,376
+Okay so all of these are building up off of each other so like
+
+1770
+02:31:33,632 --> 02:31:36,960
+Position with zero data is all of this base stuff
+
+1771
+02:31:37,472 --> 02:31:43,616
+And then you figure out position to buy this change but then all of a sudden
+
+1772
+02:31:43,872 --> 02:31:44,896
+New
+
+1773
+02:31:45,408 --> 02:31:46,688
+Information
+
+1774
+02:31:46,944 --> 02:31:49,248
+I like your pose
+
+1775
+02:31:49,504 --> 02:31:52,320
+Yeah I'm blending 0 12 + 12 + 3
+
+1776
+02:31:53,600 --> 02:31:54,880
+Your third position
+
+1777
+02:31:56,416 --> 02:32:02,304
+Is going to be this but it's going to know that it's this based on this position
+
+1778
+02:32:02,816 --> 02:32:04,608
+Not disposition
+
+1779
+02:32:04,864 --> 02:32:10,496
+Right so he's teeth concerned that any error that you get from each one of those steps will accumulate
+
+1780
+02:32:11,264 --> 02:32:17,408
+I mean I definitely felt like I even saw the community when I saw Adam playing cuz I noticed that he's fully like drift
+
+1781
+02:32:17,664 --> 02:32:19,456
+Playing
+
+1782
+02:32:19,712 --> 02:32:22,528
+Have arrows and you like rotate throughout the tower
+
+1783
+02:32:22,784 --> 02:32:28,928
+You're not moving from the tower not moving around the tower and then you just like
+
+1784
+02:32:29,184 --> 02:32:35,328
+Basically sniping these balloons and like these nights or something I noticed about him playing the game he's fully migrated
+
+1785
+02:32:36,352 --> 02:32:37,632
+Yeah that was from the lab
+
+1786
+02:32:37,888 --> 02:32:40,704
+I guess the big thing though is that
+
+1787
+02:32:41,472 --> 02:32:44,032
+With the lighthouses the magic is that they do know
+
+1788
+02:32:44,288 --> 02:32:45,824
+With absolute terms
+
+1789
+02:32:46,080 --> 02:32:49,664
+Where you are too I don't know what the actual number is I guess it's probably like
+
+1790
+02:32:49,920 --> 02:32:54,016
+Down to about a centimeter probably or better
+
+1791
+02:32:54,272 --> 02:33:00,416
+Sorry I said the lighthouses no I mean the computer knows where you are in some kind
+
+1792
+02:33:00,672 --> 02:33:06,816
+I don't even know this and knowing exactly the space in between
+
+1793
+02:33:07,072 --> 02:33:08,096
+Sensor 1 Sensor 2
+
+1794
+02:33:08,352 --> 02:33:10,912
+But I'm saying
+
+1795
+02:33:11,936 --> 02:33:12,448
+What do you mean
+
+1796
+02:33:12,704 --> 02:33:13,472
+So
+
+1797
+02:33:13,728 --> 02:33:15,264
+Eat soy
+
+1798
+02:33:15,520 --> 02:33:21,664
+How is this related to how are these two ideas really okay when you have this based on this based on this base
+
+1799
+02:33:21,920 --> 02:33:28,064
+Based on this based on their on their way
+
+1800
+02:33:28,320 --> 02:33:34,208
+Not air will accumulate over time
+
+1801
+02:33:34,976 --> 02:33:37,536
+But what I'm saying is that you can
+
+1802
+02:33:38,304 --> 02:33:41,632
+The it is possible at least that's what valve is
+
+1803
+02:33:42,144 --> 02:33:43,168
+I think doing
+
+1804
+02:33:43,424 --> 02:33:48,544
+To determine clearly with some effort after a couple samples
+
+1805
+02:33:48,800 --> 02:33:50,848
+I'm like if you just pick up
+
+1806
+02:33:51,104 --> 02:33:53,408
+The Watchmen controller turn it on
+
+1807
+02:33:53,920 --> 02:33:55,712
+It will know where you are
+
+1808
+02:33:55,968 --> 02:33:58,016
+Eventually or where it is eventually
+
+1809
+02:33:59,040 --> 02:34:04,928
+So there is clearly some way to get started though that's an interesting this really has an interesting point because
+
+1810
+02:34:06,464 --> 02:34:09,024
+Pending on the way this works I don't know what maybe
+
+1811
+02:34:09,280 --> 02:34:10,304
+I can tell us would be
+
+1812
+02:34:10,560 --> 02:34:13,632
+Better than the naive approach that I was doing or not
+
+1813
+02:34:13,888 --> 02:34:20,032
+Different far as getting just checking up to when I understand
+
+1814
+02:34:20,288 --> 02:34:25,408
+The first thing I hear that's different that's very large is that you're actually using units of like centimeters or meters or something
+
+1815
+02:34:25,664 --> 02:34:31,808
+Don't leave it that what you have to do in order to add that what I'm talking about
+
+1816
+02:34:33,600 --> 02:34:38,208
+Two units away from each other it just you know that they're supposed to be
+
+1817
+02:34:38,464 --> 02:34:43,328
+A certain amount of Click of time which Associates to like
+
+1818
+02:34:44,096 --> 02:34:45,888
+How much is that like
+
+1819
+02:34:46,144 --> 02:34:47,680
+Half a foot 6 inches or something
+
+1820
+02:34:47,936 --> 02:34:54,080
+And so if it's 6 inches away and it's a certain position in space
+
+1821
+02:34:54,336 --> 02:34:58,688
+Maybe between the two lighthouses then you
+
+1822
+02:34:58,944 --> 02:35:01,248
+You know that it should hits like
+
+1823
+02:35:03,296 --> 02:35:09,440
+5 Ms apart I have no idea what the actual timing supposed to be
+
+1824
+02:35:09,696 --> 02:35:12,000
+You are correct you can calculate the absolute Z
+
+1825
+02:35:13,280 --> 02:35:14,816
+Basically from the lighthouse
+
+1826
+02:35:15,072 --> 02:35:17,376
+From sensors 2A and 2B
+
+1827
+02:35:17,888 --> 02:35:20,960
+And it will not accumulate are overtime
+
+1828
+02:35:21,216 --> 02:35:27,360
+Because
+
+1829
+02:35:27,616 --> 02:35:29,920
+The depth to the lighthouse with those two
+
+1830
+02:35:30,176 --> 02:35:32,736
+Pointed out that makes sense to me because
+
+1831
+02:35:32,992 --> 02:35:38,112
+So that'll give you some level of ground truth because if I have an angle that's exactly that
+
+1832
+02:35:40,928 --> 02:35:45,280
+Because if I do it like this I'm like okay now I know that the
+
+1833
+02:35:45,536 --> 02:35:51,680
+Just part of my hand is this far from it but then like say it's actually to skew then we'll now it's like
+
+1834
+02:35:51,936 --> 02:35:58,080
+. so it's ambiguous could be anywhere along
+
+1835
+02:35:59,360 --> 02:36:05,504
+Was it better like no he does not
+
+1836
+02:36:05,760 --> 02:36:07,296
+He is not a valve
+
+1837
+02:36:07,808 --> 02:36:13,952
+Because you know that that was actually the biggest reason I thought that we didn't need
+
+1838
+02:36:14,208 --> 02:36:20,352
+The actual distance in Lexington or whatever to the lighthouse because you had that issue if what if you initialize it
+
+1839
+02:36:23,168 --> 02:36:28,288
+Our listeners would be like our lighthouses pointing up can you see me so is playing up there
+
+1840
+02:36:28,544 --> 02:36:31,872
+But this isn't even straight on
+
+1841
+02:36:32,128 --> 02:36:38,272
+So you don't have what's the triangle whenever it's two equal sides and one up
+
+1842
+02:36:38,528 --> 02:36:40,064
+Please
+
+1843
+02:36:40,320 --> 02:36:44,416
+So you needn't have an isosceles triangular if you got that actual distance in like
+
+1844
+02:36:44,672 --> 02:36:50,816
+There's only one particular case maybe two facing the other direction to the lighthouse to particular exact
+
+1845
+02:36:51,072 --> 02:36:57,216
+K12
+
+1846
+02:36:57,472 --> 02:37:03,616
+Essentially wear your exactly head on to the lighthouse
+
+1847
+02:37:03,872 --> 02:37:06,432
+You'll be able to figure out the death
+
+1848
+02:37:07,456 --> 02:37:10,272
+But you have to be like
+
+1849
+02:37:10,528 --> 02:37:14,368
+I think you can use more information about
+
+1850
+02:37:14,880 --> 02:37:16,416
+So like if you know
+
+1851
+02:37:16,928 --> 02:37:23,072
+That that like this latest sorry this photo died here the so did I just hear this phone did I hear this
+
+1852
+02:37:23,328 --> 02:37:29,472
+And you know that that particular thing then if you watch all of them at least so what I'm trying to do
+
+1853
+02:37:29,728 --> 02:37:35,616
+Do with my lighthouse thing I think that's what I'm doing I think that's why I'm able to tell depth well but not perspective
+
+1854
+02:37:37,152 --> 02:37:38,176
+But it still works
+
+1855
+02:37:38,432 --> 02:37:40,736
+From this point of view over here
+
+1856
+02:37:40,992 --> 02:37:43,040
+Like from from right here
+
+1857
+02:37:43,296 --> 02:37:45,856
+That has a different configuration
+
+1858
+02:37:46,112 --> 02:37:48,160
+Like what that looks like
+
+1859
+02:37:48,672 --> 02:37:54,816
+Then it does straight on it's not just put like $3 be further or closer it's that it's a completely different configurations
+
+1860
+02:37:55,072 --> 02:37:56,352
+See you can kind of
+
+1861
+02:37:56,608 --> 02:37:57,888
+Tell the difference
+
+1862
+02:38:00,192 --> 02:38:05,568
+Yeah I know sorry that the other thing was that I Mindy's correct the scale is defined by the constellation geometry
+
+1863
+02:38:05,824 --> 02:38:07,616
+The base emissions are
+
+1864
+02:38:08,128 --> 02:38:10,688
+Angular fractions of time
+
+1865
+02:38:10,944 --> 02:38:16,320
+And by the way that was before ologist and you can definitely get this time
+
+1866
+02:38:22,464 --> 02:38:28,608
+Yeah I like maybe I could keep Matthew and get this until I still don't understand why you need like an absolute distance
+
+1867
+02:38:28,864 --> 02:38:35,008
+I think the absolute so when Adam was playing in the game I would be surprised if it was drifting I think he was just kind of War.
+
+1868
+02:38:35,264 --> 02:38:37,312
+Around or walking around or something
+
+1869
+02:38:38,592 --> 02:38:42,432
+Cuz I think about like a like a space pirate trainer
+
+1870
+02:38:42,944 --> 02:38:43,712
+We're like
+
+1871
+02:38:44,224 --> 02:38:48,576
+In addition when you walk towards the wall it will draw the wall in front of you
+
+1872
+02:38:48,832 --> 02:38:54,976
+Like the physical wall will be drawn in the VR display when you get close to the virtual wall
+
+1873
+02:38:58,048 --> 02:39:02,656
+But so it still has to know in absolute terms with respect to say the wall
+
+1874
+02:39:03,424 --> 02:39:04,704
+Where Were You Are
+
+1875
+02:39:05,472 --> 02:39:10,336
+Otherwise how does it know how far close to Milwaukie or
+
+1876
+02:39:10,592 --> 02:39:14,944
+To the wall you are because you drew the wall with your sensors and it marks
+
+1877
+02:39:15,200 --> 02:39:21,344
+And if you go back to this thingy you have this static Cartesian system and so you basically mark
+
+1878
+02:39:21,600 --> 02:39:23,648
+Hey I know my room is
+
+1879
+02:39:24,160 --> 02:39:24,672
+Like
+
+1880
+02:39:24,928 --> 02:39:30,304
+Here here here here here here here here here here here here here here here here
+
+1881
+02:39:32,864 --> 02:39:35,168
+And so you have a picture in this
+
+1882
+02:39:35,680 --> 02:39:36,448
+System
+
+1883
+02:39:37,984 --> 02:39:39,776
+About where your room is
+
+1884
+02:39:40,288 --> 02:39:43,616
+And then everything exist without room and if all of a sudden
+
+1885
+02:39:43,872 --> 02:39:47,712
+Your sensors noticed that you're trying to like approach
+
+1886
+02:39:47,968 --> 02:39:51,040
+This point over here it knows that you're not supposed to be at
+
+1887
+02:39:51,296 --> 02:39:52,064
+Tu
+
+1888
+02:39:52,832 --> 02:39:57,440
+Chowan equals 22 equals 4
+
+1889
+02:39:57,696 --> 02:40:00,256
+Right I guess though like how does it know
+
+1890
+02:40:00,512 --> 02:40:02,816
+Start in the middle
+
+1891
+02:40:04,608 --> 02:40:10,752
+I'm sorry that I'm not
+
+1892
+02:40:11,008 --> 02:40:11,520
+In the middle
+
+1893
+02:40:11,776 --> 02:40:14,848
+And then you're like making motions overtime
+
+1894
+02:40:15,616 --> 02:40:17,664
+Like like over that way
+
+1895
+02:40:17,920 --> 02:40:24,064
+Draw the wall or walking around
+
+1896
+02:40:24,320 --> 02:40:25,344
+I can try pretty good
+
+1897
+02:40:25,600 --> 02:40:28,160
+But it's some point I have to know
+
+1898
+02:40:28,416 --> 02:40:34,560
+On that like okay I'm getting cuz like I already drew it within the same frame but I do have to know that I am getting close to the
+
+1899
+02:40:34,816 --> 02:40:40,960
+Right so then is just like oh we recognize that your team 7
+
+1900
+02:40:41,216 --> 02:40:43,776
+She want equals 72 equals
+
+1901
+02:40:44,032 --> 02:40:45,056
+That is
+
+1902
+02:40:45,568 --> 02:40:46,336
+5
+
+1903
+02:40:47,104 --> 02:40:53,248
+And so we know that that's getting here so we're going to go ahead and run to the wall whenever you're at like this
+
+1904
+02:40:53,760 --> 02:40:54,528
+Slightly
+
+1905
+02:40:54,784 --> 02:40:57,088
+Inside the wall point
+
+1906
+02:40:57,344 --> 02:41:03,488
+But that still relies on like if this starts drifting over time like that then 10 minutes in the middle
+
+1907
+02:41:04,000 --> 02:41:06,816
+And like these are start accumulating as I walk around
+
+1908
+02:41:07,328 --> 02:41:13,472
+I still need to know and like I would imagine they're going to accumulate on like at least several inches below
+
+1909
+02:41:13,728 --> 02:41:19,872
+Those were saying sometimes I do there is definitely drifting sometimes they're saying it's actually not fresh and so we need to stick
+
+1910
+02:41:20,128 --> 02:41:26,272
+The real system doesn't have craft store
+
+1911
+02:41:26,528 --> 02:41:29,344
+I'm saying the way that the real system is implemented
+
+1912
+02:41:29,856 --> 02:41:36,000
+If there is small errors from whatever frame to frame it does not incur long-term
+
+1913
+02:41:36,512 --> 02:41:37,792
+Dr. fauci says
+
+1914
+02:41:38,048 --> 02:41:39,584
+God dammit where's my clipboard
+
+1915
+02:41:40,864 --> 02:41:47,008
+Oh no is he going to do another passive Twitter diagrammer
+
+1916
+02:41:50,592 --> 02:41:56,736
+What is the clipboard mean what behavior is coming back that was the one where we got our first hint
+
+1917
+02:41:56,992 --> 02:42:01,856
+For like you know like they do this thing with the lights and they will tell you how to
+
+1918
+02:42:02,368 --> 02:42:08,512
+How to do what you're after
+
+1919
+02:42:08,768 --> 02:42:11,072
+That's why I
+
+1920
+02:42:11,840 --> 02:42:15,424
+And the system will show you why you're wrong
+
+1921
+02:42:15,680 --> 02:42:16,192
+Okay
+
+1922
+02:42:20,032 --> 02:42:20,800
+I don't know
+
+1923
+02:42:26,176 --> 02:42:29,504
+Present my base hypotheses with the simplest situations
+
+1924
+02:42:30,528 --> 02:42:31,808
+And then you can chew on that
+
+1925
+02:42:33,600 --> 02:42:35,136
+Visit interesting places
+
+1926
+02:42:35,392 --> 02:42:36,416
+This does make
+
+1927
+02:42:36,928 --> 02:42:42,560
+So one of the things dr. Yates wanted me to do was to look at the
+
+1928
+02:42:43,328 --> 02:42:46,656
+To look at it with the ways we did in the cabin with the one
+
+1929
+02:42:46,912 --> 02:42:52,544
+Lighthouse pointed at the camera right
+
+1930
+02:42:52,800 --> 02:42:56,128
+Not helpful for me for thinking of this
+
+1931
+02:43:01,248 --> 02:43:04,832
+Different I don't know if anything I'm going to take offline to
+
+1932
+02:43:05,088 --> 02:43:05,856
+Thoroughly
+
+1933
+02:43:06,368 --> 02:43:06,880
+Thanks bro
+
+1934
+02:43:07,136 --> 02:43:13,280
+But like I feel like there's a lot of value in thinking about it this way cuz it does give you Deltas between the things very accurately
+
+1935
+02:43:14,048 --> 02:43:14,816
+I don't know
+
+1936
+02:43:15,328 --> 02:43:16,864
+I guess I just don't know if it's
+
+1937
+02:43:19,168 --> 02:43:22,240
+Getting absolute position I feel like it's
+
+1938
+02:43:22,496 --> 02:43:23,264
+Better
+
+1939
+02:43:24,800 --> 02:43:30,944
+I know for me it's just it's so easy to be able to draw a line out from the the lighthouse if I know it lighthouses but I don't know what
+
+1940
+02:43:37,088 --> 02:43:37,600
+I don't know
+
+1941
+02:43:37,856 --> 02:43:39,904
+Is Chat thing anything else
+
+1942
+02:43:41,184 --> 02:43:47,328
+Should I go I don't know people are saying we need a great job
+
+1943
+02:43:47,584 --> 02:43:48,352
+Mothers
+
+1944
+02:43:48,864 --> 02:43:55,008
+Some general questions possible Run the official room setup without two controllers come in late trying to understand
+
+1945
+02:43:55,264 --> 02:43:56,544
+What's going on pattern
+
+1946
+02:43:58,592 --> 02:44:02,944
+Sorry that this that we will be making the stream available later
+
+1947
+02:44:03,968 --> 02:44:10,112
+Right now I am trying to go against title of the stream and I'm trying to say that we don't need to know where the lighthouses are
+
+1948
+02:44:10,368 --> 02:44:16,512
+Intitle Loosely exactly like okra and a bunch of stuff is busted we need to fix it
+
+1949
+02:44:16,768 --> 02:44:22,912
+Let's collect some data and fix them
+
+1950
+02:44:24,448 --> 02:44:25,728
+Reminder fix megabox
+
+1951
+02:44:26,240 --> 02:44:26,752
+Metro
+
+1952
+02:44:28,032 --> 02:44:30,336
+Okay
+
+1953
+02:44:32,640 --> 02:44:38,784
+Does anybody in chat currently have any data that they would like collected if that would make it really easy
+
+1954
+02:44:39,040 --> 02:44:43,136
+You guys actually have something you want done or you want day 24 or something like that
+
+1955
+02:44:43,648 --> 02:44:49,792
+I can totally do that is anybody in chat right now who's actively working on with these problems on their own and
+
+1956
+02:44:50,048 --> 02:44:51,840
+Wish that they had access to some more data
+
+1957
+02:45:00,800 --> 02:45:01,824
+Top Golf
+
+1958
+02:45:02,336 --> 02:45:03,104
+What's going on
+
+1959
+02:45:04,640 --> 02:45:05,152
+Can't even
+
+1960
+02:45:07,456 --> 02:45:10,016
+Or anybody nobody in chat no data
+
+1961
+02:45:10,272 --> 02:45:11,808
+Nothing so far
+
+1962
+02:45:12,064 --> 02:45:16,672
+How to test put a headset at one end of a measuring stick it in the other
+
+1963
+02:45:16,928 --> 02:45:21,536
+Absolute chords to know where things are relative to each other
+
+1964
+02:45:22,816 --> 02:45:24,608
+Measuring stick
+
+1965
+02:45:25,376 --> 02:45:26,656
+Organic sounds like
+
+1966
+02:45:27,424 --> 02:45:33,568
+Try to correlate that data to an absolute measurement so yeah they're trying to figure out if the data is in like a kind
+
+1967
+02:45:33,824 --> 02:45:35,616
+Standard unit that we would
+
+1968
+02:45:35,872 --> 02:45:36,384
+Be able to
+
+1969
+02:45:36,640 --> 02:45:39,200
+Figure out like using a measuring stick
+
+1970
+02:45:41,760 --> 02:45:43,296
+Looks like
+
+1971
+02:45:44,064 --> 02:45:44,576
+Tom
+
+1972
+02:45:45,600 --> 02:45:50,720
+So what would you like Paul what what kind of data would you want me to take cuz I can easily take
+
+1973
+02:45:51,232 --> 02:45:55,072
+Like really looks like we got the headset to coming back to
+
+1974
+02:45:55,328 --> 02:46:01,472
+I can take the headset data and it will give you the the relative angles from a specific lighthouses point of view
+
+1975
+02:46:03,519 --> 02:46:06,335
+A different positions is that that would you like Paul
+
+1976
+02:46:13,759 --> 02:46:19,135
+TCL 98 7987 says can you get the absolute coordinates
+
+1977
+02:46:19,647 --> 02:46:23,999
+I walked by recording a walk around the room in the official room setup
+
+1978
+02:46:24,255 --> 02:46:25,023
+I don't know
+
+1979
+02:46:26,303 --> 02:46:32,447
+Collect this stand in the middle of room
+
+1980
+02:46:32,703 --> 02:46:38,847
+Richard 360-degrees on-the-spot
+
+1981
+02:46:40,127 --> 02:46:46,271
+Question about that rotation wines you cuz if we put the headset on and then we rotate that will require it being like
+
+1982
+02:46:46,527 --> 02:46:52,671
+Butternut Circle or do you just want to like sit here and then along like this particular
+
+1983
+02:46:52,927 --> 02:46:59,071
+Sensor rotate along or just like take the entire like
+
+1984
+02:47:04,959 --> 02:47:09,055
+Here
+
+1985
+02:47:20,063 --> 02:47:25,695
+Okay when I say absolute
+
+1986
+02:47:25,951 --> 02:47:29,791
+Removing the
+
+1987
+02:47:30,047 --> 02:47:34,143
+Stopping real quick whiteboard
+
+1988
+02:47:34,911 --> 02:47:41,055
+Whatever this is
+
+1989
+02:47:41,311 --> 02:47:43,871
+Horribly bad
+
+1990
+02:47:44,383 --> 02:47:46,943
+I'm going to move your math
+
+1991
+02:47:47,199 --> 02:47:52,831
+The chat is saying more rather than absolute coordinates it looking like coordinates in the real world
+
+1992
+02:47:53,087 --> 02:47:57,951
+Okay okay so here's what I was trying to
+
+1993
+02:47:58,207 --> 02:48:00,511
+This off
+
+1994
+02:48:00,767 --> 02:48:04,607
+Coordinates without attached
+
+1995
+02:48:08,191 --> 02:48:09,983
+Alexa.
+
+1996
+02:48:10,239 --> 02:48:16,383
+Pretty Jank for you I am the king of Jank
+
+1997
+02:48:16,639 --> 02:48:19,711
+Yeah
+
+1998
+02:48:20,735 --> 02:48:26,879
+After I still didn't see the backside of the units
+
+1999
+02:48:27,903 --> 02:48:31,743
+Okay so what I'm trying to say when I say absolute terms I mean
+
+2000
+02:48:31,999 --> 02:48:34,047
+I will just decide for this particular room
+
+2001
+02:48:34,303 --> 02:48:35,071
+Like right now
+
+2002
+02:48:35,327 --> 02:48:41,471
+What I'm going to do is I'm going to set up
+
+2003
+02:48:41,727 --> 02:48:47,871
+I think you have a particular space in this room that you reference as 00 and the Cartesian coordinate system
+
+2004
+02:48:48,639 --> 02:48:50,687
+This is a coordinate frame
+
+2005
+02:48:51,199 --> 02:48:52,223
+This is
+
+2006
+02:48:52,479 --> 02:48:56,319
+One Charles by one Charles by one Charles by 1 Charles
+
+2007
+02:48:57,599 --> 02:48:59,903
+And you can see I can pick it up when I can move around
+
+2008
+02:49:00,415 --> 02:49:02,975
+Imaginary light right here
+
+2009
+02:49:03,231 --> 02:49:05,279
+You're moving your entire cortesian
+
+2010
+02:49:05,791 --> 02:49:08,351
+Okay I am right now but but but but
+
+2011
+02:49:08,607 --> 02:49:09,631
+Now I'm not now
+
+2012
+02:49:11,423 --> 02:49:13,983
+Now I'm so right now
+
+2013
+02:49:14,239 --> 02:49:20,383
+I can I can say pretend that I have a wall that starts right over there goes there there there there
+
+2014
+02:49:20,639 --> 02:49:21,663
+Uni Nashua
+
+2015
+02:49:22,943 --> 02:49:24,223
+I have a pretend wall to
+
+2016
+02:49:24,991 --> 02:49:28,575
+Okay you drew it with your
+
+2017
+02:49:28,831 --> 02:49:31,903
+Once Okay so we've already set up the wall
+
+2018
+02:49:32,415 --> 02:49:33,183
+Yes okay
+
+2019
+02:49:33,695 --> 02:49:34,207
+Okay
+
+2020
+02:49:34,463 --> 02:49:35,231
+So now
+
+2021
+02:49:35,487 --> 02:49:37,279
+I want to render it for the person
+
+2022
+02:49:39,071 --> 02:49:41,119
+Yes and
+
+2023
+02:49:41,375 --> 02:49:44,191
+Play Shawty Imagining the spaces unity3d
+
+2024
+02:49:44,703 --> 02:49:45,471
+Yes
+
+2025
+02:49:47,263 --> 02:49:51,359
+So in order to I have to have a camera in the in the Sea Bright
+
+2026
+02:49:54,175 --> 02:49:59,807
+Let me know everything
+
+2027
+02:50:00,063 --> 02:50:00,575
+Well
+
+2028
+02:50:00,831 --> 02:50:02,623
+Can't see anything unless there's a camera
+
+2029
+02:50:03,391 --> 02:50:09,535
+But is there a camera or are there multiple cameras
+
+2030
+02:50:09,791 --> 02:50:15,167
+There are two cameras on One camera assembly
+
+2031
+02:50:15,679 --> 02:50:18,239
+There two cameras one for each eye
+
+2032
+02:50:20,031 --> 02:50:21,055
+Okay so that's
+
+2033
+02:50:21,311 --> 02:50:24,895
+And then the idea would be that in order to display the wall
+
+2034
+02:50:25,151 --> 02:50:29,247
+From my perspective you're saying that you could
+
+2035
+02:50:29,759 --> 02:50:34,879
+And you kind of start with like saying that okay to head is when we start we're starting a 2000
+
+2036
+02:50:35,135 --> 02:50:41,279
+And we have incremental updates as we move along but move us around in this coordinate frame start with the
+
+2037
+02:50:41,535 --> 02:50:42,559
+Is it right here
+
+2038
+02:50:42,815 --> 02:50:44,863
+And we can golfer the transforms for that
+
+2039
+02:50:45,119 --> 02:50:46,911
+I just worry that overtime
+
+2040
+02:50:48,703 --> 02:50:49,215
+Like
+
+2041
+02:50:49,471 --> 02:50:55,359
+That wall that I'm drawing in front of me which will track perfectly to begin with Hillcrest start to drift over that way so
+
+2042
+02:50:55,615 --> 02:51:00,991
+Or some way
+
+2043
+02:51:02,015 --> 02:51:04,063
+And so I guess that's where I'm coming from
+
+2044
+02:51:04,831 --> 02:51:07,647
+The value that I think that
+
+2045
+02:51:08,415 --> 02:51:14,559
+What flight variable piece of technology pieces Mass where it where are you worried about that dripped out
+
+2046
+02:51:16,351 --> 02:51:18,655
+Oh what you mean the cause of it
+
+2047
+02:51:19,423 --> 02:51:19,935
+Yes
+
+2048
+02:51:20,191 --> 02:51:20,703
+Okay
+
+2049
+02:51:20,959 --> 02:51:23,263
+So whenever those things to say
+
+2050
+02:51:23,519 --> 02:51:29,663
+Right now your photodiode is right here actually that way and sometimes
+
+2051
+02:51:29,919 --> 02:51:35,807
+That way it's really over there a little bit little bit or not
+
+2052
+02:51:36,319 --> 02:51:36,831
+Perfect
+
+2053
+02:51:37,599 --> 02:51:43,743
+They've stabilized to ridiculous amounts of sounds like
+
+2054
+02:51:43,999 --> 02:51:46,559
+1 something arcseconds like
+
+2055
+02:51:47,071 --> 02:51:49,631
+I don't remember what it is
+
+2056
+02:51:49,887 --> 02:51:52,447
+Itty bitty idiot Nvidia now
+
+2057
+02:51:52,703 --> 02:51:55,519
+But you get that update 60 times a second
+
+2058
+02:51:58,079 --> 02:51:58,847
+And
+
+2059
+02:51:59,103 --> 02:52:01,919
+So for every single time say it's like okay well it was
+
+2060
+02:52:02,175 --> 02:52:04,735
+A little bit that way that way
+
+2061
+02:52:05,247 --> 02:52:09,087
+I just had a question about what is the are crashing look like for fun
+
+2062
+02:52:09,855 --> 02:52:10,367
+What do you mean
+
+2063
+02:52:11,391 --> 02:52:17,535
+Sounds like it has some crazy are correction algorithms happy on top of the other things that are already happening so I don't what it is
+
+2064
+02:52:17,791 --> 02:52:21,887
+That's why they're so important
+
+2065
+02:52:26,751 --> 02:52:27,775
+Yeah but why aren't
+
+2066
+02:52:30,591 --> 02:52:34,943
+They're talking about a diagram that got those little earlier up here let me look this
+
+2067
+02:52:41,599 --> 02:52:42,623
+I'm sorry
+
+2068
+02:52:43,135 --> 02:52:45,439
+Have a horrible in Spanish why you asked
+
+2069
+02:52:46,207 --> 02:52:47,999
+Where does the air come from or something like that
+
+2070
+02:52:51,583 --> 02:52:54,399
+That's why that's so important because they're constantly
+
+2071
+02:52:54,655 --> 02:52:59,007
+Tracking for that dress even constantly maybe like once every
+
+2072
+02:52:59,263 --> 02:53:01,311
+50 seconds or once every like
+
+2073
+02:53:01,823 --> 02:53:07,455
+360 Cycles or something
+
+2074
+02:53:08,223 --> 02:53:14,367
+I think that they're doing corrections but I don't think that they're going to be able to get the air down
+
+2075
+02:53:14,623 --> 02:53:20,767
+Do like the over several minutes the integrated like every single time
+
+2076
+02:53:21,023 --> 02:53:22,815
+Keep track of the original position
+
+2077
+02:53:23,583 --> 02:53:29,215
+How they do that
+
+2078
+02:53:30,751 --> 02:53:33,567
+Just remember one thing
+
+2079
+02:53:33,823 --> 02:53:36,639
+Pretend that the method down there
+
+2080
+02:53:36,895 --> 02:53:40,479
+Okay well what have you started
+
+2081
+02:53:40,735 --> 02:53:43,551
+So it was that right here
+
+2082
+02:53:43,807 --> 02:53:49,951
+And then we figure out where the cameras are and then we move around so then the headset to find the coordinate frame but what
+
+2083
+02:53:50,207 --> 02:53:52,511
+I'm thinking right now is weed stupid heads at right there
+
+2084
+02:53:53,023 --> 02:53:54,047
+And then
+
+2085
+02:53:54,815 --> 02:53:56,351
+As we move it
+
+2086
+02:53:57,119 --> 02:54:00,959
+El between each other relatives to the okay if we had a single lighthouse
+
+2087
+02:54:04,287 --> 02:54:05,823
+What I was imagining was
+
+2088
+02:54:06,079 --> 02:54:09,407
+If we had if we had started with the right here but then now it's over here
+
+2089
+02:54:09,663 --> 02:54:14,783
+So now we have a Delta before change between this to this and this and this today
+
+2090
+02:54:15,039 --> 02:54:18,367
+So from there to here now we can define a relative
+
+2091
+02:54:18,879 --> 02:54:20,159
+Rotation
+
+2092
+02:54:20,415 --> 02:54:21,183
+Catch
+
+2093
+02:54:21,439 --> 02:54:22,207
+All of that stuff
+
+2094
+02:54:23,487 --> 02:54:24,255
+Yes yes
+
+2095
+02:54:24,511 --> 02:54:25,023
+Okay
+
+2096
+02:54:25,279 --> 02:54:26,303
+So now
+
+2097
+02:54:26,559 --> 02:54:28,351
+We can then get this an absolute Court
+
+2098
+02:54:32,191 --> 02:54:35,775
+If I did find this right here is 000
+
+2099
+02:54:36,799 --> 02:54:37,823
+And now it's here
+
+2100
+02:54:38,079 --> 02:54:41,663
+Now it's actually 001
+
+2101
+02:54:42,175 --> 02:54:46,271
+Is that what absolute is for you that's absolute for me
+
+2102
+02:54:48,831 --> 02:54:51,135
+That is also relative right now
+
+2103
+02:54:51,647 --> 02:54:54,719
+My entire world
+
+2104
+02:54:55,743 --> 02:54:59,327
+Revolves around this coordinate frame that I made several years ago
+
+2105
+02:54:59,583 --> 02:55:00,351
+So
+
+2106
+02:55:03,167 --> 02:55:07,007
+Like to me this is absolutely 001
+
+2107
+02:55:07,263 --> 02:55:08,799
+But not necessarily
+
+2108
+02:55:09,055 --> 02:55:10,591
+001 m
+
+2109
+02:55:12,383 --> 02:55:18,527
+In this particular case where I am holding it this is 001m
+
+2110
+02:55:21,087 --> 02:55:22,111
+This is
+
+2111
+02:55:23,135 --> 02:55:25,439
+And you care about it being one m
+
+2112
+02:55:26,207 --> 02:55:29,279
+And you know that it's 1 M because
+
+2113
+02:55:31,839 --> 02:55:35,935
+Because if I'm going to present it from this point to be right here
+
+2114
+02:55:36,447 --> 02:55:41,567
+It would look different than this point to be right here how do you know that it's a m decks
+
+2115
+02:55:42,591 --> 02:55:47,199
+One thing I would need to know the right place in the unity 3D environment
+
+2116
+02:55:53,855 --> 02:55:54,623
+Do we want to
+
+2117
+02:55:54,879 --> 02:55:57,439
+You want to move on I don't know I think we're kind of did the
+
+2118
+02:55:57,951 --> 02:55:59,743
+Contemporary dance
+
+2119
+02:55:59,999 --> 02:56:01,791
+Is that okay okay
+
+2120
+02:56:03,327 --> 02:56:04,607
+John Q U
+
+2121
+02:56:04,863 --> 02:56:07,679
+That picture at me or something
+
+2122
+02:56:08,191 --> 02:56:08,959
+Show diagram
+
+2123
+02:56:09,727 --> 02:56:12,799
+I mean I don't know I just know that it's kind of
+
+2124
+02:56:13,311 --> 02:56:19,455
+Don't know I've never managed this before I'm not a professional
+
+2125
+02:56:19,711 --> 02:56:21,247
+Resend I can click on it
+
+2126
+02:56:22,527 --> 02:56:24,575
+Oh my God people are saying so much stuff
+
+2127
+02:56:24,831 --> 02:56:27,391
+Probably you're getting overwhelmed you need to like
+
+2128
+02:56:27,903 --> 02:56:29,439
+Taken what we can take on
+
+2129
+02:56:29,951 --> 02:56:33,279
+Yeah we might want to end the live stream soon
+
+2130
+02:56:33,791 --> 02:56:37,375
+Let me mention wanting to actually get data though
+
+2131
+02:56:37,887 --> 02:56:39,167
+If you can
+
+2132
+02:56:40,447 --> 02:56:44,031
+Can just mention back in the chat again what day do you like and then we can try to
+
+2133
+02:56:44,543 --> 02:56:50,687
+At least do something we said we would do this live stream
+
+2134
+02:56:50,943 --> 02:56:52,991
+Like tasks essentially right
+
+2135
+02:56:53,247 --> 02:56:56,575
+Oh yeah
+
+2136
+02:56:57,087 --> 02:57:03,231
+Oh yeah that's a good point if you guys want something to Dad at ask for it and I'll go do it in fact we don't have to wait for the livestream for me to do
+
+2137
+02:57:03,487 --> 02:57:03,999
+Anytime
+
+2138
+02:57:05,023 --> 02:57:07,583
+Okay so I have open here wow
+
+2139
+02:57:07,839 --> 02:57:10,143
+I have open here images
+
+2140
+02:57:10,399 --> 02:57:12,703
+Well hold on let me go
+
+2141
+02:57:12,959 --> 02:57:14,495
+Resize the camera again
+
+2142
+02:57:14,751 --> 02:57:17,055
+I need to process this
+
+2143
+02:57:22,175 --> 02:57:27,551
+By the way I think I have an answer for the meter question but I was waiting
+
+2144
+02:57:28,319 --> 02:57:28,831
+Which was
+
+2145
+02:57:30,623 --> 02:57:31,647
+Oh you mean later
+
+2146
+02:57:33,439 --> 02:57:36,511
+I mean either way I can do it now or later
+
+2147
+02:57:39,071 --> 02:57:42,399
+Okay so I have brought up this diagram who made the diagram
+
+2148
+02:57:42,655 --> 02:57:44,447
+Let me find it
+
+2149
+02:57:44,703 --> 02:57:46,751
+Take a picture first
+
+2150
+02:57:50,847 --> 02:57:53,919
+They roll
+
+2151
+02:57:54,175 --> 02:57:55,455
+Oh okay
+
+2152
+02:57:55,711 --> 02:58:01,855
+Negril are Nightcrawler I don't know how to pronounce your name is the one who's responsible for documenting
+
+2153
+02:58:02,111 --> 02:58:07,487
+The great volume of information that we know in the community about the
+
+2154
+02:58:07,999 --> 02:58:09,023
+About the vibe
+
+2155
+02:58:09,279 --> 02:58:14,911
+So that diagram that's up on the screen they're Night Raw I don't know what I'm looking at
+
+2156
+02:58:15,423 --> 02:58:21,567
+It looks like a chart of the headset the two points on it that you're viewing from
+
+2157
+02:58:22,847 --> 02:58:27,199
+Do you think you understand you should probably go sit in my chair and pipe up
+
+2158
+02:58:29,759 --> 02:58:32,063
+Lonely sort of shore
+
+2159
+02:58:32,831 --> 02:58:36,159
+Maybe neither all can start using some more words okay hold on
+
+2160
+02:58:36,415 --> 02:58:42,559
+The original context it was posted if I understand that correctly than they want to solve the inscribed angle theorem in 3D space
+
+2161
+02:58:42,815 --> 02:58:44,351
+The lighthouse
+
+2162
+02:58:44,607 --> 02:58:48,703
+Like this but in 3D so this is a 2d
+
+2163
+02:58:49,215 --> 02:58:51,263
+Example of what he is discussing
+
+2164
+02:58:51,519 --> 02:58:53,311
+Okay
+
+2165
+02:58:53,567 --> 02:58:55,615
+Nairobi Jake
+
+2166
+02:58:55,871 --> 02:58:57,407
+BK Tuesday
+
+2167
+02:58:57,663 --> 02:59:02,783
+The inscribed angle says that if I know the angle between two points in their distance I can find the circle
+
+2168
+02:59:03,039 --> 02:59:06,111
+With the two points in the Observer sit on
+
+2169
+02:59:06,367 --> 02:59:07,647
+That was my state point
+
+2170
+02:59:08,415 --> 02:59:10,207
+Forget about the PNC
+
+2171
+02:59:10,463 --> 02:59:11,999
+Forget about CNG
+
+2172
+02:59:17,887 --> 02:59:21,215
+The trailer Hidden they exist they're just not visible
+
+2173
+02:59:41,183 --> 02:59:46,047
+He has Paul Martin says I would like you to put the HDMI location and Reapers that
+
+2174
+02:59:46,303 --> 02:59:49,119
+Repositioning the status of the way for instance one
+
+2175
+02:59:49,375 --> 02:59:50,399
+1 / yard
+
+2176
+02:59:52,447 --> 02:59:58,591
+Paul do I need to just start it at our magical coordinate frame and then move it up one meter like I was suggesting and pointing at a
+
+2177
+02:59:58,847 --> 02:59:59,871
+Pacific camera
+
+2178
+03:00:01,663 --> 03:00:03,967
+Do we have a new person
+
+2179
+03:00:04,735 --> 03:00:06,527
+We have a tape measure
+
+2180
+03:00:08,319 --> 03:00:14,463
+I wish we had a meter stick though but we're in America
+
+2181
+03:00:14,719 --> 03:00:16,511
+Staples baby in order
+
+2182
+03:00:17,535 --> 03:00:23,679
+Not now we will try to take us off and Packer says I'd like to hear the answer
+
+2183
+03:00:25,215 --> 03:00:31,359
+You mean termini's M question I believe so
+
+2184
+03:00:31,615 --> 03:00:37,759
+If anybody else in chat has any good explanation as to why
+
+2185
+03:00:38,015 --> 03:00:44,159
+The absolute Physicians matter that would be really good because I don't know how to explain my understanding of
+
+2186
+03:00:51,839 --> 03:00:54,143
+My opinion is that I've been through
+
+2187
+03:00:54,399 --> 03:00:57,471
+Moderating chat I haven't been following walkthrough disgusting
+
+2188
+03:00:57,727 --> 03:01:00,287
+A little tired and
+
+2189
+03:01:00,799 --> 03:01:01,567
+I feel like
+
+2190
+03:01:01,823 --> 03:01:07,967
+There are better head to the task than mine but I'm sorry
+
+2191
+03:01:12,575 --> 03:01:18,719
+Paul says that Mindy the reason we want to M because he wants position I we want to position in real space
+
+2192
+03:01:21,023 --> 03:01:27,167
+I also tried to talk to OK Google
+
+2193
+03:01:27,423 --> 03:01:33,567
+Oh wait
+
+2194
+03:01:33,823 --> 03:01:39,199
+What was Mindy's answer to the m question
+
+2195
+03:01:39,455 --> 03:01:45,599
+Okay she is reading up on the Whiteboard
+
+2196
+03:01:45,855 --> 03:01:51,999
+Okay tell you what are you guys okay with us just trying to
+
+2197
+03:01:52,255 --> 03:01:55,839
+Do another live stream sooner than later and just ending the soon
+
+2198
+03:01:57,119 --> 03:02:03,263
+I don't know I don't know what what is what is everybody's feelings I can just keep doing this indefinitely
+
+2199
+03:02:04,543 --> 03:02:09,663
+Cuz next weekend
+
+2200
+03:02:10,431 --> 03:02:16,575
+And then I have something planned for the weekend after and then
+
+2201
+03:02:16,831 --> 03:02:21,695
+I know
+
+2202
+03:02:21,951 --> 03:02:25,279
+That's why I'm irritated
+
+2203
+03:02:29,375 --> 03:02:35,519
+But I know it's going to be at least three days after magfest before I'm coherent again
+
+2204
+03:02:35,775 --> 03:02:38,335
+The entire weekend awake and heavily drunk
+
+2205
+03:02:47,039 --> 03:02:51,903
+Figure out how to explain that last bit there are because I was just like
+
+2206
+03:02:52,415 --> 03:02:54,207
+Distracted and tired
+
+2207
+03:02:54,463 --> 03:03:00,607
+That looks like most people are fine with us and they can do another one
+
+2208
+03:03:00,863 --> 03:03:02,399
+If you can
+
+2209
+03:03:03,679 --> 03:03:04,703
+Mini quickly write off
+
+2210
+03:03:04,959 --> 03:03:11,103
+Your explanation says people can see it then we'll just call it a
+
+2211
+03:03:11,359 --> 03:03:12,639
+After that
+
+2212
+03:03:12,895 --> 03:03:15,199
+So am I whiteboarding in front of the internet now
+
+2213
+03:03:16,735 --> 03:03:22,879
+Yes you can wait for it off to the side or in front of the internet if you want I guess no not at all
+
+2214
+03:03:27,743 --> 03:03:33,375
+Let me think for a second cuz I'm of the food sometimes just me staring off into space
+
+2215
+03:03:46,943 --> 03:03:53,087
+Have a picture
+
+2216
+03:03:53,343 --> 03:03:56,159
+Laptop and just plug in SD card
+
+2217
+03:03:56,415 --> 03:04:01,791
+SD cards
+
+2218
+03:04:07,679 --> 03:04:10,495
+Okay do you have do you have the thing or not
+
+2219
+03:04:10,751 --> 03:04:12,031
+Everything
+
+2220
+03:04:12,287 --> 03:04:18,431
+The the thing that you do not have a reader
+
+2221
+03:04:25,087 --> 03:04:31,231
+Okay
+
+2222
+03:04:31,487 --> 03:04:37,631
+Play Paul's test start at 1 position
+
+2223
+03:04:44,287 --> 03:04:50,431
+Sorry for you
+
+2224
+03:04:50,687 --> 03:04:56,831
+Making terrible jokes well Paul remember I was not the first person to do this
+
+2225
+03:04:57,087 --> 03:05:03,231
+And on top of that my role was definitely I guess as far as anybody from
+
+2226
+03:05:03,487 --> 03:05:09,631
+Give him the biggest props because the Spanx if it wasn't for his work
+
+2227
+03:05:09,887 --> 03:05:16,031
+Early on then nobody would have gotten anywhere I would just looked at it been like well nobody knows anything not going to do it
+
+2228
+03:05:16,287 --> 03:05:22,431
+Cuz I'm willing to work I just you know I'm not willing to be the first
+
+2229
+03:05:22,687 --> 03:05:28,831
+I'm polite just updated your thing anybody else have anything
+
+2230
+03:05:29,087 --> 03:05:35,231
+Anything else that we need to focus on now
+
+2231
+03:05:35,487 --> 03:05:41,375
+Think that's why I don't think there's that much
+
+2232
+03:05:41,631 --> 03:05:45,983
+What is the total length of the LifeStream
+
+2233
+03:05:46,239 --> 03:05:52,383
+Cuz I don't even have a Time
+
+2234
+03:05:52,639 --> 03:05:58,783
+So we can totally consider should we could probably cut it now and then we'll see
+
+2235
+03:05:59,039 --> 03:06:05,183
+Where we can get after it doesn't make sense we will do another brief video
+
+2236
+03:06:06,719 --> 03:06:12,863
+I mean I guess what we really need
+
+2237
+03:06:13,119 --> 03:06:19,263
+This point is like a chat room or something I will say this chord chord
+
+2238
+03:06:19,519 --> 03:06:23,103
+Scored for us pretty much the same thing
+
+2239
+03:06:23,359 --> 03:06:29,503
+No voice chat
+
+2240
+03:06:29,759 --> 03:06:34,879
+Images in all it's pretty much the same
+
+2241
+03:06:35,135 --> 03:06:41,279
+I know you just how can you give an estimate of the next Vice gris-gris dream before cut
+
+2242
+03:06:41,535 --> 03:06:47,679
+What do you mean by an estimate of the next live stream
+
+2243
+03:06:47,935 --> 03:06:54,079
+The next one be like oh that's really rough with the problem is next the next week is
+
+2244
+03:06:54,335 --> 03:07:00,479
+Bakery preparation for magfest and then magfest is the weekend after this coming one and is Monday night
+
+2245
+03:07:00,735 --> 03:07:05,343
+Shmoocon which I think she's involved with so it's there's just no way
+
+2246
+03:07:12,255 --> 03:07:18,399
+I don't have the data plan for in my work, Oregon
+
+2247
+03:07:18,655 --> 03:07:24,799
+Okay there's enough people here who are excited for the prospect of training at mag.
+
+2248
+03:07:25,055 --> 03:07:31,199
+Sounds like we're going to stream two weeks from tonight
+
+2249
+03:07:31,455 --> 03:07:34,527
+Get a space in the living room cut out for us to use the Vive
+
+2250
+03:07:34,783 --> 03:07:40,927
+Okay we can we we will try to stream live from magfest two weeks from tonight
+
+2251
+03:07:41,183 --> 03:07:42,463
+I may be drunk
+
+2252
+03:07:42,719 --> 03:07:48,863
+Just a heads up and if anybody else like you guys can make it out to magfest that would be
+
+2253
+03:07:49,119 --> 03:07:51,423
+Super cool to meet up with some of you guys
+
+2254
+03:07:54,239 --> 03:08:00,383
+Probably find out if they're at Mike that I'm pretty sure they're going to go find us I hope you
+
+2255
+03:08:00,639 --> 03:08:05,503
+Greenland room like
+
+2256
+03:08:05,759 --> 03:08:11,903
+Comeuppance
+
+2257
+03:08:12,159 --> 03:08:18,303
+Man I man please enjoy magfest but dreams are Pleasant
+
+2258
+03:08:18,559 --> 03:08:24,703
+Magfest will have a blast
+
+2259
+03:08:24,959 --> 03:08:31,103
+End up going on tour somewhere else to do it may not stick just to the Vive at that point
+
+2260
+03:08:31,359 --> 03:08:37,503
+We may end up switching to streaming from a phone and just walking
+
+2261
+03:08:37,759 --> 03:08:40,319
+Around
+
+2262
+03:08:45,183 --> 03:08:51,327
+No hate Mindy this is coming at you might find useful the
+
+2263
+03:08:53,119 --> 03:08:55,423
+Alphabet just posted this year
+
+2264
+03:08:57,983 --> 03:09:04,127
+Alphabet
+
+2265
+03:09:04,383 --> 03:09:10,527
+Play Packer I could not see the face I had no idea I thought
+
+2266
+03:09:10,783 --> 03:09:16,927
+Sorry I'm I thought there was going to be like
+
+2267
+03:09:17,183 --> 03:09:18,207
+Google
+
+2268
+03:09:19,999 --> 03:09:21,535
+The circle is that I've
+
+2269
+03:09:23,839 --> 03:09:29,983
+The four dots are the sensors that are tracked these sensors have known distances from each other yes
+
+2270
+03:09:31,007 --> 03:09:37,151
+That's the beginning of my talk yes this is simply straight on you yep sensors are farther apart
+
+2271
+03:09:41,759 --> 03:09:46,623
+I didn't draw pictures pictures this is exactly what's happening
+
+2272
+03:09:48,159 --> 03:09:53,791
+And this Vive is the same distance but since the Thompsons are closer they do know the vibe is looking up
+
+2273
+03:09:54,047 --> 03:09:55,327
+Yasso rotation
+
+2274
+03:09:59,423 --> 03:10:00,703
+Pictures again
+
+2275
+03:10:01,983 --> 03:10:03,007
+Pictures
+
+2276
+03:10:04,031 --> 03:10:10,175
+Rob bumpers also makes me good suggestion to post the Discord won't stop indicate help
+
+2277
+03:10:10,431 --> 03:10:16,575
+Okay so you guys are up for Discord and on the issues and all
+
+2278
+03:10:16,831 --> 03:10:22,975
+And it does sound like it makes sense of parallel paths I would be totally up for something it says not determined look
+
+2279
+03:10:23,231 --> 03:10:24,511
+Locations of lighthouses
+
+2280
+03:10:24,767 --> 03:10:30,655
+Provided I mean I care a great deal about I think I care about absolute positions
+
+2281
+03:10:31,679 --> 03:10:34,751
+We will have to stay
+
+2282
+03:10:36,031 --> 03:10:37,567
+Okay yes
+
+2283
+03:10:37,823 --> 03:10:43,967
+How long will it take we could probably just leave this created it right now
+
+2284
+03:10:44,223 --> 03:10:49,343
+Okay can you also do you mind I think you can just do a push pull request on GitHub and then it'll just
+
+2285
+03:10:49,599 --> 03:10:50,879
+I can just accept that
+
+2286
+03:10:51,647 --> 03:10:54,207
+Supposed to Lincoln here first then do a pull request
+
+2287
+03:11:04,191 --> 03:11:04,959
+Okay
+
+2288
+03:11:08,799 --> 03:11:11,359
+3 hours now
+
+2289
+03:11:12,639 --> 03:11:13,663
+It is 3 right
+
+2290
+03:11:13,919 --> 03:11:18,015
+Well yes we definitely been screaming for more than two
+
+2291
+03:11:35,935 --> 03:11:41,823
+And now we're going to be taking this offline momentarily but I will have the
+
+2292
+03:11:42,079 --> 03:11:45,663
+Nothing at it and you guys can can hop into the Discord
+
+2293
+03:11:45,919 --> 03:11:48,223
+There's already a bunch of people internal Discord
+
+2294
+03:11:48,479 --> 03:11:49,247
+Okay
+
+2295
+03:11:49,503 --> 03:11:50,271
+Sweat.
+
+2296
+03:11:51,551 --> 03:11:54,367
+7 people other than myself were already in here
+
+2297
+03:12:01,023 --> 03:12:07,167
+But basically the goal of the Discord is on the side of different channels for different topics
+
+2298
+03:12:07,423 --> 03:12:08,447
+Keep discussion
+
+2299
+03:12:08,959 --> 03:12:11,775
+Centered around a specific Topic in each area
+
+2300
+03:12:13,055 --> 03:12:14,591
+Oh my gosh it is Christmas Eve
+
+2301
+03:12:15,359 --> 03:12:16,895
+Yes it is
+
+2302
+03:12:17,663 --> 03:12:18,687
+Goodnight Paul
+
+2303
+03:12:19,711 --> 03:12:25,855
+Actually yeah I really need to get out of here soon K supposed to go somewhere at like 9 in the morning and this could suck
+
+2304
+03:12:27,135 --> 03:12:29,183
+Meeting girlfriend's family tomorrow
+
+2305
+03:12:30,975 --> 03:12:32,767
+Supposed to meet my aunt in the morning
+
+2306
+03:12:35,327 --> 03:12:41,471
+Oh my God people are already home I got a lot of people here
+
+2307
+03:12:41,727 --> 03:12:47,871
+What's your what's your name in the chat I know your name but I don't know anything beyond that
+
+2308
+03:12:48,895 --> 03:12:49,919
+I'm Ellis
+
+2309
+03:12:51,199 --> 03:12:52,735
+Movies Horizons that is
+
+2310
+03:12:56,063 --> 03:12:58,367
+Oh crap
+
+2311
+03:12:59,647 --> 03:13:05,791
+Sorry I can't hear you if you're in the voice chat on here I just haven't set up voice chat on here so it was on The Voice
+
+2312
+03:13:10,655 --> 03:13:15,263
+You're really helpful when we were doing the Bendy coating thing that was really good
+
+2313
+03:13:16,799 --> 03:13:22,943
+Okay thank you everybody for coming out it was really great
+
+2314
+03:13:23,199 --> 03:13:23,967
+Hanging out
+
+2315
+03:13:24,223 --> 03:13:27,039
+I know you didn't get anything done
+
+2316
+03:13:27,295 --> 03:13:30,879
+I'm hoping that over the next two weeks
+
+2317
+03:13:31,135 --> 03:13:33,951
+But we'll have to see what it all
+
+2318
+03:13:34,207 --> 03:13:35,231
+Call happens

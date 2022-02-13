@@ -1,0 +1,4223 @@
+1
+00:00:00,256 --> 00:00:06,400
+Hello everybody welcome and thank you for coming out to the 9th livestream here I just kept leaving
+
+2
+00:00:06,656 --> 00:00:08,448
+Lighting this after all this time
+
+3
+00:00:10,752 --> 00:00:16,896
+Has been done by a wide variety of people people like E-Class her over
+
+4
+00:00:17,152 --> 00:00:19,456
+Discord have been trying out for 5
+
+5
+00:00:19,712 --> 00:00:25,856
+With different pieces of hardware such as the Raspberry Pi the odroid various internal cards in video
+
+6
+00:00:26,368 --> 00:00:30,720
+One of the things that even though we don't have anything right now to put me into
+
+7
+00:00:30,976 --> 00:00:32,000
+Codewise
+
+8
+00:00:32,256 --> 00:00:37,376
+We want to make sure that we're going to get this my charger as possible that can output to the HTC vive
+
+9
+00:00:37,632 --> 00:00:43,776
+Now you might say oh but why don't you do like a really powerful video card and the answer is flat out no
+
+10
+00:00:44,032 --> 00:00:49,408
+Alexa which isn't very much on my Intel card and so that's one thing I know can work
+
+11
+00:00:49,920 --> 00:00:56,064
+But right now trying to figure out is there any way to get the volume to work on a raspberry pies they're really really had survived to work
+
+12
+00:00:56,320 --> 00:00:57,600
+And all of this other stuff
+
+13
+00:00:57,856 --> 00:01:00,672
+Can so he's been doing a lot of work figuring that one out
+
+14
+00:01:00,928 --> 00:01:06,048
+Additionally mwtv I don't actually know what handily goes by
+
+15
+00:01:06,304 --> 00:01:12,448
+What is doing enormous amount of work with with having the the steam tractor and being able to get that
+
+16
+00:01:12,704 --> 00:01:18,848
+To the rest of the system but not done in wireless mode
+
+17
+00:01:19,104 --> 00:01:23,968
+Additionally live survive now has support for windows and OSX
+
+18
+00:01:24,224 --> 00:01:28,320
+Random Windows it's Portsmouth PC if you don't want install
+
+19
+00:01:28,832 --> 00:01:29,856
+Visual Studio
+
+20
+00:01:30,112 --> 00:01:36,256
+Visual Studio both of the 4 driver registration models
+
+21
+00:01:36,512 --> 00:01:41,376
+Different drivers further 5 can be written and just use
+
+22
+00:01:41,632 --> 00:01:47,520
+Are without having to change any other codes you can just go Linkin and you driver and it just works
+
+23
+00:01:49,312 --> 00:01:55,456
+And yes no not 1080p definitely not actually streaming from my laptop
+
+24
+00:01:57,248 --> 00:02:00,576
+There I'll be off working on my computer
+
+25
+00:02:00,832 --> 00:02:02,112
+Quiet
+
+26
+00:02:02,368 --> 00:02:08,512
+That is because hopefully will get it least trying to print a circuit board and maybe seen what
+
+27
+00:02:08,768 --> 00:02:14,912
+Turn alarm volume looks like I only have about 3 hours so it's going to be a bit of a stretch but I still
+
+28
+00:02:15,936 --> 00:02:16,704
+On
+
+29
+00:02:17,216 --> 00:02:23,360
+Those with the steam cracker od2 Chapman has been working
+
+30
+00:02:23,616 --> 00:02:29,248
+Plus way I figure out a better way to do
+
+31
+00:02:38,976 --> 00:02:45,120
+David Japanese been working on a poser so the the lights
+
+32
+00:02:45,376 --> 00:02:46,400
+Systems
+
+33
+00:02:46,656 --> 00:02:52,800
+The first are part of the system is where you take on data comes from device
+
+34
+00:02:53,056 --> 00:02:59,200
+On and these devices are called things like survive underscore
+
+35
+00:02:59,456 --> 00:03:05,600
+The source that we actually have and what it does is it collect
+
+36
+00:03:05,856 --> 00:03:08,416
+Light pulses in imu information
+
+37
+00:03:08,672 --> 00:03:14,816
+And that into our survive data and survived
+
+38
+00:03:15,072 --> 00:03:18,144
+Guess these codes in handle lightcap
+
+39
+00:03:18,400 --> 00:03:23,520
+And another thing people have been working on newer disambiguated
+
+40
+00:03:23,776 --> 00:03:27,872
+Stop going back to that comes from devices
+
+41
+00:03:28,128 --> 00:03:34,272
+Is Dan goes into something called a disambiguation
+
+42
+00:03:34,528 --> 00:03:40,672
+Finger yourself please turn I saw this policy right old is Paul Stewart old is pulse hear what the angle of view is
+
+43
+00:03:40,928 --> 00:03:47,072
+From the Lighthouse then from there you can go into either the calibrator
+
+44
+00:03:47,328 --> 00:03:53,472
+The rest of the system still under process the data comes
+
+45
+00:03:53,728 --> 00:03:55,008
+Ian from the Lighthouse
+
+46
+00:03:55,264 --> 00:04:01,408
+Arm and then are we haven't actually coded yet but theoretically we were going to be able to use the base
+
+47
+00:04:01,664 --> 00:04:02,688
+Do you know txt
+
+48
+00:04:02,944 --> 00:04:07,552
+Which I think is a pretty good idea what does
+
+49
+00:04:07,808 --> 00:04:13,952
+Can I have to trial and error 14 little bit further and once we can actually validate
+
+50
+00:04:14,208 --> 00:04:17,791
+So it will take the data that's coming in from the lighthouses
+
+51
+00:04:18,047 --> 00:04:24,191
+And then we'll see how does that producing good solution bad solution to good solution well
+
+52
+00:04:24,447 --> 00:04:30,591
+Then we have a pretty good idea that day what we're doing to handle the information from
+
+53
+00:04:31,615 --> 00:04:33,151
+The lighthouses is correct
+
+54
+00:04:35,199 --> 00:04:40,319
+Otherwise we'll just have to keep troubleshooting that
+
+55
+00:04:40,831 --> 00:04:46,975
+And then the data is passed off to on either
+
+56
+00:04:47,231 --> 00:04:50,559
+Will right now to cast off to posters and the calibrator
+
+57
+00:04:51,071 --> 00:04:52,607
+And we have poses
+
+58
+00:04:52,863 --> 00:04:56,703
+Such as ortho or poser troll slow
+
+59
+00:04:56,959 --> 00:05:00,287
+Are which candle are angle information
+
+60
+00:05:00,543 --> 00:05:03,103
+And then compute the the
+
+61
+00:05:03,359 --> 00:05:05,663
+The orientation and all of that all
+
+62
+00:05:05,919 --> 00:05:12,063
+An object based on it so one thing I can do right now is me
+
+63
+00:05:12,319 --> 00:05:18,463
+Reporter pipe
+
+64
+00:05:21,791 --> 00:05:23,071
+Voice 05
+
+65
+00:05:23,327 --> 00:05:26,655
+IMessages Dave's mechanism forearm
+
+66
+00:05:27,167 --> 00:05:30,239
+Visualisation here
+
+67
+00:05:36,383 --> 00:05:36,895
+Stop
+
+68
+00:05:37,151 --> 00:05:39,967
+Again
+
+69
+00:05:40,479 --> 00:05:46,623
+Try that again
+
+70
+00:05:46,879 --> 00:05:51,999
+Ok so here
+
+71
+00:05:52,255 --> 00:05:58,399
+Is Dave's auto part trying to use a transformation
+
+72
+00:05:58,911 --> 00:06:01,727
+Figure out the pose of the bike headset
+
+73
+00:06:01,983 --> 00:06:08,127
+Until the red points are the points that were seen from the white house is point of view and the blue
+
+74
+00:06:08,383 --> 00:06:14,527
+Lights are where we would think we should see those point if we are if we were to
+
+75
+00:06:14,783 --> 00:06:17,599
+His coding answered and it tells by the way
+
+76
+00:06:17,855 --> 00:06:23,999
+Is right here and it has this orientation and rotation and all of that
+
+77
+00:06:24,255 --> 00:06:28,607
+Is there still some bugs so it's still doesn't line up perfectly specially glancing angle
+
+78
+00:06:29,119 --> 00:06:30,911
+Antonia prequels
+
+79
+00:06:31,167 --> 00:06:37,311
+Put ninja pretty good so I think is far as will really need
+
+80
+00:06:37,567 --> 00:06:39,103
+Solution is almost there
+
+81
+00:06:39,359 --> 00:06:45,503
+Sets going to be really cool 1 seconds in a day
+
+82
+00:06:45,759 --> 00:06:51,647
+I am a hardworking guy and a microcontroller die
+
+83
+00:06:51,903 --> 00:06:57,791
+I'm going to finally this the first livestream I'm going to get a chance to do I want to do
+
+84
+00:06:58,047 --> 00:07:00,607
+I want to do is Bilton hardware
+
+85
+00:07:03,679 --> 00:07:04,447
+Stop
+
+86
+00:07:05,215 --> 00:07:11,359
+Questions she just doesn't require calibration did work
+
+87
+00:07:11,615 --> 00:07:13,407
+Does not require calibration data
+
+88
+00:07:13,663 --> 00:07:17,247
+The latest simply gives you right angles
+
+89
+00:07:17,503 --> 00:07:23,391
+After that you have to use the otx data which we are collecting from lighthouses and restoring
+
+90
+00:07:23,647 --> 00:07:28,255
+The we just don't necessarily know exactly what to do with it yet
+
+91
+00:07:28,511 --> 00:07:34,655
+Is it actually stores like the Earth cafes at khaltat kilkern atkal
+
+92
+00:07:34,911 --> 00:07:41,055
+Whatever all these aspects from the Lighthouse for storing we also don't have the posing
+
+93
+00:07:41,311 --> 00:07:45,663
+Station coming from the Post information that Davis provided
+
+94
+00:07:45,919 --> 00:07:52,063
+Bye Dad just a matter of you know some of the people on the project getting together and figuring ok we got
+
+95
+00:07:52,319 --> 00:07:58,463
+I'm putting it in there so things are really
+
+96
+00:07:58,719 --> 00:07:59,231
+Please
+
+97
+00:08:02,303 --> 00:08:08,447
+Using
+
+98
+00:08:08,703 --> 00:08:11,775
+Probably not crisis still on
+
+99
+00:08:12,031 --> 00:08:14,591
+Yes it is possible
+
+100
+00:08:15,103 --> 00:08:21,247
+I didn't he knows which way round with her a p32
+
+101
+00:08:21,503 --> 00:08:25,855
+Anyway so
+
+102
+00:08:26,111 --> 00:08:29,439
+All the stuff is great everything's great
+
+103
+00:08:29,951 --> 00:08:36,095
+I think it's me and you you can totally just buy this chip from whatever it is something
+
+104
+00:08:36,351 --> 00:08:40,959
+Which will take in light data
+
+105
+00:08:41,215 --> 00:08:44,543
+And basically give you a on
+
+106
+00:08:45,567 --> 00:08:50,687
+How do you describe it it's it's basically leaving
+
+107
+00:08:51,199 --> 00:08:53,247
+Arm steamship
+
+108
+00:08:57,599 --> 00:08:59,135
+5 shed
+
+109
+00:09:04,511 --> 00:09:06,815
+Nope no no
+
+110
+00:09:07,071 --> 00:09:13,215
+Does anybody have what the chip is cos I actually like me cannot remember what the chip is that you can come
+
+111
+00:09:13,471 --> 00:09:13,983
+Bye
+
+112
+00:09:14,239 --> 00:09:19,615
+But the problem is
+
+113
+00:09:19,871 --> 00:09:25,247
+Install paint
+
+114
+00:09:31,391 --> 00:09:35,231
+TS 3633 that sounds familiar
+
+115
+00:09:36,767 --> 00:09:41,119
+So digital converter for steamvr tracking
+
+116
+00:09:41,375 --> 00:09:45,471
+So this chick right here
+
+117
+00:09:45,727 --> 00:09:51,871
+So what does it takes in the infrared light with the bias and it
+
+118
+00:09:52,127 --> 00:09:55,711
+Reduces a in envelope output and on
+
+119
+00:10:06,207 --> 00:10:11,583
+Take a little bit install
+
+120
+00:10:14,655 --> 00:10:17,215
+Hi weed
+
+121
+00:10:17,471 --> 00:10:18,751
+No not gonna go
+
+122
+00:10:19,007 --> 00:10:22,079
+Are your part right now at least not until I give up
+
+123
+00:10:22,335 --> 00:10:23,359
+Trying to do what I want to do
+
+124
+00:10:24,639 --> 00:10:30,783
+So what do you actually get coming from the the lighthouses
+
+125
+00:10:31,039 --> 00:10:33,599
+Something that looks
+
+126
+00:10:34,111 --> 00:10:36,671
+But it is a modulated signal so
+
+127
+00:10:36,927 --> 00:10:40,511
+You basically get this infrared coming from the Lighthouse
+
+128
+00:10:41,023 --> 00:10:44,607
+Arm and Wetherby sweeps
+
+129
+00:10:44,863 --> 00:10:49,983
+Already flash just have this modulated signal
+
+130
+00:10:50,239 --> 00:10:56,127
+And it's going to look something like not quite like that
+
+131
+00:11:01,759 --> 00:11:07,903
+And the reason behind that is because when you have an isolated signal you can use a high pass filter
+
+132
+00:11:08,159 --> 00:11:14,303
+And you can Dan only work for Life that's been transmitted about 1.8 m
+
+133
+00:11:16,351 --> 00:11:21,215
+Yeah that's cool by arm
+
+134
+00:11:21,471 --> 00:11:27,615
+What are really doing here is some some 30 electronics in order to take this
+
+135
+00:11:27,871 --> 00:11:31,199
+Ignore right here and then I'm boosted up
+
+136
+00:11:32,479 --> 00:11:34,015
+And then what I'll do
+
+137
+00:11:34,271 --> 00:11:36,063
+Is don't take this boosted signal
+
+138
+00:11:36,319 --> 00:11:39,135
+And I'll pipe it through a diode
+
+139
+00:11:39,391 --> 00:11:45,535
+Arm reality but like I dies is it means that you'll have the
+
+140
+00:11:45,791 --> 00:11:46,559
+Here
+
+141
+00:11:47,327 --> 00:11:50,399
+And it will output kind of like this envelope
+
+142
+00:11:50,655 --> 00:11:51,423
+Sing
+
+143
+00:11:52,191 --> 00:11:56,799
+And that the envelope shape depends on the
+
+144
+00:11:57,055 --> 00:11:59,359
+Where are these things start where they stop
+
+145
+00:11:59,871 --> 00:12:00,639
+On
+
+146
+00:12:00,895 --> 00:12:07,039
+And and you can pull a lot of information out of this and you can actually really get like the Pulse length and
+
+147
+00:12:07,295 --> 00:12:09,343
+Other information that's all past off
+
+148
+00:12:09,599 --> 00:12:15,743
+I'm in all this is actually done in an fpga inside of the series 5 controllers Wetherby
+
+149
+00:12:15,999 --> 00:12:20,863
+Controller or headset or whatever
+
+150
+00:12:21,119 --> 00:12:23,423
+And that's fine and dandy
+
+151
+00:12:23,935 --> 00:12:25,983
+But I think I can do better
+
+152
+00:12:26,239 --> 00:12:31,871
+Like I don't actually know if I can do better but it's one of those things like my mentality is like
+
+153
+00:12:32,127 --> 00:12:33,663
+I just always assume
+
+154
+00:12:34,175 --> 00:12:40,319
+I come to the table with different knowledge than anybody else the same as any of you guys watching words
+
+155
+00:12:40,575 --> 00:12:46,719
+You never assume that oh no somebody smarter than make him up but this I can't possibly contribute anything
+
+156
+00:12:47,487 --> 00:12:53,631
+What's the time in the final
+
+157
+00:12:53,887 --> 00:12:56,447
+Let's just check this
+
+158
+00:12:56,703 --> 00:13:02,847
+So instead of doing this I want to scrap this chip all together and
+
+159
+00:13:03,103 --> 00:13:09,247
+I want to try to do an Irish probably going to cost more in the end but considering
+
+160
+00:13:09,503 --> 00:13:13,855
+Kia d285 switch oral lichen esp8266
+
+161
+00:13:14,111 --> 00:13:20,255
+Built-in flash they are not even allowed to say how cheap they are there left
+
+162
+00:13:20,511 --> 00:13:22,047
+20 dollars and 10 cents
+
+163
+00:13:22,303 --> 00:13:25,631
+Firelight on that's the lowest I can tell you
+
+164
+00:13:26,143 --> 00:13:31,775
+The number for on and by the way if you want you can buy some new cd285u single chip
+
+165
+00:13:32,031 --> 00:13:38,175
+Like Wi-Fi solution for Wi-Fi but they're really cheap so what I am
+
+166
+00:13:38,431 --> 00:13:41,247
+To do is I want to have the signal right here
+
+167
+00:13:41,503 --> 00:13:44,831
+I want a pipe it into a high speed of
+
+168
+00:13:45,343 --> 00:13:50,719
+Arm course I'm gonna have a little bit filtering and stuff like that
+
+169
+00:13:52,255 --> 00:13:55,583
+Propaganda look more like this
+
+170
+00:13:56,095 --> 00:14:00,191
+Baby bath
+
+171
+00:14:00,959 --> 00:14:07,103
+What's going to happen is I won't be able to get the signal out and what I want to have is something that
+
+172
+00:14:07,359 --> 00:14:13,503
+Are fairly big signal here and I've known to use the Schmitt trigger on the import of
+
+173
+00:14:13,759 --> 00:14:15,551
+Esp8285
+
+174
+00:14:16,063 --> 00:14:19,903
+Rdi to
+
+175
+00:14:22,463 --> 00:14:27,839
+IPad and 12
+
+176
+00:14:28,351 --> 00:14:34,495
+Hey do it's going to take in this wacky signal can it's going to digitise it into
+
+177
+00:14:35,007 --> 00:14:37,055
+A square wave for me
+
+178
+00:14:37,311 --> 00:14:43,455
+And the cool thing about the east pd25 is it's got in 18
+
+179
+00:14:43,711 --> 00:14:47,807
+Register on their soccer so I'm going to be able to sample
+
+180
+00:14:48,063 --> 00:14:54,207
+This incoming signal at 80 MHz Snapchats is or I'm not going to be able to keep up and processing
+
+181
+00:14:54,463 --> 00:15:00,607
+Navigate to drop back for tea I want to see what happens if I look at this input signal
+
+182
+00:15:00,863 --> 00:15:03,935
+I tried to figure out more information about what's going on
+
+183
+00:15:04,191 --> 00:15:10,335
+Maybe I'll be able to figure out orientation may be able to figure out much more accurately where are the
+
+184
+00:15:10,591 --> 00:15:15,967
+Now when the finger sweeping
+
+185
+00:15:16,479 --> 00:15:22,623
+It might be sweeping from here here and I like might be visible from there to there
+
+186
+00:15:22,879 --> 00:15:25,695
+The the wave started right there
+
+187
+00:15:25,951 --> 00:15:28,511
+Or maybe the wave started right there
+
+188
+00:15:28,767 --> 00:15:33,631
+Armin you haven't had her about 1.1 over 1.8 mHz
+
+189
+00:15:33,887 --> 00:15:34,911
+Arm
+
+190
+00:15:35,935 --> 00:15:37,215
+So
+
+191
+00:15:37,727 --> 00:15:39,519
+Yeah I know no fpgas
+
+192
+00:15:39,775 --> 00:15:43,103
+Esp8285 better fpga for what I'm trying to do
+
+193
+00:15:44,895 --> 00:15:51,039
+No way I can use an stm32 why use those commercially cos they're expensive
+
+194
+00:15:51,295 --> 00:15:57,439
+Also that ucd35 can totally go faster so I have absolutely no
+
+195
+00:15:57,695 --> 00:16:03,839
+Basically when when the sky came on the scene my interest in anything stm
+
+196
+00:16:04,095 --> 00:16:05,375
+Went down the tubes
+
+197
+00:16:05,631 --> 00:16:11,775
+Especially esp32 I kicked the snot out of every single thing St has to offer
+
+198
+00:16:12,287 --> 00:16:18,431
+Anyway so what I want to try to do is that I want to try to get
+
+199
+00:16:18,687 --> 00:16:20,479
+This this thing work
+
+200
+00:16:20,735 --> 00:16:25,087
+And I did what I want to digikey
+
+201
+00:16:25,343 --> 00:16:27,391
+I did find an interesting part
+
+202
+00:16:29,183 --> 00:16:34,559
+Actually I bought a home by 2 p.m. so I'm gonna try them out
+
+203
+00:16:35,327 --> 00:16:41,215
+Quite what I did find and what I did buy the sky
+
+204
+00:16:41,727 --> 00:16:46,335
+On it's really cheap it's 27 equality
+
+205
+00:16:46,591 --> 00:16:51,199
+And it's pretty good game out of fairly high frequency
+
+206
+00:16:51,711 --> 00:16:54,783
+Which is really useful to me
+
+207
+00:16:55,039 --> 00:16:58,367
+Armin so what I intend to do with the tray used this guy
+
+208
+00:16:58,623 --> 00:16:59,903
+And have it also
+
+209
+00:17:00,415 --> 00:17:02,719
+One problem with this
+
+210
+00:17:02,975 --> 00:17:08,351
+This part really requires a plasterer - + - 5 volt a swing
+
+211
+00:17:08,607 --> 00:17:13,215
+And I would be able to this I'm 3.7 V batteries
+
+212
+00:17:13,471 --> 00:17:19,103
+So one of the other technical hurdles will have is I'm going to have to have some sort of charge pump or something setup
+
+213
+00:17:19,359 --> 00:17:25,503
+In order to take the voltage of 3.7 volts or 3.3 volts I guess which is coming into
+
+214
+00:17:25,759 --> 00:17:26,271
+PSP
+
+215
+00:17:26,527 --> 00:17:28,575
+And take it up to something that
+
+216
+00:17:28,831 --> 00:17:30,623
+Well I can actually use
+
+217
+00:17:30,879 --> 00:17:31,647
+Arm
+
+218
+00:17:31,903 --> 00:17:34,719
+And so and see if I can
+
+219
+00:17:35,231 --> 00:17:41,375
+Log in to
+
+220
+00:17:41,631 --> 00:17:44,959
+Set it
+
+221
+00:17:45,215 --> 00:17:47,007
+That's what it is
+
+222
+00:17:47,519 --> 00:17:49,055
+Tell me move over here so I cannot
+
+223
+00:18:08,511 --> 00:18:10,559
+Open church pump
+
+224
+00:18:12,607 --> 00:18:17,215
+So what I intend to do is have a circuit it's a little bit like this
+
+225
+00:18:17,471 --> 00:18:23,615
+Only use to the gpio on the esp8285 or for this purpose
+
+226
+00:18:23,871 --> 00:18:25,919
+Esp8266
+
+227
+00:18:26,175 --> 00:18:32,319
+And I'm gonna go try to drive this charge pump so even though these only go up to
+
+228
+00:18:33,343 --> 00:18:35,135
+See what do I set up to
+
+229
+00:18:36,927 --> 00:18:39,487
+It's actually impossible I'm
+
+230
+00:18:39,743 --> 00:18:43,583
+Develop web pages like this
+
+231
+00:18:44,351 --> 00:18:45,119
+Next step
+
+232
+00:18:48,447 --> 00:18:53,823
+Scroll to ml
+
+233
+00:18:54,079 --> 00:19:00,223
+Pause value 2.9 so the
+
+234
+00:19:00,479 --> 00:19:06,623
+The means with the voltage on
+
+235
+00:19:06,879 --> 00:19:11,231
+If I said a probe
+
+236
+00:19:19,167 --> 00:19:25,311
+So what I can do is by passing these on a graph those two things
+
+237
+00:19:28,127 --> 00:19:30,687
+I can actually get
+
+238
+00:19:31,711 --> 00:19:32,735
+Are you cold
+
+239
+00:19:37,855 --> 00:19:39,135
+Run
+
+240
+00:19:39,647 --> 00:19:45,791
+Transit response let's go for it it's probably right
+
+241
+00:19:47,583 --> 00:19:49,631
+This is a negative
+
+242
+00:19:49,887 --> 00:19:56,031
+Send a site fine just to see you guys can see it even though all I have is easy
+
+243
+00:19:56,287 --> 00:19:58,591
+V or a 2.9 volt output
+
+244
+00:19:58,847 --> 00:19:59,615
+Arm
+
+245
+00:20:00,127 --> 00:20:02,687
+This circuit can synthesise
+
+246
+00:20:02,943 --> 00:20:03,711
+Oops
+
+247
+00:20:03,967 --> 00:20:04,735
+How do I zoom out
+
+248
+00:20:06,015 --> 00:20:10,111
+At the turkey can synthesise a -6 volt voltage
+
+249
+00:20:10,367 --> 00:20:16,511
+Arm so that it's going to be really useful in order to be able to use other types
+
+250
+00:20:17,791 --> 00:20:20,607
+Of RPM spin don't do real the real
+
+251
+00:20:20,863 --> 00:20:23,167
+Don't know if it's gonna work out
+
+252
+00:20:23,423 --> 00:20:29,567
+Meeting is if it does work out I'm going to be able to actually use this in other designs where I'm
+
+253
+00:20:29,823 --> 00:20:31,359
+Have negative and positive for teachers
+
+254
+00:20:32,895 --> 00:20:34,175
+That m that I want to make
+
+255
+00:20:34,431 --> 00:20:39,807
+I can actually if this works I can feel radically dump the 9-volt battery and
+
+256
+00:20:40,063 --> 00:20:44,927
+Make the ESP synthesise the negative voltage required by the voltmeter
+
+257
+00:20:45,183 --> 00:20:47,487
+This is one of the two designs
+
+258
+00:20:50,815 --> 00:20:56,703
+The other design have to put some things around which I probably prototype
+
+259
+00:20:57,727 --> 00:21:00,543
+Before I am I go to back while
+
+260
+00:21:03,871 --> 00:21:05,407
+Resistor DAC
+
+261
+00:21:06,431 --> 00:21:09,759
+I don't know what you're talking about ID
+
+262
+00:21:10,015 --> 00:21:11,807
+Something something
+
+263
+00:21:14,623 --> 00:21:15,135
+Anyway
+
+264
+00:21:17,184 --> 00:21:19,488
+So this is one part of the charge pump
+
+265
+00:21:19,744 --> 00:21:22,048
+We have to create another part of the charge pump
+
+266
+00:21:22,304 --> 00:21:25,376
+But I will have to
+
+267
+00:21:26,400 --> 00:21:27,680
+Turn the tide out
+
+268
+00:21:27,936 --> 00:21:34,080
+So Steve as charge pump
+
+269
+00:21:35,616 --> 00:21:39,200
+Arm to the plus side of the charge pump that uses
+
+270
+00:21:39,456 --> 00:21:45,600
+Something that looks a little bit like that so instead of putting it up to the ground rail to the base
+
+271
+00:21:46,112 --> 00:21:49,440
+What we can men do as we can help hazard of real
+
+272
+00:21:49,952 --> 00:21:53,280
+Two are the basis and parks in words
+
+273
+00:21:55,072 --> 00:21:56,608
+You do that
+
+274
+00:21:57,376 --> 00:22:01,984
+Just do it's going to be none
+
+275
+00:22:04,032 --> 00:22:05,824
+3.3
+
+276
+00:22:15,552 --> 00:22:17,856
+Connections
+
+277
+00:22:18,368 --> 00:22:20,416
+Does not seem to do well with
+
+278
+00:22:21,184 --> 00:22:21,696
+On
+
+279
+00:22:26,048 --> 00:22:31,168
+I think all I have to do is put these around and it should
+
+280
+00:22:32,448 --> 00:22:35,264
+Produce a circuit that would do what I want
+
+281
+00:22:36,544 --> 00:22:37,312
+No
+
+282
+00:22:39,360 --> 00:22:44,736
+I usually don't actually do charge pumps normally what I do in more commercial things as I used a
+
+283
+00:22:44,992 --> 00:22:48,064
+An inductor in actually make like a switch mode power supply
+
+284
+00:22:48,320 --> 00:22:54,464
+But whatever I don't think I can get this to work really cheap with indoor
+
+285
+00:22:54,720 --> 00:22:56,000
+Verso
+
+286
+00:22:56,256 --> 00:22:57,536
+Tell me not gonna try
+
+287
+00:23:01,632 --> 00:23:04,960
+Thank you Mark I did not realise you were watching Mark
+
+288
+00:23:06,496 --> 00:23:12,640
+Mark we're going to have to have a heart-to-heart about life survive because I really think it's getting close to the point where
+
+289
+00:23:15,712 --> 00:23:16,480
+Anyway
+
+290
+00:23:16,736 --> 00:23:18,784
+Can I give us a shout now on it
+
+291
+00:23:20,576 --> 00:23:22,112
+I've no idea if this works
+
+292
+00:23:24,160 --> 00:23:26,208
+I forgot to probe the output
+
+293
+00:23:26,976 --> 00:23:28,768
+Probes
+
+294
+00:23:30,816 --> 00:23:32,352
+Ok rhyme
+
+295
+00:23:37,472 --> 00:23:42,336
+Sweet looking at thing it's producing 9 volts ok
+
+296
+00:23:42,592 --> 00:23:48,480
+So this looks like it probably about what I want to actually use them
+
+297
+00:23:48,736 --> 00:23:51,296
+Nothing is here just guessing
+
+298
+00:23:53,088 --> 00:23:56,672
+Hi supersoaker oh my gosh everybody hello
+
+299
+00:23:56,928 --> 00:24:03,072
+So what I'm going to do is Amir take these two circuits anadrol mop in
+
+300
+00:24:03,328 --> 00:24:09,216
+I can hear the use gpio
+
+301
+00:24:09,472 --> 00:24:10,496
+13
+
+302
+00:24:11,008 --> 00:24:13,312
+14 for that
+
+303
+00:24:16,640 --> 00:24:19,968
+To do it that way am I going to do this
+
+304
+00:24:25,344 --> 00:24:26,112
+Maybe
+
+305
+00:24:26,624 --> 00:24:30,976
+Probably not to just operate the soccer
+
+306
+00:24:33,792 --> 00:24:35,840
+Wouldn't be able to go all the way low
+
+307
+00:24:36,352 --> 00:24:37,376
+That's ok
+
+308
+00:24:43,776 --> 00:24:48,640
+Why bother doing something right when you can do something that might work
+
+309
+00:24:50,432 --> 00:24:52,480
+Even if it's really bad
+
+310
+00:24:52,736 --> 00:24:58,880
+So instead of having the negative side I'm only going to have a positive side for my charger
+
+311
+00:24:59,648 --> 00:25:02,720
+My somebody something is really wrong
+
+312
+00:25:04,256 --> 00:25:04,768
+Thing
+
+313
+00:25:05,024 --> 00:25:08,096
+This is bad so let's just give it a shot
+
+314
+00:25:08,864 --> 00:25:12,704
+So gpio 12
+
+315
+00:25:12,960 --> 00:25:15,776
+That is actually the i2 Si
+
+316
+00:25:16,288 --> 00:25:22,432
+Armin that is specifically the pen that you can settle at 80 MHz on the S
+
+317
+00:25:22,688 --> 00:25:25,760
+Take me to 66 / esp8285
+
+318
+00:25:26,016 --> 00:25:32,160
+Gpio 13 and 14 are gonna be the ones that I'm going to go
+
+319
+00:25:32,416 --> 00:25:35,744
+Noodle around in order to make the charge pump work
+
+320
+00:25:36,000 --> 00:25:41,120
+All the breeding if you guys a curious on charge pump
+
+321
+00:25:41,376 --> 00:25:45,472
+Look up the Wikipedia page on it'll actually just give you an example circuit
+
+322
+00:25:45,984 --> 00:25:49,312
+Looks really similar to mine
+
+323
+00:25:49,568 --> 00:25:51,872
+And what you actually do they make it girl
+
+324
+00:25:53,152 --> 00:25:59,296
+I got it really does look so I got one last stage
+
+325
+00:25:59,808 --> 00:26:02,112
+Just a little bit lower
+
+326
+00:26:02,368 --> 00:26:08,512
+So we'll have to do is turn off in on 13:14 timing doesn't really matter I can just do it on
+
+327
+00:26:08,768 --> 00:26:14,912
+Something like that finger up something eventually
+
+328
+00:26:15,168 --> 00:26:21,312
+Sofa right now let's go figure out how this is actually going to go be all wired up
+
+329
+00:26:21,568 --> 00:26:27,712
+So it's going to be there there there
+
+330
+00:26:27,968 --> 00:26:31,040
+So but I also have you
+
+331
+00:26:34,368 --> 00:26:38,720
+I bought some Diamonds to so I can just use those
+
+332
+00:26:45,120 --> 00:26:46,400
+This order
+
+333
+00:26:49,472 --> 00:26:50,752
+Communion
+
+334
+00:26:57,152 --> 00:27:01,248
+I think for the first one I'm going to use this one
+
+335
+00:27:01,760 --> 00:27:03,296
+Spectacular
+
+336
+00:27:03,808 --> 00:27:09,952
+Madhouse um dia de Reyes date
+
+337
+00:27:10,208 --> 00:27:12,768
+Libraries
+
+338
+00:27:14,304 --> 00:27:17,376
+This is a new installation
+
+339
+00:27:18,144 --> 00:27:22,240
+And I don't remember had it in for you so I'm just going to go make my own
+
+340
+00:27:26,592 --> 00:27:29,408
+Say pirate on
+
+341
+00:27:35,808 --> 00:27:41,440
+Play It's A 223
+
+342
+00:27:49,888 --> 00:27:52,192
+And we're gonna go through some things in here
+
+343
+00:27:56,032 --> 00:27:59,616
+10 one is + 1
+
+344
+00:28:03,200 --> 00:28:04,224
+2
+
+345
+00:28:04,480 --> 00:28:06,272
+-
+
+346
+00:28:06,784 --> 00:28:09,088
+Two
+
+347
+00:28:13,184 --> 00:28:14,464
+Riaz Common
+
+348
+00:28:40,320 --> 00:28:46,464
+Yes the circuitry will only be able to table data from one photodiode but it's so absurdly cheap
+
+349
+00:28:46,976 --> 00:28:50,048
+Why not there's another big benefit of this
+
+350
+00:28:50,304 --> 00:28:56,448
+I having only 14 processor it means that processor can then be used to process the data
+
+351
+00:28:56,704 --> 00:28:57,984
+From the photodiode
+
+352
+00:28:58,240 --> 00:29:02,080
+Snowfinders some sort of tourists I can use your magic can code
+
+353
+00:29:02,848 --> 00:29:05,152
+That would ordinarily be prohibitively difficult
+
+354
+00:29:05,408 --> 00:29:07,200
+I would have to spend time to go do it
+
+355
+00:29:07,456 --> 00:29:10,784
+If I code an object with 32 sensors
+
+356
+00:29:11,040 --> 00:29:13,856
+That has 32 esp8285
+
+357
+00:29:14,112 --> 00:29:18,720
+32 esp8285 is actually
+
+358
+00:29:18,976 --> 00:29:24,608
+3260 MHz processors for an effect of 5G
+
+359
+00:29:24,864 --> 00:29:26,144
+Whatever it is
+
+360
+00:29:26,912 --> 00:29:28,960
+Drystone mate 5G
+
+361
+00:29:29,984 --> 00:29:36,128
+Skips skips whatever comes of processing power right there on the things that are able to pull
+
+362
+00:29:36,384 --> 00:29:38,432
+As long as I can do pretty quick
+
+363
+00:29:38,688 --> 00:29:39,712
+It's going to Green
+
+364
+00:29:39,968 --> 00:29:44,320
+Please find me a lot of extra computational power in addition all that
+
+365
+00:29:44,576 --> 00:29:50,720
+Maybe I could send higher level things such as running the disability later inside the sentence themselves and
+
+366
+00:29:50,976 --> 00:29:52,768
+Only passing the angle that out
+
+367
+00:29:53,280 --> 00:29:55,840
+I'm so let's check this data here
+
+368
+00:29:56,096 --> 00:30:02,240
+Yes yes ba2570
+
+369
+00:30:02,496 --> 00:30:06,592
+Put it into a buffer for you and then call it sweet and done
+
+370
+00:30:13,760 --> 00:30:17,344
+123 ok
+
+371
+00:31:32,352 --> 00:31:34,656
+Stop the folder in half
+
+372
+00:31:47,200 --> 00:31:47,968
+Wait a minute
+
+373
+00:31:48,480 --> 00:31:50,784
+Are you crack I did that wrong
+
+374
+00:31:51,040 --> 00:31:54,368
+32 x 160 is
+
+375
+00:31:56,928 --> 00:31:57,696
+No that's right
+
+376
+00:32:00,768 --> 00:32:06,912
+So I could run
+
+377
+00:32:07,168 --> 00:32:13,312
+Only two Solutions I could use for this one I could use the esp8285 at some stupid icespeed
+
+378
+00:32:13,568 --> 00:32:19,712
+300 something MHz and then use the ice Squirtle SLP and
+
+379
+00:32:19,968 --> 00:32:26,112
+Can you sing like a code division multiple access output stream which I will define and software
+
+380
+00:32:26,368 --> 00:32:32,512
+And then you can just use a little software-defined radio to receive all of the signals from all of the tax
+
+381
+00:32:32,768 --> 00:32:38,912
+That's one option but it does probably vileda lot of FCC rules I don't really want to do it
+
+382
+00:32:39,168 --> 00:32:45,312
+Do intend to use speedy 25 normal clocking Nutkins
+
+383
+00:32:45,568 --> 00:32:51,712
+52 Wi-Fi network but using related to 11 frames to send and then I can have multiple received
+
+384
+00:32:51,968 --> 00:32:58,112
+Intend to use diversity with this so I'll have 3 or 4 receivers so no matter what
+
+385
+00:32:58,368 --> 00:33:04,512
+Set signals going to get through some stupid hirade like send me to Magor
+
+386
+00:33:04,768 --> 00:33:10,912
+It's so it's going to use virtually no airtime so I should be able to slap in like hundreds
+
+387
+00:33:11,168 --> 00:33:17,312
+And it shouldn't be any any real issue
+
+388
+00:33:17,568 --> 00:33:23,712
+I don't think I don't think the esp8285
+
+389
+00:33:23,968 --> 00:33:30,112
+Going to be able to do Solutions but I could do is to say I can make it on there
+
+390
+00:33:30,368 --> 00:33:36,512
+Material pens my pens call go21 esp32 for specific device
+
+391
+00:33:36,768 --> 00:33:42,912
+Esp32 with the help of all those a speedy 25 is probably
+
+392
+00:33:43,168 --> 00:33:49,312
+I most certainly enough to do post solving in so much so love to do is Take That
+
+393
+00:33:49,568 --> 00:33:55,712
+And then have two more that Drive high-speed only displays I make my own
+
+394
+00:33:55,968 --> 00:34:02,112
+Whether or not I can do it
+
+395
+00:34:02,368 --> 00:34:08,512
+What's office thing one step at a time ok
+
+396
+00:34:08,768 --> 00:34:14,912
+Go now
+
+397
+00:34:15,168 --> 00:34:21,312
+It's not good what did I do wrong
+
+398
+00:34:21,568 --> 00:34:27,712
+Dad dad
+
+399
+00:34:27,968 --> 00:34:34,112
+Sorry news
+
+400
+00:34:34,368 --> 00:34:40,512
+Whatever you put in there
+
+401
+00:34:40,768 --> 00:34:46,912
+Everything in here
+
+402
+00:34:53,568 --> 00:34:59,712
+All I can do is I can use this allot 3.3 V thing there
+
+403
+00:34:59,968 --> 00:35:06,112
+And I can use to use a capacitor array
+
+404
+00:35:19,168 --> 00:35:25,312
+A10
+
+405
+00:35:25,568 --> 00:35:31,712
+This right here
+
+406
+00:35:31,968 --> 00:35:38,112
+Have one more of these every year
+
+407
+00:35:38,368 --> 00:35:44,512
+Please two guys together
+
+408
+00:35:44,768 --> 00:35:50,912
+So that looks an awful lot conveniently like
+
+409
+00:35:51,168 --> 00:35:57,312
+3.3 volts in
+
+410
+00:35:57,568 --> 00:36:03,712
+Soda b801
+
+411
+00:36:03,968 --> 00:36:10,112
+110
+
+412
+00:36:10,368 --> 00:36:16,512
+This would have to be crowned this is not
+
+413
+00:36:23,168 --> 00:36:29,312
+Whatever
+
+414
+00:36:29,568 --> 00:36:35,712
+Call 12 I'm going to have to figure out how to get blue slime
+
+415
+00:36:35,968 --> 00:36:42,112
+Install bind
+
+416
+00:36:42,368 --> 00:36:48,512
+Sierra people.at in chat
+
+417
+00:36:48,768 --> 00:36:54,912
+Yep definitely don't worry this is Kai god all the way
+
+418
+00:36:55,168 --> 00:37:01,312
+Dad
+
+419
+00:37:01,568 --> 00:37:07,712
+Developers do colicky kata something weird like that
+
+420
+00:37:14,368 --> 00:37:20,512
+It's also try to protect this
+
+421
+00:37:27,168 --> 00:37:33,312
+Drop him that RPM that I want to try so that's this one right here
+
+422
+00:37:33,568 --> 00:37:39,712
+Call somebody's tabs
+
+423
+00:37:39,968 --> 00:37:46,112
+Are the esp8285 does not have an appeal
+
+424
+00:37:46,368 --> 00:37:52,512
+Esp32 does have an fpo now much to my frustration cancel
+
+425
+00:37:52,768 --> 00:37:58,912
+People who make carrots actually cadence now who make the CORE for the esp32 the
+
+426
+00:37:59,168 --> 00:38:05,312
+The set itself is proprietary which I think is insane I email down there
+
+427
+00:38:05,568 --> 00:38:11,712
+I responded if anybody else has any contacts and salad or anywhere like that they might be able to get the instructions said that would
+
+428
+00:38:11,968 --> 00:38:18,112
+Buy however the esp32 through other means we
+
+429
+00:38:18,368 --> 00:38:24,512
+Has reciprocal filling point square root and other things like that
+
+430
+00:38:24,768 --> 00:38:30,912
+Will they can do these operations instantaneously like to Clark cycle do something to do reciprocal square root
+
+431
+00:38:31,168 --> 00:38:37,312
+Floating point so it's it's it's stuck behind
+
+432
+00:38:37,568 --> 00:38:43,712
+What is proprietary John like you not like you just can't get enough to date instruction set for the ESB
+
+433
+00:38:43,968 --> 00:38:50,112
+It's not a specialist fault it's specifically to intelligence fault and I think if they want to start
+
+434
+00:38:50,368 --> 00:38:56,512
+Probably sure they're gonna have to make their instructions set open like
+
+435
+00:38:56,768 --> 00:39:02,912
+Why is the secret
+
+436
+00:39:03,168 --> 00:39:09,312
+Anyway moving on let's go make a park for this other guy right here
+
+437
+00:39:09,568 --> 00:39:15,712
+Drawing Pirates
+
+438
+00:39:15,968 --> 00:39:22,112
+Yes I know I did not finish installing
+
+439
+00:39:28,768 --> 00:39:34,912
+New Cork in this part is called a
+
+440
+00:39:35,168 --> 00:39:41,312
+Mic90 y85
+
+441
+00:39:41,568 --> 00:39:47,712
+And your ears
+
+442
+00:39:47,968 --> 00:39:54,112
+1 +
+
+443
+00:39:54,368 --> 00:40:00,512
+Two
+
+444
+00:40:00,768 --> 00:40:06,912
+3 - 3
+
+445
+00:40:13,568 --> 00:40:19,712
+4 is
+
+446
+00:40:19,968 --> 00:40:26,112
+5th class
+
+447
+00:40:26,368 --> 00:40:32,512
+Ok so that's kinda with that she look like
+
+448
+00:40:32,768 --> 00:40:38,912
+Let's go to draw a little part around it's two people actually be able to recognise it
+
+449
+00:40:45,568 --> 00:40:51,712
+1 unit
+
+450
+00:40:51,968 --> 00:40:58,112
+That goes there that makes it impossible to read ok fine
+
+451
+00:40:58,368 --> 00:41:04,512
+Long pin90 bus number 5
+
+452
+00:41:04,768 --> 00:41:10,912
+2 FM
+
+453
+00:41:36,768 --> 00:41:42,912
+Ok looks like a fairly reasonable Park
+
+454
+00:41:43,168 --> 00:41:49,312
+Background
+
+455
+00:41:49,568 --> 00:41:55,711
+Yz50
+
+456
+00:41:55,967 --> 00:42:02,111
+Mike 20
+
+457
+00:42:02,367 --> 00:42:08,511
+Ad part b head while
+
+458
+00:42:08,767 --> 00:42:14,911
+I know I did not like
+
+459
+00:42:15,167 --> 00:42:21,311
+20 wifey 5K what I'm going to do is dumb
+
+460
+00:42:21,567 --> 00:42:27,711
+Now I have in minus in in plus
+
+461
+00:42:27,967 --> 00:42:34,111
+I wanna play with them if I had to guess
+
+462
+00:42:34,367 --> 00:42:40,511
+Probably if somebody's are for it but I don't know if anybody in here is
+
+463
+00:42:40,767 --> 00:42:46,911
+I want to make sure I can actually
+
+464
+00:42:47,167 --> 00:42:53,311
+Differential voltages at the rail
+
+465
+00:42:53,567 --> 00:42:59,711
+Can I use real the real pirates I don't even really know that I'm looking for here what I want to make sure there is that if I G
+
+466
+00:42:59,967 --> 00:43:06,111
+One of these two just ground that it won't freaking out of it might
+
+467
+00:43:06,367 --> 00:43:12,511
+But worried I forgotten what the type of thing is called though
+
+468
+00:43:44,767 --> 00:43:50,911
+See hear
+
+469
+00:43:51,167 --> 00:43:57,311
+Probably want to probably want a garden that I want to make a little bit safer
+
+470
+00:43:57,567 --> 00:44:03,711
+So what I'm actually going to do is enough with Ade
+
+471
+00:44:03,967 --> 00:44:10,111
+Find 1 of 1
+
+472
+00:44:23,167 --> 00:44:29,311
+Is wire for the rest of the stuff right now
+
+473
+00:44:29,567 --> 00:44:35,711
+I don't know what I'm going to do with the negative side there I got a figure that out
+
+474
+00:44:35,967 --> 00:44:42,111
+This is totally good for up to 12 V not actually 12 but it is going to be pretty good
+
+475
+00:44:42,367 --> 00:44:48,511
+And this is going to come from a connection
+
+476
+00:44:48,767 --> 00:44:54,911
+To do this
+
+477
+00:45:01,567 --> 00:45:07,711
+Radio
+
+478
+00:45:07,967 --> 00:45:14,111
+The Milky
+
+479
+00:45:14,367 --> 00:45:20,511
+Moving line
+
+480
+00:45:20,767 --> 00:45:26,911
+App iPad
+
+481
+00:45:39,967 --> 00:45:46,111
+See what is chat saying
+
+482
+00:45:52,767 --> 00:45:58,911
+2 lb 30 way too expensive I'm telling you use PE28
+
+483
+00:45:59,167 --> 00:46:05,311
+Are cheap wireless built-in
+
+484
+00:46:05,567 --> 00:46:11,711
+Just saying
+
+485
+00:46:11,967 --> 00:46:18,111
+Input common-mode range
+
+486
+00:46:18,367 --> 00:46:24,511
+Perfect that's what it's called voltage
+
+487
+00:46:31,167 --> 00:46:37,311
+They say a girl
+
+488
+00:46:37,567 --> 00:46:43,711
+From 0 of the Fall ok
+
+489
+00:46:43,967 --> 00:46:50,111
+Oh no 3.25 3.25
+
+490
+00:46:50,367 --> 00:46:56,511
+255
+
+491
+00:46:56,767 --> 00:47:02,911
+Ok so it looks like I will have to have at least like a Volta something V and a half
+
+492
+00:47:22,367 --> 00:47:28,511
+I actually need to do
+
+493
+00:48:13,567 --> 00:48:19,711
+Come on
+
+494
+00:48:19,967 --> 00:48:26,111
+Hi CAD
+
+495
+00:48:45,567 --> 00:48:51,711
+Ok whatever is now we have our library
+
+496
+00:48:51,967 --> 00:48:58,111
+So
+
+497
+00:48:58,367 --> 00:49:04,511
+I have a day out here going to ground
+
+498
+00:49:04,767 --> 00:49:10,911
+Going to be put friend
+
+499
+00:49:11,167 --> 00:49:17,311
+Then this one here I need a connector
+
+500
+00:49:17,567 --> 00:49:23,711
+102
+
+501
+00:49:23,967 --> 00:49:30,111
+2
+
+502
+00:49:30,367 --> 00:49:36,511
+Adam is playing some video game I think the Witcher
+
+503
+00:49:36,767 --> 00:49:42,911
+Pharmacy here
+
+504
+00:49:43,167 --> 00:49:49,311
+You're biased
+
+505
+00:49:49,567 --> 00:49:55,711
+Is almost certainly going to need to have something
+
+506
+00:50:02,367 --> 00:50:08,511
+You might replace this with a
+
+507
+00:50:08,767 --> 00:50:14,911
+Initially
+
+508
+00:50:40,767 --> 00:50:46,911
+So what I have going on here is I'm making a time for makeshift high-pass filter but it's going to be an offer
+
+509
+00:50:47,167 --> 00:50:53,311
+Who knows maybe this will work maybe at the lot of things
+
+510
+00:50:53,567 --> 00:50:59,711
+Is aggressive is I want to try testing today considering only have 2 hours left out in half hour
+
+511
+00:50:59,967 --> 00:51:06,111
+Left on this lightstream makes me nervous but
+
+512
+00:51:06,367 --> 00:51:12,511
+Just give us a shot and see how bad is going to be are we going to be able to do this or any night
+
+513
+00:51:12,767 --> 00:51:18,911
+Play I am
+
+514
+00:51:19,167 --> 00:51:25,311
+Find parrot
+
+515
+00:51:38,367 --> 00:51:44,511
+Hold on I know you guys are actually telling me useful stuff
+
+516
+00:51:44,767 --> 00:51:50,911
+Alperton by the maximum output sink sink the short circuit
+
+517
+00:51:51,167 --> 00:51:57,311
+Not insured Circus that's good very high impedance output
+
+518
+00:52:10,367 --> 00:52:16,511
+I know all of these things should be fine on because what's going to have
+
+519
+00:52:16,767 --> 00:52:22,911
+I keep the sink locally and everything is going to be able to be kept in sync by the
+
+520
+00:52:23,167 --> 00:52:29,311
+By the White House itself so when it sends out of Flash I'm going to give it a watch that flash and singer
+
+521
+00:52:29,567 --> 00:52:35,711
+I do not still use
+
+522
+00:52:35,967 --> 00:52:42,111
+Papa it's just I don't know I feel dirty whenever I use it
+
+523
+00:52:42,367 --> 00:52:48,511
+I wish somebody like an open-source free version of it is just doesn't exist right now
+
+524
+00:52:48,767 --> 00:52:54,911
+It always changed
+
+525
+00:53:14,367 --> 00:53:20,511
+This close to here
+
+526
+00:53:20,767 --> 00:53:26,911
+All those look fine on what's using my
+
+527
+00:53:27,167 --> 00:53:33,311
+Ep 117
+
+528
+00:53:33,567 --> 00:53:39,711
+Yeah I switched my components mid way through and you just really shouldn't do that
+
+529
+00:54:05,567 --> 00:54:11,711
+I really don't like free router it's just not
+
+530
+00:54:11,967 --> 00:54:18,111
+It's it as much work to get things into and out of keypad but it doesn't even give you that
+
+531
+00:54:18,367 --> 00:54:24,511
+How much are they are like
+
+532
+00:54:24,767 --> 00:54:30,911
+I can rap better than all the time where is with Copa every now and total give me a run for my money
+
+533
+00:54:31,167 --> 00:54:37,311
+There'll be times from routed this perfectly and then Topaz like now I figured out his passed away
+
+534
+00:54:37,567 --> 00:54:43,711
+Oh you punk you are incredible
+
+535
+00:54:43,967 --> 00:54:50,111
+Now first of all would pick up some sot hello
+
+536
+00:54:50,367 --> 00:54:56,511
+Where is 23 SE12
+
+537
+00:54:56,767 --> 00:55:02,911
+Is that match up with the dealership here for that dice
+
+538
+00:55:03,167 --> 00:55:09,311
+Sea
+
+539
+00:55:09,567 --> 00:55:15,711
+3023 the wrong thing
+
+540
+00:55:15,967 --> 00:55:22,111
+I should have noticed because picture is different combination of four diodes
+
+541
+00:55:22,367 --> 00:55:28,511
+Play something
+
+542
+00:55:28,767 --> 00:55:34,911
+123
+
+543
+00:55:35,167 --> 00:55:41,311
+Bosch 23
+
+544
+00:55:47,967 --> 00:55:54,111
+Let's see here and see what
+
+545
+00:56:00,767 --> 00:56:06,911
+Yes
+
+546
+00:56:07,167 --> 00:56:13,311
+Really make that stuff visible
+
+547
+00:56:19,967 --> 00:56:26,111
+October is
+
+548
+00:56:26,367 --> 00:56:32,511
+Read up unbelievably good I just do not know how toper is as amazing as it is
+
+549
+00:56:32,767 --> 00:56:38,911
+Saying Toba can actually be me but like
+
+550
+00:56:39,167 --> 00:56:45,311
+Something like all teams
+
+551
+00:56:45,567 --> 00:56:51,711
+I know some people who tried to use the old pier Motorola in it
+
+552
+00:56:51,967 --> 00:56:58,111
+And basically all the commercial operators are just terrible but somehow tobi's is just
+
+553
+00:56:58,367 --> 00:57:04,511
+Believable and I can Crush any other routers
+
+554
+00:57:11,167 --> 00:57:17,311
+Read there's a lot of stuff
+
+555
+00:57:17,567 --> 00:57:23,711
+Slight redness
+
+556
+00:57:49,567 --> 00:57:55,711
+Stephen something
+
+557
+00:57:55,967 --> 00:58:02,111
+I'm mysterious what did Dave Jones
+
+558
+00:58:02,367 --> 00:58:08,511
+What is he come into with the the order Rattigan
+
+559
+00:58:08,767 --> 00:58:14,911
+Have you ever used it like I'm really serious what other people have to say about the altermodern
+
+560
+00:58:15,167 --> 00:58:21,311
+Because my parents have just been so hilarious
+
+561
+00:58:21,567 --> 00:58:27,711
+See her so this will go around that way
+
+562
+00:58:27,967 --> 00:58:34,111
+That is not
+
+563
+00:58:34,367 --> 00:58:40,511
+Comfortable living room
+
+564
+00:58:53,567 --> 00:58:59,711
+Hi Adam parking near the rooms playing video games with the noise
+
+565
+00:58:59,967 --> 00:59:06,111
+Try this calciferous
+
+566
+00:59:12,767 --> 00:59:18,911
+Do that
+
+567
+00:59:25,567 --> 00:59:31,711
+Too late
+
+568
+00:59:31,967 --> 00:59:38,111
+One of the ways a lot of people I work with you'll get around Altea
+
+569
+00:59:38,367 --> 00:59:44,511
+Eight layers why is needlessly
+
+570
+00:59:44,767 --> 00:59:50,911
+Do you sing by hand in 2K
+
+571
+00:59:51,167 --> 00:59:57,311
+Ladders
+
+572
+01:00:16,767 --> 01:00:22,911
+Really the only way back
+
+573
+01:00:55,167 --> 01:01:01,311
+Totally
+
+574
+01:01:01,567 --> 01:01:07,711
+You should be sad
+
+575
+01:01:07,967 --> 01:01:14,111
+Waiter
+
+576
+01:01:20,767 --> 01:01:26,911
+Big
+
+577
+01:02:05,567 --> 01:02:11,711
+That's entirely the wrong footprint let's just use it anyway spacing is right
+
+578
+01:02:18,367 --> 01:02:24,511
+Try this combination
+
+579
+01:02:43,967 --> 01:02:50,111
+These
+
+580
+01:03:03,167 --> 01:03:09,311
+Tackt-isle
+
+581
+01:03:09,567 --> 01:03:15,711
+Tile
+
+582
+01:03:15,967 --> 01:03:22,111
+By the way this is different from offer land
+
+583
+01:03:22,367 --> 01:03:28,511
+We tried with them
+
+584
+01:03:28,767 --> 01:03:34,911
+Stop the bags that Magnus badges and that was what messed up so I'm just gonna start using it now
+
+585
+01:03:35,167 --> 01:03:41,311
+Because I'm off to bed
+
+586
+01:03:41,567 --> 01:03:47,711
+What's good switches my summer in there
+
+587
+01:03:47,967 --> 01:03:54,111
+Something like that
+
+588
+01:03:54,367 --> 01:04:00,511
+No reason for this be contact
+
+589
+01:04:39,167 --> 01:04:45,311
+Nonsense we don't need to get really
+
+590
+01:04:45,567 --> 01:04:51,711
+Design I think I'm going to go loose knob somebody's eye animals
+
+591
+01:04:51,967 --> 01:04:58,111
+1.12
+
+592
+01:05:36,767 --> 01:05:42,911
+People commenting about you
+
+593
+01:05:43,167 --> 01:05:49,311
+Richard yeah yeah by the way
+
+594
+01:05:49,567 --> 01:05:55,711
+Going to be much much lower latency than normal Wi-Fi
+
+595
+01:06:02,367 --> 01:06:08,511
+Connected through
+
+596
+01:06:08,767 --> 01:06:14,911
+You need to make light jumper there cos these are already connected like by metal inside the park
+
+597
+01:06:15,167 --> 01:06:21,311
+It's not like I sometimes words you actually have to my connected otherwise terrible things happen
+
+598
+01:06:53,567 --> 01:06:59,711
+Hi sweet
+
+599
+01:06:59,967 --> 01:07:06,111
+All this chocolate come from
+
+600
+01:07:06,367 --> 01:07:12,511
+Marshmallow
+
+601
+01:07:12,767 --> 01:07:18,911
+The Wonder Years
+
+602
+01:07:25,567 --> 01:07:31,711
+Flowers
+
+603
+01:07:31,967 --> 01:07:38,111
+And something something next thing we have to do we're going to have to
+
+604
+01:07:38,367 --> 01:07:44,511
+Tango to digikey and we will have to figure out exactly what part put princesses
+
+605
+01:07:44,767 --> 01:07:50,911
+Pretty sure it's not an sot23
+
+606
+01:07:51,167 --> 01:07:57,311
+I can just play
+
+607
+01:08:10,367 --> 01:08:16,511
+Halloween night
+
+608
+01:08:29,567 --> 01:08:35,711
+Violate the rules
+
+609
+01:08:35,967 --> 01:08:42,111
+Ok clearance 10 ml
+
+610
+01:08:42,367 --> 01:08:48,511
+Call Viola
+
+611
+01:08:55,167 --> 01:09:01,311
+What's pretty crap
+
+612
+01:09:20,767 --> 01:09:26,911
+I didn't know that was he
+
+613
+01:09:27,167 --> 01:09:33,311
+Get there is a ton more like
+
+614
+01:09:33,567 --> 01:09:39,711
+Go design something in build something and have it working and it's still less than 5% of the way to
+
+615
+01:09:39,967 --> 01:09:46,111
+If you like 1%
+
+616
+01:09:46,367 --> 01:09:52,511
+Just because something works on the bench you are light years away from a function
+
+617
+01:09:52,767 --> 01:09:58,911
+Like I can go on the shelf product like
+
+618
+01:09:59,167 --> 01:10:05,311
+Polite neon FM arcade game that we made beautiful type done in like a month
+
+619
+01:10:05,567 --> 01:10:11,711
+We've been doing on it for 3 years
+
+620
+01:10:18,367 --> 01:10:24,511
+Remember what I'm doing
+
+621
+01:10:24,767 --> 01:10:30,911
+Yes done
+
+622
+01:10:31,167 --> 01:10:37,311
+Disguise
+
+623
+01:10:37,567 --> 01:10:43,711
+So let's find out what the parties
+
+624
+01:11:15,967 --> 01:11:22,111
+You'll probably have a third can which two more that has ground and on
+
+625
+01:11:22,367 --> 01:11:28,511
+The power as I can get to that probably going to be useful
+
+626
+01:12:19,967 --> 01:12:26,111
+I actually say that
+
+627
+01:12:26,367 --> 01:12:32,511
+EMC testing is complete
+
+628
+01:12:32,767 --> 01:12:38,911
+I am using Linux Mint
+
+629
+01:12:39,167 --> 01:12:45,311
+I'm good go
+
+630
+01:12:45,567 --> 01:12:51,711
+Plead yes done ok
+
+631
+01:12:51,967 --> 01:12:58,111
+Over here
+
+632
+01:12:58,367 --> 01:13:04,511
+Going to work
+
+633
+01:13:11,167 --> 01:13:17,311
+Don't know where they're going to go
+
+634
+01:13:17,567 --> 01:13:23,711
+That would work homeless up song
+
+635
+01:13:49,567 --> 01:13:55,711
+Definitely not
+
+636
+01:13:55,967 --> 01:14:02,111
+Like a boss
+
+637
+01:14:02,367 --> 01:14:08,511
+Mrs probably tank a
+
+638
+01:14:15,167 --> 01:14:21,311
+Make a margarita
+
+639
+01:14:21,567 --> 01:14:27,711
+Weird anyway I do have a current
+
+640
+01:14:27,967 --> 01:14:34,111
+I don't have a current feedback loop but that's because
+
+641
+01:14:34,367 --> 01:14:40,511
+As the Frequency goes up the amplifier itself so ok this is a really
+
+642
+01:14:40,767 --> 01:14:46,911
+The interesting thing about engineering when it comes to these sorts of parts in general
+
+643
+01:14:47,167 --> 01:14:53,311
+Component a lot of engineers Put Em and a waterfall are really really unnecessary
+
+644
+01:14:53,567 --> 01:14:59,711
+SO41 if what you want to do is give us much pain as you want and have a lowpass thing down here
+
+645
+01:14:59,967 --> 01:15:06,111
+And you have as much as possible up here like a game you can just
+
+646
+01:15:06,367 --> 01:15:12,511
+No feedback basically and then it'll naturally take off the higher frequencies
+
+647
+01:15:12,767 --> 01:15:18,911
+Talking about I don't think City opened
+
+648
+01:15:19,167 --> 01:15:25,311
+At lower frequencies is going to be enough to mess with Adele
+
+649
+01:15:25,567 --> 01:15:31,711
+Roll a resistor in there just in case
+
+650
+01:15:31,967 --> 01:15:38,111
+Just in case I don't think I'm going to need it but
+
+651
+01:15:44,767 --> 01:15:50,911
+No say no population right now I don't think of
+
+652
+01:15:57,567 --> 01:16:03,711
+Yes I'm using exactly
+
+653
+01:16:03,967 --> 01:16:10,111
+You are correct that might not be sufficient that might not be the way to go I don't know
+
+654
+01:16:10,367 --> 01:16:16,511
+Really wanna over engineer if I don't have to
+
+655
+01:16:23,167 --> 01:16:29,311
+You like that
+
+656
+01:16:29,567 --> 01:16:35,711
+Here
+
+657
+01:17:27,167 --> 01:17:33,311
+Who's going to be hard the plan
+
+658
+01:17:33,567 --> 01:17:39,711
+Might not be able to do it this way
+
+659
+01:18:11,967 --> 01:18:18,111
+So close
+
+660
+01:18:18,367 --> 01:18:24,511
+Who actually
+
+661
+01:18:37,567 --> 01:18:43,711
+Ok we're getting there
+
+662
+01:18:43,967 --> 01:18:50,111
+Probably go like that like that
+
+663
+01:19:03,167 --> 01:19:09,311
+No
+
+664
+01:19:09,567 --> 01:19:15,711
+Heart
+
+665
+01:19:15,967 --> 01:19:22,111
+I'm going to just have to scrap
+
+666
+01:19:22,367 --> 01:19:28,511
+Really wanted to use that but I can't
+
+667
+01:19:28,767 --> 01:19:34,911
+I was trying to avoid using an extra capacitor by Frank use this year it's not make any sense
+
+668
+01:19:35,167 --> 01:19:41,311
+Play 11 like a third on that is not gonna be enough to get rid of all the nasties so I
+
+669
+01:19:41,567 --> 01:19:47,711
+Really do need to get my dad to capacitors out here
+
+670
+01:19:47,967 --> 01:19:54,111
+Hoop happy
+
+671
+01:19:54,367 --> 01:20:00,511
+East to use a
+
+672
+01:20:07,167 --> 01:20:13,311
+Maybe in a 10 likes I can be enough
+
+673
+01:20:13,567 --> 01:20:19,712
+It's going to be rough
+
+674
+01:20:19,968 --> 01:20:26,112
+Really going to be rough
+
+675
+01:20:26,368 --> 01:20:32,512
+Really have another one yeah
+
+676
+01:20:32,768 --> 01:20:38,912
+That might be my sister hope for the best
+
+677
+01:20:39,168 --> 01:20:45,312
+Repercussions
+
+678
+01:20:45,568 --> 01:20:51,712
+I need to move some of the surround
+
+679
+01:22:27,968 --> 01:22:34,112
+Probably be on one you are so I have here
+
+680
+01:22:34,368 --> 01:22:40,512
+Trying to because I have a charge pump it's going to be super nasty
+
+681
+01:22:40,768 --> 01:22:46,912
+I don't have any 22 Mike 0051 ce20
+
+682
+01:22:47,168 --> 01:22:53,312
+You're probably right that would be that one
+
+683
+01:22:53,568 --> 01:22:59,712
+Don't have anything like that in any boxes already done
+
+684
+01:22:59,968 --> 01:23:06,112
+Turn my again turn my account
+
+685
+01:23:19,168 --> 01:23:25,312
+Set a router
+
+686
+01:23:25,568 --> 01:23:31,712
+Between there
+
+687
+01:24:10,368 --> 01:24:16,512
+I think this is all I need
+
+688
+01:24:16,768 --> 01:24:22,912
+I don't really use cutie and pretty much addicted to raw
+
+689
+01:24:29,568 --> 01:24:35,712
+13 silkscreen that's not needed
+
+690
+01:24:35,968 --> 01:24:42,112
+I will do though I will add AR
+
+691
+01:24:55,168 --> 01:25:01,312
+What you call this
+
+692
+01:25:01,568 --> 01:25:07,712
+Crown plane ground plane
+
+693
+01:25:07,968 --> 01:25:14,112
+I wasn't quite far enough
+
+694
+01:25:14,368 --> 01:25:20,512
+Dispatches the 80 MB War
+
+695
+01:25:20,768 --> 01:25:26,912
+Make me sad poem
+
+696
+01:25:27,168 --> 01:25:33,312
+Write about
+
+697
+01:25:39,968 --> 01:25:46,112
+Ok well pass DLC
+
+698
+01:26:18,368 --> 01:26:24,512
+This is I'm trying to write
+
+699
+01:26:24,768 --> 01:26:30,912
+Design am like a test to see how hard it's going to be or if it can be fees
+
+700
+01:26:31,168 --> 01:26:37,312
+Alarm for me to read the five my house with really Ree
+
+701
+01:26:37,568 --> 01:26:43,712
+Cheap awful parts I just don't know if it's going to be feasible or white
+
+702
+01:26:43,968 --> 01:26:50,112
+I'm going to give it a shot
+
+703
+01:27:03,168 --> 01:27:09,312
+Yeah I know
+
+704
+01:27:15,968 --> 01:27:22,112
+Calcium plus looks like
+
+705
+01:27:22,368 --> 01:27:28,512
+All the big nasty areas are not covered with brown blinds just play
+
+706
+01:27:28,768 --> 01:27:34,912
+It doesn't mean
+
+707
+01:27:35,168 --> 01:27:41,312
+Speaking actor that's fine but a 10-mile that's 10 Mike
+
+708
+01:27:41,568 --> 01:27:47,712
+But somebody's are on here
+
+709
+01:29:04,768 --> 01:29:10,912
+Pause my 10ks
+
+710
+01:29:11,168 --> 01:29:17,312
+32117
+
+711
+01:29:36,768 --> 01:29:42,912
+Probably right with somebody's in here are my
+
+712
+01:29:43,168 --> 01:29:49,312
+Probably be about 20 k I really don't know though I've never
+
+713
+01:29:49,568 --> 01:29:55,712
+Use these photo diode having be using them in the reverse on reverse bias mode
+
+714
+01:29:55,968 --> 01:30:02,112
+So we'll have to just cry going to be 10 and
+
+715
+01:30:02,368 --> 01:30:08,512
+Is it going to be
+
+716
+01:30:21,568 --> 01:30:27,712
+Volume one
+
+717
+01:30:40,768 --> 01:30:46,912
+So much is just guesswork
+
+718
+01:30:47,168 --> 01:30:53,312
+Don't know the electrical properties in so much of it it's just going to be
+
+719
+01:30:53,568 --> 01:30:59,712
+Myers bus
+
+720
+01:31:19,168 --> 01:31:25,312
+Probably know I don't really know
+
+721
+01:31:25,568 --> 01:31:31,712
+That's going to be a 1
+
+722
+01:31:31,968 --> 01:31:38,112
+Live
+
+723
+01:31:38,368 --> 01:31:44,512
+That's obviously new ski to whatever
+
+724
+01:31:51,168 --> 01:31:57,312
+This is probably gonna work
+
+725
+01:31:57,568 --> 01:32:03,712
+Work work
+
+726
+01:32:16,768 --> 01:32:22,912
+What's ok I'm sorry I had it off screen
+
+727
+01:32:23,168 --> 01:32:29,312
+How's eyeballing this looks rate
+
+728
+01:32:35,968 --> 01:32:42,112
+Good
+
+729
+01:32:42,368 --> 01:32:48,512
+Sync
+
+730
+01:32:48,768 --> 01:32:54,912
+Whatever only got 2 hours left let's try it
+
+731
+01:32:55,168 --> 01:33:01,312
+Oh no Adam
+
+732
+01:33:01,568 --> 01:33:07,712
+Why did you have to do laundry now
+
+733
+01:33:07,968 --> 01:33:14,112
+Amazon printing circuit boards
+
+734
+01:33:14,368 --> 01:33:20,512
+The dust from the laundry messes up well
+
+735
+01:33:20,768 --> 01:33:26,912
+Whatever maybe maybe
+
+736
+01:33:27,168 --> 01:33:33,312
+Hobbyist engineer problems
+
+737
+01:33:33,568 --> 01:33:39,712
+Ok yes
+
+738
+01:33:39,968 --> 01:33:46,112
+Power with app
+
+739
+01:34:37,568 --> 01:34:43,712
+My friend you can know I'm going to show you why you put when you can riddle
+
+740
+01:34:43,968 --> 01:34:50,112
+Anyway actually I got a bunch of designs I want to throw out on this one
+
+741
+01:34:50,368 --> 01:34:56,512
+What's going to do all the designs at once ones that anytime kidding white
+
+742
+01:34:56,768 --> 01:35:02,912
+Oh my gosh
+
+743
+01:35:03,168 --> 01:35:09,312
+Is King
+
+744
+01:35:35,168 --> 01:35:41,312
+What's TM
+
+745
+01:36:00,768 --> 01:36:06,912
+I am going to have
+
+746
+01:36:07,168 --> 01:36:13,312
+To switch accounts
+
+747
+01:36:13,568 --> 01:36:19,712
+Give me a moment
+
+748
+01:36:39,168 --> 01:36:45,312
+Network
+
+749
+01:37:11,168 --> 01:37:17,312
+No files go
+
+750
+01:38:27,968 --> 01:38:34,112
+Weird
+
+751
+01:39:06,368 --> 01:39:12,512
+Ok
+
+752
+01:39:31,968 --> 01:39:38,112
+We are gonna take you guys and slap you
+
+753
+01:39:38,368 --> 01:39:44,512
+Sure
+
+754
+01:39:44,768 --> 01:39:50,912
+Promo
+
+755
+01:40:29,568 --> 01:40:35,712
+Are we going to do is to say no reason for any more than that
+
+756
+01:40:35,968 --> 01:40:42,112
+You guys are curious these boards here esp32 boards
+
+757
+01:40:42,368 --> 01:40:48,512
+And I am just trying out a couple of things with them
+
+758
+01:40:48,768 --> 01:40:54,912
+To see if I can actually get it to one layer without any jumpers at all I don't know if it's gonna work out
+
+759
+01:40:55,168 --> 01:41:01,312
+I think it does
+
+760
+01:41:07,968 --> 01:41:14,112
+It's not me this time
+
+761
+01:41:20,768 --> 01:41:26,912
+Do I put my password in plain text I didn't notice
+
+762
+01:41:39,968 --> 01:41:46,112
+Ok just do it
+
+763
+01:41:46,368 --> 01:41:52,512
+Best friend
+
+764
+01:41:59,168 --> 01:42:05,312
+Actually remember all of my settings so my gosh
+
+765
+01:42:05,568 --> 01:42:11,712
+Sweet
+
+766
+01:42:31,168 --> 01:42:37,312
+At once on regular paper to get it warmed up and then I print it twice
+
+767
+01:43:33,376 --> 01:43:35,680
+A hard time
+
+768
+01:43:35,936 --> 01:43:42,080
+Discount hard for you guys to see that the
+
+769
+01:43:42,336 --> 01:43:44,640
+Quality is below right now
+
+770
+01:43:48,736 --> 01:43:49,760
+Another on
+
+771
+01:44:03,584 --> 01:44:08,448
+Wrong with you
+
+772
+01:44:09,472 --> 01:44:11,264
+Are you so sad today
+
+773
+01:45:36,000 --> 01:45:38,816
+Clever what does try it
+
+774
+01:45:39,072 --> 01:45:40,864
+Play will work maybe it won't
+
+775
+01:45:41,888 --> 01:45:43,424
+Set exposure class
+
+776
+01:45:44,960 --> 01:45:47,008
+It's really weird though
+
+777
+01:45:59,808 --> 01:46:05,952
+Astatic maybe
+
+778
+01:46:46,144 --> 01:46:52,288
+What's the temperature
+
+779
+01:46:52,544 --> 01:46:58,688
+In spend $37 on you for nothing
+
+780
+01:47:15,584 --> 01:47:18,912
+Getting worse
+
+781
+01:47:44,000 --> 01:47:47,072
+I have never tried printing face down
+
+782
+01:47:48,352 --> 01:47:51,936
+Today's seems like the right data do it
+
+783
+01:47:55,264 --> 01:48:01,408
+It seems just fine
+
+784
+01:48:34,944 --> 01:48:38,272
+I have never done this before us what's just tried putting on paper
+
+785
+01:48:43,648 --> 01:48:47,744
+No the tires out of lino
+
+786
+01:49:25,632 --> 01:49:28,704
+Blowing it up
+
+787
+01:50:07,104 --> 01:50:11,200
+Yeah I think that
+
+788
+01:51:22,880 --> 01:51:29,024
+No still awful
+
+789
+01:51:41,824 --> 01:51:47,968
+What's this to somebody online said I could take regular paper and put it face down
+
+790
+01:51:48,224 --> 01:51:49,504
+So
+
+791
+01:51:50,016 --> 01:51:51,808
+What does the shark
+
+792
+01:51:57,184 --> 01:52:03,072
+Hey you know what that was on there that said why not middle
+
+793
+01:52:03,328 --> 01:52:04,864
+Might be a time when
+
+794
+01:52:05,120 --> 01:52:06,656
+Will I will be better
+
+795
+01:52:06,912 --> 01:52:09,472
+Something is wrong with my printer
+
+796
+01:52:11,520 --> 01:52:12,032
+Ok
+
+797
+01:52:12,288 --> 01:52:16,384
+Time to disconnect from the power sources and go downstairs
+
+798
+01:52:22,016 --> 01:52:28,160
+Let's hope that are this works
+
+799
+01:52:28,416 --> 01:52:34,560
+Sophia Burr
+
+800
+01:52:34,816 --> 01:52:40,960
+Washed resume writing
+
+801
+01:53:51,616 --> 01:53:57,760
+Play WhatsApp
+
+802
+01:53:58,016 --> 01:54:04,160
+Hey
+
+803
+01:54:04,416 --> 01:54:10,560
+Mark lifesaver you are a lifesaver Mark
+
+804
+01:54:10,816 --> 01:54:16,960
+What points are they supposed to design
+
+805
+01:54:17,216 --> 01:54:23,360
+Hahaha
+
+806
+01:54:23,616 --> 01:54:29,760
+The machine the start machine in the Hotmail
+
+807
+01:54:42,048 --> 01:54:47,424
+Ok what's this
+
+808
+01:55:16,608 --> 01:55:17,376
+Look at that
+
+809
+01:55:34,016 --> 01:55:39,136
+I need more paper
+
+810
+01:56:16,512 --> 01:56:22,656
+What are you doing
+
+811
+01:57:15,904 --> 01:57:17,696
+Just keeps getting worse and worse
+
+812
+01:57:23,840 --> 01:57:25,888
+Can you return the favour
+
+813
+01:57:26,656 --> 01:57:27,680
+Amazon
+
+814
+01:58:01,984 --> 01:58:02,752
+Don't get it
+
+815
+01:58:06,336 --> 01:58:07,104
+Whatever
+
+816
+01:58:15,552 --> 01:58:18,880
+Take my phone off
+
+817
+01:58:56,256 --> 01:58:58,304
+Such a bad brand
+
+818
+01:59:02,144 --> 01:59:04,960
+Hope the directors process is forgiving enough
+
+819
+02:00:02,048 --> 02:00:08,192
+Navigate
+
+820
+02:00:08,448 --> 02:00:14,592
+Cold water when using the sun microscopic makes things very sad
+
+821
+02:00:14,848 --> 02:00:20,992
+No that's fine
+
+822
+02:02:03,648 --> 02:02:09,792
+How to wake me off
+
+823
+02:03:33,760 --> 02:03:36,576
+Everett 1642 right now
+
+824
+02:03:38,112 --> 02:03:39,648
+Oh yeah good idea
+
+825
+02:03:53,728 --> 02:03:55,264
+Turn the light off
+
+826
+02:04:19,840 --> 02:04:20,608
+What's Razer
+
+827
+02:05:02,592 --> 02:05:06,688
+How many viewers are in right now it says I think it says 165 rate
+
+828
+02:05:08,736 --> 02:05:14,880
+I wish I could get spray-on resist oh my gosh I want restaurant positive so bad
+
+829
+02:05:15,136 --> 02:05:21,280
+But I cannot get it in America and I don't know why and it is so frustrating I want to
+
+830
+02:05:21,536 --> 02:05:23,840
+I want it I want it I want it
+
+831
+02:05:24,352 --> 02:05:28,448
+Do not know how to get it
+
+832
+02:05:37,408 --> 02:05:43,040
+So I have never ever exposed wallpaper before
+
+833
+02:05:46,880 --> 02:05:50,464
+No idea this is gonna work
+
+834
+02:05:50,976 --> 02:05:54,560
+I cannot use a transparency right now so
+
+835
+02:05:54,816 --> 02:05:56,096
+This is my only hope
+
+836
+02:05:58,912 --> 02:06:00,960
+What's the office works
+
+837
+02:06:06,848 --> 02:06:07,616
+Just like that
+
+838
+02:06:09,408 --> 02:06:09,920
+Alarm
+
+839
+02:06:10,432 --> 02:06:10,944
+UEFA
+
+840
+02:07:16,480 --> 02:07:19,296
+Yes Mary S Arena
+
+841
+02:07:36,192 --> 02:07:37,728
+Academy Corby for you Paula
+
+842
+02:07:52,832 --> 02:07:56,160
+I don't know maybe I can use in one oil baby
+
+843
+02:07:56,672 --> 02:07:58,720
+Uncharted territory
+
+844
+02:08:21,248 --> 02:08:23,040
+Ok knew that is just made out of magic
+
+845
+02:09:04,000 --> 02:09:05,280
+Get a text
+
+846
+02:09:06,816 --> 02:09:10,912
+South night one of you guys telling I just did something drastically wrong
+
+847
+02:09:18,336 --> 02:09:18,848
+Help
+
+848
+02:09:30,368 --> 02:09:34,208
+You guys probably have not seen this year
+
+849
+02:09:34,464 --> 02:09:37,536
+This is my UV light source
+
+850
+02:09:42,144 --> 02:09:46,752
+It is about 50 Watts which I did not think was very much power
+
+851
+02:09:48,032 --> 02:09:49,568
+Boy was I wrong
+
+852
+02:09:50,592 --> 02:09:55,712
+Tom I will need a pair of sun to it I'll just close my eyes
+
+853
+02:09:57,248 --> 02:09:58,272
+1
+
+854
+02:09:58,528 --> 02:09:59,296
+Two
+
+855
+02:09:59,552 --> 02:10:00,320
+Three
+
+856
+02:10:00,576 --> 02:10:01,344
+Four
+
+857
+02:10:01,600 --> 02:10:02,112
+5
+
+858
+02:10:02,368 --> 02:10:03,904
+Sex
+
+859
+02:10:14,144 --> 02:10:16,960
+It seems like in the band that restart is sensitive to
+
+860
+02:10:17,216 --> 02:10:20,032
+The ball was about 100 times more powerful
+
+861
+02:10:22,336 --> 02:10:23,104
+Oh my gosh
+
+862
+02:10:25,408 --> 02:10:26,176
+My work
+
+863
+02:10:27,456 --> 02:10:28,480
+A little bit pain
+
+864
+02:10:31,296 --> 02:10:33,088
+Condition of that for a second more
+
+865
+02:10:35,648 --> 02:10:39,744
+How many the truth is I can work other one I think it looks like it's fine so
+
+866
+02:10:40,768 --> 02:10:41,280
+Ok
+
+867
+02:10:53,568 --> 02:10:54,848
+The best
+
+868
+02:12:35,456 --> 02:12:41,600
+Quietly cardboard
+
+869
+02:12:41,856 --> 02:12:48,000
+Are you going to close the one in the middle world now
+
+870
+02:13:15,648 --> 02:13:21,792
+Cancel
+
+871
+02:13:33,312 --> 02:13:39,456
+Is it going to be fine
+
+872
+02:13:39,712 --> 02:13:44,320
+Walmart
+
+873
+02:13:45,088 --> 02:13:51,232
+By the way that's all sodium carbonate so it doesn't really matter like when you do when you wash laundry with it
+
+874
+02:13:51,488 --> 02:13:57,632
+Goes down the drain anyway
+
+875
+02:13:57,888 --> 02:13:59,424
+CIS currency
+
+876
+02:13:59,680 --> 02:14:05,824
+Solicitors now basically plastic on the surface
+
+877
+02:14:31,680 --> 02:14:33,984
+Timer
+
+878
+02:14:54,720 --> 02:14:55,744
+Sponge
+
+879
+02:14:56,768 --> 02:14:59,584
+Hi sponge the 2017 and then
+
+880
+02:15:00,608 --> 02:15:01,888
+Mr sponge
+
+881
+02:15:02,912 --> 02:15:04,192
+Spongy sponge
+
+882
+02:15:05,728 --> 02:15:06,752
+Sponge
+
+883
+02:15:25,440 --> 02:15:25,952
+No
+
+884
+02:15:26,208 --> 02:15:30,816
+Worked I think maybe I should start trying to switch to a
+
+885
+02:15:31,328 --> 02:15:35,424
+To a transparency list system one with I just use paper face down
+
+886
+02:15:36,192 --> 02:15:36,960
+That would be
+
+887
+02:15:37,728 --> 02:15:38,752
+Simple
+
+888
+02:16:08,192 --> 02:16:12,544
+Also if I waited 7 seconds to set of 6 Seconds of the development stage
+
+889
+02:19:03,296 --> 02:19:06,368
+Can I neutralise with every meaning
+
+890
+02:19:09,184 --> 02:19:13,024
+385 NM 101 LEDs
+
+891
+02:20:26,752 --> 02:20:30,336
+Come on
+
+892
+02:21:19,488 --> 02:21:25,632
+Don't have sober and why do I need child safety things quite a child safety things
+
+893
+02:21:29,984 --> 02:21:32,032
+Oh you guys I don't want to watch this
+
+894
+02:23:32,608 --> 02:23:34,400
+Lower rubbing alcohol
+
+895
+02:23:36,448 --> 02:23:39,264
+Get rid of any of the residue
+
+896
+02:23:46,176 --> 02:23:47,712
+Turn 13 minutes
+
+897
+02:23:47,968 --> 02:23:49,248
+Ok 17 minutes
+
+898
+02:26:45,120 --> 02:26:46,656
+No I'm not that one
+
+899
+02:29:11,040 --> 02:29:12,576
+Ok
+
+900
+02:29:18,720 --> 02:29:24,864
+So now I've got these boards made sorry for being quiet for so long
+
+901
+02:29:25,120 --> 02:29:30,752
+If I can figure out somewhere to let other people control white check
+
+902
+02:29:31,264 --> 02:29:37,152
+Actually I might be able to do that maybe next next livestream will try that out
+
+903
+02:29:37,408 --> 02:29:40,480
+I'll try to make it to you guys can control white text
+
+904
+02:29:43,808 --> 02:29:47,648
+So all I actually care about here is our boards
+
+905
+02:29:48,160 --> 02:29:51,232
+That's all I will be putting parts on his are towards
+
+906
+02:30:14,272 --> 02:30:16,576
+Please
+
+907
+02:34:46,656 --> 02:34:49,472
+What like the connectors to fuel the come off the end
+
+908
+02:34:49,728 --> 02:34:51,776
+Barrister
+
+909
+02:34:52,544 --> 02:34:53,824
+Support any of the year
+
+910
+02:35:14,304 --> 02:35:16,352
+What does ASMR mean
+
+911
+02:36:14,464 --> 02:36:17,792
+You are free to continue laundry
+
+912
+02:36:27,008 --> 02:36:28,544
+Normally have
+
+913
+02:36:28,800 --> 02:36:31,360
+Yeah yeah
+
+914
+02:36:32,128 --> 02:36:33,664
+Have you having already been doing it
+
+915
+02:38:25,536 --> 02:38:28,864
+Google I'm more parts on here in Ireland putting on here
+
+916
+02:38:29,120 --> 02:38:31,936
+Take a lot longer than I'd hoped
+
+917
+02:38:48,320 --> 02:38:50,624
+I have an hour left
+
+918
+02:38:54,720 --> 02:38:58,816
+Crap that's all good
+
+919
+02:39:48,736 --> 02:39:54,880
+Actors to he is anything else we have to worry about yourself
+
+920
+02:41:13,216 --> 02:41:17,056
+Mr I've forgotten something in there
+
+921
+02:41:26,784 --> 02:41:32,928
+I will not build the space dispenser but if an automatic paste dispenser appears on my just I will absolutely
+
+922
+02:41:33,184 --> 02:41:34,976
+Play music
+
+923
+02:41:36,512 --> 02:41:40,096
+Oil tankers
+
+924
+02:41:53,920 --> 02:42:00,064
+I actually don't like building things I only like designing things but no order for things that I do
+
+925
+02:42:00,320 --> 02:42:01,088
+Find me
+
+926
+02:42:01,344 --> 02:42:07,488
+You no physical realisation I have to build them building is simply for me and necessary evil
+
+927
+02:42:40,768 --> 02:42:44,096
+That is the 10 Micro Farad cap
+
+928
+02:43:30,432 --> 02:43:36,576
+Are these originally came from jameco is far is more nothing else like it exist however
+
+929
+02:43:36,832 --> 02:43:40,160
+Does exist so if you need boxes like it you can get boxes like this
+
+930
+02:43:41,184 --> 02:43:44,768
+This one is that he'd text Brian but I believe there are several different brands
+
+931
+02:45:12,064 --> 02:45:17,952
+Screen repairs cost
+
+932
+02:45:18,464 --> 02:45:20,768
+Will not have any time now period
+
+933
+02:45:26,144 --> 02:45:28,704
+Ideal home
+
+934
+02:45:59,936 --> 02:46:04,799
+I was 22 nana ferrets for that big one
+
+935
+02:46:12,479 --> 02:46:15,551
+20K
+
+936
+02:46:20,671 --> 02:46:22,463
+I got 22
+
+937
+02:46:49,087 --> 02:46:50,111
+Do you need a
+
+938
+02:46:50,367 --> 02:46:55,743
+Big capital
+
+939
+02:47:52,575 --> 02:47:57,439
+Completely the wrong part it might work
+
+940
+02:48:07,167 --> 02:48:12,287
+I never porkpie sofil board you can't trust the part
+
+941
+02:48:14,335 --> 02:48:15,871
+Just to rescue
+
+942
+02:48:22,271 --> 02:48:28,415
+Mean if I'm in a pinch and I need the part and it's on the Old board I'll take it off but
+
+943
+02:48:28,671 --> 02:48:29,695
+I usually avoid
+
+944
+02:48:30,719 --> 02:48:31,999
+So much can go wrong
+
+945
+02:50:01,599 --> 02:50:07,743
+Ok I'll be right back
+
+946
+02:52:24,703 --> 02:52:28,287
+Hi Ben
+
+947
+02:52:32,895 --> 02:52:39,039
+Maybe another dragon
+
+948
+02:53:55,327 --> 02:54:01,471
+Ok puppies
+
+949
+02:54:01,727 --> 02:54:02,239
+Deleted
+
+950
+02:54:38,335 --> 02:54:40,127
+My gosh turnover
+
+951
+02:54:40,895 --> 02:54:43,967
+Turn my area
+
+952
+02:55:26,207 --> 02:55:30,815
+More caps and
+
+953
+02:55:31,583 --> 02:55:33,887
+To-do list
+
+954
+02:55:45,407 --> 02:55:48,223
+Need one more when off do I need
+
+955
+02:55:51,295 --> 02:55:53,855
+How
+
+956
+02:55:55,391 --> 02:55:57,951
+Find one in
+
+957
+02:56:05,119 --> 02:56:11,263
+Ok Ben Jackson that is correct
+
+958
+02:56:11,519 --> 02:56:17,663
+You intend to use the Express bus is a high-speed 1-bit logic analyser
+
+959
+02:56:26,367 --> 02:56:29,695
+Can the big thing for me is I want to try to do it without
+
+960
+02:56:30,207 --> 02:56:33,535
+Having an envelope on the front end just Trader
+
+961
+02:56:34,559 --> 02:56:38,143
+Show the data in the port and see what happens
+
+962
+02:58:17,215 --> 02:58:23,359
+How long I have 24% battery left
+
+963
+02:58:47,679 --> 02:58:53,823
+Yeah I think if you were used Captur compare you should be able to use an stm32
+
+964
+02:58:54,079 --> 02:59:00,223
+The capture I think about is money at 16 at 1 but I want to Loveridge
+
+965
+02:59:00,479 --> 02:59:04,831
+The power of the essay on computational power
+
+966
+02:59:05,087 --> 02:59:11,231
+For my well so I can do processing on that on the other thing I'm really
+
+967
+02:59:11,487 --> 02:59:17,631
+Hoping for and I don't know if it's feasible or find you you know a dreamer but I want to see it
+
+968
+02:59:17,887 --> 02:59:24,031
+I can get extra data from the signal that's what when you envelope the signal I really think it should be possible
+
+969
+02:59:24,287 --> 02:59:25,311
+21
+
+970
+02:59:25,567 --> 02:59:31,711
+Turn to go get more information out then it's currently got now into the the triads
+
+971
+02:59:34,527 --> 02:59:38,623
+My gosh hands are so unsteady nowadays
+
+972
+03:00:10,879 --> 03:00:14,207
+I think I might have any Wi-Fi dad's upstairs
+
+973
+03:00:20,863 --> 03:00:26,751
+Softer home things
+
+974
+03:02:44,223 --> 03:02:50,367
+That good
+
+975
+03:03:16,223 --> 03:03:22,367
+Have to go shortly but if we have enough time to leave
+
+976
+03:03:22,623 --> 03:03:28,767
+If I can get that charge pump working
+
+977
+03:03:35,423 --> 03:03:41,567
+Go for it was going to assume everything is
+
+978
+03:03:41,823 --> 03:03:47,967
+The turbo sumption dry make it frequently
+
+979
+03:04:54,271 --> 03:05:00,415
+That one is received
+
+980
+03:05:00,671 --> 03:05:06,815
+I'm actually burn something useful
+
+981
+03:05:07,071 --> 03:05:13,215
+Ok
+
+982
+03:05:19,871 --> 03:05:26,015
+Brian ellicott by any chance no I grew up in
+
+983
+03:05:26,271 --> 03:05:32,415
+I definitely do not move it is
+
+984
+03:05:32,671 --> 03:05:38,815
+But now I'm not I'm not I'm in southwestern Baltimore
+
+985
+03:05:42,143 --> 03:05:46,239
+Round positive
+
+986
+03:05:46,751 --> 03:05:52,895
+Reorient everything
+
+987
+03:06:04,927 --> 03:06:11,071
+Hello I'm well aware this is going to be bad News Bears everyone
+
+988
+03:06:11,327 --> 03:06:14,143
+Don't worry
+
+989
+03:06:19,263 --> 03:06:25,407
+I don't expect this to work but I expect to learn something about why it won't work
+
+990
+03:07:12,255 --> 03:07:18,399
+Cloning the k multimedia project since it is pretty similar to what I'm doing here
+
+991
+03:07:18,655 --> 03:07:24,799
+The forest trying to catch on medium-high speed
+
+992
+03:07:25,055 --> 03:07:29,919
+Saying not happy
+
+993
+03:07:56,031 --> 03:08:02,175
+Do I not have Ono
+
+994
+03:08:23,679 --> 03:08:29,823
+Ben I'm also very serious off the size for testing I'm really hoping that after 4
+
+995
+03:08:30,079 --> 03:08:36,223
+Generations I get something at work and I know this generation is gonna be useless
+
+996
+03:08:36,479 --> 03:08:42,623
+I'll see if I can do something like this in there
+
+997
+03:09:40,223 --> 03:09:43,551
+Rhys Lewis
+
+998
+03:09:55,839 --> 03:10:01,983
+I'm going to happy my fingers salute
+
+999
+03:10:10,943 --> 03:10:13,759
+Meat
+
+1000
+03:10:19,903 --> 03:10:20,927
+That did not work
+
+1001
+03:10:37,823 --> 03:10:43,967
+Star Trek
+
+1002
+03:11:53,599 --> 03:11:55,135
+You're right the character
+
+1003
+03:11:58,719 --> 03:11:59,743
+And it
+
+1004
+03:12:01,791 --> 03:12:03,071
+I need to plug in
+
+1005
+03:12:09,471 --> 03:12:10,239
+Six-pack camera
+
+1006
+03:12:19,199 --> 03:12:19,967
+Drdo
+
+1007
+03:12:22,015 --> 03:12:22,527
+Hello
+
+1008
+03:12:28,159 --> 03:12:28,927
+Quran audio
+
+1009
+03:12:35,583 --> 03:12:36,351
+Hello
+
+1010
+03:12:40,191 --> 03:12:41,727
+Testing
+
+1011
+03:12:50,175 --> 03:12:56,319
+Do you have to go on about 1520 minutes charge pump going
+
+1012
+03:13:09,375 --> 03:13:15,519
+Set the volume to 66
+
+1013
+03:13:35,999 --> 03:13:39,327
+It does not boot
+
+1014
+03:13:43,935 --> 03:13:50,079
+I did something bad
+
+1015
+03:13:50,335 --> 03:13:52,383
+Don't know what it is
+
+1016
+03:13:57,503 --> 03:14:00,831
+Actually have a better idea
+
+1017
+03:14:01,087 --> 03:14:07,231
+I will try slightly different years to you that I know work
+
+1018
+03:14:45,887 --> 03:14:52,031
+I just might not work
+
+1019
+03:15:05,855 --> 03:15:08,159
+Adds not good
+
+1020
+03:15:49,631 --> 03:15:55,775
+Light on
+
+1021
+03:16:21,631 --> 03:16:27,775
+I'm going to wait
+
+1022
+03:16:40,831 --> 03:16:46,975
+It's not short it out
+
+1023
+03:16:47,231 --> 03:16:53,375
+That's fine so weird
+
+1024
+03:17:22,047 --> 03:17:28,191
+Great son's wrong with my development environment
+
+1025
+03:17:29,727 --> 03:17:34,591
+How old was messing with something I shouldn't ask list
+
+1026
+03:17:52,767 --> 03:17:58,911
+No it's not about wrong by Drake
+
+1027
+03:17:59,167 --> 03:18:03,775
+Bedfordshire
+
+1028
+03:18:09,919 --> 03:18:14,783
+Let's try and basic Project
+
+1029
+03:18:36,287 --> 03:18:40,639
+Play Adam do you want to go to elevate worship thing tonight
+
+1030
+03:18:42,175 --> 03:18:47,295
+Bother the contemporary worship church
+
+1031
+03:18:50,111 --> 03:18:55,231
+It starts around like 6:38 ok
+
+1032
+03:19:29,023 --> 03:19:34,399
+What is flowing on how is everything so broken
+
+1033
+03:19:39,007 --> 03:19:40,543
+Oh weird
+
+1034
+03:19:43,103 --> 03:19:46,175
+An old version of esptool
+
+1035
+03:20:31,487 --> 03:20:37,119
+Working
+
+1036
+03:21:38,815 --> 03:21:43,679
+Tidy office right now
+
+1037
+03:22:12,607 --> 03:22:18,751
+Flashing
+
+1038
+03:22:53,823 --> 03:22:59,967
+Spell Howie
+
+1039
+03:23:00,223 --> 03:23:06,367
+Try different project say
+
+1040
+03:23:06,623 --> 03:23:12,767
+66 minutes
+
+1041
+03:23:58,591 --> 03:24:04,735
+Newer copy of the SDK
+
+1042
+03:24:04,991 --> 03:24:11,135
+1541
+
+1043
+03:24:30,591 --> 03:24:36,735
+My coordinates
+
+1044
+03:25:28,191 --> 03:25:34,335
+Don't have permission to do it
+
+1045
+03:25:53,791 --> 03:25:59,935
+This was never built
+
+1046
+03:26:06,591 --> 03:26:10,431
+Please work
+
+1047
+03:26:31,167 --> 03:26:37,311
+Harley My build environment is broken on this computer that just wonderful
+
+1048
+03:26:37,567 --> 03:26:43,711
+You know
+
+1049
+03:26:43,967 --> 03:26:50,111
+I'll just use my laptop here
+
+1050
+03:26:50,367 --> 03:26:56,511
+What's the best thing in here
+
+1051
+03:27:48,479 --> 03:27:50,015
+Really
+
+1052
+03:28:10,751 --> 03:28:16,895
+Ok so it is actually just a build environment problem and it is with my laptop so I am
+
+1053
+03:28:17,151 --> 03:28:23,295
+I'm going to put this away for now and I might actually be back later on tonight if I can get
+
+1054
+03:28:23,551 --> 03:28:29,695
+Golden Valley not working on my desktop but nobody wants to sit around in my some training with coronavirus working
+
+1055
+03:28:29,951 --> 03:28:36,095
+Hope you guys had some fun I'm sorry we didn't get to do more interesting stuff maybe
+
+1056
+03:28:36,351 --> 03:28:41,983
+Will be back later on this evening thanks guys

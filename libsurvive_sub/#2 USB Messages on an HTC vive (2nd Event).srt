@@ -1,0 +1,7351 @@
+1
+00:00:00,256 --> 00:00:06,400
+Hello I think I just went you guys can get in the
+
+2
+00:00:06,656 --> 00:00:12,800
+Chat tell me if my levels are okay this is about how loud I'm going to be during the broadcast
+
+3
+00:00:13,056 --> 00:00:19,200
+I think I'm set up a little bit better with it today don't know still don't see anybody in the
+
+4
+00:00:19,456 --> 00:00:25,600
+Can you guys hear me because it sounds great
+
+5
+00:00:25,856 --> 00:00:28,672
+Oh yeah I realize that the levels were pretty low
+
+6
+00:00:29,184 --> 00:00:35,328
+Yesterday and so when I got loud he got really loud
+
+7
+00:00:36,352 --> 00:00:39,424
+So we don't want to do that
+
+8
+00:00:41,984 --> 00:00:48,128
+Just pulling up a little bit of stuff right now getting my screen size
+
+9
+00:00:48,384 --> 00:00:54,528
+Set up
+
+10
+00:00:54,784 --> 00:01:00,928
+Think I just pulled
+
+11
+00:01:01,184 --> 00:01:07,328
+Everything's up to date
+
+12
+00:01:07,584 --> 00:01:09,120
+K
+
+13
+00:01:13,216 --> 00:01:19,360
+That looks good too
+
+14
+00:01:19,616 --> 00:01:25,760
+Potestas
+
+15
+00:01:26,016 --> 00:01:32,160
+Excellent working so it's about time to start the
+
+16
+00:01:32,416 --> 00:01:38,560
+Video here check the
+
+17
+00:01:38,816 --> 00:01:44,960
+Whoa there is
+
+18
+00:01:45,216 --> 00:01:51,360
+Is bunch of people in 15 seconds like how do
+
+19
+00:01:51,616 --> 00:01:57,760
+Do you guys know how much like there is OB cuz of the video to begin with
+
+20
+00:01:58,016 --> 00:02:04,160
+Okay so let's start video now
+
+21
+00:02:04,416 --> 00:02:10,560
+I say that because I shall start as like I say that because what I'll do is I'll go back and edit it so the video actually stopped
+
+22
+00:02:10,816 --> 00:02:16,960
+Specific intro anyway
+
+23
+00:02:17,216 --> 00:02:23,360
+So in a previous video I was hacking the HTC Vive controllers and trying
+
+24
+00:02:23,616 --> 00:02:29,760
+How to figure out what the various messages that come from them are now they're very well understood when you plug them in but
+
+25
+00:02:30,016 --> 00:02:36,160
+They're not that well understood if they're trying to communicate wirelessly and one of the highlights from last time
+
+26
+00:02:36,416 --> 00:02:42,560
+Was that one of the developers of the vibe hopped in and started giving away some tips in
+
+27
+00:02:42,816 --> 00:02:48,960
+Intrexon stuff like that some of the things that I'm just assuming that he the reason this is so much more
+
+28
+00:02:49,216 --> 00:02:55,360
+More complicated is because these things are using Nordic semi chip and bases precious so
+
+29
+00:02:55,616 --> 00:03:01,760
+He did a number of really really clever things to try to Pare down the amount of data is being sent back
+
+30
+00:03:02,016 --> 00:03:08,160
+Unfortunately it means that it's extremely difficult to figure out what he did so
+
+31
+00:03:08,416 --> 00:03:14,560
+In the previous video we we got a lot of stuff kind of torn apart and figure it out and if you haven't already
+
+32
+00:03:14,816 --> 00:03:20,960
+You probably should really watch the starting
+
+33
+00:03:21,216 --> 00:03:26,592
+Love it because it kind of shows really what this is all about and I don't want to go into that again
+
+34
+00:03:26,848 --> 00:03:32,992
+But I did want to show you guys was so that a VR thing that I had working on here
+
+35
+00:03:33,248 --> 00:03:39,392
+Now it has three LEDs and I can't earn each one of them on and off individually
+
+36
+00:03:39,648 --> 00:03:45,792
+And the they are right now map tint
+
+37
+00:03:46,048 --> 00:03:52,192
+Two different holes on the Vive controller so I can turn them on and off individual
+
+38
+00:03:52,448 --> 00:03:58,592
+And this is one where I have my environment ready I have everything ready to go but I want to make it more
+
+39
+00:03:58,848 --> 00:04:04,992
+So what I'll be doing is I have the the AVR code that I can easily change
+
+40
+00:04:05,248 --> 00:04:11,392
+And that's right here this is all just the AVR code
+
+41
+00:04:11,648 --> 00:04:17,791
+That can control lighting up a specific marker and I can have code that'll do this and I
+
+42
+00:04:18,047 --> 00:04:24,191
+That can light up two markers at once or all three markers at once and what we're going to try to do is we're going to try to light up
+
+43
+00:04:24,447 --> 00:04:30,591
+Combinations of these three markers to figure out what his code actually does and what those funky
+
+44
+00:04:30,847 --> 00:04:36,991
+He commands me so I have no problem with opening up a adjust
+
+45
+00:04:37,247 --> 00:04:43,391
+GitHub and copying and pasting a bunch of these examples into the jet so you guys can participate in real time
+
+46
+00:04:43,647 --> 00:04:49,791
+I'm honestly a little bit more burned out today than I was last time so you guys be great
+
+47
+00:04:50,047 --> 00:04:56,191
+Timmy Guy start taking initiative start to really think critically about the packet and and
+
+48
+00:04:56,447 --> 00:05:02,591
+How they might be going together so let's just start with first things first
+
+49
+00:05:02,847 --> 00:05:08,991
+The just so you guys understand what's in the Stream here actually first
+
+50
+00:05:09,247 --> 00:05:15,391
+Brandon are you in chat
+
+51
+00:05:15,647 --> 00:05:21,791
+So far you guys who don't know my my roommate inverse phase over there he is acting as
+
+52
+00:05:22,047 --> 00:05:28,191
+Moderator she's actually working on a a python track of a python like chiptunes music
+
+53
+00:05:28,447 --> 00:05:34,591
+And it says he is a chiptune artist and he knows python so he's been out here the last couple of days up till 4
+
+54
+00:05:34,847 --> 00:05:40,991
+For 5 a.m. working on that tracker anyway moving forward here
+
+55
+00:05:41,247 --> 00:05:47,391
+Let's let's actually get into what these different fields mean
+
+56
+00:05:47,647 --> 00:05:53,791
+And how about how we learned it so what actually happened
+
+57
+00:05:54,047 --> 00:06:00,191
+When's that comes back from the The Watchmen this thing right here is the
+
+58
+00:06:00,447 --> 00:06:06,591
+Is the messages
+
+59
+00:06:06,847 --> 00:06:12,991
+229 B messages it were pretty sure that we figured out exactly how big of that message we care about
+
+60
+00:06:13,247 --> 00:06:19,391
+And just Lop off the end additionally we think this is based on some of the things that Ben hits
+
+61
+00:06:19,647 --> 00:06:25,791
+Said that the last four B
+
+62
+00:06:26,047 --> 00:06:32,191
+Are the CRC of the on-air checksum so we can probably discard them
+
+63
+00:06:32,447 --> 00:06:38,591
+Especially considering I think they would be the Searcy of the encoded data
+
+64
+00:06:38,847 --> 00:06:44,991
+So I'm just going to ignore them for right now the other things that we found out
+
+65
+00:06:45,247 --> 00:06:51,391
+Bi-directionally encoded so from the back of the stream going forward you can look at the numbers and
+
+66
+00:06:51,647 --> 00:06:57,791
+And they mean different things so the last three B here are the time code of when nothing happened then
+
+67
+00:06:58,047 --> 00:07:04,191
+Start reading back this number right here is the length and this case of the pulse time
+
+68
+00:07:04,447 --> 00:07:10,591
+And this is the code of which led was was the one that was on so right now I'm only blinking when I leave
+
+69
+00:07:10,847 --> 00:07:16,991
+So it's code 48
+
+70
+00:07:17,247 --> 00:07:23,391
+Yeah we're in the other dc-baltimore area so it is Us East time
+
+71
+00:07:23,647 --> 00:07:29,791
+Knoxville to stay up past midnight maybe probably 12:15
+
+72
+00:07:30,047 --> 00:07:36,191
+Stay off tonight eastern time so that's about 3 and a half hours from now
+
+73
+00:07:36,447 --> 00:07:42,591
+Amish I think you should be able to get pretty far 4 hours Brandon
+
+74
+00:07:42,847 --> 00:07:48,991
+I'm going to call him Brendan but his name is inverse phase and
+
+75
+00:07:49,247 --> 00:07:55,391
+You guys like chiptunes I'm going to ask him to go like paste the link to his YouTube
+
+76
+00:07:55,647 --> 00:08:01,791
+Moving on does anybody have any questions right now about the data as it stands or should I just keep going into
+
+77
+00:08:02,047 --> 00:08:08,191
+To what we found out so far just see what some people think I am expecting
+
+78
+00:08:08,447 --> 00:08:14,591
+A little bit more feedback this time how many people are
+
+79
+00:08:14,847 --> 00:08:20,991
+Find the chat
+
+80
+00:08:21,247 --> 00:08:27,391
+Okay that's good it's not
+
+81
+00:08:27,647 --> 00:08:33,791
+Not as big but okay so what we know so far is the last for
+
+82
+00:08:34,047 --> 00:08:40,191
+Then the next 3 going from the back forward is the is the time
+
+83
+00:08:40,447 --> 00:08:46,591
+Encode and then comes this absolutely insane thing that then did what happens if
+
+84
+00:08:46,847 --> 00:08:52,991
+Is your going backwards is you look at a number and if the ones place or sorry there's a
+
+85
+00:08:53,247 --> 00:08:59,391
+One in the the 128th Place Saudi 1/8 or higher out front
+
+86
+00:08:59,647 --> 00:09:05,791
+What happens is you have to read the next fight over to find out what's really going on I'm so in this
+
+87
+00:09:06,047 --> 00:09:12,191
+Case we have zero X 0481 so I'll just show you guys wouldn't that
+
+88
+00:09:12,447 --> 00:09:18,591
+I would really look like so 0 X8 1004
+
+89
+00:09:18,847 --> 00:09:24,991
+Number and so what we're going to be doing is we're going to be reading it from going back
+
+90
+00:09:25,247 --> 00:09:31,391
+So the way when we would read this as we would first look at
+
+91
+00:09:31,647 --> 00:09:37,791
+0x 0 4 and with that indicates is that there'll be another bite
+
+92
+00:09:38,047 --> 00:09:44,191
+Because it's less
+
+93
+00:09:44,447 --> 00:09:50,591
+Is less than 128 and so we read the next bite
+
+94
+00:09:50,847 --> 00:09:56,991
+But first we do is we shifted over seven places so 200 47
+
+95
+00:09:57,247 --> 00:10:03,391
+I can't do that bummer
+
+96
+00:10:03,647 --> 00:10:09,791
+47 places that's 512 which is
+
+97
+00:10:10,047 --> 00:10:13,119
+0 x 200
+
+98
+00:10:13,375 --> 00:10:19,519
+What we do is we look at the next fight over so 81 so because
+
+99
+00:10:19,775 --> 00:10:25,919
+Is a greater than or equal to
+
+100
+00:10:26,175 --> 00:10:32,319
+128 if a terminator and so what that mean
+
+101
+00:10:32,575 --> 00:10:38,719
+As we can just order the enemy. So that's your X200 or 0 x 81 equals your X2
+
+102
+00:10:38,975 --> 00:10:45,119
+281 and that's the actual value based on some hints from them
+
+103
+00:10:45,375 --> 00:10:51,519
+Dan from last time what we know is all of these values that are here these the values that will be after the star
+
+104
+00:10:51,775 --> 00:10:57,919
+Barcode with by-the-way 48-star the LED codes 48 is the LED code all of these back here
+
+105
+00:10:58,175 --> 00:11:04,319
+Are just relative times so what happens is we going to pause this will start at time
+
+106
+00:11:04,575 --> 00:11:08,415
+A6 C5 D5 and then
+
+107
+00:11:08,671 --> 00:11:14,815
+We know that led number 48 notice they're all divisible by 80 also pointed that out
+
+108
+00:11:15,071 --> 00:11:21,215
+And so it starts at this time
+
+109
+00:11:21,471 --> 00:11:27,615
+He is on and it is on for this length of time which is decoded as 0 x 281
+
+110
+00:11:27,871 --> 00:11:34,015
+And then it turns off and then that's the end of it so right now all that are actually doing
+
+111
+00:11:34,271 --> 00:11:40,415
+And here is we are turning on or linking it to MHz about
+
+112
+00:11:40,671 --> 00:11:46,815
+Seems to work better if I go like much slower I'm thinking it's around 1.4 MHz I don't know why that works
+
+113
+00:11:47,071 --> 00:11:53,215
+Better but anyway I turn it on and off a 2.4 megahertz for a bit of time
+
+114
+00:11:53,471 --> 00:11:59,615
+And then I sleep and so that's how we get this the most basic code
+
+115
+00:11:59,871 --> 00:12:06,015
+This is really simple to read now that we know how to do it it does it is a little bit can
+
+116
+00:12:06,271 --> 00:12:12,415
+Using cuz the order of things is a little wacky but it
+
+117
+00:12:13,439 --> 00:12:19,583
+It it it is totally I won't break the Vive again datum
+
+118
+00:12:19,839 --> 00:12:25,983
+It is totally doable I bricked the Vive yesterday and it is
+
+119
+00:12:26,239 --> 00:12:32,383
+Bricked permanently sort of I was much earlier in the day was trying
+
+120
+00:12:32,639 --> 00:12:38,783
+Find Rudolph the configuration data but I accidentally had the set B set instead of
+
+121
+00:12:39,039 --> 00:12:42,111
+Set witch
+
+122
+00:12:45,439 --> 00:12:47,231
+Which which actually
+
+123
+00:12:47,743 --> 00:12:53,887
+Made it wipe out all of the hid data for the configuration for the vibe
+
+124
+00:12:54,143 --> 00:13:00,287
+You things just fine I could even read your headset but all of the config data that talk about the gyros in the exact location
+
+125
+00:13:00,543 --> 00:13:06,687
+Of all of these things was totally blown away which also I found out that
+
+126
+00:13:06,943 --> 00:13:13,087
+This is crazy with the who it's all sweaty from me anyway
+
+127
+00:13:13,343 --> 00:13:19,487
+Nation of all of these sensors is calibrated in the factory Sono to Vive the same and they know that
+
+128
+00:13:19,743 --> 00:13:25,887
+And the vibe store their config data I blew away mine somebody on Fox fired
+
+129
+00:13:26,143 --> 00:13:32,287
+I think his name was was was really really helpful
+
+130
+00:13:32,543 --> 00:13:38,687
+And and and and he was able to give us a copy of his config for similar Vive which after tweak
+
+131
+00:13:38,943 --> 00:13:45,087
+Making some values we were able to get going again I can't really tell the tracking difference but
+
+132
+00:13:45,343 --> 00:13:51,487
+But everybody online seems to think that this is horrible and that it's going to be terrible
+
+133
+00:13:51,743 --> 00:13:57,887
+I think I looked out and addition then shot an email to HTC to see if they can actually pull
+
+134
+00:13:58,143 --> 00:14:04,287
+A copy of our config from this Vibe as it was shipped which if they do that
+
+135
+00:14:04,543 --> 00:14:10,687
+Whole thankful back to 100%
+
+136
+00:14:10,943 --> 00:14:17,087
+And if not well it looks like I'm going to have to reverse-engineer the rest of all of this mess so that I
+
+137
+00:14:17,343 --> 00:14:23,487
+I can go calibrate this at myself
+
+138
+00:14:23,743 --> 00:14:29,887
+Oh really
+
+139
+00:14:30,143 --> 00:14:36,287
+So Adam this is my roommate he's the vibe
+
+140
+00:14:36,543 --> 00:14:42,687
+Has he has a plugged into his computer
+
+141
+00:14:42,943 --> 00:14:49,087
+By the way if anybody does want to hack your Vibes definitely pull a full report from the Vive using steam 1st and
+
+142
+00:14:49,343 --> 00:14:55,487
+Use the lighthouse tool in order to backup everything which you can totally do you can just dump the data
+
+143
+00:14:55,743 --> 00:15:01,887
+There's a directions if you look up I blew away my HTC Vive config on Reddit and there's a
+
+144
+00:15:02,143 --> 00:15:08,287
+Supposed there Adam I guess if you can like it moving forward
+
+145
+00:15:08,543 --> 00:15:14,687
+Bri have three LED and I have my source code here
+
+146
+00:15:14,943 --> 00:15:21,087
+EXC
+
+147
+00:15:21,343 --> 00:15:27,487
+And there's a command you can just execute at work
+
+148
+00:15:27,743 --> 00:15:33,887
+Moving on to the first thing I'm actually going to do here isn't going to change
+
+149
+00:15:34,143 --> 00:15:40,287
+Change the way the make fireworks and what I'm going to do is I'm going to say if I say
+
+150
+00:15:40,543 --> 00:15:42,591
+Make
+
+151
+00:15:42,847 --> 00:15:48,991
+Test. Hacks is also going to burn so if I
+
+152
+00:15:49,503 --> 00:15:50,783
+Just say make
+
+153
+00:15:51,039 --> 00:15:53,343
+Oh wait I want to say
+
+154
+00:15:53,855 --> 00:15:54,879
+Hake
+
+155
+00:15:57,695 --> 00:16:03,839
+So now if I haven't changed the code it won't update the
+
+156
+00:16:04,095 --> 00:16:10,239
+Dv80r so like saved now
+
+157
+00:16:10,495 --> 00:16:16,639
+It'll update tavr so what I can do is I can say while true do make
+
+158
+00:16:16,895 --> 00:16:23,039
+Sleep 1.5 done bomb and so now it's going to be rain that make over
+
+159
+00:16:23,295 --> 00:16:29,183
+Over and over and over and over again just going to go move that off to another window so I don't have to worry about it
+
+160
+00:16:29,695 --> 00:16:31,999
+Now I'm going to go
+
+161
+00:16:32,255 --> 00:16:37,119
+Rumsey the biking again and what I can do is I can interactively
+
+162
+00:16:37,887 --> 00:16:40,191
+I'm going to be able to take the code here
+
+163
+00:16:40,703 --> 00:16:43,775
+And I'm going to be able to tweak it
+
+164
+00:16:44,287 --> 00:16:45,823
+In real time
+
+165
+00:16:46,079 --> 00:16:46,847
+So
+
+166
+00:16:48,383 --> 00:16:54,527
+I'm going to be able to say change this so say I want to make it to the duration of the pulse is longer right now you see it's zero
+
+167
+00:16:54,783 --> 00:16:59,647
+0481 I'm going to say make it forty whatever those units are
+
+168
+00:16:59,903 --> 00:17:06,047
+Now if you notice it paused for a split-second that was when I save the file to change back to 30
+
+169
+00:17:06,303 --> 00:17:12,447
+Pause and it keeps going do you see how fast that is that's instantaneous and what's really going on
+
+170
+00:17:12,703 --> 00:17:18,847
+Soon as I save this file it's going and it's reflashing remove this over the other
+
+171
+00:17:20,639 --> 00:17:26,783
+Other window here as soon as I save the file it goes Andre Flash
+
+172
+00:17:27,039 --> 00:17:33,183
+Is it in that sit avrs are awesome for really fast development cycle so
+
+173
+00:17:33,439 --> 00:17:34,719
+That totally
+
+174
+00:17:35,231 --> 00:17:41,375
+That will totally work and see what Chad is doing
+
+175
+00:17:51,871 --> 00:17:54,943
+Okay yeah nothing really that clear
+
+176
+00:17:55,455 --> 00:18:00,575
+Yeah sorry well this is not going to be that long of a the stream this is going to be a much shorter stream
+
+177
+00:18:00,831 --> 00:18:06,207
+Cuz I'm going to have to go to bed by like 12:15 cuz I'm
+
+178
+00:18:06,463 --> 00:18:12,095
+Beat it anyway. Moving forward I can change these these data the theater right here
+
+179
+00:18:12,351 --> 00:18:15,167
+And I can load it into
+
+180
+00:18:15,423 --> 00:18:19,263
+And I can load it up in almost immediately
+
+181
+00:18:20,031 --> 00:18:22,847
+Okay so you guys are actually waiting and ready to get some data
+
+182
+00:18:23,359 --> 00:18:23,871
+Okay
+
+183
+00:18:25,663 --> 00:18:31,807
+240 hero 2:40 a.m. that's a bummer let's get some data okay so this is
+
+184
+00:18:32,063 --> 00:18:37,439
+Is the most degenerate case we see can I open up a GitHub
+
+185
+00:18:37,695 --> 00:18:41,023
+Allure are just right at out is now
+
+186
+00:18:42,047 --> 00:18:43,839
+Subject
+
+187
+00:18:45,631 --> 00:18:47,423
+Create a new gist
+
+188
+00:18:48,191 --> 00:18:51,519
+HTC Vive Watchman
+
+189
+00:18:51,775 --> 00:18:53,567
+Packing session
+
+190
+00:18:54,847 --> 00:18:55,871
+Codes
+
+191
+00:18:59,199 --> 00:19:01,503
+HTC Vive
+
+192
+00:19:01,759 --> 00:19:04,319
+Watchmen codes
+
+193
+00:19:09,951 --> 00:19:12,255
+Start off with
+
+194
+00:19:12,767 --> 00:19:17,119
+Tavr code women actually do is when I have some Panda Vines
+
+195
+00:19:19,423 --> 00:19:20,703
+Three as
+
+196
+00:19:24,543 --> 00:19:26,079
+8
+
+197
+00:19:33,503 --> 00:19:36,319
+4 LED 40 and
+
+198
+00:19:38,111 --> 00:19:44,255
+Play B-52 the side of the controller and we're only going to be operate
+
+199
+00:19:44,511 --> 00:19:46,559
+Waiting on that one so it's going to say LED
+
+200
+00:19:46,815 --> 00:19:47,583
+40
+
+201
+00:19:49,119 --> 00:19:52,191
+And we're going to just put this all together
+
+202
+00:19:55,519 --> 00:19:58,591
+So going to do here and then when I turn on LED 40
+
+203
+00:20:01,919 --> 00:20:06,783
+Wait a little bit I'm going to turn on LED 50
+
+204
+00:20:07,807 --> 00:20:10,111
+And then I'm going to try on LED 48
+
+205
+00:20:12,415 --> 00:20:18,047
+Okay so that should be what we need to have done I just delete that okay
+
+206
+00:20:18,303 --> 00:20:22,143
+I just saved it and it should be updating I was not why is it not updating
+
+207
+00:20:23,423 --> 00:20:25,983
+The compiler there is
+
+208
+00:20:27,007 --> 00:20:29,823
+How to find elk
+
+209
+00:20:33,151 --> 00:20:39,295
+Just so you guys know underscore BV is a synonym
+
+210
+00:20:40,831 --> 00:20:46,975
+Is a synonym for one that
+
+211
+00:20:47,231 --> 00:20:53,375
+And it has to do with the way in which AV rgcc handles 16 deaths and still having a hard time
+
+212
+00:20:53,631 --> 00:20:56,191
+What is it doing underscore delay
+
+213
+00:20:56,703 --> 00:20:57,983
+Underscore us
+
+214
+00:21:10,527 --> 00:21:15,903
+Okay so now we have three LEDs that are turning on and off
+
+215
+00:21:21,024 --> 00:21:24,096
+4050 + 48
+
+216
+00:21:24,352 --> 00:21:29,472
+Although it looks like I might have my order backwards so that's a little concerning
+
+217
+00:21:29,728 --> 00:21:35,872
+What's make sure that nothing really wacky is going on I'm sa48 50 + 40
+
+218
+00:21:38,176 --> 00:21:42,272
+4850 40 so now it's going the wrong direction
+
+219
+00:21:43,040 --> 00:21:43,808
+I must have
+
+220
+00:21:44,064 --> 00:21:46,112
+Messed up some code here let's check that out
+
+221
+00:21:47,392 --> 00:21:52,768
+Amy least get back to something sensible and then I will upload some some dumps
+
+222
+00:21:53,024 --> 00:21:59,168
+HT survive there is yes this one
+
+223
+00:21:59,424 --> 00:22:05,568
+To Lily somewhere in here
+
+224
+00:22:14,784 --> 00:22:18,624
+Just that was right I thought it was wrong for some reason but maybe I was just
+
+225
+00:22:32,704 --> 00:22:34,752
+40 40 50 that's wrong
+
+226
+00:22:40,128 --> 00:22:42,176
+40 Ino that's really wrong
+
+227
+00:22:44,736 --> 00:22:47,296
+4050 48 is that correct
+
+228
+00:22:48,832 --> 00:22:49,856
+40
+
+229
+00:22:50,880 --> 00:22:51,648
+54
+
+230
+00:22:52,160 --> 00:22:53,696
+Wait what's going on
+
+231
+00:22:58,560 --> 00:23:00,352
+4050 48th
+
+232
+00:23:08,800 --> 00:23:14,944
+Does anyone have any idea why these numbers are coming in in the order they're coming in on cuz I I would not expect this code produced that out
+
+233
+00:23:16,224 --> 00:23:18,784
+Michigan's I just tried swatting it and I think I
+
+234
+00:23:25,952 --> 00:23:28,000
+4850 40
+
+235
+00:23:29,792 --> 00:23:31,840
+4850 40
+
+236
+00:23:32,352 --> 00:23:38,496
+So now it's right oh you know what I never rebuilt it that's what the problem was okay so now it's actually correct
+
+237
+00:23:40,032 --> 00:23:46,176
+So moving on now so this is a really basic dump and I will go
+
+238
+00:23:46,432 --> 00:23:50,016
+Post this to the just github just right now
+
+239
+00:23:54,112 --> 00:23:57,952
+So the way this goes is
+
+240
+00:23:58,208 --> 00:24:00,768
+I post my aviar
+
+241
+00:24:02,048 --> 00:24:03,328
+Code
+
+242
+00:24:03,584 --> 00:24:07,936
+Then I post what the HTC Vive does
+
+243
+00:24:09,728 --> 00:24:11,776
+Oh and
+
+244
+00:24:20,224 --> 00:24:22,272
+So that a VR code there
+
+245
+00:24:22,528 --> 00:24:23,808
+Produces
+
+246
+00:24:24,320 --> 00:24:25,600
+Following output
+
+247
+00:24:27,648 --> 00:24:28,672
+Donk
+
+248
+00:24:38,400 --> 00:24:40,960
+The output is
+
+249
+00:24:41,472 --> 00:24:43,008
+Post 0
+
+250
+00:24:45,056 --> 00:24:48,896
+However the 16oz l number of B
+
+251
+00:24:52,480 --> 00:24:56,832
+Iemu timecode MSDS
+
+252
+00:24:57,088 --> 00:24:58,112
+Then
+
+253
+00:24:58,368 --> 00:25:01,440
+All raw light data
+
+254
+00:25:06,304 --> 00:25:08,096
+Echoes events
+
+255
+00:25:08,608 --> 00:25:10,400
+Time
+
+256
+00:25:10,656 --> 00:25:11,680
+Colon
+
+257
+00:25:12,192 --> 00:25:13,216
+LED
+
+258
+00:25:14,752 --> 00:25:17,056
+Code Flash
+
+259
+00:25:17,312 --> 00:25:19,104
+Timecode one
+
+260
+00:25:19,360 --> 00:25:21,152
+Timecode to
+
+261
+00:25:22,432 --> 00:25:23,456
+Flash
+
+262
+00:25:32,416 --> 00:25:33,440
+Lady code
+
+263
+00:25:33,696 --> 00:25:34,464
+2
+
+264
+00:25:34,976 --> 00:25:35,744
+3
+
+265
+00:25:36,256 --> 00:25:37,024
+4
+
+266
+00:25:37,536 --> 00:25:42,656
+Notice stuff funky and coding of the numbers
+
+267
+00:25:42,912 --> 00:25:49,056
+And the fact that parameters are read from the end of the data
+
+268
+00:25:49,312 --> 00:25:51,360
+Going forward
+
+269
+00:25:52,640 --> 00:25:58,784
+We know we're done when the number of parameters red is
+
+270
+00:26:00,576 --> 00:26:01,344
+Is
+
+271
+00:26:01,600 --> 00:26:04,672
+Number of fights left
+
+272
+00:26:05,952 --> 00:26:08,000
+X
+
+273
+00:26:10,048 --> 00:26:11,072
+2
+
+274
+00:26:14,912 --> 00:26:16,960
+B w x 2
+
+275
+00:26:18,240 --> 00:26:18,752
+No
+
+276
+00:26:20,032 --> 00:26:20,800
++ 1
+
+277
+00:26:25,152 --> 00:26:27,456
+Yeah that sounds right
+
+278
+00:26:28,736 --> 00:26:29,248
+Is it
+
+279
+00:26:31,808 --> 00:26:33,856
+See what is it it is
+
+280
+00:26:42,304 --> 00:26:43,328
+Note
+
+281
+00:26:45,376 --> 00:26:48,448
+Raw light data ends with
+
+282
+00:26:48,960 --> 00:26:50,240
+Free B
+
+283
+00:26:51,776 --> 00:26:53,568
+LSPD timecode
+
+284
+00:26:54,848 --> 00:26:55,872
+Gotye
+
+285
+00:26:56,384 --> 00:26:57,664
+CRC
+
+286
+00:26:58,176 --> 00:26:59,712
+Probably ignore
+
+287
+00:27:02,272 --> 00:27:08,416
+So see here sweet nor the last four week nor these that's one parameter to parameters three parameters
+
+288
+00:27:08,672 --> 00:27:11,488
+Four parameters five parameters and three values
+
+289
+00:27:11,744 --> 00:27:17,888
+So five
+
+290
+00:27:20,192 --> 00:27:22,496
+X 2 - 1
+
+291
+00:27:24,544 --> 00:27:30,688
+Yeah that's actually right okay cuz if you only have one LED on you only need one for amateur cuz you only need to know the LED turned on
+
+292
+00:27:30,944 --> 00:27:37,088
+The time code which led it was and how long that led was on totally do it
+
+293
+00:27:41,952 --> 00:27:43,488
+Okay let's create a public
+
+294
+00:27:44,000 --> 00:27:44,768
+Just
+
+295
+00:27:46,304 --> 00:27:51,424
+I have not placed a digikey order
+
+296
+00:27:55,776 --> 00:27:56,800
+Which by the way
+
+297
+00:27:57,056 --> 00:27:58,592
+Did you hear me
+
+298
+00:27:59,104 --> 00:28:05,248
+So I'm going to link you guys this public just
+
+299
+00:28:06,016 --> 00:28:09,344
+I see you I'm going to do some I stick it in the
+
+300
+00:28:13,184 --> 00:28:17,280
+Brendan do you have you don't have rights that it at least if I can add that
+
+301
+00:28:19,328 --> 00:28:20,608
+I can
+
+302
+00:28:23,424 --> 00:28:25,984
+Do I save
+
+303
+00:28:38,016 --> 00:28:40,832
+Okay people in chat are you ready to start
+
+304
+00:28:42,368 --> 00:28:46,208
+Adam which LEDs you want to have added
+
+305
+00:28:48,000 --> 00:28:49,280
+Civility order
+
+306
+00:28:51,072 --> 00:28:54,144
+We probably shouldn't be doing business though
+
+307
+00:28:54,912 --> 00:28:57,216
+In a live stream event
+
+308
+00:28:57,472 --> 00:29:03,616
+But any rate I have now posted the first bunch of data so this is a really simple case I want you guys
+
+309
+00:29:03,872 --> 00:29:08,224
+That's the kind of start looking at it and make sure you get a little bit more comfortable with
+
+310
+00:29:08,736 --> 00:29:14,880
+With what format this is in in so I guess we're going to go on from there
+
+311
+00:29:15,136 --> 00:29:17,184
+Is fading who's going to be looking at the state up
+
+312
+00:29:17,440 --> 00:29:20,768
+And in trying to reverse-engineer this with me
+
+313
+00:29:21,536 --> 00:29:23,584
+You're probably going to able to do better than I can
+
+314
+00:29:41,760 --> 00:29:47,904
+Okay good Paul so the first thing that I want to do in this is just something
+
+315
+00:29:48,160 --> 00:29:50,208
+I don't know
+
+316
+00:29:50,976 --> 00:29:56,608
+It means you can't have it pulled up in
+
+317
+00:29:57,120 --> 00:30:03,264
+And in and just whoever wants me to go more into
+
+318
+00:30:03,520 --> 00:30:04,800
+What the data means
+
+319
+00:30:05,056 --> 00:30:11,200
+Just tell me and I will go I will try to go back and explain it more and understand that I
+
+320
+00:30:11,456 --> 00:30:17,600
+I still don't know what certain codes mean so I'm I'm just I don't know right now
+
+321
+00:30:17,856 --> 00:30:21,696
+Tried different things to create those codes and we'll see if we can figure out what they mean
+
+322
+00:30:39,360 --> 00:30:40,640
+Nobody saying anything
+
+323
+00:30:43,456 --> 00:30:44,224
+Okay
+
+324
+00:30:44,480 --> 00:30:47,040
+That's fine I guess I will just start
+
+325
+00:30:47,296 --> 00:30:52,928
+Engineering the first thing I wanted to look at was if I turn on 48
+
+326
+00:30:53,440 --> 00:30:59,584
+And at the same time is 48 being on I turn on 50 so I can say or LED
+
+327
+00:30:59,840 --> 00:31:05,984
+48th and then I turn off LED 50 so backed up
+
+328
+00:31:06,240 --> 00:31:12,384
+LED 48 only
+
+329
+00:31:19,808 --> 00:31:25,952
+I mean okay not really awesome cuz if he didn't engineer possible we'd be done and I could move on
+
+330
+00:31:26,208 --> 00:31:32,352
+By the way I was up too loud the levels right I hope I got the levels
+
+331
+00:31:36,960 --> 00:31:39,264
+Okay I will add the note about
+
+332
+00:31:40,288 --> 00:31:42,080
+Parameter fields
+
+333
+00:31:43,616 --> 00:31:45,152
+Are encoded
+
+334
+00:31:45,920 --> 00:31:47,456
+Read from
+
+335
+00:31:47,712 --> 00:31:48,480
+End
+
+336
+00:31:48,736 --> 00:31:50,272
+Going forward
+
+337
+00:31:50,528 --> 00:31:53,088
+If value in Earth
+
+338
+00:31:53,344 --> 00:31:55,904
+MSB is
+
+339
+00:31:56,928 --> 00:31:57,696
+Is
+
+340
+00:31:58,976 --> 00:32:00,768
+Just in case means bail
+
+341
+00:32:02,048 --> 00:32:03,840
+Is is 1
+
+342
+00:32:04,096 --> 00:32:06,656
+Aisha rx80
+
+343
+00:32:06,912 --> 00:32:08,448
+It is done
+
+344
+00:32:08,704 --> 00:32:09,728
+If
+
+345
+00:32:11,520 --> 00:32:17,408
+Not then need to read next fight
+
+346
+00:32:17,664 --> 00:32:21,248
+I'll copy and paste the explanation from here
+
+347
+00:32:26,880 --> 00:32:32,512
+Stream brought to you by caffeine
+
+348
+00:32:32,768 --> 00:32:38,912
+I actually did not sleep at all Saturday night cuz I was to wire so
+
+349
+00:32:39,168 --> 00:32:40,192
+No caffeine for me
+
+350
+00:32:41,984 --> 00:32:44,032
+Any rate so I'm going to go
+
+351
+00:32:44,800 --> 00:32:46,592
+Update public gist
+
+352
+00:32:47,872 --> 00:32:48,640
+Now
+
+353
+00:32:51,968 --> 00:32:55,552
+Okay so if you have the gist open refresh your page
+
+354
+00:32:55,808 --> 00:32:57,600
+And it will be updated for you
+
+355
+00:32:58,112 --> 00:33:01,440
+So the next thing I'm going to do now is we're going to look at the data
+
+356
+00:33:01,696 --> 00:33:03,488
+If I do the whole thing so fight
+
+357
+00:33:03,744 --> 00:33:06,304
+Turn on LED 4
+
+358
+00:33:06,560 --> 00:33:07,584
+LED 50
+
+359
+00:33:08,864 --> 00:33:10,656
+Watch documentaries
+
+360
+00:33:11,168 --> 00:33:11,936
+Blank
+
+361
+00:33:12,704 --> 00:33:15,776
+Time for following
+
+362
+00:33:24,480 --> 00:33:30,624
+So anybody who's a tuning in now what I have is I have the AVR tape to The Watchmen controller
+
+363
+00:33:30,880 --> 00:33:31,904
+3 LEDs
+
+364
+00:33:32,160 --> 00:33:34,208
+And I have my AVR code here
+
+365
+00:33:34,720 --> 00:33:40,608
+And I can just save it and it reflash is it immediately so if I'm running this
+
+366
+00:33:40,864 --> 00:33:42,656
+If I change the code
+
+367
+00:33:43,680 --> 00:33:45,728
+So if I comment out this block right here
+
+368
+00:33:45,984 --> 00:33:47,008
+And I say save
+
+369
+00:33:47,520 --> 00:33:51,616
+It pauses and then keeps going
+
+370
+00:33:51,872 --> 00:33:58,016
+What I just posted was a really basic thing maybe I'll post this is another example
+
+371
+00:33:58,272 --> 00:34:00,320
+Call just to see how simple it can really get
+
+372
+00:34:17,216 --> 00:34:17,984
+Okay
+
+373
+00:34:18,496 --> 00:34:23,616
+Then the more advanced one the one I wanted to show you guys that I don't understand right now
+
+374
+00:34:24,896 --> 00:34:30,272
+Is this one so what we're doing is returning LED 48 on 50 and 48 and then 48
+
+375
+00:34:30,528 --> 00:34:33,088
+I'm going to save that and
+
+376
+00:34:34,880 --> 00:34:36,672
+Why does it not like that
+
+377
+00:34:48,704 --> 00:34:50,240
+Herpa derp
+
+378
+00:34:50,752 --> 00:34:56,384
+Okay saved it and now it's updating so now this is a little bit more complicated
+
+379
+00:34:57,152 --> 00:34:59,456
+It turns on
+
+380
+00:34:59,712 --> 00:35:00,736
+For a little bit
+
+381
+00:35:01,504 --> 00:35:07,648
+And then just for a little led50 on for a little bit and then back off to just 48 and up
+
+382
+00:35:07,904 --> 00:35:11,232
+Uses a code that makes no sense to me
+
+383
+00:35:11,744 --> 00:35:14,816
+I'm going to go upload that here so that
+
+384
+00:35:15,328 --> 00:35:16,352
+Produces
+
+385
+00:35:28,640 --> 00:35:29,920
+That
+
+386
+00:35:30,176 --> 00:35:34,272
+And then we're going to try also is swapping it around so it will be 50
+
+387
+00:35:34,528 --> 00:35:35,808
+48 + 50
+
+388
+00:35:36,320 --> 00:35:36,832
+50
+
+389
+00:35:37,600 --> 00:35:39,136
+So we're going to see what that looks like
+
+390
+00:35:41,952 --> 00:35:43,744
+Notice how they are different so
+
+391
+00:35:44,256 --> 00:35:45,792
+Do you not understand
+
+392
+00:35:46,304 --> 00:35:52,448
+What's going on here so one of the things been told us last time was to take note
+
+393
+00:35:52,704 --> 00:35:55,264
+Betty's LED codes were all divisible
+
+394
+00:35:55,520 --> 00:35:56,288
+By 8
+
+395
+00:35:56,544 --> 00:36:02,688
+I'm so what that means is there is now three bits left over at the beginning of the the LED code to tell us additional in
+
+396
+00:36:02,944 --> 00:36:04,736
+Information
+
+397
+00:36:05,248 --> 00:36:06,528
+I don't know what those B do
+
+398
+00:36:10,368 --> 00:36:12,928
+Helpful is asking about your workflow
+
+399
+00:36:13,440 --> 00:36:17,792
+And I mention that you're probably just up and entering on and they can run this tomorrow morning
+
+400
+00:36:18,304 --> 00:36:24,448
+And control so I guess I should say that again
+
+401
+00:36:24,704 --> 00:36:26,752
+What I've done is
+
+402
+00:36:27,264 --> 00:36:30,080
+Is I have it set up over here
+
+403
+00:36:30,336 --> 00:36:36,480
+With me cantaloupe so what's going on is the system is constantly looking for new changes
+
+404
+00:36:36,736 --> 00:36:37,504
+New
+
+405
+00:36:38,272 --> 00:36:40,576
+New ain't anything that changes
+
+406
+00:36:40,832 --> 00:36:46,976
+And if it changes then it will send recompile and send the new binary to the ER
+
+407
+00:36:47,232 --> 00:36:49,536
+So if I just save the hex file
+
+408
+00:36:49,792 --> 00:36:55,168
+Recompile zitra flashes and now this AVR is burning new code
+
+409
+00:36:56,704 --> 00:37:00,800
+Wish I could have this hanging here so you could see it but I don't think it really matters
+
+410
+00:37:01,824 --> 00:37:07,968
+I'm so now if I run this and do right now is going to save the save the gist
+
+411
+00:37:10,272 --> 00:37:12,320
+This is going to live over there now
+
+412
+00:37:16,160 --> 00:37:19,744
+Or not how about that
+
+413
+00:37:23,840 --> 00:37:24,864
+Yes
+
+414
+00:37:25,888 --> 00:37:32,032
+So does this give anybody else any ideas for things that you want to start looking at right now
+
+415
+00:37:32,288 --> 00:37:35,104
+I think some of the things that really Stan
+
+416
+00:37:35,360 --> 00:37:36,384
+Mario
+
+417
+00:37:41,504 --> 00:37:45,344
+Some things that stand out to me is you see the 48
+
+418
+00:37:45,600 --> 00:37:47,136
+And then you see the 52
+
+419
+00:37:47,392 --> 00:37:50,464
+But the 52 is
+
+420
+00:37:50,720 --> 00:37:56,864
+Has the the the one set in the tooth place and the same thing is for a so
+
+421
+00:37:57,120 --> 00:38:03,264
+Over here if you look when it goes one way it's 54 and then here is 48-52
+
+422
+00:38:03,520 --> 00:38:08,128
+Until 4 a.m. is actually just 48
+
+423
+00:38:08,384 --> 00:38:09,152
+Text
+
+424
+00:38:10,944 --> 00:38:13,248
+With the two bits
+
+425
+00:38:14,016 --> 00:38:20,160
+48 hacks with the two bit set so something about what we've done here makes the two-bit get
+
+426
+00:38:20,416 --> 00:38:26,560
+What are the things I want to check next is to make sure that these times are doing what we think we're doing
+
+427
+00:38:26,816 --> 00:38:31,168
+Somerset at 2 instead of being 40 microseconds each I'm going to set it to 80
+
+428
+00:38:31,680 --> 00:38:37,824
+I'll keep the first one at 40 and I'll make the 80 and I'll make it 1:20 and we'll see what happens
+
+429
+00:38:40,640 --> 00:38:43,968
+That's not what I would have expected
+
+430
+00:38:46,016 --> 00:38:49,088
+That number does not look like a legitimate number
+
+431
+00:38:50,112 --> 00:38:54,208
+Amber looks much much larger than a legitimate number
+
+432
+00:38:55,488 --> 00:39:00,352
+Maybe something is wrong in my code that would identify that
+
+433
+00:39:01,888 --> 00:39:05,216
+4080
+
+434
+00:39:05,472 --> 00:39:07,776
+120
+
+435
+00:39:08,288 --> 00:39:12,128
+141 980
+
+436
+00:39:12,384 --> 00:39:18,528
+Okay so it is still working is I make this number bigger it makes that that value on screen this
+
+437
+00:39:18,784 --> 00:39:24,928
+Remember right here the length of appropriate Lee larger that's weird
+
+438
+00:39:25,184 --> 00:39:31,328
+Apparently there's a maximum you can get to think
+
+439
+00:39:31,584 --> 00:39:37,728
+Oh that's weird it's like
+
+440
+00:39:37,984 --> 00:39:44,128
+Wraps around
+
+441
+00:39:50,784 --> 00:39:56,928
+Oh I'm confused now let's start small
+
+442
+00:39:57,184 --> 00:40:03,328
+Okay so I don't actually do
+
+443
+00:40:03,584 --> 00:40:09,728
+Do all three LEDs at once because I can't control which
+
+444
+00:40:09,984 --> 00:40:16,128
+Or when it starts detecting them you get like conditions were like it'll turn on turn on by I don't know which
+
+445
+00:40:16,384 --> 00:40:22,528
+Which one really turned on before the other
+
+446
+00:40:22,784 --> 00:40:28,928
+Yeah I don't know what's going on right now why did you guys want to look at the the streams of guinea-bissau read the numbers on my
+
+447
+00:40:29,184 --> 00:40:35,328
+Clearly so that the 50 the the 501c
+
+448
+00:40:35,584 --> 00:40:41,728
+7 whatever I don't know why this is so 10 microseconds 183
+
+449
+00:40:41,984 --> 00:40:47,104
+20 microseconds 35640
+
+450
+00:40:47,360 --> 00:40:50,688
+Okay so is working 80
+
+451
+00:40:50,944 --> 00:40:57,088
+9100 Hoops 100
+
+452
+00:40:57,344 --> 00:41:03,488
+200-300 no 300 broken
+
+453
+00:41:03,744 --> 00:41:08,608
+222 40
+
+454
+00:41:11,680 --> 00:41:17,568
+3240
+
+455
+00:41:17,824 --> 00:41:23,968
+To 50 to 60
+
+456
+00:41:31,136 --> 00:41:37,280
+Thank you thank you I got that
+
+457
+00:41:37,536 --> 00:41:43,680
+Northfield
+
+458
+00:41:43,936 --> 00:41:50,080
+Thank you okay how are we going to do that then
+
+459
+00:41:55,967 --> 00:42:02,111
+Okay then just to make sure that this isn't going to completely get hoes I'm going to have to have to
+
+460
+00:42:02,367 --> 00:42:04,159
+Put a loop around the outside
+
+461
+00:42:19,775 --> 00:42:22,079
+255
+
+462
+00:42:25,663 --> 00:42:31,807
+Okay we're cooking again Charles is not all dumb
+
+463
+00:42:33,087 --> 00:42:39,231
+To me if I take
+
+464
+00:42:39,487 --> 00:42:45,631
+Take twice as long here it goes from 40 470 something 298 something so I'm
+
+465
+00:42:45,887 --> 00:42:47,167
+Pretty
+
+466
+00:42:47,679 --> 00:42:51,007
+Pretty happy with that
+
+467
+00:42:51,263 --> 00:42:52,287
+3
+
+468
+00:42:52,543 --> 00:42:55,359
+Or
+
+469
+00:42:55,615 --> 00:42:56,639
+5
+
+470
+00:42:57,151 --> 00:43:01,503
+67
+
+471
+00:43:02,015 --> 00:43:07,391
+89
+
+472
+00:43:13,023 --> 00:43:14,815
+12
+
+473
+00:43:15,071 --> 00:43:17,119
+13
+
+474
+00:43:17,375 --> 00:43:19,167
+12
+
+475
+00:43:20,959 --> 00:43:21,983
+13
+
+476
+00:43:22,239 --> 00:43:24,543
+12
+
+477
+00:43:32,223 --> 00:43:38,367
+Okay we're going to have to remember this for later cuz I think this might might be important
+
+478
+00:43:41,439 --> 00:43:45,791
+I'm going to make a note of this in the gist that
+
+479
+00:43:47,327 --> 00:43:48,863
+That
+
+480
+00:43:49,119 --> 00:43:50,911
+Produces
+
+481
+00:43:51,167 --> 00:43:53,727
+This
+
+482
+00:43:58,847 --> 00:44:01,407
+But
+
+483
+00:44:06,783 --> 00:44:10,111
+13 produces
+
+484
+00:44:10,367 --> 00:44:11,647
+Nothing at all
+
+485
+00:44:12,927 --> 00:44:19,071
+That would mean to me that maybe what's going on there is
+
+486
+00:44:22,911 --> 00:44:29,055
+That maybe this values maximum is 65 530 around 6
+
+487
+00:44:29,311 --> 00:44:35,455
+Which is interesting cuz that means that maybe there's a way to encode more data above that
+
+488
+00:44:35,711 --> 00:44:41,855
+Cuz there's definitely date available cuz like lucketts 037 bb7
+
+489
+00:44:42,111 --> 00:44:48,255
+Is 64 951 so there's there's room for more information to be there and let's see what the
+
+490
+00:44:48,511 --> 00:44:54,655
+That actually works out to see if that's reasonable so calc so 60
+
+491
+00:44:54,911 --> 00:45:01,055
+5535 / 48 millionths of a second
+
+492
+00:45:01,311 --> 00:45:07,455
+35 x 48 millions of a second
+
+493
+00:45:07,711 --> 00:45:13,599
+That's 1.365 milliseconds
+
+494
+00:45:13,855 --> 00:45:19,487
+I go look up the
+
+495
+00:45:21,535 --> 00:45:27,679
+Where's the life and I hear it is somebody who documented
+
+496
+00:45:27,935 --> 00:45:34,079
+What the light emissions were so that would be text 2000
+
+497
+00:45:34,335 --> 00:45:40,479
+Stuffed is his system should never ever be running into an LED receiving data 460
+
+498
+00:45:40,735 --> 00:45:46,879
+5000 so let's just take a note that
+
+499
+00:45:47,135 --> 00:45:53,279
+Note that the numbers could be to be over that
+
+500
+00:45:53,535 --> 00:45:59,679
+Is the maximum think that there might be more data there that we're just not seeing
+
+501
+00:45:59,935 --> 00:46:06,079
+Because it's 65,000 the representation is 037 whatever and then another number
+
+502
+00:46:06,335 --> 00:46:12,479
+So that leaves plenty of bits of space left and knowing then there's no way he's going to
+
+503
+00:46:12,735 --> 00:46:14,783
+You wasting those bets
+
+504
+00:46:17,599 --> 00:46:23,743
+Just watched a Chinaman
+
+505
+00:46:23,999 --> 00:46:27,839
+Right now so we can make fun of them right
+
+506
+00:46:28,095 --> 00:46:30,655
+Like a surprise
+
+507
+00:46:30,911 --> 00:46:35,519
+What do you mean
+
+508
+00:46:35,775 --> 00:46:39,103
+Robin earlier I thought
+
+509
+00:46:39,359 --> 00:46:45,503
+Okay nevermind maybe Ben is watching so let's let's go
+
+510
+00:46:45,759 --> 00:46:51,903
+Okay so that's interesting let's go back and keep doing the tests from where we were
+
+511
+00:46:52,159 --> 00:46:57,023
+So this one is 50/50 + 48 + 50
+
+512
+00:46:57,279 --> 00:47:03,423
+Make this 80
+
+513
+00:47:03,679 --> 00:47:09,823
+9100
+
+514
+00:47:20,319 --> 00:47:25,951
+Are you guys seeing what I'm seeing cuz this value here is definitely not
+
+515
+00:47:26,207 --> 00:47:32,095
+0 are not not what between the two numbers
+
+516
+00:47:44,127 --> 00:47:50,271
+I'm going to add that to the gist
+
+517
+00:48:14,847 --> 00:48:20,991
+Okay so there is interesting data so
+
+518
+00:48:21,247 --> 00:48:22,783
+50 + 48
+
+519
+00:48:23,039 --> 00:48:26,623
+But this bit here is high
+
+520
+00:48:26,879 --> 00:48:30,463
+Means that somehow between these two things
+
+521
+00:48:30,719 --> 00:48:36,863
+Is encoded the information necessary to understand that can be turned on and something and off
+
+522
+00:48:37,119 --> 00:48:43,263
+You should take that and
+
+523
+00:48:46,335 --> 00:48:52,479
+4
+
+524
+00:49:07,327 --> 00:49:12,447
+Okay
+
+525
+00:49:18,591 --> 00:49:21,663
+I don't know what to do with that that's very strange to me
+
+526
+00:49:21,919 --> 00:49:27,039
+Go back to 8080 and 80
+
+527
+00:49:28,319 --> 00:49:32,927
+7060
+
+528
+00:49:40,607 --> 00:49:44,959
+Do weird okay
+
+529
+00:49:45,471 --> 00:49:48,287
+Potatoes definitely doing something I would not expect
+
+530
+00:50:26,687 --> 00:50:32,831
+Okay so it looks like the major values are the same but
+
+531
+00:50:33,087 --> 00:50:38,975
+The minor are not does anyone mind poking at the hero me just this right now
+
+532
+00:50:42,047 --> 00:50:43,839
+So hard to get it
+
+533
+00:50:44,095 --> 00:50:50,239
+Did anyone mind trying to figure out what's going on there and why my code is when that particular number
+
+534
+00:50:50,495 --> 00:50:54,847
+It's large enough that could be wrong so he doesn't mind like reverse-engineering that string there
+
+535
+00:50:55,103 --> 00:50:59,711
+And making sure that I'm decoding it at least as far as we think correctly for that there
+
+536
+00:51:00,223 --> 00:51:06,367
+This is just thinking because if we do 4:30
+
+537
+00:51:06,623 --> 00:51:12,767
+We see the length of time go from 5:43 to 3:24 to 185 which like to meet
+
+538
+00:51:13,023 --> 00:51:19,167
+That makes sense like 14 but
+
+539
+00:51:19,423 --> 00:51:20,703
+What doesn't make sense
+
+540
+00:51:20,959 --> 00:51:21,727
+Is
+
+541
+00:51:21,983 --> 00:51:26,335
+Why I'm doing the same operation LED 5048 + 50 + 50
+
+542
+00:51:26,591 --> 00:51:29,663
+And that that's going on there I'm going to go back to chat now
+
+543
+00:51:38,879 --> 00:51:40,927
+Are you able to edit and put it
+
+544
+00:51:41,183 --> 00:51:47,327
+What is what are they asking
+
+545
+00:51:47,583 --> 00:51:49,631
+The GitHub project okay I'll add that
+
+546
+00:51:50,655 --> 00:51:56,799
+A project in the description
+
+547
+00:51:57,055 --> 00:52:03,199
+Adjusting the description
+
+548
+00:52:15,999 --> 00:52:22,143
+It is very good that navr has got more than 10,000 right Cycles
+
+549
+00:52:22,399 --> 00:52:25,471
+Hello
+
+550
+00:52:27,007 --> 00:52:31,103
+Hi is this the George that
+
+551
+00:52:31,615 --> 00:52:34,943
+That works with Kevin
+
+552
+00:52:39,551 --> 00:52:41,343
+Anyway
+
+553
+00:52:41,599 --> 00:52:44,159
+Moving on
+
+554
+00:52:44,671 --> 00:52:50,815
+So if you guys don't mind let's let's if if somebody can just double check that for me the gist
+
+555
+00:52:51,071 --> 00:52:53,119
+And try to figure out why
+
+556
+00:52:53,375 --> 00:52:55,423
+Oh wait somebody's commenting
+
+557
+00:52:59,263 --> 00:53:05,407
+I don't know what is this a this produces 48 for the LED
+
+558
+00:53:12,575 --> 00:53:18,719
+Okay moebius Horizons what is your name in chat who are you
+
+559
+00:53:18,975 --> 00:53:25,119
+See I think I saw your icon somewhere
+
+560
+00:53:31,775 --> 00:53:34,847
+Don't know what's going on
+
+561
+00:53:36,383 --> 00:53:39,967
+Yeah just does look funny
+
+562
+00:53:40,223 --> 00:53:44,319
+Oh hi Paul okay
+
+563
+00:53:46,111 --> 00:53:51,999
+Okay I see what you mean changing next
+
+564
+00:53:52,255 --> 00:53:56,863
+Part of me really wants to understand about that time so maybe
+
+565
+00:53:57,375 --> 00:54:03,519
+That's just so weird I don't know why that's the case last bit set
+
+566
+00:54:04,031 --> 00:54:07,103
+LED 50 but shows no data something else
+
+567
+00:54:11,199 --> 00:54:17,343
+I don't know how about this let's just try turning on different LEDs so 40
+
+568
+00:54:17,599 --> 00:54:23,743
+4040 so we 48 + 40
+
+569
+00:54:30,399 --> 00:54:36,543
+Simultaneously a how do I explain that no I'm
+
+570
+00:54:36,799 --> 00:54:42,943
+I'm right now we're operating only with 2 LEDs and we're already getting dated that makes no sense to me
+
+571
+00:54:43,199 --> 00:54:48,319
+That would definitely have to figure out first before we start getting into the third LED
+
+572
+00:54:59,583 --> 00:55:05,727
+Okay so maybe the different LED low give you a little bit of data there
+
+573
+00:55:05,983 --> 00:55:12,127
+That's Led 40in Led 48 and LED 40 and produces 48
+
+574
+00:55:12,383 --> 00:55:18,527
+8:42 I guess I could do it the other way around 48
+
+575
+00:55:18,783 --> 00:55:24,927
+48v 840
+
+576
+00:55:25,183 --> 00:55:31,327
+Why does that not work
+
+577
+00:57:34,975 --> 00:57:41,119
+How much more concise
+
+578
+00:57:41,375 --> 00:57:43,935
+Syntax for just
+
+579
+00:58:00,319 --> 00:58:06,463
+Back to the chat okay so can you guys think of any new test you want to
+
+580
+00:58:06,719 --> 00:58:08,255
+To run right now let me know
+
+581
+00:58:08,767 --> 00:58:14,911
+Anything else we can think of
+
+582
+00:58:15,167 --> 00:58:21,311
+Something that's like nice and simple
+
+583
+00:58:21,567 --> 00:58:27,711
+Know what else we would be able to figure out here
+
+584
+00:58:27,967 --> 00:58:34,111
+Maybe if we do I know we can do can turn on 40 at the same time as Forty-Eight and then turn off
+
+585
+00:58:34,367 --> 00:58:40,511
+LED 48 but leave 40 on and then turn it both off I'm so let's try that
+
+586
+00:59:16,351 --> 00:59:22,495
+That's a little bit of a difference thing there
+
+587
+00:59:22,751 --> 00:59:27,359
+Are that some instead of being 44
+
+588
+00:59:27,615 --> 00:59:33,759
+Something going on here
+
+589
+00:59:34,015 --> 00:59:38,879
+Oh whoops there's bugs me go fix the bugs first
+
+590
+00:59:48,607 --> 00:59:51,679
+Okay okay
+
+591
+00:59:52,191 --> 00:59:54,495
+Now we can see that the code is different
+
+592
+01:00:12,671 --> 01:00:18,815
+Okay so now we think we got that working non-overlapping
+
+593
+01:00:19,071 --> 01:00:21,375
+Pulses
+
+594
+01:00:21,631 --> 01:00:27,775
+Okay Jeremy I will do that for you so LED which led should we do just LED
+
+595
+01:00:28,031 --> 01:00:34,175
+Lycee 48 and then 45
+
+596
+01:00:34,431 --> 01:00:40,575
+Like that 50 US pulse 30 pulse 70.
+
+597
+01:00:40,831 --> 01:00:46,975
+See what that produces k
+
+598
+01:01:11,807 --> 01:01:17,951
+Okay what else any other ideas next swap LED
+
+599
+01:01:18,207 --> 01:01:24,351
+Switch LEDs you want me to do the tests we did a few minutes ago like
+
+600
+01:01:24,863 --> 01:01:27,167
+This but with just different LEDs
+
+601
+01:01:27,423 --> 01:01:29,983
+So let's say 50 + 50
+
+602
+01:01:33,311 --> 01:01:35,615
+I'll be that
+
+603
+01:01:55,327 --> 01:02:01,471
+I guess I can do it other one yet let's do 40 and 50 at the same time
+
+604
+01:02:30,143 --> 01:02:36,287
+Okay come on guys need some more ideas hear anything you guys want to see
+
+605
+01:02:36,543 --> 01:02:39,615
+Daniel you had some suggestions
+
+606
+01:02:39,871 --> 01:02:46,015
+Variable length quantity on Wikipedia is good for explaining some Concepts
+
+607
+01:02:46,271 --> 01:02:49,599
+Brendan can you check that and see if I should add that as a
+
+608
+01:02:49,855 --> 01:02:51,391
+A link to the just
+
+609
+01:02:55,231 --> 01:03:01,375
+You mean you want the link no I just want you to check Wikipedia and see if it's worth adding to the gym
+
+610
+01:03:13,407 --> 01:03:19,551
+It's represent big eyes
+
+611
+01:03:19,807 --> 01:03:25,951
+Okay can you put the link in this thing I can pay today
+
+612
+01:03:26,207 --> 01:03:32,351
+20-20-20 so the time code is a big issue
+
+613
+01:03:36,447 --> 01:03:41,055
+Okay I can do 20 20 20 and 30 30 30 or 20 20 20
+
+614
+01:03:41,311 --> 01:03:43,359
+See what that looks like
+
+615
+01:03:44,127 --> 01:03:45,919
+That's 20-20-20
+
+616
+01:03:46,175 --> 01:03:52,319
+Make sure it actually isn't to save it yep now as a big note because
+
+617
+01:03:52,575 --> 01:03:58,719
+Cuz this is an analog system in here 20-20-20 depending on the order in which things
+
+618
+01:03:58,975 --> 01:04:05,119
+Happened that the 20 is going to be different cuz it's going to have a different analog value as it goes
+
+619
+01:04:05,375 --> 01:04:07,423
+So I will record that
+
+620
+01:04:07,679 --> 01:04:09,727
+Though for you
+
+621
+01:04:35,583 --> 01:04:37,375
+21 21 21
+
+622
+01:04:53,759 --> 01:04:59,903
+Ulta to 22 22 22 so we can make sure that it is behaving the way we
+
+623
+01:05:20,639 --> 01:05:26,783
+Okay.
+
+624
+01:05:27,039 --> 01:05:32,415
+Any other ideas from anybody I guess I will add this to the
+
+625
+01:06:04,671 --> 01:06:10,047
+Already tried a bunch of different timings they're available in the the document here
+
+626
+01:06:10,303 --> 01:06:16,447
+GTR code is sitting in the GitHub repository under the tools folder
+
+627
+01:06:16,703 --> 01:06:22,847
+It's already it's already there do you mean commit I guess I should
+
+628
+01:06:39,231 --> 01:06:45,375
+Okay
+
+629
+01:06:46,399 --> 01:06:52,543
+Dang anything else you guys want to stay
+
+630
+01:06:59,199 --> 01:07:05,343
+Oooo so
+
+631
+01:07:05,599 --> 01:07:07,903
+Sad we think that all of these times
+
+632
+01:07:08,159 --> 01:07:10,463
+Are the time
+
+633
+01:07:11,231 --> 01:07:17,375
+Are are the Deltas between the start time so it would go start time Delta
+
+634
+01:07:17,631 --> 01:07:18,655
+Star tile
+
+635
+01:07:18,911 --> 01:07:25,055
+Whatever happens at the start time like 10 transition
+
+636
+01:07:25,311 --> 01:07:31,455
+Before the next event happens this other thing turning on so they're all written as
+
+637
+01:07:31,711 --> 01:07:32,479
+Delta's
+
+638
+01:07:35,807 --> 01:07:41,951
+And so yeah that would it is probably understand
+
+639
+01:07:42,207 --> 01:07:48,351
+So it's going to be like offset by a certain amount
+
+640
+01:07:48,863 --> 01:07:53,983
+Where's my turn it on for many more than there's going to be the linear and nonlinear dropping the beginning
+
+641
+01:07:57,823 --> 01:08:00,383
+Do you suggest another time cuz I can certainly try it
+
+642
+01:08:04,735 --> 01:08:10,367
+I guess I'll try 555 and see if it reads at all whoopsies
+
+643
+01:08:13,183 --> 01:08:16,767
+Yeah it's not even reading barely at 5 so if I did
+
+644
+01:08:17,279 --> 01:08:18,559
+888
+
+645
+01:08:19,071 --> 01:08:20,095
+That might read
+
+646
+01:08:20,863 --> 01:08:22,655
+Yeah that red
+
+647
+01:08:25,983 --> 01:08:28,543
+Although that did not read the way I would have expected
+
+648
+01:08:29,567 --> 01:08:31,359
+That's that's interesting
+
+649
+01:09:34,847 --> 01:09:40,991
+I don't have a you are connection but I do have a tiny ice P turn connection
+
+650
+01:09:41,247 --> 01:09:47,391
+Interesting idea but it would be difficult to correlate the data
+
+651
+01:09:51,487 --> 01:09:57,631
+Well I mean let's just see maybe I can do that
+
+652
+01:10:28,351 --> 01:10:33,215
+I know I have a copy that I wrote Somewhere
+
+653
+01:10:33,727 --> 01:10:37,055
+Sure let's see if it has tiny 85
+
+654
+01:10:49,087 --> 01:10:50,623
+There is a copy
+
+655
+01:10:51,903 --> 01:10:53,183
+Can just use this
+
+656
+01:11:01,887 --> 01:11:04,447
+And came from
+
+657
+01:11:08,799 --> 01:11:09,823
+Here
+
+658
+01:11:27,999 --> 01:11:30,047
+I'm going to include a VR print
+
+659
+01:11:30,303 --> 01:11:34,399
+I can remember how
+
+660
+01:11:57,183 --> 01:12:00,511
+Set up STI
+
+661
+01:12:06,655 --> 01:12:09,471
+And then we're going to do let's just
+
+662
+01:12:24,831 --> 01:12:30,975
+Yes okay we can actually get data coming back from the AVR see you guys wanted me to do it
+
+663
+01:12:31,231 --> 01:12:36,351
+For something I don't know how I would correlate the data though
+
+664
+01:12:38,655 --> 01:12:42,495
+Oh wait the people are saying other things well now I can
+
+665
+01:12:44,287 --> 01:12:50,431
+Oh yeah I know nobody was able to decompile the farm where we didn't find any any good thing for that
+
+666
+01:12:50,687 --> 01:12:56,831
+Actually if any of you guys can go find a good decompiler for 8051 could that be awesome but from what I could
+
+667
+01:12:57,087 --> 01:13:03,231
+Tell nobody has a decompiler for 8051 that's any good
+
+668
+01:13:03,487 --> 01:13:09,631
+CM Laura can you check LEDs 40 and 60 on uniform timing I cannot test l86
+
+669
+01:13:09,887 --> 01:13:11,935
+50 it is not hooked up to my controller
+
+670
+01:13:12,191 --> 01:13:18,335
+And I don't know my
+
+671
+01:13:18,591 --> 01:13:24,735
+My butt doesn't fall asleep so 30-30-30
+
+672
+01:13:24,991 --> 01:13:31,135
+I don't know what you want for
+
+673
+01:13:31,391 --> 01:13:37,535
+Susan 8051 one of the Cypress chest one of the Nordic chips that has a 8051 core and Wi-Fi
+
+674
+01:13:37,791 --> 01:13:43,935
+That Wi-Fi wireless it's a really funny and interfaces use the
+
+675
+01:13:44,191 --> 01:13:50,335
+Crfs for awhile
+
+676
+01:14:46,655 --> 01:14:48,191
+I totally works
+
+677
+01:14:49,727 --> 01:14:51,775
+Or does it know something's wrong
+
+678
+01:15:21,215 --> 01:15:27,359
+Why is code broken cook broke broke not good
+
+679
+01:15:30,431 --> 01:15:36,575
+Oh you know what if I do this I can only access LEDs 48 in
+
+680
+01:15:36,831 --> 01:15:42,975
+40 LED 50 is wired up to the the SPI bus for printing so I'm going to
+
+681
+01:15:43,231 --> 01:15:44,511
+Not do that right now
+
+682
+01:16:01,919 --> 01:16:08,063
+Okay everything's back to normal
+
+683
+01:16:08,319 --> 01:16:14,463
+Paul how much do you want the LEDs further away from
+
+684
+01:16:14,719 --> 01:16:17,023
+Cuz it does mean pulling all the tape off
+
+685
+01:16:25,983 --> 01:16:32,127
+VK Tuesday if you don't mind the firmware
+
+686
+01:16:32,383 --> 01:16:32,895
+Encrypted
+
+687
+01:16:33,151 --> 01:16:36,735
+And that would be super swanky
+
+688
+01:16:40,319 --> 01:16:45,183
+Tell you what call I will I will do you a huge favor here
+
+689
+01:16:45,695 --> 01:16:46,719
+I will
+
+690
+01:16:46,975 --> 01:16:52,607
+I will pull this thing off and put it on another side
+
+691
+01:17:29,727 --> 01:17:33,823
+Number is only with the field of which receiver is
+
+692
+01:17:37,919 --> 01:17:44,063
+I do not know what he is asking
+
+693
+01:17:48,415 --> 01:17:49,439
+That's interesting
+
+694
+01:18:13,503 --> 01:18:15,039
+Oh okay
+
+695
+01:18:15,295 --> 01:18:19,647
+Yeah I don't know how to get this set up in such a way that we can test this easily
+
+696
+01:18:19,903 --> 01:18:22,975
+Let's just do that later
+
+697
+01:18:28,095 --> 01:18:29,375
+Type LED 40
+
+698
+01:18:29,631 --> 01:18:35,519
+Probably more Operator Operator in this context
+
+699
+01:18:36,543 --> 01:18:40,127
+LED 50 in LED 5000 LED 40
+
+700
+01:18:40,383 --> 01:18:41,663
+Van led40
+
+701
+01:18:50,111 --> 01:18:52,927
+Okay so he wants to see oops
+
+702
+01:19:22,367 --> 01:19:23,647
+Huh
+
+703
+01:19:25,951 --> 01:19:30,303
+Well if you try 50th and 50th and 40th and 40 okay
+
+704
+01:19:31,327 --> 01:19:32,607
+50
+
+705
+01:19:32,863 --> 01:19:33,375
+Then
+
+706
+01:19:33,631 --> 01:19:36,959
+15 and 40 than 40
+
+707
+01:19:37,215 --> 01:19:43,359
+Yes it does change actually that's really interesting it changes to exactly the opposite
+
+708
+01:19:57,439 --> 01:20:03,583
+Watch the controller's the Watchman is the nickname for the control
+
+709
+01:20:03,839 --> 01:20:08,191
+For the wireless controllers
+
+710
+01:20:15,360 --> 01:20:21,504
+You have any other recommendations for things we can look at right now without having to try to reconfigure the physical
+
+711
+01:20:21,760 --> 01:20:23,040
+Configuration
+
+712
+01:20:23,552 --> 01:20:28,672
+While you're absent waiting for an answer on that Ott wants to know if there's a way that you can get
+
+713
+01:20:29,184 --> 01:20:30,464
+Summarize
+
+714
+01:20:30,720 --> 01:20:36,864
+I guess he's been recording for a little while now
+
+715
+01:20:39,424 --> 01:20:45,568
+How long has it been it's been an hour and 20 minutes to summarize
+
+716
+01:20:45,824 --> 01:20:51,968
+Sokol for the previous stream figure out what these guys did and what the wireless
+
+717
+01:20:52,224 --> 01:20:58,368
+Communication was because the unwired communication is very well-documented no wired stocking Tatian is documented
+
+718
+01:20:58,624 --> 01:21:04,768
+Well after we found out what your the basics was the trigger and all that I did
+
+719
+01:21:05,024 --> 01:21:05,536
+MyON
+
+720
+01:21:06,048 --> 01:21:12,192
+Then we started to try to decode the light data amazingly been one of the guys who designed these things
+
+721
+01:21:12,448 --> 01:21:18,592
+I'm hopin to chat and started getting us little tips and tricks and everything and then after a little while he
+
+722
+01:21:18,848 --> 01:21:21,664
+Now start giving us more and more information
+
+723
+01:21:22,176 --> 01:21:28,320
+And we were able to find out a number things one is there variable-length fields to his perimeter
+
+724
+01:21:28,576 --> 01:21:34,720
+There's are red from the back going forwards and then the echo LEDs are red from the front going back
+
+725
+01:21:34,976 --> 01:21:39,072
+And the number of B inside of everything started the 8th
+
+726
+01:21:39,584 --> 01:21:45,728
+Point-of-use variable-length field and then we found out that the last four bites for probably.
+
+727
+01:21:45,984 --> 01:21:46,752
+Kcrc
+
+728
+01:21:47,008 --> 01:21:53,152
+Which means we can ignore the next 3 B are probably
+
+729
+01:21:53,408 --> 01:21:59,552
+Delta's between different events and I definitely seen the Deltas between different events as
+
+730
+01:21:59,808 --> 01:22:00,576
+Isaiah
+
+731
+01:22:02,368 --> 01:22:05,696
+I think that I'm pretty sure that's actually what the case is
+
+732
+01:22:08,768 --> 01:22:14,144
+So Paul says 10-20-30 on 4040 4840
+
+733
+01:22:14,912 --> 01:22:16,448
+So 10
+
+734
+01:22:16,704 --> 01:22:18,240
+2030
+
+735
+01:22:18,752 --> 01:22:19,776
+On
+
+736
+01:22:21,056 --> 01:22:22,848
+40
+
+737
+01:22:24,640 --> 01:22:26,688
+4840
+
+738
+01:22:28,992 --> 01:22:30,784
+And
+
+739
+01:22:31,552 --> 01:22:32,832
+40
+
+740
+01:22:36,672 --> 01:22:37,952
+I guess that's it
+
+741
+01:22:45,632 --> 01:22:49,216
+I know you guys probably want to keep watching that shrink down so I'm going to
+
+742
+01:22:49,728 --> 01:22:50,496
+Get here
+
+743
+01:22:51,264 --> 01:22:52,544
+MK
+
+744
+01:22:52,800 --> 01:22:55,872
+So this is what what Paul has requested
+
+745
+01:22:56,640 --> 01:22:57,408
+Tom
+
+746
+01:22:57,664 --> 01:23:00,736
+Yeah you're going to lose the stream right after this so
+
+747
+01:23:01,760 --> 01:23:05,856
+Call my gosh it's so tiny
+
+748
+01:23:07,904 --> 01:23:10,208
+See here
+
+749
+01:23:11,232 --> 01:23:13,792
+So I guess what I would do is
+
+750
+01:23:14,816 --> 01:23:20,960
+Copy that here into
+
+751
+01:23:21,216 --> 01:23:26,848
+Yeah sorry guys that that Inception thing is totally done now
+
+752
+01:23:27,104 --> 01:23:29,152
+10:20 p.m.
+
+753
+01:23:34,528 --> 01:23:38,624
+I hope you're not just messing with me fall I hope you're actually thinking critically about this
+
+754
+01:24:01,408 --> 01:24:05,248
+Yeah it looks like that just changes the last number here which is what I would expect
+
+755
+01:24:26,496 --> 01:24:29,312
+Ojai George we haven't talked in a long time
+
+756
+01:24:30,336 --> 01:24:36,480
+Oh so we already are decoding all of the
+
+757
+01:24:36,736 --> 01:24:42,880
+The button data and I'm handling that separately and I'm pretty sure I'm doing it right and I'm handling
+
+758
+01:24:43,136 --> 01:24:47,232
+I'm pretty sure I'm doing that right so I should be able to
+
+759
+01:24:48,000 --> 01:24:54,144
+That's the wrong controller I should be able to click the buttons all I want and it should have little or no effect on
+
+760
+01:24:54,400 --> 01:24:56,960
+What actually gets triggered so
+
+761
+01:24:57,472 --> 01:25:00,544
+Maybe there is one or two unknown things but as
+
+762
+01:25:00,800 --> 01:25:06,944
+Play I can see it sometimes it's flashing but as you know later on we'll figure out what those two
+
+763
+01:25:12,064 --> 01:25:14,624
+Some flag turn on
+
+764
+01:25:23,840 --> 01:25:29,984
+Okay do you have anymore tests that you want to do Paul on the bow okay hi Daniel
+
+765
+01:25:30,240 --> 01:25:35,104
+The timings for 4452 C470 to be expected
+
+766
+01:25:36,128 --> 01:25:42,272
+Okay so there's something really important going on here the LEDs can't be mounted perfectly with the
+
+767
+01:25:43,552 --> 01:25:49,696
+Perfectly onto the dots I've gotten a free good so don't expect the numbers to
+
+768
+01:25:49,952 --> 01:25:52,512
+Do you like
+
+769
+01:25:52,768 --> 01:25:55,840
+Unless we exaggerate the values a lot more
+
+770
+01:25:58,656 --> 01:26:01,472
+First static b i e not messing with you
+
+771
+01:26:04,032 --> 01:26:06,592
+First static Vice
+
+772
+01:26:09,152 --> 01:26:10,432
+What are you referring to
+
+773
+01:26:19,648 --> 01:26:25,792
+Okay so originally I did this by having lighthouses on cuz I figured how hard could reading this data
+
+774
+01:26:26,048 --> 01:26:32,192
+And I had lighthouses on and I did a bunch of dumps and nothing made any sense at all
+
+775
+01:26:32,448 --> 01:26:38,592
+So we switched to using a VR to send out the pulses to the the controller because that would
+
+776
+01:26:38,848 --> 01:26:42,432
+Made it now I can actually control it we can see known pulses
+
+777
+01:26:42,688 --> 01:26:44,992
+About what it is
+
+778
+01:26:45,248 --> 01:26:46,272
+And
+
+779
+01:26:47,040 --> 01:26:53,184
+And actually look at the outfits from that so there's another test you'd like me to run ivory
+
+780
+01:26:53,440 --> 01:26:58,560
+Really like to hear it so Daniel leave if you have anything else you can think of that would be
+
+781
+01:26:59,072 --> 01:27:05,216
+Really cool otherwise if you guys want we can move into three LEDs now
+
+782
+01:27:05,472 --> 01:27:07,008
+To give it a shot
+
+783
+01:27:07,520 --> 01:27:10,080
+May I guess I could just do a few more tests on this like
+
+784
+01:27:10,336 --> 01:27:13,664
+I'll make this 2010 4040
+
+785
+01:27:14,432 --> 01:27:18,272
+Message to 1048 exaggerated a whole bunch
+
+786
+01:27:20,576 --> 01:27:23,392
+That was perfectly normal
+
+787
+01:27:41,056 --> 01:27:47,200
+Trying to figure out the meaning of the LSP flag yet the LSD that lives matter a whole bunch
+
+788
+01:27:47,456 --> 01:27:52,320
+I don't know what they mean it would be super cool to find out what they mean
+
+789
+01:27:59,232 --> 01:28:03,584
+40 40 40 40 50 + 40 + 50 okay let's do that one again
+
+790
+01:28:04,352 --> 01:28:06,912
+4050 + 40 + 50
+
+791
+01:28:25,344 --> 01:28:31,488
+By the way disclaimer like not approach this so
+
+792
+01:28:31,744 --> 01:28:37,888
+There are people who are much better than me but I figured it was fun to try to do this kind of has a community thing so
+
+793
+01:28:43,520 --> 01:28:46,592
+And then I guess we could look around the other way
+
+794
+01:28:50,688 --> 01:28:56,832
+That is interesting that the one place indicates that the bit that's on changed or something like that
+
+795
+01:29:20,384 --> 01:29:26,528
+Little bit actually the 66 doesn't have anymore planned projects on my radar so I don't
+
+796
+01:29:26,784 --> 01:29:32,928
+There is one big one that's going to be coming out
+
+797
+01:29:33,184 --> 01:29:39,328
+This project I'm doing with the Vive is specifically related to esp32 project that
+
+798
+01:29:39,584 --> 01:29:44,448
+If everything goes well and we can get everything that I want hack hacked will be able to do it
+
+799
+01:29:50,336 --> 01:29:56,480
+No I think I was with 50 and no it's not 82-66
+
+800
+01:29:56,736 --> 01:30:00,320
+Combo maybe if we can get this all figured out
+
+801
+01:30:02,112 --> 01:30:06,208
+Daniel can you tell me some more tests to run
+
+802
+01:30:07,232 --> 01:30:13,376
+By the way in the future if you guys can use the the formatting like 40 or,
+
+803
+01:30:13,632 --> 01:30:19,776
+50 or 40, 40 that will make it a lot easier for me to type the code to detest what you want to test
+
+804
+01:30:22,336 --> 01:30:28,224
+Spectacular idea teaching fist first cat or however you pronounce it
+
+805
+01:30:31,552 --> 01:30:34,112
+I'm going to make it 4044t
+
+806
+01:30:35,392 --> 01:30:39,744
+And we'll do it three times
+
+807
+01:30:40,768 --> 01:30:46,656
+That's really interesting
+
+808
+01:30:49,216 --> 01:30:51,776
+That's a really interesting idea
+
+809
+01:30:54,080 --> 01:30:57,152
+I like teaching first idea here
+
+810
+01:30:57,664 --> 01:30:58,432
+Go with it
+
+811
+01:31:12,000 --> 01:31:14,304
+Let's do it one less and see what that does
+
+812
+01:31:16,352 --> 01:31:22,496
+Oh wow it even does it oh guys guys look oh my gosh
+
+813
+01:31:22,752 --> 01:31:28,896
+The number it's it's it's it's big it's a big number is its
+
+814
+01:31:39,904 --> 01:31:43,232
+27 B permit is sub limitation Hardware right
+
+815
+01:31:44,256 --> 01:31:50,400
+Cannot be more where the message
+
+816
+01:31:50,656 --> 01:31:56,800
+Just cannot be over 29 x long and it does have to do with the hardware or 27 because
+
+817
+01:31:57,056 --> 01:31:59,360
+Cuz there's that the partial header
+
+818
+01:32:00,384 --> 01:32:01,152
+So
+
+819
+01:32:01,408 --> 01:32:02,176
+There's that
+
+820
+01:32:02,688 --> 01:32:05,760
+And then this one also has a really big number
+
+821
+01:32:06,016 --> 01:32:08,064
+Which is super interesting
+
+822
+01:32:19,584 --> 01:32:23,424
+That was a really cool testogen cat you have any other ideas
+
+823
+01:32:23,936 --> 01:32:25,728
+I'm totally up for hearing it
+
+824
+01:32:25,984 --> 01:32:28,032
+Daniel we 40-48
+
+825
+01:32:28,544 --> 01:32:29,568
+Wait what
+
+826
+01:32:30,592 --> 01:32:32,384
+48 flavor 50/50
+
+827
+01:32:33,408 --> 01:32:34,944
+Okay I guess I'll do that
+
+828
+01:32:38,272 --> 01:32:39,040
+48
+
+829
+01:32:40,832 --> 01:32:41,856
+48
+
+830
+01:32:42,112 --> 01:32:43,392
+50
+
+831
+01:32:44,928 --> 01:32:45,696
+Sissy
+
+832
+01:33:02,592 --> 01:33:03,872
+How many people are in the Stream
+
+833
+01:33:07,200 --> 01:33:07,712
+Okay
+
+834
+01:33:08,736 --> 01:33:10,016
+Looks like
+
+835
+01:33:13,344 --> 01:33:19,488
+I don't actually know
+
+836
+01:33:19,744 --> 01:33:23,328
+Would happen if you exceeded the limit somehow
+
+837
+01:33:28,704 --> 01:33:34,848
+Activate 57 new orders okay got it
+
+838
+01:33:35,104 --> 01:33:41,248
+Okay I hear more people out there if you have any ideas come on
+
+839
+01:33:41,504 --> 01:33:47,648
+We're definitely yeah that is
+
+840
+01:33:47,904 --> 01:33:54,048
+Is weird what is up with that
+
+841
+01:33:54,304 --> 01:34:00,448
+Yeah let's let's do Saturday check let's just make sure that the LEDs are still
+
+842
+01:34:00,704 --> 01:34:06,848
+Directly LED 48
+
+843
+01:34:07,104 --> 01:34:13,248
+LED 40 LED 50
+
+844
+01:34:13,504 --> 01:34:19,648
+Thank goodness
+
+845
+01:34:19,904 --> 01:34:26,048
+Over the limit and see what happens
+
+846
+01:34:32,704 --> 01:34:38,848
+If you can position your windows so that they can see the real-time DIY with me
+
+847
+01:34:39,104 --> 01:34:45,248
+Oh this is
+
+848
+01:34:45,504 --> 01:34:51,648
+Wines are so of what I tried doing that okay
+
+849
+01:34:51,904 --> 01:34:58,048
+And it won't tell me anything
+
+850
+01:34:58,304 --> 01:35:04,448
+So I don't know
+
+851
+01:35:04,704 --> 01:35:10,848
+Well apparently if I try to go over something it would take too many
+
+852
+01:35:11,104 --> 01:35:17,248
+It just freaks out and stuff so don't know what to make of that
+
+853
+01:35:30,304 --> 01:35:36,448
+That is interesting but that seems to break it I don't know why
+
+854
+01:35:49,504 --> 01:35:55,648
+Oh yeah sure let's do that was also undo 2 weeks we go back
+
+855
+01:35:55,904 --> 01:36:02,048
+The interesting thing
+
+856
+01:36:02,304 --> 01:36:08,448
+That one that is super interesting there's something about that
+
+857
+01:36:08,704 --> 01:36:14,848
+Number that is absolute Magic
+
+858
+01:36:15,104 --> 01:36:21,248
+50 48 48 48 48 5048
+
+859
+01:36:27,904 --> 01:36:34,048
+What are people saying
+
+860
+01:36:34,304 --> 01:36:40,448
+Trip suspects that pushing it over Vietnam way it's different from quest number
+
+861
+01:36:45,568 --> 01:36:48,896
+Daniel he's telling Paul about some of the stuff
+
+862
+01:37:02,464 --> 01:37:07,072
+Was asking about those two controllers a butt
+
+863
+01:37:08,096 --> 01:37:14,240
+I wish I could remember where Mandy said
+
+864
+01:37:14,496 --> 01:37:17,312
+Last time I want to tell you where to get it
+
+865
+01:37:36,512 --> 01:37:39,840
+Do I need to restart my session let's see what the lag is like
+
+866
+01:37:40,096 --> 01:37:43,680
+Now it looks like people weren't support quicking wide
+
+867
+01:37:43,936 --> 01:37:49,568
+Because you can click Lively know my session is actually behind
+
+868
+01:37:49,824 --> 01:37:55,200
+Yeah like
+
+869
+01:37:55,968 --> 01:38:02,112
+OIC
+
+870
+01:38:02,368 --> 01:38:04,928
+Basically
+
+871
+01:38:06,208 --> 01:38:09,536
+I just clicked it but it didn't seem to do anything
+
+872
+01:38:11,072 --> 01:38:12,096
+Should I do it
+
+873
+01:38:12,352 --> 01:38:18,496
+If you guys can like somebody who has restocked the timing see if it's fact
+
+874
+01:38:18,752 --> 01:38:19,264
+The past
+
+875
+01:38:43,840 --> 01:38:49,984
+Any other ideas that you guys have ping ping I just finished
+
+876
+01:38:50,240 --> 01:38:56,384
+Right now
+
+877
+01:38:56,640 --> 01:39:02,784
+Okay anyway
+
+878
+01:39:03,040 --> 01:39:09,184
+Yeah okay that's good okay
+
+879
+01:39:09,440 --> 01:39:15,584
+What else should we be by the way I'm not sure if this is going to change
+
+880
+01:39:15,840 --> 01:39:21,984
+Somebody like that band that he couldn't get all this data down to a certain size and I think he did
+
+881
+01:39:22,240 --> 01:39:28,384
+Because this is stupid crazy things
+
+882
+01:39:47,840 --> 01:39:53,984
+Also Daniel and
+
+883
+01:39:54,240 --> 01:40:00,384
+Oh gosh I've already forgotten your name you've been so helpful
+
+884
+01:40:00,640 --> 01:40:06,784
+Ideas for really like to hear them
+
+885
+01:40:19,840 --> 01:40:25,984
+Suggested looking at the B Flags
+
+886
+01:40:26,240 --> 01:40:32,384
+That's how it works with the timings
+
+887
+01:40:32,640 --> 01:40:38,784
+What time does realities from fall
+
+888
+01:40:39,040 --> 01:40:45,184
+Increase the delay
+
+889
+01:40:45,440 --> 01:40:51,584
+I think it is time for three LEDs
+
+890
+01:40:58,240 --> 01:41:04,384
+Let's do 40 84
+
+891
+01:41:04,640 --> 01:41:10,784
+4050 4848 40
+
+892
+01:41:36,640 --> 01:41:42,784
+Oh I just got myself confused
+
+893
+01:41:43,040 --> 01:41:49,184
+These along here
+
+894
+01:42:02,240 --> 01:42:08,384
+So if you guys didn't just notice eye
+
+895
+01:42:08,640 --> 01:42:14,784
+I just changed the 2048 47-50 48th and 4840
+
+896
+01:42:15,040 --> 01:42:21,184
+48 48 48 48 48 this data right here is
+
+897
+01:42:21,440 --> 01:42:27,584
+It is interesting that it goes 4840
+
+898
+01:42:27,840 --> 01:42:33,984
+50400 that is interesting something going on where
+
+899
+01:42:34,240 --> 01:42:40,384
+48 code is saying like I will be on for this long while 40 is on for this one in this way
+
+900
+01:42:40,640 --> 01:42:46,784
+Long oblong and then that long that is
+
+901
+01:42:48,320 --> 01:42:54,464
+Cuz I don't make sense 48 is going to be on for about 48 48 million
+
+902
+01:42:54,720 --> 01:43:00,864
+As
+
+903
+01:43:44,640 --> 01:43:48,480
+Sir Paul what is your recommendation for code
+
+904
+01:43:50,272 --> 01:43:56,416
+Where do I get a lot of tests in cuz you guys can check
+
+905
+01:43:56,672 --> 01:44:01,024
+Tomorrow I'm only going to be doing this tonight I have work to do tomorrow night
+
+906
+01:44:06,144 --> 01:44:08,192
+Okay we can try that
+
+907
+01:44:08,448 --> 01:44:11,776
+So play us 10
+
+908
+01:44:21,760 --> 01:44:25,344
+Oh I see okay I have to
+
+909
+01:44:34,304 --> 01:44:36,608
+Oh that's interesting though
+
+910
+01:44:40,960 --> 01:44:44,544
+Oh no nevermind that's dumb
+
+911
+01:45:38,816 --> 01:45:44,960
+It takes about
+
+912
+01:45:46,240 --> 01:45:52,384
+What is 120 hertz per fast ones
+
+913
+01:45:52,640 --> 01:45:58,784
+So it's divided by 4 is 30 Hertz to sweep our room so B12
+
+914
+01:45:59,040 --> 01:46:05,184
+34 and that operation happens to 30 her think or know 15 Hertz
+
+915
+01:46:12,096 --> 01:46:18,240
+Daniel can you specify what your
+
+916
+01:46:18,496 --> 01:46:24,640
+Actually asking for like it whenever you guys want me to try anything be as specific as possible. What you like what
+
+917
+01:46:24,896 --> 01:46:25,408
+Change
+
+918
+01:46:36,416 --> 01:46:42,560
+It's not 60 hertz it's closed but it's not 60 hertz it's not 16.66 milliseconds
+
+919
+01:46:45,120 --> 01:46:51,264
+I have to drop the stream to go back and get I took photodiode collected actual data from the
+
+920
+01:46:51,520 --> 01:46:57,664
+Lighthouses in loaded up in a logic analyzer so
+
+921
+01:47:03,296 --> 01:47:09,440
+Josh Moniz something else we can try maybe I'll turn on several
+
+922
+01:47:09,696 --> 01:47:10,208
+LEDs
+
+923
+01:47:10,464 --> 01:47:13,792
+So let's try that
+
+924
+01:47:14,048 --> 01:47:18,400
+Dan 4840 led50
+
+925
+01:47:18,656 --> 01:47:20,960
+Then that than that
+
+926
+01:47:22,496 --> 01:47:26,848
+What in the world how what
+
+927
+01:47:27,104 --> 01:47:29,408
+What
+
+928
+01:47:29,664 --> 01:47:31,712
+No Shirley
+
+929
+01:47:32,224 --> 01:47:36,064
+Do they really a slow more like it
+
+930
+01:48:22,912 --> 01:48:29,056
+Any other suggestions
+
+931
+01:48:29,312 --> 01:48:35,456
+Do you think he was on the project so you saying it should
+
+932
+01:48:42,112 --> 01:48:45,440
+It was way off I thought
+
+933
+01:48:46,464 --> 01:48:52,608
+Part of me wants to go get that file it might drop the stream I will
+
+934
+01:48:52,864 --> 01:48:53,888
+I'm going to try to get it
+
+935
+01:49:04,640 --> 01:49:06,944
+Did they drop the screen
+
+936
+01:49:10,528 --> 01:49:16,160
+Please look at the live
+
+937
+01:49:21,280 --> 01:49:22,560
+What does it say
+
+938
+01:49:22,816 --> 01:49:23,328
+Waiting
+
+939
+01:49:32,288 --> 01:49:35,616
+Stacy
+
+940
+01:49:36,384 --> 01:49:39,200
+You guys didn't see my password come out did you
+
+941
+01:49:43,552 --> 01:49:46,624
+Wife beaters flat-screen prescription
+
+942
+01:49:47,904 --> 01:49:51,488
+Now
+
+943
+01:50:29,888 --> 01:50:36,032
+So you guys know what I've done here is a diode
+
+944
+01:50:36,288 --> 01:50:42,432
+Chelsea was this one and this one here was on the White House
+
+945
+01:50:42,688 --> 01:50:48,832
+One of the things that kind of surprised me with that both lighthouses actually send out a pulse every time whether or not they send
+
+946
+01:50:49,088 --> 01:50:55,232
+The lighthouse
+
+947
+01:50:55,488 --> 01:51:01,632
+Postcode sweet sweet sweet
+
+948
+01:51:01,888 --> 01:51:08,032
+This was 60 hertz
+
+949
+01:51:12,128 --> 01:51:16,736
+Oh wow I was completely wrong that is almost exactly 60 hertz
+
+950
+01:51:18,016 --> 01:51:21,344
+I have totally made a fool out of myself
+
+951
+01:51:25,440 --> 01:51:29,024
+What's look for the beginning flight
+
+952
+01:51:32,864 --> 01:51:39,008
+Okay it's exactly 60 hertz I don't know what I was looking at before that made me think it was
+
+953
+01:51:56,672 --> 01:52:01,792
+So I don't know whoever that was who was it that said 60 hertz
+
+954
+01:52:42,496 --> 01:52:48,640
+Yeah it is
+
+955
+01:52:48,896 --> 01:52:55,040
+It's pretty accurate
+
+956
+01:52:55,296 --> 01:53:01,440
+That I don't know what I was looking at but as you can see right here it says 16.66 or 65
+
+957
+01:53:01,696 --> 01:53:04,768
+6666 MS
+
+958
+01:53:05,024 --> 01:53:06,048
+Spot-on
+
+959
+01:53:06,304 --> 01:53:12,448
+So I guess I can close that now
+
+960
+01:53:12,704 --> 01:53:14,496
+All my CPU
+
+961
+01:53:18,336 --> 01:53:24,480
+Okay so what else can we test 4840 50
+
+962
+01:53:24,736 --> 01:53:30,880
+There I don't even understand how the even remotely possible to represent all of this
+
+963
+01:53:31,136 --> 01:53:31,648
+Data
+
+964
+01:53:33,184 --> 01:53:34,976
+With this few bits
+
+965
+01:53:35,232 --> 01:53:36,256
+That's just
+
+966
+01:53:36,512 --> 01:53:38,304
+Terrifying
+
+967
+01:53:39,072 --> 01:53:41,120
+It's just completely terrifying
+
+968
+01:53:44,448 --> 01:53:48,288
+I don't know what black magic been did but
+
+969
+01:53:48,544 --> 01:53:49,824
+What
+
+970
+01:53:55,968 --> 01:54:02,112
+Also excited about the sale a I don't own a high-speed silly device I own
+
+971
+01:54:02,368 --> 01:54:05,184
+Only own two of the chief Chinese knockoffs
+
+972
+01:54:05,440 --> 01:54:11,584
+I have access to high-speed one and the only reason I have access to it is because I had the cheap Chinese
+
+973
+01:54:11,840 --> 01:54:17,984
+So if sale a had actually done something to stop people from using the cheap Chinese knockoff
+
+974
+01:54:18,240 --> 01:54:24,384
+They would not have made the sale so they're all up in arms about people using knockoff they lays and I'm going
+
+975
+01:54:24,640 --> 01:54:28,992
+Going to say that they really have to stop at if they expect to keep on selling their expensive ones
+
+976
+01:54:29,248 --> 01:54:35,392
+I guess I can just try a different code like
+
+977
+01:54:35,648 --> 01:54:41,792
+Maybe forty 4840
+
+978
+01:54:42,048 --> 01:54:48,192
+This is very strange
+
+979
+01:56:29,312 --> 01:56:30,592
+Congo down
+
+980
+01:56:45,184 --> 01:56:48,512
+Oh man I got to reload the chat window it's all janky
+
+981
+01:57:02,336 --> 01:57:08,480
+Okay well I mean is there anything else you guys can think for me to test right now so like we're doing 48
+
+982
+01:57:08,736 --> 01:57:11,040
+848 50s
+
+983
+01:57:14,880 --> 01:57:21,024
+Oh hey did you guys notice that that the huge number just now jumped to
+
+984
+01:57:21,280 --> 01:57:25,120
+42 instead of 48
+
+985
+01:57:42,272 --> 01:57:47,904
+And I don't even know what to try anymore this is so crazy
+
+986
+01:57:50,976 --> 01:57:52,768
+Thing and see what it does
+
+987
+01:57:56,096 --> 01:57:58,912
+That's interesting
+
+988
+01:58:24,000 --> 01:58:26,048
+So that one right here
+
+989
+01:58:26,304 --> 01:58:30,144
+It's as though it's a continuation of data somehow
+
+990
+01:58:30,656 --> 01:58:36,800
+I don't understand how it can represent that or how we would know for sure unless the time
+
+991
+01:58:37,056 --> 01:58:41,152
+Codes line up just right
+
+992
+01:58:41,408 --> 01:58:47,552
+Okay well it's that's neat
+
+993
+01:59:08,288 --> 01:59:14,432
+Okay well we got to get some ideas here
+
+994
+01:59:14,688 --> 01:59:15,712
+But what else can we test
+
+995
+01:59:18,784 --> 01:59:21,600
+I guess I could do this and then change this to
+
+996
+01:59:39,264 --> 01:59:45,408
+By the way I'm thinking part of the reason I couldn't sleep Saturday night
+
+997
+01:59:45,664 --> 01:59:51,808
+It was because I was thinking about this and what all of these different fields mean so it's totally killing me like just
+
+998
+01:59:52,064 --> 01:59:56,672
+Being a puzzle I want to know what the state of mean
+
+999
+02:00:09,216 --> 02:00:12,544
+Hey a one-day just got set did you guys see it
+
+1000
+02:00:14,080 --> 02:00:20,224
+Oh my gosh hold on I'm going to take this into the into the
+
+1001
+02:00:20,480 --> 02:00:20,992
+This thing
+
+1002
+02:00:42,752 --> 02:00:48,896
+Oh that's so weird for b51 those like the one
+
+1003
+02:00:49,152 --> 02:00:55,296
+Choose B have to do with it handing off while the other one is on when the fits aren't set its
+
+1004
+02:00:55,552 --> 02:00:59,392
+Something else is going on
+
+1005
+02:01:01,696 --> 02:01:06,816
+Back to the previous
+
+1006
+02:01:08,096 --> 02:01:13,728
+Four-wheel not I don't think four will read but we can try it
+
+1007
+02:01:16,544 --> 02:01:18,080
+4 is barely reading
+
+1008
+02:01:18,336 --> 02:01:21,152
+Text should read
+
+1009
+02:01:23,968 --> 02:01:26,272
+Still not quite reading 8
+
+1010
+02:01:30,624 --> 02:01:32,672
+8 reeds
+
+1011
+02:01:37,792 --> 02:01:39,328
+Let's be safe to make a 10
+
+1012
+02:02:49,216 --> 02:02:50,752
+I don't know man
+
+1013
+02:02:51,520 --> 02:02:55,616
+Let's go back to a more degenerate Templar case
+
+1014
+02:02:55,872 --> 02:02:57,920
+Back window
+
+1015
+02:02:59,968 --> 02:03:04,064
+So I want to just do this 40 4840 4850
+
+1016
+02:03:25,056 --> 02:03:31,200
+One other note if you look up here you can see what happens when the pulse codes Leach over into the next frame
+
+1017
+02:03:51,936 --> 02:03:58,080
+I don't think we're losing anything in the packet limit because there was that one packet back a couple wear
+
+1018
+02:03:58,336 --> 02:03:59,360
+Are it on
+
+1019
+02:03:59,616 --> 02:04:03,456
+Where it just went down to the next packet I'll show you
+
+1020
+02:04:17,024 --> 02:04:18,560
+So here check this out
+
+1021
+02:04:18,816 --> 02:04:22,144
+What's going on it's going down to the next packet
+
+1022
+02:05:34,336 --> 02:05:36,896
+14 what does it look like on actual Watchman data
+
+1023
+02:05:40,992 --> 02:05:45,856
+Oh you know what I don't even have any way of collecting the Rawhide data coming from a wired Watchmen
+
+1024
+02:05:46,880 --> 02:05:49,696
+I haven't written that I never did never thought I'd use it
+
+1025
+02:05:50,208 --> 02:05:52,000
+Be too hard to get right now
+
+1026
+02:05:58,400 --> 02:06:01,472
+How do you just make more events and see what happens
+
+1027
+02:06:49,856 --> 02:06:53,696
+5448 5048 5048
+
+1028
+02:06:54,208 --> 02:07:00,352
+Oh that's really clever oh okay so what they're doing if it would be something that would breach pack
+
+1029
+02:07:00,608 --> 02:07:06,752
+The time code
+
+1030
+02:07:10,336 --> 02:07:12,640
+So right here
+
+1031
+02:07:12,896 --> 02:07:19,040
+This is actually just treating it as separate 4850 4850 4850 48
+
+1032
+02:07:19,296 --> 02:07:25,440
+And then this one here is saying 40 was on from here until you know whatever the packet
+
+1033
+02:07:25,696 --> 02:07:28,512
+And was so happy the wrong line
+
+1034
+02:07:40,544 --> 02:07:43,872
+Or I guess I'll be the opposite what really happened is it was this one
+
+1035
+02:07:46,176 --> 02:07:47,968
+No
+
+1036
+02:07:53,344 --> 02:07:59,488
+Yes okay so if you look at this Packer right here the time code started before
+
+1037
+02:07:59,744 --> 02:08:03,840
+This packet so the system was smart enough to know 22 take
+
+1038
+02:08:04,096 --> 02:08:05,376
+The
+
+1039
+02:08:06,144 --> 02:08:07,168
+The 40
+
+1040
+02:08:07,680 --> 02:08:12,288
+Neither was common to all of these and then go stick it after this packet
+
+1041
+02:08:12,544 --> 02:08:18,688
+Even though the event started in this time before this packet again so the things I just don't have to come in in order
+
+1042
+02:08:18,944 --> 02:08:25,088
+It just I guess it's really clever about the wages stores them and sends them on Word
+
+1043
+02:08:25,344 --> 02:08:29,440
+Going to be as hard cuz maybe it does a lot of the really hard
+
+1044
+02:08:30,976 --> 02:08:31,488
+Work
+
+1045
+02:08:43,008 --> 02:08:48,128
+I understand that I don't have
+
+1046
+02:08:48,896 --> 02:08:51,200
+I just don't have any way of decoding it right now
+
+1047
+02:08:56,320 --> 02:08:58,112
+Oh hey benzon here
+
+1048
+02:08:58,368 --> 02:08:59,392
+Hi Ben
+
+1049
+02:09:03,232 --> 02:09:08,608
+And then if if if the factory has has it it be really cool
+
+1050
+02:09:11,424 --> 02:09:13,984
+Let me go let me go commit the current just
+
+1051
+02:09:21,920 --> 02:09:28,064
+I think you can see just how many people are really excited to figure out what this is
+
+1052
+02:09:29,088 --> 02:09:35,232
+The one thing that I want to say is I never I cannot fathom what it took in order
+
+1053
+02:09:35,488 --> 02:09:40,352
+To write something that could look at the light pulses and figure out how to
+
+1054
+02:09:40,864 --> 02:09:44,192
+Put these crazy things together
+
+1055
+02:09:48,544 --> 02:09:53,152
+Other ideas for different.
+
+1056
+02:09:55,200 --> 02:09:57,248
+Maybe this one right here
+
+1057
+02:10:00,832 --> 02:10:02,112
+What
+
+1058
+02:10:02,624 --> 02:10:06,464
+I mean oops and I realized what I did
+
+1059
+02:10:20,032 --> 02:10:22,336
+Apartments
+
+1060
+02:10:42,560 --> 02:10:44,352
+Check that out guys the
+
+1061
+02:10:44,864 --> 02:10:46,144
+The Forbidden set
+
+1062
+02:10:46,400 --> 02:10:47,168
+And that one
+
+1063
+02:11:03,040 --> 02:11:09,184
+Maybe the forest B oh my gosh wait are you guys already talking about this
+
+1064
+02:11:09,440 --> 02:11:15,584
+Before B might be the the B that that that the turn off
+
+1065
+02:11:15,840 --> 02:11:21,984
+When the thing like 49 is 48
+
+1066
+02:11:22,240 --> 02:11:24,288
+In10sity is 50 + 1
+
+1067
+02:11:24,800 --> 02:11:25,568
+Nevermind
+
+1068
+02:11:26,080 --> 02:11:31,200
+Building 44
+
+1069
+02:11:53,984 --> 02:12:00,128
+So
+
+1070
+02:12:00,384 --> 02:12:06,528
+Play let me change the numbers of the timing some so I can make sure that ice I'm seeing what I'm seeing
+
+1071
+02:12:17,280 --> 02:12:23,424
+Yeah I know I'm still lost although hey this does prove that it's Delta's I mean despite the fact
+
+1072
+02:12:23,680 --> 02:12:29,824
+Actually show that it has to be deltas
+
+1073
+02:12:30,080 --> 02:12:36,224
+Orbit here and the fact that it affected something that was all the way to back
+
+1074
+02:12:36,480 --> 02:12:42,624
+Where is the one day I think it only affects one understanding
+
+1075
+02:12:42,880 --> 02:12:49,024
+Turning into 4948 5244
+
+1076
+02:12:49,280 --> 02:12:55,424
+And that would have meant that it was looking to back instead of further back I don't know how to
+
+1077
+02:12:55,680 --> 02:12:59,008
+It's hard to put that into words
+
+1078
+02:13:10,016 --> 02:13:16,160
+Been in chat can you tell us what it's like to have a bunch of people
+
+1079
+02:13:16,416 --> 02:13:22,560
+Call trying to solve a problem that you already know the solution to a puzzle
+
+1080
+02:13:22,816 --> 02:13:28,960
+The puzzle looks like and where all the pieces go and try to figure it out
+
+1081
+02:13:42,016 --> 02:13:45,600
+That's a good point I really should tweet this out
+
+1082
+02:13:48,160 --> 02:13:50,976
+I guess there's no information on my Twitter that you guys can't
+
+1083
+02:13:54,048 --> 02:14:00,192
+Actually you know what I don't have the URL for this life pecan somebody pays to life
+
+1084
+02:14:00,448 --> 02:14:06,592
+YouTube flashlight flashlight
+
+1085
+02:14:06,848 --> 02:14:09,920
+Cnn.com
+
+1086
+02:14:10,176 --> 02:14:16,320
+Saint Laurent / C / 4/5
+
+1087
+02:14:16,576 --> 02:14:22,720
+Reply
+
+1088
+02:14:52,160 --> 02:14:56,256
+Oh are you serious VK Tuesday
+
+1089
+02:14:56,512 --> 02:15:02,656
+I think it's worth
+
+1090
+02:15:02,912 --> 02:15:07,008
+So Ben says it's pretty entertaining
+
+1091
+02:15:11,104 --> 02:15:12,384
+What's the LG Q
+
+1092
+02:15:12,640 --> 02:15:14,176
+Dlco
+
+1093
+02:15:36,960 --> 02:15:37,728
+Okay
+
+1094
+02:15:38,752 --> 02:15:39,776
+Back to work
+
+1095
+02:15:41,312 --> 02:15:45,920
+Okay so let's see here what would I change next to try to tweak that b
+
+1096
+02:15:53,856 --> 02:15:56,416
+Oh hey sex we got a sex again
+
+1097
+02:15:56,672 --> 02:15:57,696
+We got to fix again
+
+1098
+02:15:57,952 --> 02:16:01,024
+Let's take a look at that
+
+1099
+02:16:25,344 --> 02:16:27,904
+Put led50 on for the whole time
+
+1100
+02:16:33,024 --> 02:16:35,072
+Omica
+
+1101
+02:16:35,328 --> 02:16:36,608
+That's sad
+
+1102
+02:16:37,632 --> 02:16:43,776
+Mike can you please tell us what the what the toy was or is are you under NDA to tell us what it is
+
+1103
+02:16:47,616 --> 02:16:53,760
+Oh so you want 50 on okay Sophie
+
+1104
+02:16:54,016 --> 02:16:54,784
+50
+
+1105
+02:16:56,832 --> 02:16:59,392
+I want to make this 40
+
+1106
+02:17:10,656 --> 02:17:13,216
+Say what
+
+1107
+02:17:13,728 --> 02:17:18,080
+Mike answered you
+
+1108
+02:17:27,040 --> 02:17:33,184
+So if you are interested in seeing the 6th so I guess the sex
+
+1109
+02:17:35,744 --> 02:17:38,560
+How I done goofed something else is that the right one
+
+1110
+02:17:39,328 --> 02:17:41,120
+49-42
+
+1111
+02:17:41,888 --> 02:17:44,192
+Jesse's led50 is on the whole time
+
+1112
+02:17:44,960 --> 02:17:50,592
+That is very strange why
+
+1113
+02:17:51,360 --> 02:17:52,128
+So how does it
+
+1114
+02:17:52,384 --> 02:17:53,408
+What is it doing
+
+1115
+02:18:03,648 --> 02:18:07,232
+You can ask for a brief description of your Hardware software setup
+
+1116
+02:18:10,304 --> 02:18:11,584
+What is 6000
+
+1117
+02:18:12,096 --> 02:18:13,120
+Never heard of this
+
+1118
+02:18:15,424 --> 02:18:20,032
+Sorry I'm right now just looking up something that one of the guys in chat help program
+
+1119
+02:18:20,544 --> 02:18:23,360
+M60 accuse I've never seen these
+
+1120
+02:18:24,384 --> 02:18:25,408
+It looks pretty
+
+1121
+02:18:26,176 --> 02:18:27,968
+Was it like for game
+
+1122
+02:18:31,296 --> 02:18:35,392
+It's pretty neat that they got little displays and he said I got there Wireless
+
+1123
+02:18:41,024 --> 02:18:42,560
+Hey 5000 is that
+
+1124
+02:18:43,584 --> 02:18:45,888
+Did hack your stuff
+
+1125
+02:18:46,400 --> 02:18:49,984
+So I would say special
+
+1126
+02:18:50,496 --> 02:18:51,776
+Micah
+
+1127
+02:18:52,032 --> 02:18:53,824
+Sorry yeah my cat looks like
+
+1128
+02:18:54,848 --> 02:18:57,664
+You're supposed to get back to work
+
+1129
+02:19:00,224 --> 02:19:05,088
+So what did you say okay it's time to show
+
+1130
+02:19:05,344 --> 02:19:11,488
+Okay very briefly hardware and software setup I have a watch
+
+1131
+02:19:11,744 --> 02:19:15,072
+Fan controller here that I have taped on with the
+
+1132
+02:19:15,584 --> 02:19:17,120
+3 LEDs
+
+1133
+02:19:17,376 --> 02:19:23,008
+On different parts of the controller and I have the code setup here so if I save it
+
+1134
+02:19:23,520 --> 02:19:29,664
+Keeps running so I can change which LEDs are on and how and basically real-time
+
+1135
+02:19:29,920 --> 02:19:33,760
+Immediately
+
+1136
+02:19:34,016 --> 02:19:40,160
+And what I've been doing is copying and pasting the output from The Watchmen into the gist thing right there
+
+1137
+02:19:43,232 --> 02:19:44,256
+And as usual
+
+1138
+02:19:45,280 --> 02:19:46,816
+That is my
+
+1139
+02:19:47,072 --> 02:19:47,840
+Girlfriend
+
+1140
+02:19:50,144 --> 02:19:51,936
+So you wrote an article about it
+
+1141
+02:19:55,264 --> 02:19:57,312
+What
+
+1142
+02:19:58,848 --> 02:20:00,128
+I'm not sure which
+
+1143
+02:20:00,384 --> 02:20:01,920
+This the picture here
+
+1144
+02:20:02,944 --> 02:20:07,552
+Oh wait we really got to get back to work I'm sorry
+
+1145
+02:20:09,600 --> 02:20:14,208
+Micah saying the SDK that repo includes the hardware simulator
+
+1146
+02:20:14,720 --> 02:20:19,328
+Ron's emulated binary translated firmware oh so you actually like wrote that code
+
+1147
+02:20:21,120 --> 02:20:27,264
+Survive right now
+
+1148
+02:20:27,520 --> 02:20:33,664
+I'm going to hopefully you get this working more and then we'll have lights or 5 so can actually read all of the lighting Gator from
+
+1149
+02:20:33,920 --> 02:20:40,064
+And hopefully in time we will be able to pass the data off to David Chapman's algorithms
+
+1150
+02:20:40,320 --> 02:20:46,464
+In order to locate the position and run the Kalman filter and all of that to figure out where exactly everything is
+
+1151
+02:20:46,720 --> 02:20:52,864
+I'm a little bit curious if it's really necessary especially because I'm interested in that because
+
+1152
+02:20:53,120 --> 02:20:59,264
+Cuz I noticed when I had the headset on and I could do certain things that looks like it's using an IR to do the correction in the
+
+1153
+02:20:59,520 --> 02:21:05,664
+Headset but but I just want to see what happens if we try to use it
+
+1154
+02:21:05,920 --> 02:21:12,064
+Common filter instead of and I are eventually
+
+1155
+02:21:12,320 --> 02:21:18,464
+Get this Poky Little laptop right here like little second gen I5
+
+1156
+02:21:18,720 --> 02:21:24,864
+Painfully slow to be able to actually run five games all Scott is integrated graphics
+
+1157
+02:21:25,120 --> 02:21:31,264
+Games I mean like a Vive games that I write for it specifically written to be fast and Tiny
+
+1158
+02:21:31,520 --> 02:21:37,664
+We really got to keep moving though we're going to get some more data here to figure out what's going on
+
+1159
+02:21:37,920 --> 02:21:43,040
+I guess one thing I could try this point is we could
+
+1160
+02:21:43,296 --> 02:21:45,856
+Do that
+
+1161
+02:21:48,672 --> 02:21:52,512
+And then f****** I'm curious what happens if
+
+1162
+02:21:58,912 --> 02:22:01,472
+Oh hey guys check that out that day changed
+
+1163
+02:22:01,728 --> 02:22:03,520
+Let's do this one
+
+1164
+02:22:16,576 --> 02:22:22,720
+I'm really got to figure out what's going on with it transfer problem for with the lighthouse
+
+1165
+02:22:22,976 --> 02:22:25,280
+I don't know what's going on there
+
+1166
+02:22:28,864 --> 02:22:34,752
+Can you look at the band hand and see if we can make use of that Brendan
+
+1167
+02:22:36,032 --> 02:22:39,616
+Slippery out there
+
+1168
+02:22:41,152 --> 02:22:42,944
+Its first 12 and 1st
+
+1169
+02:22:44,224 --> 02:22:47,552
+From band
+
+1170
+02:22:52,672 --> 02:22:53,184
+It's
+
+1171
+02:22:53,440 --> 02:22:55,488
+First one to end first
+
+1172
+02:22:55,744 --> 02:22:59,328
+Savannah saying it's quote first one to end first
+
+1173
+02:23:00,096 --> 02:23:03,168
+Post a policy cyborg movie
+
+1174
+02:23:03,424 --> 02:23:06,752
+Do the the least significant didn't know
+
+1175
+02:23:07,008 --> 02:23:09,824
+First one to end first
+
+1176
+02:23:10,080 --> 02:23:14,688
+Oh my gosh what does that mean
+
+1177
+02:23:28,768 --> 02:23:34,912
+Why is it so hard
+
+1178
+02:23:35,168 --> 02:23:41,312
+But
+
+1179
+02:23:41,568 --> 02:23:43,360
+Copy paste the wrong thing
+
+1180
+02:23:56,416 --> 02:24:01,792
+I'm I'm going to go back and look at shortly but
+
+1181
+02:24:02,560 --> 02:24:07,424
+Hi you don't know when it will and you can't report it until it ends
+
+1182
+02:24:08,192 --> 02:24:09,984
+So they come out to me order that net
+
+1183
+02:24:19,712 --> 02:24:25,856
+But I don't know if you saw earlier when we got it stacked up enough that there was one LED
+
+1184
+02:24:26,112 --> 02:24:32,256
+It was on for a long time while we were doing other stuff and she came in and said that like
+
+1185
+02:24:32,512 --> 02:24:38,656
+We're done in the next message down so that the neat idea of the way that you were able to to make that
+
+1186
+02:24:39,168 --> 02:24:39,680
+Like
+
+1187
+02:24:40,192 --> 02:24:44,800
+Walk down to the next one but they come out in the order they end
+
+1188
+02:24:51,968 --> 02:24:57,088
+That says him beginning to end and then it says the date at mediately
+
+1189
+02:25:01,184 --> 02:25:05,024
+Wait a minute does that mean wait a minute does that mean
+
+1190
+02:25:05,280 --> 02:25:11,168
+That could mean that the kind that were receiving is the time code of the end
+
+1191
+02:25:11,936 --> 02:25:18,080
+Not a no-fault we know it's not time to go to the end because if we go back up to that packet that was on the other line
+
+1192
+02:25:18,336 --> 02:25:21,664
+The time code started before the previous
+
+1193
+02:25:22,176 --> 02:25:23,200
+Packets timecode
+
+1194
+02:25:23,712 --> 02:25:25,248
+That was
+
+1195
+02:25:26,784 --> 02:25:28,576
+This one here
+
+1196
+02:25:29,856 --> 02:25:35,488
+S timecode is actually less than the first
+
+1197
+02:25:36,000 --> 02:25:41,632
+And so we know the time code in the packet
+
+1198
+02:25:45,728 --> 02:25:48,544
+Corresponds to
+
+1199
+02:25:49,056 --> 02:25:50,336
+The start
+
+1200
+02:25:50,592 --> 02:25:52,384
+Edge of the
+
+1201
+02:25:53,152 --> 02:25:56,736
+Event not the tailing Edge
+
+1202
+02:25:56,992 --> 02:25:58,272
+Of the event
+
+1203
+02:25:59,040 --> 02:25:59,808
+I hope
+
+1204
+02:26:06,208 --> 02:26:09,536
+Must be painful for you to watch
+
+1205
+02:26:09,792 --> 02:26:12,096
+Just watch her squirm
+
+1206
+02:26:27,200 --> 02:26:33,344
+I can't explain lsb's in terms of his current code
+
+1207
+02:26:37,184 --> 02:26:40,256
+He got to fix the time decode first
+
+1208
+02:26:53,056 --> 02:26:58,688
+No I'm watching my gosh this computer is too slow
+
+1209
+02:27:00,480 --> 02:27:03,552
+Wait no what what
+
+1210
+02:27:03,808 --> 02:27:06,880
+Sahuarita one the year it starts at the end
+
+1211
+02:27:07,904 --> 02:27:14,048
+Put the Stars not at the
+
+1212
+02:27:14,304 --> 02:27:20,448
+Got2b of the start event because I started the LED and then let it play and then it came in later with an earlier start time
+
+1213
+02:27:20,704 --> 02:27:25,824
+Find select the time has got to be the beginning of all of the events right
+
+1214
+02:27:35,040 --> 02:27:39,136
+I'm sad offsets reversed
+
+1215
+02:27:50,656 --> 02:27:56,800
+Yes I can no I can't correlate time
+
+1216
+02:27:57,056 --> 02:27:57,568
+Accurately
+
+1217
+02:28:24,192 --> 02:28:29,312
+When I say event I mean transitions or on or off or anything like that
+
+1218
+02:28:38,528 --> 02:28:43,136
+No we we are I mean I don't know bad if you get a chance to look through the
+
+1219
+02:28:43,648 --> 02:28:49,792
+The copious amounts of tests we run to try to understand what's going on
+
+1220
+02:28:50,048 --> 02:28:55,424
+Also I still don't know what's up with that big number in this test we got here going to go be there
+
+1221
+02:28:56,960 --> 02:28:59,520
+Let's let's keep looking
+
+1222
+02:29:20,512 --> 02:29:26,656
+Are you right now we have been here don't don't go off in the middle of nothing right now
+
+1223
+02:29:39,712 --> 02:29:45,856
+I don't think that we're running into anything like that I think we're a lot closer than r l e
+
+1224
+02:29:46,112 --> 02:29:52,256
+I don't I think that I would have thought that at first but not after
+
+1225
+02:29:52,512 --> 02:29:58,656
+Everything everything we've seen
+
+1226
+02:29:58,912 --> 02:30:05,056
+I'm still having a hard time
+
+1227
+02:30:05,312 --> 02:30:11,456
+Wrapping my head around what Ben said what kind of want some confirmation
+
+1228
+02:30:11,712 --> 02:30:17,856
+Let's look at it
+
+1229
+02:30:18,112 --> 02:30:24,256
+Read it again cuz I am trying to like to alt-tab between everybody all this much
+
+1230
+02:30:24,512 --> 02:30:30,656
+You can report it till it on I don't know when it will end right that's why
+
+1231
+02:30:30,912 --> 02:30:37,056
+Yeah there are two end-to-end
+
+1232
+02:30:37,312 --> 02:30:43,456
+We did know that all that was from yesterday so we come in the order
+
+1233
+02:30:43,712 --> 02:30:49,088
+At the end of think about the LEDs
+
+1234
+02:30:49,344 --> 02:30:55,488
+So I've been riding them in the order from this way this way that way
+
+1235
+02:30:55,744 --> 02:30:57,792
+50 riding on that way instead
+
+1236
+02:31:10,848 --> 02:31:13,920
+So I'm reading
+
+1237
+02:31:16,224 --> 02:31:22,368
+Can you guys think of a test that I can caulk where I would turn on One LED and then turn on and
+
+1238
+02:31:22,624 --> 02:31:28,768
+Different LED and then turn off that led on a different one in order to determine if
+
+1239
+02:31:29,280 --> 02:31:35,424
+Like which order they're actually in if somebody can like write the syntax again for
+
+1240
+02:31:39,008 --> 02:31:45,152
+Saudi I guess we should be able to tell that should be
+
+1241
+02:31:45,408 --> 02:31:46,688
+Temple should be
+
+1242
+02:32:37,888 --> 02:32:41,984
+Can you check the chat Brandon
+
+1243
+02:32:55,040 --> 02:33:01,184
+44-year 4844 Lucas
+
+1244
+02:33:01,440 --> 02:33:07,584
+40 40 40 Lucas if you can just type in the time chat if this is what you were wanting me to test
+
+1245
+02:33:07,840 --> 02:33:13,984
+48 / 84
+
+1246
+02:33:20,640 --> 02:33:26,784
+4040 + 40
+
+1247
+02:33:27,040 --> 02:33:33,184
+Wait
+
+1248
+02:33:33,440 --> 02:33:39,584
+Do Marker
+
+1249
+02:33:39,840 --> 02:33:45,984
+Daniel Lee
+
+1250
+02:33:52,640 --> 02:33:58,784
+Just warning you Daniel this is going to overlap if I do it there's going to be no way of actually knowing
+
+1251
+02:33:59,040 --> 02:34:05,184
+Oh I see what you're saying
+
+1252
+02:34:05,440 --> 02:34:11,584
+She's been like that
+
+1253
+02:34:37,440 --> 02:34:43,584
+Okay Daniel Lee I just added your stuff
+
+1254
+02:34:43,840 --> 02:34:49,984
+To the baguette
+
+1255
+02:34:50,240 --> 02:34:56,384
+There is a correlation between LED 40 + 10 + 6
+
+1256
+02:34:56,640 --> 02:35:02,784
+Therapy
+
+1257
+02:35:03,040 --> 02:35:09,184
+I don't see it
+
+1258
+02:35:09,440 --> 02:35:15,584
+He must be looking at a different dataset other will be
+
+1259
+02:35:15,840 --> 02:35:21,984
+Correlations between LEDs and certain numbers though because the timing will be consistent among those LEDs
+
+1260
+02:35:52,704 --> 02:35:58,848
+Does anybody have any idea what could have meant when he said I needed to fix my timing code because I just don't know
+
+1261
+02:35:59,104 --> 02:36:05,248
+I mean the same as what's what's up there
+
+1262
+02:36:10,624 --> 02:36:16,768
+Okay I'll try 40 + 48
+
+1263
+02:36:17,024 --> 02:36:23,168
+Oh no overlap Oso
+
+1264
+02:36:29,824 --> 02:36:35,968
+Okay so what's going on right here I'm
+
+1265
+02:36:36,224 --> 02:36:42,368
+I'm also seeing a massive number right there
+
+1266
+02:36:42,624 --> 02:36:48,768
+Like I have no idea where that came from
+
+1267
+02:36:55,424 --> 02:37:01,568
+Like seriously what is up with this why is there 283,000
+
+1268
+02:37:01,824 --> 02:37:07,968
+Showing up right there I mean I guess I could just
+
+1269
+02:37:28,448 --> 02:37:34,592
+Can you go back and start looking again
+
+1270
+02:37:34,848 --> 02:37:40,992
+Also I think he means that the timings
+
+1271
+02:37:41,248 --> 02:37:47,392
+Correlated sink 1 trillion with utilities oe mean I really could be looking at the LEDs
+
+1272
+02:37:47,648 --> 02:37:53,792
+In Arduino if it's reverse order yet
+
+1273
+02:37:54,048 --> 02:38:00,192
+But enough of the first led you read it was not necessarily the first.
+
+1274
+02:38:11,968 --> 02:38:18,112
+No no no no no John we we want this to be all in good fun we're trying to do something fun with
+
+1275
+02:38:18,368 --> 02:38:19,136
+Hardware
+
+1276
+02:38:25,024 --> 02:38:29,632
+On that possible tie what do you what do you recommend
+
+1277
+02:38:32,192 --> 02:38:38,336
+You guys like using that or Note 8
+
+1278
+02:38:38,592 --> 02:38:39,104
+Station
+
+1279
+02:38:40,640 --> 02:38:46,784
+Don't ask the chat what is 2 to the 1818 is 26
+
+1280
+02:38:47,040 --> 02:38:50,880
+50144 right pulling out of thin air
+
+1281
+02:38:51,392 --> 02:38:52,416
+Maybe
+
+1282
+02:38:52,672 --> 02:38:54,976
+I certainly don't know to the 19
+
+1283
+02:38:56,256 --> 02:39:02,400
+If you can make a recommendation for what code you would have checking
+
+1284
+02:39:13,152 --> 02:39:17,504
+We're getting we're getting close to the to the cutoff sign here
+
+1285
+02:39:19,040 --> 02:39:21,856
+1
+
+1286
+02:39:24,160 --> 02:39:30,304
+What is what is the next 10 min
+
+1287
+02:39:30,560 --> 02:39:36,704
+Set 10
+
+1288
+02:39:43,360 --> 02:39:49,504
+George II just don't know
+
+1289
+02:39:49,760 --> 02:39:52,320
+Don't know what you're after
+
+1290
+02:40:02,048 --> 02:40:05,376
+Oh are you serious
+
+1291
+02:40:05,888 --> 02:40:09,216
+Wait a minute who is the one who asked what's 2 to the 18
+
+1292
+02:40:10,240 --> 02:40:16,384
+Is that one of the other valves that I missed the name
+
+1293
+02:40:16,640 --> 02:40:22,784
+Is he one of the other valve think he was ya know why did I have to poop
+
+1294
+02:40:23,040 --> 02:40:25,856
+I'm sorry
+
+1295
+02:40:27,392 --> 02:40:33,280
+I still don't understand, what do you want me to test you want to do this twice
+
+1296
+02:40:34,048 --> 02:40:35,072
+Like that
+
+1297
+02:40:41,984 --> 02:40:42,752
+Oh that's
+
+1298
+02:40:43,008 --> 02:40:43,776
+Weird
+
+1299
+02:40:44,032 --> 02:40:46,336
+I did not what
+
+1300
+02:40:46,848 --> 02:40:48,640
+I don't
+
+1301
+02:40:52,736 --> 02:40:57,344
+Why is this that output
+
+1302
+02:41:10,144 --> 02:41:13,728
+This is crazy
+
+1303
+02:41:21,920 --> 02:41:24,736
+In the world
+
+1304
+02:41:29,600 --> 02:41:34,208
+Why is
+
+1305
+02:41:42,912 --> 02:41:46,240
+More suggestions
+
+1306
+02:41:52,896 --> 02:41:59,040
+Is the fundamental time because wrong he also asks that maybe
+
+1307
+02:42:00,320 --> 02:42:06,464
+I mean I just said it to the 14th so let me go back
+
+1308
+02:42:06,720 --> 02:42:12,864
+For they to dk20 there is
+
+1309
+02:42:13,120 --> 02:42:19,264
+Earlier on I don't know if you were here when but at the time
+
+1310
+02:42:19,520 --> 02:42:25,664
+That number's up 255 35 so the fact that it's more than 50 55-35 means
+
+1311
+02:42:25,920 --> 02:42:32,064
+Yes I know that there's Flags there but I've no idea what O2 the 18
+
+1312
+02:42:32,320 --> 02:42:38,464
+A bit too which is a bit that matters for us
+
+1313
+02:42:38,720 --> 02:42:44,864
+So the two-bit could be in the LED code or it could be in the time code if shifted
+
+1314
+02:42:45,120 --> 02:42:50,752
+Like timecode pushed up
+
+1315
+02:42:51,008 --> 02:42:54,080
+16 deaths I think
+
+1316
+02:42:54,336 --> 02:42:55,872
+Yeah
+
+1317
+02:42:56,640 --> 02:42:59,712
+That's interesting
+
+1318
+02:42:59,968 --> 02:43:02,272
+So
+
+1319
+02:43:35,808 --> 02:43:41,952
+That live around for quite some time when Charles did not realize the important question
+
+1320
+02:43:42,208 --> 02:43:46,304
+That was being asked
+
+1321
+02:43:56,288 --> 02:44:02,432
+Hold on
+
+1322
+02:44:06,272 --> 02:44:12,416
+Ben
+
+1323
+02:44:12,672 --> 02:44:18,816
+I am I would not be surprised if what you've done here compresses the data
+
+1324
+02:44:19,072 --> 02:44:25,216
+Better than any normal compression algorithm that one would typically be a
+
+1325
+02:44:25,472 --> 02:44:31,616
+Able to use like this is some very clever stuff to minimize the number of fights that are being transfer
+
+1326
+02:44:31,872 --> 02:44:38,016
+I do wish I was a little bit sharper right now I'm definitely getting tired
+
+1327
+02:44:38,272 --> 02:44:44,416
+So then we had just discussed that
+
+1328
+02:44:44,672 --> 02:44:50,816
+Who says getting there I'm guessing he was referring to me when he went
+
+1329
+02:44:52,096 --> 02:44:58,240
+The whole thing about 2 to the 18
+
+1330
+02:44:58,496 --> 02:45:04,640
+Tapping into the twos bit of
+
+1331
+02:45:06,432 --> 02:45:08,736
+Or whatever it is
+
+1332
+02:45:17,952 --> 02:45:20,512
+Instead of
+
+1333
+02:45:20,768 --> 02:45:25,120
+The to spit of
+
+1334
+02:45:25,376 --> 02:45:29,728
+The LED code
+
+1335
+02:45:43,296 --> 02:45:47,136
+So what did I miss
+
+1336
+02:45:57,376 --> 02:46:03,519
+The time between one set of 3xd of marker and the next is too short
+
+1337
+02:46:06,335 --> 02:46:12,479
+Combine two covid-19
+
+1338
+02:46:19,135 --> 02:46:25,279
+Yeah or a bit in like
+
+1339
+02:46:25,535 --> 02:46:31,679
+And it's only going to take it's going to take
+
+1340
+02:46:31,935 --> 02:46:38,079
+Talking to you like a lot and you don't have to store another by telling you that it's up there
+
+1341
+02:46:39,359 --> 02:46:45,503
+I hope a bunch of these folks are like really thinking this one through like Paul and
+
+1342
+02:46:45,759 --> 02:46:48,319
+And everyone else cuz
+
+1343
+02:46:48,575 --> 02:46:54,207
+We're totally going to have to dig this went through cuz my brain is pretty fried at the moment
+
+1344
+02:46:57,279 --> 02:47:03,423
+So let's see what conditions can we put it under in which case the two will appear in there
+
+1345
+02:47:03,679 --> 02:47:08,543
+Instead of in there for the to spit for whatever
+
+1346
+02:47:08,799 --> 02:47:10,591
+If I don't do that
+
+1347
+02:47:12,895 --> 02:47:17,759
+Maps 40-48 with the Tuesday stuffed there
+
+1348
+02:47:28,767 --> 02:47:33,631
+And I bet you if we flip the order of those then it'll appear in the other one
+
+1349
+02:47:33,887 --> 02:47:36,447
+48 48 48
+
+1350
+02:47:40,799 --> 02:47:41,823
+No it didn't
+
+1351
+02:47:42,335 --> 02:47:43,615
+A great what does that mean
+
+1352
+02:47:55,391 --> 02:48:00,767
+Oh and about the whole timing thing like which ones happens first
+
+1353
+02:48:08,191 --> 02:48:13,055
+How much if I leave this one on set that 2:40 then it'll appear in there yet did okay
+
+1354
+02:49:40,351 --> 02:49:46,495
+Why is the two-bit set now
+
+1355
+02:49:49,567 --> 02:49:55,711
+Well I must put up with me like tattoos b means these two
+
+1356
+02:49:55,967 --> 02:50:02,111
+Things have nothing to do with each other and that it's not actually carry over from
+
+1357
+02:50:02,367 --> 02:50:08,511
+Okay let's wait a minute no nevermind yeah yeah
+
+1358
+02:50:08,767 --> 02:50:14,911
+What's going on here guys do Marker 1048 + 250
+
+1359
+02:50:15,167 --> 02:50:21,311
+So 250 corresponds to led40 here even though it happens
+
+1360
+02:50:21,567 --> 02:50:27,711
+S sequentially in time so it's like backwards from from the order that you expected
+
+1361
+02:50:27,967 --> 02:50:33,855
+So what in the world does that one did in the Dare do why does that happen
+
+1362
+02:50:34,111 --> 02:50:40,255
+Cuz like look guys this going to copy this over there you guys are probably
+
+1363
+02:50:40,511 --> 02:50:43,071
+Anyway so
+
+1364
+02:50:43,327 --> 02:50:46,655
+But that's like super interesting
+
+1365
+02:50:46,911 --> 02:50:53,055
+Why is the order reversed
+
+1366
+02:51:04,063 --> 02:51:09,439
+Okay going up some
+
+1367
+02:51:20,191 --> 02:51:23,775
+By ticking Fritz the Cat
+
+1368
+02:51:43,231 --> 02:51:46,815
+I'm just reading what everybody saying I haven't got a chance to do that in a bit
+
+1369
+02:51:51,167 --> 02:51:55,775
+What
+
+1370
+02:51:56,031 --> 02:52:02,175
+You can't go why
+
+1371
+02:52:02,431 --> 02:52:08,575
+Albert thing would that do Marker LED at4050 I mean we can do that
+
+1372
+02:52:08,831 --> 02:52:14,975
+ATR 40 and 50 are going to come on at I'm not going to
+
+1373
+02:52:15,231 --> 02:52:21,375
+And off cuz like there is a slight like
+
+1374
+02:52:21,631 --> 02:52:27,775
+Like the way but I don't know what it is
+
+1375
+02:52:53,631 --> 02:52:59,775
+By Paul thank you for joining please look at it tomorrow please please please that would be super cool
+
+1376
+02:53:00,031 --> 02:53:06,175
+Call cuz I'm pretty sure I'm not going to figure out what's going based on all of this
+
+1377
+02:53:06,431 --> 02:53:12,575
+The basics
+
+1378
+02:53:12,831 --> 02:53:18,975
+Sequences misinterpreted the order that I'm reading in or what cuz I'm pretty sure that I'm not misinterpreting it because
+
+1379
+02:53:19,231 --> 02:53:25,375
+If I end up with extra bites or anything like that that I print out a warning and so far I haven't seen any
+
+1380
+02:53:25,631 --> 02:53:28,191
+The warnings
+
+1381
+02:53:46,111 --> 02:53:52,255
+So that's the other thing
+
+1382
+02:53:52,511 --> 02:53:58,655
+When I the whole reverse thing Paul if you can just stick around for a second
+
+1383
+02:53:58,911 --> 02:54:05,055
+I do want to show you why I think that that's not the case if I do LED 40
+
+1384
+02:54:05,311 --> 02:54:11,455
+LED 50
+
+1385
+02:54:11,711 --> 02:54:17,855
+LED 48 and LED 40
+
+1386
+02:54:18,111 --> 02:54:24,255
+And I do 20 30 40 50
+
+1387
+02:54:24,511 --> 02:54:30,655
+Keep that then I guess 4050 4840 4050 4840
+
+1388
+02:54:30,911 --> 02:54:37,055
+So I don't think that they're reversed I think they're in the correct order
+
+1389
+02:54:37,311 --> 02:54:43,455
+Does not what was his name is saying but it doesn't
+
+1390
+02:54:50,111 --> 02:54:56,255
+The negative one at the very end placeholder I put in it's not in the package is not there
+
+1391
+02:54:56,511 --> 02:54:57,791
+It's just a thing I stuck in
+
+1392
+02:54:59,839 --> 02:55:02,911
+El William if you want we can work together
+
+1393
+02:55:04,191 --> 02:55:07,007
+But to be fair I do kind of want to work on mine
+
+1394
+02:55:07,519 --> 02:55:12,895
+Who knows we can just eat work on our our own and then just share the knowledge
+
+1395
+02:55:27,231 --> 02:55:32,095
+At any rate is I was saying I'm pretty sure that the order is correct cuz like 40
+
+1396
+02:55:32,351 --> 02:55:35,167
+Is first 50 is second
+
+1397
+02:55:35,423 --> 02:55:36,959
+48/3
+
+1398
+02:55:37,471 --> 02:55:38,495
++ 40 is
+
+1399
+02:55:38,751 --> 02:55:42,079
+The last one and they also go up to the time here goes up
+
+1400
+02:55:42,335 --> 02:55:48,479
+And feel like in the degenerate case it's clear that it's 40 on 4309 off 430 150 on 45
+
+1401
+02:55:48,735 --> 02:55:54,879
+25 off for 2948 on 4691 and then offered 3:15 and 4
+
+1402
+02:55:55,135 --> 02:55:56,927
+40 on 4 873
+
+1403
+02:55:58,463 --> 02:56:02,559
+On and then it turns off cuz it's the end of the packet
+
+1404
+02:56:14,079 --> 02:56:16,127
+You catch the B right sequence wrong
+
+1405
+02:56:22,271 --> 02:56:22,783
+No
+
+1406
+02:56:23,039 --> 02:56:26,879
+B what
+
+1407
+02:56:27,391 --> 02:56:30,207
+Why is the negative one at the very end for example
+
+1408
+02:56:30,463 --> 02:56:35,839
+Oh no the negative one is is the mawp I think I said
+
+1409
+02:56:36,095 --> 02:56:40,959
+Your order only comes from the first few bites were talking about the rest of the day. He says
+
+1410
+02:56:41,983 --> 02:56:46,591
+Diid use various plotting programs when it makes sense to but right now
+
+1411
+02:56:47,103 --> 02:56:52,735
+I mean like when I come feel like moving the thing around I'm totally going to do it but right now we're just trying to figure out what the Rob B R
+
+1412
+02:56:59,647 --> 02:57:01,951
+William let's go take a look at your code
+
+1413
+02:57:02,463 --> 02:57:06,047
+EBenefits
+
+1414
+02:57:06,559 --> 02:57:10,143
+I'm your sequence of numbers applies the first few bites but the assignment
+
+1415
+02:57:11,423 --> 02:57:14,239
+The timestamps might be wrong
+
+1416
+02:57:15,519 --> 02:57:18,847
+I'm taking notes for myself so I can read these tomorrow
+
+1417
+02:57:19,103 --> 02:57:25,247
+I don't know standstill here if he is is it okay if I like actually post the text of everything he said
+
+1418
+02:57:25,503 --> 02:57:26,783
+Along with the thing
+
+1419
+02:57:30,623 --> 02:57:36,767
+You guys want to like work on something and then like link
+
+1420
+02:57:37,023 --> 02:57:43,167
+Something that would be cool to like and
+
+1421
+02:57:49,823 --> 02:57:53,663
+I need a thing of water I'm going to just do a quick commercial break
+
+1422
+02:57:58,527 --> 02:58:00,831
+What what really
+
+1423
+02:58:05,183 --> 02:58:06,719
+I can't click
+
+1424
+02:58:06,975 --> 02:58:09,023
+What
+
+1425
+02:58:09,535 --> 02:58:13,119
+Extreme is totally live
+
+1426
+02:58:25,407 --> 02:58:28,223
+Bummer I just don't have access to that button
+
+1427
+02:58:28,479 --> 02:58:31,807
+Well you guys are going to have to just sit there without a commercial break or anyting
+
+1428
+02:58:36,159 --> 02:58:41,535
+I'm going to leave it there
+
+1429
+02:59:02,015 --> 02:59:07,903
+What what is
+
+1430
+02:59:08,927 --> 02:59:09,951
+Just in general
+
+1431
+02:59:10,975 --> 02:59:13,023
+I still don't have an ad button now
+
+1432
+02:59:19,679 --> 02:59:23,263
+Oh well I don't know why that is
+
+1433
+02:59:30,687 --> 02:59:34,015
+That's okay
+
+1434
+02:59:45,279 --> 02:59:51,423
+I feel really bad because I feel like I can get into the Zone more when I when I'm the one who's working in focus
+
+1435
+02:59:51,679 --> 02:59:54,239
+Based on the problem but when I'm like kind of
+
+1436
+02:59:54,495 --> 02:59:59,615
+Hurting everybody I can't really get into the zone so I feel almost a little embarrassed
+
+1437
+02:59:59,871 --> 03:00:01,663
+So dull right now but
+
+1438
+03:00:02,175 --> 03:00:03,711
+I guess that's just how it is
+
+1439
+03:00:04,479 --> 03:00:10,111
+I think you guys are having more fun with it this way and I'm having fun too and as long as the problem gets solved
+
+1440
+03:00:10,367 --> 03:00:11,391
+I guess I'll be happy
+
+1441
+03:00:14,463 --> 03:00:15,743
+Hi Paul
+
+1442
+03:00:18,047 --> 03:00:19,071
+McDaniel
+
+1443
+03:00:27,519 --> 03:00:28,543
+I don't know
+
+1444
+03:00:52,095 --> 03:00:55,679
+Videos
+
+1445
+03:00:59,007 --> 03:01:01,311
+Creative Commons ads from the 50s
+
+1446
+03:01:01,567 --> 03:01:03,871
+Talk about it that's pressive
+
+1447
+03:01:04,127 --> 03:01:10,271
+By the way you guys should totally
+
+1448
+03:01:10,527 --> 03:01:14,367
+Brandon said talk about expressive so it's going to totally do
+
+1449
+03:01:14,879 --> 03:01:20,255
+Two people from the comments
+
+1450
+03:01:21,023 --> 03:01:23,071
+Expressive
+
+1451
+03:01:23,327 --> 03:01:29,471
+They have like
+
+1452
+03:01:29,727 --> 03:01:30,495
+Animation
+
+1453
+03:01:36,127 --> 03:01:36,639
+This guy
+
+1454
+03:01:44,831 --> 03:01:46,623
+They're this thing he totally made an ad
+
+1455
+03:01:47,647 --> 03:01:48,671
+Look at that add
+
+1456
+03:01:49,439 --> 03:01:53,023
+Look at it just all cool and look who was Francis
+
+1457
+03:01:54,815 --> 03:01:56,607
+Okay back to work
+
+1458
+03:02:00,447 --> 03:02:04,031
+Does anyone have any ideas right now
+
+1459
+03:02:04,543 --> 03:02:05,823
+Look at the Twitter pic
+
+1460
+03:02:09,151 --> 03:02:10,175
+Did you
+
+1461
+03:02:10,943 --> 03:02:12,223
+Notification me
+
+1462
+03:02:27,327 --> 03:02:29,119
+Wait Alan Yates
+
+1463
+03:02:35,007 --> 03:02:37,055
+Oh yeah
+
+1464
+03:02:40,639 --> 03:02:41,407
+Alright
+
+1465
+03:02:43,199 --> 03:02:46,271
+I'm getting so distracted
+
+1466
+03:02:46,527 --> 03:02:47,807
+Follow there it is
+
+1467
+03:02:48,575 --> 03:02:50,367
+Tk20se
+
+1468
+03:02:51,647 --> 03:02:53,695
+How is that Allen
+
+1469
+03:02:57,023 --> 03:02:58,815
+Bk2 Z28
+
+1470
+03:03:00,095 --> 03:03:05,727
+So Tuesday is not really on you but he send me a picture
+
+1471
+03:03:05,983 --> 03:03:07,775
+He tweeted picture
+
+1472
+03:03:09,567 --> 03:03:11,871
+Maybe to send your Twitter mentions
+
+1473
+03:03:12,383 --> 03:03:13,407
+See
+
+1474
+03:03:14,687 --> 03:03:16,479
+I'll see a picture though
+
+1475
+03:03:18,015 --> 03:03:19,039
+Oh
+
+1476
+03:03:19,807 --> 03:03:21,599
+Oh now I see it
+
+1477
+03:03:22,623 --> 03:03:28,255
+Call yok
+
+1478
+03:03:28,511 --> 03:03:32,607
+Puzzles are getting so ridiculous
+
+1479
+03:03:34,655 --> 03:03:36,191
+02
+
+1480
+03:03:36,959 --> 03:03:38,751
+34
+
+1481
+03:03:39,519 --> 03:03:42,079
+150
+
+1482
+03:03:42,847 --> 03:03:47,199
+Oh well you know what let's see what that looks like
+
+1483
+03:03:47,967 --> 03:03:49,759
+I'm going to save this picture
+
+1484
+03:03:54,879 --> 03:04:01,023
+Oh my gosh okay I can't wait to see what then I'll put
+
+1485
+03:04:01,279 --> 03:04:02,047
+Turns into
+
+1486
+03:04:03,583 --> 03:04:05,631
+Kemal
+
+1487
+03:04:07,167 --> 03:04:10,239
+Hey hi, thank you for using is all good
+
+1488
+03:04:18,943 --> 03:04:19,455
+Okay
+
+1489
+03:04:19,711 --> 03:04:23,039
+Time for us to go see
+
+1490
+03:04:23,807 --> 03:04:29,951
+That picture actually does for us so I'm going to take that picture I'm going to go
+
+1491
+03:04:30,207 --> 03:04:36,351
+I'll put it into code in Cisco dled
+
+1492
+03:04:36,607 --> 03:04:42,751
+20 Led Led 50 or 40
+
+1493
+03:04:43,007 --> 03:04:49,151
+LED 50 boom there than LED
+
+1494
+03:04:49,407 --> 03:04:55,551
+50 or LED 48
+
+1495
+03:04:55,807 --> 03:05:01,951
+And then LED
+
+1496
+03:05:02,207 --> 03:05:08,351
+50 Min nothing sets first transition off
+
+1497
+03:05:08,607 --> 03:05:12,703
+Second transition of first transition down
+
+1498
+03:05:12,959 --> 03:05:15,007
+Second transition
+
+1499
+03:05:15,775 --> 03:05:19,359
+S transition down transition down
+
+1500
+03:05:19,871 --> 03:05:22,431
+Okay so this coach should be
+
+1501
+03:05:45,983 --> 03:05:47,519
+Are you guys seeing this
+
+1502
+03:05:48,287 --> 03:05:50,079
+Cuz I'm really confused now
+
+1503
+03:05:53,151 --> 03:05:54,431
+41
+
+1504
+03:05:55,455 --> 03:05:56,991
+Transition one
+
+1505
+03:05:58,783 --> 03:05:59,807
+48
+
+1506
+03:06:01,087 --> 03:06:02,111
+Nothing
+
+1507
+03:06:07,743 --> 03:06:08,255
+50
+
+1508
+03:06:08,511 --> 03:06:09,023
+3
+
+1509
+03:06:10,047 --> 03:06:11,839
+53 is it
+
+1510
+03:06:12,351 --> 03:06:13,631
+Going
+
+1511
+03:06:14,399 --> 03:06:16,191
+Want o
+
+1512
+03:06:16,959 --> 03:06:22,335
+The one needs is associated with the first
+
+1513
+03:06:28,223 --> 03:06:34,367
+4848 only on 4
+
+1514
+03:06:34,623 --> 03:06:40,767
+For a little bit does not associate with any other events
+
+1515
+03:06:41,023 --> 03:06:47,167
+NY 53
+
+1516
+03:06:48,191 --> 03:06:54,335
+No I want to figure it out here cuz I think the 53
+
+1517
+03:06:54,591 --> 03:07:00,735
+The one means it's one the event is one away from where I am and then the three would mean that
+
+1518
+03:07:00,991 --> 03:07:07,135
+123 away that's one event
+
+1519
+03:07:07,391 --> 03:07:10,207
+2 event back 3 event back
+
+1520
+03:07:10,463 --> 03:07:16,607
+And it's an implicit one so it's the amount that it changes so
+
+1521
+03:07:24,287 --> 03:07:27,359
+Well let me at least copy this since the text file and then
+
+1522
+03:08:13,439 --> 03:08:18,303
+Okay you're right. It does make a little bit easier cuz you can clearly see like 867
+
+1523
+03:08:19,071 --> 03:08:20,607
+The 151
+
+1524
+03:08:23,423 --> 03:08:25,727
+That's such a good test but it's
+
+1525
+03:08:25,983 --> 03:08:32,127
+I don't have enough brain cells still firing to figure out exactly how to decode that but the 41 means it's 40
+
+1526
+03:08:34,943 --> 03:08:36,479
+Forward them out
+
+1527
+03:08:38,527 --> 03:08:39,551
+And then
+
+1528
+03:08:41,855 --> 03:08:43,135
+151
+
+1529
+03:08:44,671 --> 03:08:48,255
+Oh me so it's 40 then 151 later
+
+1530
+03:08:52,607 --> 03:08:55,679
+Now the B20 so
+
+1531
+03:09:00,543 --> 03:09:04,383
+Where in the world why the 552 there the 48
+
+1532
+03:09:13,855 --> 03:09:17,439
+Okay so that's on but then the one
+
+1533
+03:09:36,383 --> 03:09:39,199
+Which Delta a different prime number for testing
+
+1534
+03:09:44,831 --> 03:09:47,647
+Yes but we're getting there
+
+1535
+03:10:01,471 --> 03:10:03,007
+Everytime You groan like that
+
+1536
+03:10:03,263 --> 03:10:07,871
+Pittsboro Matt's dog looks around and groans back
+
+1537
+03:10:08,127 --> 03:10:12,479
+Somebody just read me the thing about everytime I groan this dramatic dog groans
+
+1538
+03:10:24,511 --> 03:10:30,655
+By the way you guys do kind of have a bad voice synthesizer playing back everything cuz
+
+1539
+03:10:30,911 --> 03:10:33,983
+A phases here reading things that matter
+
+1540
+03:10:53,183 --> 03:10:59,327
+Okay fine what I really should be doing right now is like
+
+1541
+03:10:59,583 --> 03:11:05,727
+The numbers round to approximate numerical values that match up with
+
+1542
+03:11:05,983 --> 03:11:06,751
+Please tell
+
+1543
+03:11:07,775 --> 03:11:09,311
+So I think that would be
+
+1544
+03:11:09,567 --> 03:11:15,711
+Better use of my time Lego speed this up some and then it'll lineup better
+
+1545
+03:11:58,463 --> 03:12:04,607
+Okay so what I did hear just you guys can say is I modified the oscillator clock on the
+
+1546
+03:12:04,863 --> 03:12:11,007
+Maybe our one of these is approximately 10 times the total number 48 millions of a sec
+
+1547
+03:12:11,263 --> 03:12:17,407
+I can fit these are representing so 12
+
+1548
+03:12:17,663 --> 03:12:23,807
+8 that way not a 125 7-Eleven is that
+
+1549
+03:12:24,063 --> 03:12:25,855
+The next prime I guess
+
+1550
+03:12:27,647 --> 03:12:29,183
+Okay
+
+1551
+03:12:29,439 --> 03:12:35,583
+What why why is there a why did the Jews bit just turn on and
+
+1552
+03:12:35,839 --> 03:12:41,215
+To the d-18 thing
+
+1553
+03:12:42,239 --> 03:12:48,383
+What's what is that doing there
+
+1554
+03:12:49,919 --> 03:12:50,431
+Polyps
+
+1555
+03:12:50,687 --> 03:12:51,967
+Go back to
+
+1556
+03:13:02,975 --> 03:13:04,255
+Okay
+
+1557
+03:14:13,375 --> 03:14:17,215
+Oh bother with that
+
+1558
+03:14:17,471 --> 03:14:23,615
+Average iq
+
+1559
+03:14:23,871 --> 03:14:30,015
+Never seen that one
+
+1560
+03:14:38,207 --> 03:14:39,487
+Back to work
+
+1561
+03:14:43,583 --> 03:14:44,351
+I'm going
+
+1562
+03:14:53,567 --> 03:14:58,687
+Adam Gary just got back and asked how it's going and I'm sighing heavily
+
+1563
+03:14:58,943 --> 03:15:03,295
+47
+
+1564
+03:15:03,807 --> 03:15:09,951
+I have no idea why there's a to like
+
+1565
+03:15:11,487 --> 03:15:13,791
+What is that doing there
+
+1566
+03:15:14,047 --> 03:15:18,655
+Why did it switch from 41 4853 to the codes
+
+1567
+03:15:19,167 --> 03:15:20,191
+With
+
+1568
+03:15:21,215 --> 03:15:22,239
+With that
+
+1569
+03:15:24,031 --> 03:15:27,615
+Maybe it's a different ways in which they can index the
+
+1570
+03:16:00,895 --> 03:16:03,199
+Oh my gosh
+
+1571
+03:16:24,191 --> 03:16:27,519
+I do appreciate that you're trying to reverse-engineer it
+
+1572
+03:16:28,287 --> 03:16:30,847
+I mean you never know if
+
+1573
+03:16:31,359 --> 03:16:32,639
+If if
+
+1574
+03:16:35,199 --> 03:16:39,039
+If if Ben is not feeling particularly
+
+1575
+03:16:40,063 --> 03:16:42,367
+Charitable and
+
+1576
+03:16:42,623 --> 03:16:47,743
+I'm in we can't get it then we might have to resort to it
+
+1577
+03:16:48,511 --> 03:16:54,655
+Oh I don't want Ben to tell us if he plans to tell us eventually if we don't get it
+
+1578
+03:17:16,159 --> 03:17:19,487
+So weird
+
+1579
+03:17:22,047 --> 03:17:23,583
+53
+
+1580
+03:17:27,423 --> 03:17:31,519
+Following is in reference to
+
+1581
+03:17:35,359 --> 03:17:38,175
+Iran Twitter
+
+1582
+03:17:47,903 --> 03:17:54,047
+Just for the sake of having this as a
+
+1583
+03:17:54,303 --> 03:18:00,447
+Do I have permission to post the the text file that you provided like you're not you
+
+1584
+03:18:00,703 --> 03:18:06,847
+Provide a bit like these tidbits of conversation in the in the
+
+1585
+03:18:07,103 --> 03:18:11,455
+Just that I'm going to be having cuz I don't remember all of this
+
+1586
+03:18:23,999 --> 03:18:25,023
+Oh
+
+1587
+03:18:25,279 --> 03:18:28,607
+Wait a minute then are you telling me that you
+
+1588
+03:18:29,887 --> 03:18:33,727
+But you did the compression in the fpga
+
+1589
+03:18:36,543 --> 03:18:37,055
+Cuz
+
+1590
+03:18:37,311 --> 03:18:37,823
+That's
+
+1591
+03:18:38,847 --> 03:18:40,383
+That's insane
+
+1592
+03:18:42,687 --> 03:18:48,831
+I am okay with using fpgas is glorified shift registers and capture compare but
+
+1593
+03:18:49,087 --> 03:18:49,599
+Really
+
+1594
+03:19:43,103 --> 03:19:49,247
+What
+
+1595
+03:22:34,879 --> 03:22:41,023
+Oh that band that makes it sense with the
+
+1596
+03:22:42,047 --> 03:22:48,191
+Why be reverse-engineered also quickly because when I plug it in to the USB it gives didn't
+
+1597
+03:22:48,447 --> 03:22:54,591
+Simple format where is why I have it on Eric is it in the Ludacris
+
+1598
+03:22:54,847 --> 03:22:56,127
+Allocated format
+
+1599
+03:23:23,007 --> 03:23:29,151
+Can I ask you guys something right now and I hope you'll tell me this
+
+1600
+03:23:29,407 --> 03:23:35,551
+Is everything we're doing right now all going to be for not because you're going to drop some firmware update in that's going
+
+1601
+03:23:35,807 --> 03:23:41,951
+I completely lock us out
+
+1602
+03:23:42,207 --> 03:23:48,351
+Statement there scares me
+
+1603
+03:24:39,551 --> 03:24:45,695
+Decoding that number in
+
+1604
+03:24:45,951 --> 03:24:52,095
+Incorrectly anything
+
+1605
+03:24:52,351 --> 03:24:58,495
+SP2 coating that number incorrectly
+
+1606
+03:25:53,535 --> 03:25:59,679
+No0 f49 F4
+
+1607
+03:25:59,935 --> 03:26:06,079
+Siam to coating that according to the rules
+
+1608
+03:26:08,639 --> 03:26:13,247
+It's very strange. That doesn't line up to anything
+
+1609
+03:26:32,191 --> 03:26:35,775
+Well we're not going to try to lock you out
+
+1610
+03:26:39,871 --> 03:26:46,015
+But we're going to add features someday that will break this without caring that it will break you
+
+1611
+03:26:46,271 --> 03:26:52,415
+So glad you guys care the good news
+
+1612
+03:26:52,671 --> 03:26:58,815
+I only need this to work for my project for a little while three months
+
+1613
+03:26:59,071 --> 03:27:05,215
+Moved on and working on a different thing then
+
+1614
+03:27:05,471 --> 03:27:11,615
+Everybody else who wants to use this though they're going to be very sad
+
+1615
+03:27:37,215 --> 03:27:43,359
+But I don't need to do my wireless protocol I I have my own I'm going to be
+
+1616
+03:27:49,247 --> 03:27:55,391
+The same as I've been doing on like the 3D localization video and a bunch of other other things being able to
+
+1617
+03:27:55,647 --> 03:27:59,231
+Faster sampling rate
+
+1618
+03:28:01,791 --> 03:28:07,935
+Oh different Harbor okay yeah sure I get that fine you're going to change that because the different Hardware I'm I am
+
+1619
+03:28:08,191 --> 03:28:14,335
+A okay with that if somebody else wants to use their Vibe with my system they're going to have to go do this reverse engineering
+
+1620
+03:28:14,591 --> 03:28:17,151
+Themself
+
+1621
+03:28:23,295 --> 03:28:29,439
+I don't really want to go too much into what my particular project is for them but it's
+
+1622
+03:28:29,951 --> 03:28:36,095
+A whole lot of steps to get somewhere that's not actually that cool but I think it's going to be much more the adventure
+
+1623
+03:28:36,351 --> 03:28:42,495
+Aaron trying to get where I want to be we really need to figure this out guys like
+
+1624
+03:28:42,751 --> 03:28:48,127
+This thing here what is up with these B why is this particular field so high
+
+1625
+03:28:48,383 --> 03:28:51,711
+Like what is going on there
+
+1626
+03:28:51,967 --> 03:28:58,111
+But I just checked and yeah like yeah actually decoding that right
+
+1627
+03:29:00,159 --> 03:29:02,207
+I think
+
+1628
+03:29:02,463 --> 03:29:05,279
+Yeah I guess I can put into calcaneal say
+
+1629
+03:29:52,383 --> 03:29:58,527
+Yeah I'm decoding it according to the rules Corral
+
+1630
+03:29:58,783 --> 03:30:04,927
+Broccoli looks like
+
+1631
+03:30:15,167 --> 03:30:21,311
+Yeah I really like that idea of having the extra I love you not saying how many parameters there are
+
+1632
+03:30:21,567 --> 03:30:25,663
+But knowing how many there are based off of the field that is
+
+1633
+03:30:25,919 --> 03:30:27,711
+That's pretty cool
+
+1634
+03:30:33,343 --> 03:30:34,879
+Anyway
+
+1635
+03:30:35,647 --> 03:30:41,791
+Guys do we have any idea when I moved from 70 microseconds to 80
+
+1636
+03:30:42,047 --> 03:30:47,167
+Not microseconds 80 time units
+
+1637
+03:31:03,807 --> 03:31:08,159
+I just realized something dumb I think I'm sending this thing out at 4 MHz
+
+1638
+03:31:09,951 --> 03:31:14,303
+Not 1.8 whatever
+
+1639
+03:31:15,839 --> 03:31:19,935
+Note MP4 MHz caviar is running too slow
+
+1640
+03:31:29,151 --> 03:31:35,295
+The number is right here but the problem is that the number is
+
+1641
+03:31:35,551 --> 03:31:38,111
+Call kind of stacks together
+
+1642
+03:31:42,207 --> 03:31:46,559
+And there's like no good split at the 16th Mark or anything like that
+
+1643
+03:31:49,375 --> 03:31:55,519
+Like if I do - 262144 as what's-his-name suggest
+
+1644
+03:31:55,775 --> 03:31:57,823
+My gosh is a negative number
+
+1645
+03:32:05,503 --> 03:32:10,623
+Why did I not think to try that
+
+1646
+03:32:10,879 --> 03:32:12,927
+Oh my gosh
+
+1647
+03:32:21,631 --> 03:32:25,727
+Okay let's do that now what
+
+1648
+03:32:30,335 --> 03:32:33,663
+Found something new
+
+1649
+03:32:49,279 --> 03:32:54,655
+You could have negative time Delta's
+
+1650
+03:32:54,911 --> 03:32:57,215
+That is weird
+
+1651
+03:33:02,335 --> 03:33:07,967
+Although that number doesn't make any sense
+
+1652
+03:33:08,479 --> 03:33:14,111
+That number is way too big so big
+
+1653
+03:33:15,647 --> 03:33:17,695
+I can't be the right number
+
+1654
+03:33:17,951 --> 03:33:21,279
+Cuz that would be too big
+
+1655
+03:33:22,559 --> 03:33:24,095
+Pat V
+
+1656
+03:33:25,375 --> 03:33:28,191
+Boop
+
+1657
+03:33:28,959 --> 03:33:35,103
+Took that long has toothless 3 or 10
+
+1658
+03:33:37,407 --> 03:33:41,247
+38 + 50 +
+
+1659
+03:33:42,271 --> 03:33:46,367
+I know it's not 10:00
+
+1660
+03:33:47,903 --> 03:33:49,695
+* 10
+
+1661
+03:33:59,679 --> 03:34:01,727
+Yeah that's way too big
+
+1662
+03:34:03,519 --> 03:34:05,311
+Nevermind
+
+1663
+03:34:08,639 --> 03:34:13,759
+What is the significance of it being negative
+
+1664
+03:34:26,047 --> 03:34:28,863
+My delay between batches is a very long time
+
+1665
+03:34:49,855 --> 03:34:52,415
+And how is it
+
+1666
+03:35:11,103 --> 03:35:14,943
+Compass not negative
+
+1667
+03:35:21,087 --> 03:35:26,463
+Okay well so like look if I don't do negative here
+
+1668
+03:35:26,975 --> 03:35:33,119
+That this number right here like I look at it I have ones and zeroes like
+
+1669
+03:35:33,375 --> 03:35:39,519
+Pretty evenly strewn all throughout the number I can really think of is maybe it's like
+
+1670
+03:35:41,055 --> 03:35:47,199
+I don't even know a complete mess of ones and zeros there's no
+
+1671
+03:35:50,271 --> 03:35:56,415
+Not to look here
+
+1672
+03:35:56,671 --> 03:36:02,815
+But I don't get it otherwise it's a messed up of ones and
+
+1673
+03:36:03,071 --> 03:36:09,215
+Gyros
+
+1674
+03:36:22,271 --> 03:36:28,415
+I'll look up what the delay between the two packages
+
+1675
+03:36:28,671 --> 03:36:34,815
+It 10 ms between packets
+
+1676
+03:36:41,471 --> 03:36:47,615
+I already did figure out it if you
+
+1677
+03:36:47,871 --> 03:36:54,015
+Trip if you want go look at the gist I have at the bottom of the just one packet where it doesn't update and one pack at work does
+
+1678
+03:36:54,271 --> 03:37:00,415
+Does trigger
+
+1679
+03:37:00,671 --> 03:37:06,815
+Jeremy
+
+1680
+03:37:07,071 --> 03:37:13,215
+That again
+
+1681
+03:37:13,471 --> 03:37:19,615
+I I did see that
+
+1682
+03:37:19,871 --> 03:37:26,015
+But I still don't understand how to be a positive number unless it's like the actual time shifted over
+
+1683
+03:37:26,271 --> 03:37:32,415
+Oh that's exact number
+
+1684
+03:37:32,671 --> 03:37:38,815
+All your following we will be
+
+1685
+03:38:02,111 --> 03:38:07,487
+If you want to know more precisely
+
+1686
+03:38:20,543 --> 03:38:26,687
+Somewhere here
+
+1687
+03:38:33,343 --> 03:38:39,487
+You called Arcane pop and honor of been calling this type of compression Arcane compress
+
+1688
+03:38:39,743 --> 03:38:45,887
+I can survive underscore data. See
+
+1689
+03:38:52,543 --> 03:38:58,687
+Oh yeah bad whenever you get back or if his back now already it was 10
+
+1690
+03:38:58,943 --> 03:39:05,087
+Ms between packets
+
+1691
+03:39:05,343 --> 03:39:11,487
+Yeah it's not normal but I don't think it matters does it mean I guess we can test that will test it how about that
+
+1692
+03:39:11,743 --> 03:39:17,887
+So now it's 26 some big number I don't even know
+
+1693
+03:39:18,143 --> 03:39:24,287
+Let's go increase it to 11 MS
+
+1694
+03:39:24,543 --> 03:39:30,687
+Oh it is why does that matter
+
+1695
+03:39:30,943 --> 03:39:37,087
+Why does that number change based on the can light
+
+1696
+03:39:37,343 --> 03:39:42,719
+Difference what do you know that I don't trip what do you know that I don't
+
+1697
+03:39:46,303 --> 03:39:51,423
+Why
+
+1698
+03:39:51,679 --> 03:39:57,823
+Hahaha
+
+1699
+03:40:05,247 --> 03:40:11,391
+No
+
+1700
+03:40:54,143 --> 03:41:00,287
+Oh yeah you're right it probably isn't
+
+1701
+03:41:00,543 --> 03:41:02,079
+11 milliseconds
+
+1702
+03:41:08,735 --> 03:41:12,319
+Why
+
+1703
+03:41:12,575 --> 03:41:18,207
+Why
+
+1704
+03:42:10,687 --> 03:42:16,831
+No it is getting a little bit of a DVR clock is totally it's not
+
+1705
+03:42:17,087 --> 03:42:23,231
+I don't really know what it is I didn't even bother thinking about it but as he pointed out we can't calculate it now
+
+1706
+03:42:23,487 --> 03:42:27,071
+It would be
+
+1707
+03:42:27,583 --> 03:42:29,375
+He says
+
+1708
+03:42:29,631 --> 03:42:35,775
+280,000 actually would be better for me to use the other number since it rounds to 10 nicely
+
+1709
+03:42:42,687 --> 03:42:46,015
+How did he recommend of-40 86
+
+1710
+03:42:50,111 --> 03:42:52,415
+Five Point
+
+1711
+03:43:00,607 --> 03:43:04,191
+Why is the AVR clock higher
+
+1712
+03:43:04,447 --> 03:43:06,751
+I thought the Aviary was clocked lower
+
+1713
+03:43:26,207 --> 03:43:32,351
+Help oh well I guess DVR clock Tire it is actually operating it like that other frequency the 44
+
+1714
+03:43:32,607 --> 03:43:38,751
+MHz inside the 1.8 I don't know whenever
+
+1715
+03:43:39,007 --> 03:43:41,567
+Enable the PLL
+
+1716
+03:43:41,823 --> 03:43:45,151
+No
+
+1717
+03:43:46,431 --> 03:43:50,271
+I never able to PLL it shouldn't be that high
+
+1718
+03:43:51,551 --> 03:43:57,695
+That's totally wrong though so whatever I was going to comment that out delete it
+
+1719
+03:43:59,231 --> 03:44:03,071
+Okay so
+
+1720
+03:44:03,327 --> 03:44:06,655
+A 5.3 mean 5.8 Ms Right
+
+1721
+03:44:09,215 --> 03:44:12,287
+Let's pretend
+
+1722
+03:44:12,543 --> 03:44:15,871
+So if you want to divide that by
+
+1723
+03:44:29,439 --> 03:44:33,535
+Yay yay come out it's not about
+
+1724
+03:44:45,823 --> 03:44:51,967
+Santa's enjoying all the controllers acting is logic analyzer for finding bugs and reverse engineering
+
+1725
+03:45:04,511 --> 03:45:05,535
+Kevin called it
+
+1726
+03:45:05,791 --> 03:45:06,815
+That is true
+
+1727
+03:45:09,375 --> 03:45:15,519
+I really wish you guys all the people who are watching right now had
+
+1728
+03:45:18,079 --> 03:45:21,151
+Had one of these to play around at home with
+
+1729
+03:45:29,599 --> 03:45:35,743
+By the way you guys have Vibes and you're not doing this right now
+
+1730
+03:45:52,127 --> 03:45:58,271
+I just said it to like the 16 Ms time why is this
+
+1731
+03:45:58,783 --> 03:46:04,927
+It shouldn't just be giving up eventually
+
+1732
+03:46:09,535 --> 03:46:15,679
+15.4 okay fine I'll go a little bit longer
+
+1733
+03:46:17,983 --> 03:46:24,127
+What is the point in having something only
+
+1734
+03:46:24,383 --> 03:46:26,943
+Why
+
+1735
+03:46:28,479 --> 03:46:33,855
+What's 17 Ms why are you still holding onto the data
+
+1736
+03:46:34,367 --> 03:46:36,415
+Like
+
+1737
+03:46:38,975 --> 03:46:42,303
+Why
+
+1738
+03:47:06,367 --> 03:47:10,719
+Georgia Sally Mac Westport
+
+1739
+03:47:15,583 --> 03:47:20,447
+George are you adding it's alive vibralife survive
+
+1740
+03:47:20,703 --> 03:47:26,847
+Okay that's cool thank you George
+
+1741
+03:47:27,103 --> 03:47:33,247
+Specifically David Chapman the guy who's doing the other work on this has a lot of interest in doing okay
+
+1742
+03:47:33,503 --> 03:47:38,111
+Opengl windows and see until like he has a solution right now but
+
+1743
+03:47:38,367 --> 03:47:44,511
+I'm printing a good weight if you can send me a personal message with your email so I can hook you up
+
+1744
+03:47:44,767 --> 03:47:50,911
+You up with David Chapman I think that would work out really good cuz he's a dad who likes using OS X
+
+1745
+03:47:57,567 --> 03:48:01,663
+Dakota around line 57 and isn't correct
+
+1746
+03:48:03,967 --> 03:48:10,111
+So different from real data that you're seeing strangeness but the finger decoding
+
+1747
+03:48:12,671 --> 03:48:14,207
+57
+
+1748
+03:48:29,311 --> 03:48:33,663
+I didn't even think to look at that
+
+1749
+03:48:39,039 --> 03:48:43,135
+Pretty much too tired now though to make any changes that would be significant
+
+1750
+03:50:05,055 --> 03:50:11,199
+No I know your coding is representing reality because like it's a linear transform in
+
+1751
+03:50:11,455 --> 03:50:17,599
+Somehow the Aviary just clocked that high like I get it there is a famous quote which is
+
+1752
+03:50:18,623 --> 03:50:24,767
+99.9% of all Aviary uark problems are actually clocking problems
+
+1753
+03:50:30,655 --> 03:50:36,799
+And Akai the other thing is once the system once I can handle the
+
+1754
+03:50:37,055 --> 03:50:43,199
+Data from this I'm totally going to just go fire up the lighthouses and see if I get David at 3
+
+1755
+03:50:43,455 --> 03:50:49,599
+Go back cuz I do have the the main headset dealing with the data on that way
+
+1756
+03:50:52,671 --> 03:50:58,815
+Make text Jay would probably explode mychelle why would it explode my shell
+
+1757
+03:50:59,071 --> 03:51:05,215
+Oh okay
+
+1758
+03:51:05,471 --> 03:51:11,615
+Don't even know what to check anymore
+
+1759
+03:51:13,151 --> 03:51:19,295
+I don't even know what the change like at this point I'm so lost this going to take
+
+1760
+03:51:19,551 --> 03:51:25,695
+Thinking and looking at numbers and it's already 12:12 which is getting really close to my stop time
+
+1761
+03:51:33,375 --> 03:51:39,519
+Oh haha you were going to have somebody copy and paste the backslash make Dash J
+
+1762
+03:51:39,775 --> 03:51:41,567
+Yeah that would explode
+
+1763
+03:51:45,407 --> 03:51:48,479
+Do I have any man though
+
+1764
+03:51:51,551 --> 03:51:53,599
+I don't see anything
+
+1765
+03:52:05,375 --> 03:52:10,239
+Do you say line 357
+
+1766
+03:52:26,111 --> 03:52:32,255
+And I wish I had thought about this earlier we could have had like an official recorder somebody who is
+
+1767
+03:52:32,511 --> 03:52:38,655
+Is actually like tasked with like taking notes
+
+1768
+03:52:44,799 --> 03:52:49,151
+Turn around her what was the thing somebody said got it where is the other it is
+
+1769
+03:52:49,407 --> 03:52:55,551
+PK Tuesday which I've already forgotten his actual name I don't know how I forgotten cuz I slept up in
+
+1770
+03:52:55,807 --> 03:52:57,599
+Twitter Alan Yates
+
+1771
+03:52:57,855 --> 03:53:01,183
+Alan Gates
+
+1772
+03:53:07,327 --> 03:53:13,471
+Oh my gosh if I can get people playing with live survive I would love to have some extra eyes on that
+
+1773
+03:53:13,727 --> 03:53:19,871
+Had to really get that fleshed out so I don't have to deal with all of the stupid bugs in it myself
+
+1774
+03:53:23,967 --> 03:53:30,111
+I really don't even know what to change to do this right this thing parameter is par place to Delta
+
+1775
+03:53:32,415 --> 03:53:38,559
+No I know it's wrong now but I'm still trying to figure out what the the correct thing is
+
+1776
+03:53:38,815 --> 03:53:41,375
+So like this here
+
+1777
+03:53:42,911 --> 03:53:48,031
+I'll actually know what I can do we can use the prime thing again
+
+1778
+03:54:25,663 --> 03:54:31,807
+Do whatever that limit is will you just now found out we can flirt with it I don't know if you guys care
+
+1779
+03:54:32,063 --> 03:54:35,135
+I think it's a little weird that it's
+
+1780
+03:54:35,391 --> 03:54:37,183
+Watering
+
+1781
+03:54:40,511 --> 03:54:46,655
+Maybe I'll just copy that just in case
+
+1782
+03:56:04,991 --> 03:56:10,367
+How you're having problems with Watchman command codes
+
+1783
+03:56:14,207 --> 03:56:17,535
+No I have a day job
+
+1784
+03:56:19,839 --> 03:56:25,983
+I just spend a great deal of time making my projects in working on making YouTube
+
+1785
+03:56:26,239 --> 03:56:31,871
+Videos nobody could be a professional the YouTuber 20K Subs would take like
+
+1786
+03:56:32,383 --> 03:56:38,527
+I know it easily take 500,000 Subs before you could really make it a professional job
+
+1787
+03:56:42,111 --> 03:56:45,183
+Unknown Watchman code 32
+
+1788
+03:56:45,439 --> 03:56:51,583
+Oh that's really weird
+
+1789
+03:56:58,239 --> 03:57:04,383
+Tudu tudu tudu I'm going to close the Stream
+
+1790
+03:57:04,639 --> 03:57:10,783
+But look at these values and try to
+
+1791
+03:57:11,039 --> 03:57:17,183
+To figure out what's wrong with the Delta a Delta
+
+1792
+03:57:17,439 --> 03:57:21,535
+Beko din
+
+1793
+03:57:22,047 --> 03:57:24,095
+Survive
+
+1794
+03:57:24,351 --> 03:57:26,399
+Data. See
+
+1795
+03:57:26,655 --> 03:57:31,007
+Does anybody have any further notes that
+
+1796
+03:57:37,663 --> 03:57:43,807
+Yeah I do have a patreon if you guys do on a straight-up do at the patrons more for individual projects though
+
+1797
+03:57:44,063 --> 03:57:50,207
+I'm so something like this would not fit into the patreon
+
+1798
+03:58:00,447 --> 03:58:06,591
+So let's just say we're going to stop like actual Deming for tonight I taken all the
+
+1799
+03:58:06,847 --> 03:58:07,615
+What date I'm going to take
+
+1800
+03:58:08,383 --> 03:58:10,687
+I'm going to commit what I have here
+
+1801
+03:58:56,767 --> 03:59:00,863
+Okay any other notes that
+
+1802
+03:59:01,119 --> 03:59:07,263
+Yeah I know it looks like to field mashed together but we are pretty sure that it is the amount of time between the two frame
+
+1803
+03:59:07,519 --> 03:59:08,031
+Games
+
+1804
+03:59:15,199 --> 03:59:21,343
+So no actually that was covered a little bit earlier Ryan the the the numbers that
+
+1805
+03:59:21,599 --> 03:59:27,743
+There are reflecting reality in that regard I'm a pretty sure that's what they had indicated in when I change
+
+1806
+03:59:27,999 --> 03:59:34,143
+Change the delay between the the packets or whatever ignifica Nelly
+
+1807
+03:59:34,399 --> 03:59:39,007
+Really is that like a 17 milliseconds or whatever between sending the
+
+1808
+03:59:39,519 --> 03:59:40,287
+The messages
+
+1809
+03:59:49,759 --> 03:59:53,855
+I hope I've gotten at least a couple other people interested maybe
+
+1810
+03:59:54,111 --> 03:59:59,231
+Maybe some of you guys are going to go download live survive on Lenox Heroes X and
+
+1811
+03:59:59,487 --> 04:00:05,631
+Push push
+
+1812
+04:00:05,887 --> 04:00:12,031
+Support
+
+1813
+04:00:12,287 --> 04:00:18,431
+I've stuff and once this is solved I'll start doing more development on the side that I need to in order to get to the price
+
+1814
+04:00:18,687 --> 04:00:19,711
+Trying to get to
+
+1815
+04:00:22,783 --> 04:00:28,927
+Anything else before we go anything you guys can think of it you really want to see I like some combination of
+
+1816
+04:00:29,183 --> 04:00:31,487
+Have lights on and off or anything like that
+
+1817
+04:01:14,239 --> 04:01:18,591
+I really don't want to get into the final goal
+
+1818
+04:01:19,103 --> 04:01:20,383
+It is
+
+1819
+04:01:20,895 --> 04:01:27,039
+It is really lost Ian I don't really want to find out for something I don't think I'm going to be able to succeed
+
+1820
+04:01:28,319 --> 04:01:28,831
+Yeah
+
+1821
+04:01:29,855 --> 04:01:34,463
+For some sort of specific reason having to do with
+
+1822
+04:01:37,535 --> 04:01:43,679
+I'd be willing to talk it over with with specifically developed as offline. What I'm trying to do
+
+1823
+04:01:43,935 --> 04:01:44,447
+But
+
+1824
+04:01:44,959 --> 04:01:47,775
+I don't want my
+
+1825
+04:01:49,055 --> 04:01:50,847
+Gold two
+
+1826
+04:01:51,871 --> 04:01:58,015
+Really want to dig into that.
+
+1827
+04:01:58,271 --> 04:02:04,415
+I have used in the past but it would take the device
+
+1828
+04:02:04,671 --> 04:02:05,183
+Filter
+
+1829
+04:02:05,439 --> 04:02:08,511
+So that you could talk to all the 5 pieces of hardware
+
+1830
+04:02:08,767 --> 04:02:13,631
+We could probably mess up the drivers for use with the valve stuff
+
+1831
+04:02:13,887 --> 04:02:20,031
+And so it would be complete pain you have to keep going back and forth and back and forth and back and forth I'm disabling all the
+
+1832
+04:02:20,287 --> 04:02:25,663
+All the drivers re-enabling them so that you can use your your Vive with steam
+
+1833
+04:02:26,175 --> 04:02:27,711
+Instead of Life survive
+
+1834
+04:02:45,631 --> 04:02:47,935
+Direct message on
+
+1835
+04:03:08,415 --> 04:03:09,183
+Open fire
+
+1836
+04:03:10,207 --> 04:03:12,767
+You can direct message people on Twitter
+
+1837
+04:03:13,023 --> 04:03:14,303
+I didn't know that
+
+1838
+04:03:16,095 --> 04:03:16,607
+Message

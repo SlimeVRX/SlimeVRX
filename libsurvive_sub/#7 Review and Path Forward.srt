@@ -1,0 +1,2828 @@
+1
+00:00:00,512 --> 00:00:06,656
+Thank you for coming out to the 7th alive survive live stream and things
+
+2
+00:00:06,912 --> 00:00:13,056
+Cooking along I was just really surprised by how much people have gotten together online and just very
+
+3
+00:00:13,312 --> 00:00:17,920
+Things that we found out we've needed along the way and really this project has been so much
+
+4
+00:00:18,176 --> 00:00:24,320
+Bigger than I expected it to be I figured we just get some like no scandalous and lions and just throw it in there
+
+5
+00:00:24,576 --> 00:00:25,600
+Turn the light white
+
+6
+00:00:25,856 --> 00:00:32,000
+Let's for the hmd and all the Watchmen are and everything else is working really actually
+
+7
+00:00:33,280 --> 00:00:39,424
+I'm only going to room always assuming and the smallest person there that really ready to admit that I'm not and this is definitely
+
+8
+00:00:39,680 --> 00:00:41,472
+Close x
+
+9
+00:00:41,984 --> 00:00:47,104
+The problem of what does the HTC vive is doing is a lot bigger than I thought it was
+
+10
+00:00:47,360 --> 00:00:53,504
+So one of the things we ran into towards the end of the last live stream was
+
+11
+00:00:53,760 --> 00:00:59,904
+A comment from from Alan youths basically like well I guess it's the best he's going to be able to do be
+
+12
+00:01:00,160 --> 00:01:02,720
+Cotx kaldata
+
+13
+00:01:03,232 --> 00:01:09,376
+Really is it really that important in the experience yeah yeah really important so I had
+
+14
+00:01:09,632 --> 00:01:14,496
+Joshua he was my roommate in college for many years we are
+
+15
+00:01:14,752 --> 00:01:18,080
+We actually worked on a game engine together for several years to
+
+16
+00:01:20,640 --> 00:01:26,784
+Can help answer all the answers like yes you can be killed some 0tx data
+
+17
+00:01:27,040 --> 00:01:33,184
+So for those of you guys who don't know what it is is the
+
+18
+00:01:33,440 --> 00:01:37,536
+The data that comes from the lighthouses because there is no
+
+19
+00:01:39,840 --> 00:01:45,472
+There is no mechanism easily for the lighthouses to send data
+
+20
+00:01:45,728 --> 00:01:48,544
+To anything else except for
+
+21
+00:01:48,800 --> 00:01:54,176
+Peruvian true the white coming out of lighthouses in the sink passes
+
+22
+00:01:54,432 --> 00:01:57,760
+The sync pulses artist
+
+23
+00:01:58,016 --> 00:02:02,624
+Guess what can you find find the video and will pull
+
+24
+00:02:02,880 --> 00:02:09,024
+I'm in anyway pointers it's a fairly complicated protocol on dealing with a lot
+
+25
+00:02:09,280 --> 00:02:15,424
+Wacky did stuffing stuff just like the crazy bencoding on the Watchmen and Josh
+
+26
+00:02:15,680 --> 00:02:18,240
+Take that and turned into something actionable
+
+27
+00:02:18,496 --> 00:02:19,520
+Arm
+
+28
+00:02:20,288 --> 00:02:22,592
+Soa
+
+29
+00:02:23,872 --> 00:02:27,456
+I think you just do view imgur whatever it would probably be fine
+
+30
+00:02:28,736 --> 00:02:30,528
+So you still pulling their dad
+
+31
+00:02:32,320 --> 00:02:36,672
+So see here sorry about all the streaming issues earlier to
+
+32
+00:02:36,928 --> 00:02:43,072
+Anyway so thanks for coming everybody so we've got a number of things people are coming up a little bit
+
+33
+00:02:43,328 --> 00:02:49,472
+More recently than before mw10 is really happening in his too
+
+34
+00:02:49,728 --> 00:02:55,872
+Project initially we were going to do everything strictly with the headset and the Watchmen
+
+35
+00:02:56,128 --> 00:03:00,736
+Looking kind of important that we do something a little bit more generic
+
+36
+00:03:00,992 --> 00:03:02,528
+On to see guys know
+
+37
+00:03:02,784 --> 00:03:04,832
+I just pulled up the imagery here
+
+38
+00:03:05,088 --> 00:03:11,232
+On this is what a base station looks like this is an early version of Playstation in specifically the o
+
+39
+00:03:11,488 --> 00:03:16,608
+The X8 is what's included in these flashes which are specifically coded length of time
+
+40
+00:03:16,864 --> 00:03:22,496
+In order to actually transmit the calibration information about the Watchmen
+
+41
+00:03:23,008 --> 00:03:28,384
+Actually works one bit at a time so each flash you get one bit
+
+42
+00:03:28,896 --> 00:03:32,480
+And then there has to be
+
+43
+00:03:33,760 --> 00:03:34,272
+2
+
+44
+00:03:35,040 --> 00:03:36,064
+Reveal the entire free
+
+45
+00:03:37,344 --> 00:03:43,488
+Talk about it more into how how you do
+
+46
+00:03:45,024 --> 00:03:47,072
+Basically the weather at work's is
+
+47
+00:03:47,840 --> 00:03:49,888
+Digital console it looks for the
+
+48
+00:03:50,400 --> 00:03:55,264
+18 preamble 1700 by 1 and once it picks up on that
+
+49
+00:03:55,776 --> 00:04:00,640
+It starts pushing the individual bits into a buffer and once it reaches
+
+50
+00:04:02,688 --> 00:04:04,224
+Transfer device
+
+51
+00:04:05,504 --> 00:04:09,600
+Has a call back and let the library handle what it wants to do list
+
+52
+00:04:10,112 --> 00:04:10,880
+What's the date
+
+53
+00:04:12,160 --> 00:04:18,303
+If you leave it open for a minute sorry the people didn't see so what was going on is this
+
+54
+00:04:18,559 --> 00:04:19,327
+That's right here
+
+55
+00:04:19,583 --> 00:04:25,727
+And this the two rotors but it's this flash that happens and that is a
+
+56
+00:04:25,983 --> 00:04:26,751
+Play coded length of time
+
+57
+00:04:27,007 --> 00:04:28,799
+Ok and you can pull off
+
+58
+00:04:30,079 --> 00:04:32,895
+Thesaurus
+
+59
+00:04:35,967 --> 00:04:38,783
+I said this to always there
+
+60
+00:04:44,415 --> 00:04:47,999
+That's good yeah
+
+61
+00:04:48,767 --> 00:04:54,911
+Ok so some of the things that are that we've done since last time was that and another big one
+
+62
+00:04:55,167 --> 00:05:00,031
+Taking for me at least I don't know how big it is for other people
+
+63
+00:05:00,799 --> 00:05:01,567
+B
+
+64
+00:05:02,079 --> 00:05:05,151
+Call open the Sky
+
+65
+00:05:05,407 --> 00:05:09,247
+For me I was able to
+
+66
+00:05:09,503 --> 00:05:10,783
+Calibre
+
+67
+00:05:13,343 --> 00:05:15,903
+So right now what you guys are getting
+
+68
+00:05:16,159 --> 00:05:17,951
+To see that clearly
+
+69
+00:05:18,463 --> 00:05:18,975
+Stop
+
+70
+00:05:19,999 --> 00:05:21,535
+Scanner
+
+71
+00:05:28,959 --> 00:05:31,519
+This should probably be
+
+72
+00:05:39,455 --> 00:05:42,527
+It is a broken fan laptop sounds like an engine
+
+73
+00:05:47,391 --> 00:05:52,255
+Sweet just means I can actually monitor while
+
+74
+00:05:54,559 --> 00:05:55,071
+Ok
+
+75
+00:05:57,375 --> 00:05:58,911
+This
+
+76
+00:05:59,679 --> 00:06:02,751
+There's you guys can see what's going on with it
+
+77
+00:06:04,543 --> 00:06:08,639
+So right over here I have a
+
+78
+00:06:08,895 --> 00:06:11,967
+Play that we've been using for some time
+
+79
+00:06:17,343 --> 00:06:22,463
+Is the X and Y you from each of the two lighthouses there in there
+
+80
+00:06:28,607 --> 00:06:31,423
+As well
+
+81
+00:06:31,679 --> 00:06:35,007
+Here
+
+82
+00:06:35,263 --> 00:06:36,543
+On
+
+83
+00:06:37,823 --> 00:06:40,383
+Turn the camera off
+
+84
+00:06:42,175 --> 00:06:44,991
+Surround you can see
+
+85
+00:06:45,503 --> 00:06:50,623
+Changing the time
+
+86
+00:06:59,327 --> 00:07:02,399
+Sometimes when they're charging
+
+87
+00:07:10,079 --> 00:07:16,223
+One of the fine soon so really happens here is
+
+88
+00:07:16,479 --> 00:07:19,551
+Are we have
+
+89
+00:07:20,831 --> 00:07:24,159
+Survive Albert
+
+90
+00:07:24,671 --> 00:07:27,743
+01652 you guys can see it
+
+91
+00:07:29,535 --> 00:07:33,887
+Thank you
+
+92
+00:07:43,103 --> 00:07:46,687
+Good for you guys can you see everything clearly
+
+93
+00:07:53,343 --> 00:07:54,879
+Is that
+
+94
+00:07:56,415 --> 00:08:01,279
+On going to assume that selection with smallest lights
+
+95
+00:08:05,887 --> 00:08:12,031
+Ok that's going inside of survive cow it contains a state machine which
+
+96
+00:08:12,287 --> 00:08:14,079
+Through all of the
+
+97
+00:08:14,847 --> 00:08:18,687
+The the different states in which we would want a cow
+
+98
+00:08:18,943 --> 00:08:21,247
+So I'll walk you through it looks like right now
+
+99
+00:08:22,271 --> 00:08:24,063
+So I can just rang calibrate
+
+100
+00:08:26,367 --> 00:08:26,879
+
+
+
+101
+00:08:27,391 --> 00:08:29,951
+Piranha headset
+
+102
+00:08:30,463 --> 00:08:31,999
+And if I
+
+103
+00:08:35,583 --> 00:08:36,351
+So now
+
+104
+00:08:36,607 --> 00:08:39,423
+I have Watford won in Watchmen 2
+
+105
+00:08:39,679 --> 00:08:43,775
+Start that again see you see what happens when it first starts
+
+106
+00:08:45,311 --> 00:08:51,455
+Look at the very top of the screen it is collecting 0tx data 0 0 and then those numbers count up
+
+107
+00:08:51,711 --> 00:08:56,831
+You're counting to b number in which the OT x is currently receiving
+
+108
+00:08:57,087 --> 00:09:00,159
+The base stations
+
+109
+00:09:02,207 --> 00:09:06,815
+Please watch while I can put down on the ground
+
+110
+00:09:07,327 --> 00:09:12,703
+It's going to try to find a common of point on the Watchmen
+
+111
+00:09:12,959 --> 00:09:15,007
+That was a little bit quick
+
+112
+00:09:16,031 --> 00:09:17,567
+Probably not gonna work out
+
+113
+00:09:20,639 --> 00:09:25,759
+So it's really a collecting sweet data internally
+
+114
+00:09:26,015 --> 00:09:30,111
+I'm so this was something that was kind of done before in a very Emanuel fashion
+
+115
+00:09:30,367 --> 00:09:33,439
+But now it's pretty much automatic
+
+116
+00:09:34,719 --> 00:09:40,095
+Search collecting the data with the Watchmen in the hmd underground and all of that
+
+117
+00:09:40,351 --> 00:09:45,983
+And then what it's going to do is going to go round the find the Lighthouse find algorithm
+
+118
+00:09:46,239 --> 00:09:47,007
+I'm the date
+
+119
+00:09:47,519 --> 00:09:49,311
+And B Rock
+
+120
+00:09:51,615 --> 00:09:55,455
+Think that's probably kind of wrong but that's no reasonable data
+
+121
+00:09:55,711 --> 00:10:01,343
+For where the where the white houses are stores that back in the data structure
+
+122
+00:10:01,599 --> 00:10:07,743
+Your life survive so now it's actually able to do a room calibration inside
+
+123
+00:10:07,999 --> 00:10:08,511
+Self
+
+124
+00:10:08,767 --> 00:10:10,559
+It doesn't really do
+
+125
+00:10:11,071 --> 00:10:11,839
+That
+
+126
+00:10:12,095 --> 00:10:14,655
+Match the artist
+
+127
+00:10:27,711 --> 00:10:32,831
+So that's that's really kind of like the new thing is that now we can
+
+128
+00:10:33,087 --> 00:10:35,647
+Inside of the
+
+129
+00:10:36,415 --> 00:10:41,023
+Inside of Life survive itself there is the mechanism for self-calibration
+
+130
+00:10:41,279 --> 00:10:47,423
+Now this is only going to change because I was mentioning mw20 want to be able to use this
+
+131
+00:10:47,679 --> 00:10:53,823
+Stone hardware instead of just specifically they are Watchmen sorry to Watchmen
+
+132
+00:10:54,079 --> 00:10:55,359
+And a mean
+
+133
+00:10:55,615 --> 00:10:58,943
+So we are going to have to change some of that
+
+134
+00:10:59,455 --> 00:11:05,599
+The other thing I really wanted to talk about today was the pose estimation information
+
+135
+00:11:05,855 --> 00:11:07,135
+Until right now
+
+136
+00:11:07,391 --> 00:11:10,463
+The way that we actually do the camera finding
+
+137
+00:11:10,719 --> 00:11:16,863
+There's only two ways that we've been playing with it one is the way I do it in the others the way that MW Charlie does it
+
+138
+00:11:17,119 --> 00:11:22,751
+Why does it using a series of Tories like Taurus
+
+139
+00:11:24,031 --> 00:11:29,663
+Where is it difficult to describe and see if I can have
+
+140
+00:11:35,807 --> 00:11:37,599
+I can pull that up here
+
+141
+00:11:41,951 --> 00:11:48,095
+By the way if you're curious about hopping in and getting things going on the github issues are pretty good place to do it
+
+142
+00:11:50,655 --> 00:11:51,679
+Here
+
+143
+00:11:51,935 --> 00:11:53,983
+A solution for this
+
+144
+00:11:54,239 --> 00:11:59,871
+Add much more to do with finding the relative distances between
+
+145
+00:12:00,127 --> 00:12:03,455
+Quite so - much more to do with
+
+146
+00:12:03,711 --> 00:12:09,855
+Simulation of an environment in the moving a camera and a whole bunch of places in trying to find the best possible location
+
+147
+00:12:10,111 --> 00:12:11,903
+I'm he's on the other hand
+
+148
+00:12:12,159 --> 00:12:14,207
+Has much more to do with
+
+149
+00:12:14,719 --> 00:12:17,791
+I think it maybe it was good
+
+150
+00:12:18,303 --> 00:12:19,071
+Leacock
+
+151
+00:12:19,327 --> 00:12:22,399
+Sorry this two guys confused so frequently
+
+152
+00:12:24,447 --> 00:12:29,311
+Looks like my Chinese so for his it produces a series of possible
+
+153
+00:12:29,567 --> 00:12:35,199
+Armed forces of where the where the lighthouses could be
+
+154
+00:12:35,455 --> 00:12:41,599
+Armin goes from there mine is just a fundamentally different way where it simulator
+
+155
+00:12:41,855 --> 00:12:43,647
+The lighthouse on
+
+156
+00:12:54,399 --> 00:12:56,703
+Oh my gosh it's so smooth on this compare
+
+157
+00:13:02,079 --> 00:13:04,127
+What I do
+
+158
+00:13:05,407 --> 00:13:08,735
+What does show us the probability of where the
+
+159
+00:13:11,551 --> 00:13:13,599
+So if I do this he owes me
+
+160
+00:13:13,855 --> 00:13:16,159
+The chances are that the Lighthouse for
+
+161
+00:13:16,415 --> 00:13:19,487
+The lighthouses probably somewhere in there
+
+162
+00:13:19,999 --> 00:13:21,279
+And
+
+163
+00:13:21,535 --> 00:13:24,095
+Dr Whitehouse is somewhere over there
+
+164
+00:13:25,375 --> 00:13:27,935
+Canon rock solo
+
+165
+00:13:28,447 --> 00:13:31,263
+Show the doors going to be some more work done two
+
+166
+00:13:31,775 --> 00:13:33,055
+And resolve that
+
+167
+00:13:33,311 --> 00:13:35,615
+But doesn't really two different approaches
+
+168
+00:13:37,151 --> 00:13:41,247
+Yeah that would work that way
+
+169
+00:13:41,503 --> 00:13:47,647
+However I really wanted to go into though was the discussion of what's really going on
+
+170
+00:13:47,903 --> 00:13:53,535
+Here with mine and why I think that is kind of a fundamentally bad way of doing
+
+171
+00:13:54,047 --> 00:13:54,815
+On
+
+172
+00:13:55,071 --> 00:13:57,631
+So what time effectively trying to do
+
+173
+00:13:58,143 --> 00:14:01,215
+Is I pretend that we have at the origin
+
+174
+00:14:01,727 --> 00:14:06,847
+The hmd that's the head-mounted display that sitting right there on the floor
+
+175
+00:14:07,359 --> 00:14:09,151
+And I'm calling that my origin
+
+176
+00:14:09,407 --> 00:14:10,943
+And then
+
+177
+00:14:11,199 --> 00:14:17,343
+What I do is I iterate through an agency this is Vauxhall so it's a bunch of
+
+178
+00:14:17,599 --> 00:14:23,743
+On the street like checks I say if the camera or the light
+
+179
+00:14:23,999 --> 00:14:26,047
+What was at this point right here
+
+180
+00:14:26,559 --> 00:14:27,327
+Right there
+
+181
+00:14:27,583 --> 00:14:30,911
+Would that work with that produce a
+
+182
+00:14:31,167 --> 00:14:32,447
+Is that visible can you
+
+183
+00:14:32,703 --> 00:14:36,799
+Can you put up on your screensaver
+
+184
+00:14:37,823 --> 00:14:39,103
+Does that work
+
+185
+00:14:43,711 --> 00:14:44,991
+Sodium
+
+186
+00:14:45,503 --> 00:14:51,647
+What do I do if I try it every single but possible location and I say will ok
+
+187
+00:14:51,903 --> 00:14:57,023
+The lighthouse at the origin with this particular properties and move around and
+
+188
+00:14:57,279 --> 00:14:58,303
+And all of that
+
+189
+00:14:58,559 --> 00:14:59,327
+Then
+
+190
+00:14:59,583 --> 00:15:03,423
+What is the probability that that's where the Lighthouse could be
+
+191
+00:15:03,935 --> 00:15:06,239
+Can I produce the scrap of all of that
+
+192
+00:15:06,495 --> 00:15:10,847
+Now that's that's the backwards way of thinking about it turns out
+
+193
+00:15:11,359 --> 00:15:17,503
+What I really wanted to do with the use that dissolve with lighthouses work as we do need to know it like
+
+194
+00:15:18,527 --> 00:15:24,671
+You can also use that to determine where the headset itself is
+
+195
+00:15:24,927 --> 00:15:31,071
+So both directions back to a comment that telling you
+
+196
+00:15:31,327 --> 00:15:37,471
+Play the end of the live stream I believe with livestream number 3 when we had
+
+197
+00:15:37,727 --> 00:15:43,871
+Single lighthouse pointed it headset and he's like yeah find out where the headset is and Michael that seems useless
+
+198
+00:15:44,127 --> 00:15:48,991
+We should have two lighthouses in go from there but really if you can figure out
+
+199
+00:15:49,247 --> 00:15:51,039
+Where are given object is
+
+200
+00:15:51,295 --> 00:15:57,439
+From one lighthouses point of view in figure out where does from the other lighthouses point of you you can go a long way to
+
+201
+00:15:57,695 --> 00:16:01,791
+Solving with the actual object is and I think that's the direction I want to head
+
+202
+00:16:02,303 --> 00:16:08,447
+I think I wanted to scrap this solution and this mechanism for finding the lighthouses and instead writes
+
+203
+00:16:08,703 --> 00:16:09,215
+Code
+
+204
+00:16:09,471 --> 00:16:13,567
+Try to find a location of an object based on its angles
+
+205
+00:16:13,823 --> 00:16:19,967
+And then use the code in Reverse to find lighthouse and then use the code
+
+206
+00:16:20,223 --> 00:16:24,063
+Normally once the Lighthouse is fine for everything else
+
+207
+00:16:24,319 --> 00:16:25,087
+So
+
+208
+00:16:25,343 --> 00:16:27,647
+Armex that one change I want to make
+
+209
+00:16:28,927 --> 00:16:35,071
+We have anything else at the moment for the introduction summary
+
+210
+00:16:35,327 --> 00:16:37,375
+Demonstration
+
+211
+00:16:38,399 --> 00:16:42,495
+Let's see what are people chatting about right now
+
+212
+00:16:44,799 --> 00:16:50,943
+Yeah like survivors Tron really low end systems goal is minimized
+
+213
+00:16:51,199 --> 00:16:52,991
+To use minimise requirements
+
+214
+00:16:53,247 --> 00:16:56,575
+And yes potentially even run on the
+
+215
+00:16:58,367 --> 00:16:59,391
+Run on the
+
+216
+00:17:02,463 --> 00:17:07,071
+This visualisation here of the probability cloud cannot be Run in real time
+
+217
+00:17:08,607 --> 00:17:09,887
+Are as it is
+
+218
+00:17:10,143 --> 00:17:15,007
+But it's most because there is no real data for to be processing in Real-Time
+
+219
+00:17:15,263 --> 00:17:20,895
+I think it'll be a lot of fun to try to figure out some way of streaming data to a web page dynamically
+
+220
+00:17:22,687 --> 00:17:24,223
+That would be a lot of fun
+
+221
+00:17:27,039 --> 00:17:30,111
+I don't have any data to do that with right now
+
+222
+00:17:30,623 --> 00:17:31,135
+Arm
+
+223
+00:17:31,903 --> 00:17:32,671
+So
+
+224
+00:17:32,927 --> 00:17:34,975
+Not really sure where to go from there
+
+225
+00:17:37,023 --> 00:17:43,167
+Some of the other things I wanted to mention so right now all over wipes survive is
+
+226
+00:17:43,423 --> 00:17:44,191
+Lovely status
+
+227
+00:17:44,447 --> 00:17:48,287
+So if you look inside of
+
+228
+00:17:51,359 --> 00:17:53,407
+Survive internal that age
+
+229
+00:17:53,919 --> 00:17:58,271
+On there is a structure for the survived contacts
+
+230
+00:17:58,783 --> 00:18:00,831
+Which has a line of basic stuff in
+
+231
+00:18:06,463 --> 00:18:09,023
+I'm in here there's a lot of this
+
+232
+00:18:09,279 --> 00:18:14,143
+Functions and another start that have to do with really
+
+233
+00:18:14,911 --> 00:18:17,983
+Specifically headset into Watchmen data
+
+234
+00:18:18,239 --> 00:18:20,031
+Like here we have
+
+235
+00:18:20,287 --> 00:18:22,079
+The data structure that contains
+
+236
+00:18:22,335 --> 00:18:23,615
+The
+
+237
+00:18:24,127 --> 00:18:25,919
+The headset in The Watchmen
+
+238
+00:18:26,175 --> 00:18:30,783
+And really this this should be switched out to be much more of a
+
+239
+00:18:31,295 --> 00:18:32,319
+Over
+
+240
+00:18:34,367 --> 00:18:36,159
+Of various arm
+
+241
+00:18:36,415 --> 00:18:38,975
+There's really no reason for it to be
+
+242
+00:18:39,231 --> 00:18:40,767
+Hard-coded in here
+
+243
+00:18:42,815 --> 00:18:45,375
+Have seen heard wrong button before tab
+
+244
+00:18:45,631 --> 00:18:46,399
+2fb
+
+245
+00:18:47,935 --> 00:18:48,703
+What is that
+
+246
+00:18:51,775 --> 00:18:54,335
+Hello are we out of sync
+
+247
+00:18:59,967 --> 00:19:02,527
+I guess I'll wait until we find out what people say
+
+248
+00:19:02,783 --> 00:19:08,927
+But yeah Vauxhall tastic was not meant for dynamic data but I think totally wrong
+
+249
+00:19:09,183 --> 00:19:11,487
+You know my other favourite technology websockets
+
+250
+00:19:12,255 --> 00:19:13,023
+Arm
+
+251
+00:19:16,863 --> 00:19:23,007
+So one of the things that were going to need to do with people that have driver registration in this is a scimitar
+
+252
+00:19:23,519 --> 00:19:27,359
+From what we used on on coloured cord
+
+253
+00:19:27,615 --> 00:19:32,223
+And what that allows you to do with something like coloured cord let me go check that out
+
+254
+00:19:51,167 --> 00:19:57,311
+So what you can do is you can write code that will be a driver for giving device or
+
+255
+00:19:57,567 --> 00:19:59,615
+Actually a calibration system
+
+256
+00:20:00,127 --> 00:20:01,151
+And then
+
+257
+00:20:01,407 --> 00:20:07,551
+Instead of having to haven't like a bunch of complicated switch statements or anything else that will check a certain driver
+
+258
+00:20:07,807 --> 00:20:08,831
+You can simply
+
+259
+00:20:09,343 --> 00:20:10,367
+Register
+
+260
+00:20:10,623 --> 00:20:11,391
+Your driver
+
+261
+00:20:11,647 --> 00:20:13,951
+And that can just be done right here
+
+262
+00:20:14,207 --> 00:20:20,351
+And the really big benefit of this is you can simply link against life survive in
+
+263
+00:20:20,607 --> 00:20:26,751
+Be able to have your own drivability and you won't have to recompile live survived and custom new hardware
+
+264
+00:20:27,007 --> 00:20:29,055
+Or new fundamental ways
+
+265
+00:20:29,311 --> 00:20:33,919
+Doing things and life survive it will just be able to be registered in with the driver
+
+266
+00:20:34,431 --> 00:20:40,575
+The other thing is that survivors finally getting big enough now that we really need it
+
+267
+00:20:40,831 --> 00:20:43,647
+Systems that's what I was signed by Josh primarily
+
+268
+00:20:43,903 --> 00:20:45,183
+Do you want me to
+
+269
+00:20:45,695 --> 00:20:47,487
+Go over there right now
+
+270
+00:20:47,999 --> 00:20:50,047
+Remember they can see the whole thing
+
+271
+00:20:55,935 --> 00:20:59,519
+A little bit bigger bigger bigger bigger bigger
+
+272
+00:21:00,287 --> 00:21:02,591
+Arm so do you want to talk about it
+
+273
+00:21:03,103 --> 00:21:05,919
+Well basically the way is going to work is it going to rain
+
+274
+00:21:07,199 --> 00:21:10,271
+Data out of a json file
+
+275
+00:21:10,527 --> 00:21:12,319
+The reading light down yet
+
+276
+00:21:13,599 --> 00:21:14,623
+With the writing stuff
+
+277
+00:21:17,184 --> 00:21:17,696
+The past
+
+278
+00:21:18,208 --> 00:21:19,232
+Tower 2
+
+279
+00:21:19,488 --> 00:21:24,608
+Haven't tried it out yet so it's Friday crashed
+
+280
+00:21:25,376 --> 00:21:27,680
+Search the interesting get around doing that
+
+281
+00:21:32,032 --> 00:21:34,080
+Play configuration load
+
+282
+00:21:34,848 --> 00:21:40,992
+I am unfortunately work I never the point now or needs a little bit more boring stuff to get there
+
+283
+00:21:41,248 --> 00:21:44,064
+Get things moving well
+
+284
+00:21:45,088 --> 00:21:47,904
+Yeah I don't really know where does suggest from now
+
+285
+00:21:49,696 --> 00:21:51,232
+Hello this was
+
+286
+00:21:51,488 --> 00:21:57,632
+I guess it was intended to be assured livestream I don't think was intended to be this
+
+287
+00:21:57,888 --> 00:22:01,728
+But I have everything on my list checked off now it's
+
+288
+00:22:02,240 --> 00:22:04,032
+I know what are we
+
+289
+00:22:04,288 --> 00:22:08,384
+Yeah we do
+
+290
+00:22:08,640 --> 00:22:09,152
+What is
+
+291
+00:22:09,408 --> 00:22:10,944
+Amiga 1000
+
+292
+00:22:11,712 --> 00:22:17,856
+What does it have 68007 point 16mhz
+
+293
+00:22:18,112 --> 00:22:19,648
+What if I upgraded to 28
+
+294
+00:22:19,904 --> 00:22:20,416
+Maybe
+
+295
+00:22:20,928 --> 00:22:25,792
+Is it is 14.4 unit
+
+296
+00:22:26,048 --> 00:22:31,936
+But my I have a 60 30 that runs at 25 and it has a 6881
+
+297
+00:22:34,752 --> 00:22:36,032
+OK that'll be fun
+
+298
+00:22:36,288 --> 00:22:39,360
+Do you have a c compiler for it
+
+299
+00:22:39,872 --> 00:22:46,016
+Like a modern development environment
+
+300
+00:22:46,272 --> 00:22:51,136
+You can code it in tested in a reasonable length of time
+
+301
+00:22:52,416 --> 00:22:57,024
+My question is can I can I work on my desktop and say
+
+302
+00:22:57,536 --> 00:22:59,840
+To that end
+
+303
+00:23:00,096 --> 00:23:03,936
+What I mean it could be on the network so you could just walk on it
+
+304
+00:23:04,448 --> 00:23:07,008
+But would you see like to be ok
+
+305
+00:23:07,776 --> 00:23:08,800
+I don't know
+
+306
+00:23:10,592 --> 00:23:15,712
+This pretty benign
+
+307
+00:23:15,968 --> 00:23:22,112
+I'm trying to figure out what you can set a reminder because he obviously certain things are just not going to be support
+
+308
+00:23:23,648 --> 00:23:25,952
+When was GCC 2 created
+
+309
+00:23:26,208 --> 00:23:28,000
+Larkin you sorry
+
+310
+00:23:28,256 --> 00:23:34,400
+Lemmy
+
+311
+00:23:37,728 --> 00:23:43,872
+I'm curious will I be able to do GCSE to
+
+312
+00:23:47,200 --> 00:23:51,040
+I haven't done enough with
+
+313
+00:23:54,880 --> 00:23:59,744
+XC compiler for me go as m68k
+
+314
+00:24:00,256 --> 00:24:05,120
+Stop in 34
+
+315
+00:24:09,216 --> 00:24:13,824
+Does no ogc forex does not support m68k
+
+316
+00:24:14,080 --> 00:24:20,224
+What's 2.95
+
+317
+00:24:20,480 --> 00:24:25,856
+You're talking here I want to know why all the young people use for tabs for space tabs
+
+318
+00:24:26,368 --> 00:24:29,952
+How young is young I used to
+
+319
+00:24:30,208 --> 00:24:36,352
+You'd better be making them tab
+
+320
+00:24:42,240 --> 00:24:48,384
+I know you won't be working on because it's so
+
+321
+00:24:50,432 --> 00:24:54,016
+Brendon like spy finally hates JavaScript just
+
+322
+00:24:54,528 --> 00:24:56,576
+Just
+
+323
+00:24:57,856 --> 00:25:04,000
+Yeah I don't get Brendan on
+
+324
+00:25:04,256 --> 00:25:10,400
+Ok what else to test right now then we can fire blight survive
+
+325
+00:25:10,656 --> 00:25:12,192
+Medela
+
+326
+00:25:12,448 --> 00:25:16,032
+Morning Rose working on earlier was getting the
+
+327
+00:25:16,544 --> 00:25:17,312
+YouTube
+
+328
+00:25:18,080 --> 00:25:19,616
+It's still running
+
+329
+00:25:19,872 --> 00:25:25,504
+I was getting it so that it would actually be able to find all the lighthouses in save in
+
+330
+00:25:26,016 --> 00:25:27,040
+The
+
+331
+00:25:27,296 --> 00:25:29,856
+Play that is life JS is love
+
+332
+00:25:30,112 --> 00:25:34,464
+How are you people are so weird
+
+333
+00:25:36,512 --> 00:25:37,280
+On
+
+334
+00:25:37,536 --> 00:25:42,656
+Yes it is
+
+335
+00:25:44,448 --> 00:25:50,592
+Linux 68k
+
+336
+00:25:50,848 --> 00:25:53,664
+Would you get the Omega to output to the HTC vibe video
+
+337
+00:25:57,504 --> 00:26:01,344
+That would be a slow like framerate
+
+338
+00:26:02,112 --> 00:26:08,256
+You know what you're playing if you're playing the live on in Omega you're probably get expected
+
+339
+00:26:08,512 --> 00:26:12,096
+What times are the best fare
+
+340
+00:26:16,192 --> 00:26:18,752
+I think my laptop on a standard charge
+
+341
+00:26:23,360 --> 00:26:28,224
+No lights or 5 is definitely going to stay and see when I went out doing any other
+
+342
+00:26:28,992 --> 00:26:30,016
+Problems
+
+343
+00:26:35,392 --> 00:26:41,536
+So data recorder see if it still runs yeah does so I can still up with this data
+
+344
+00:26:43,328 --> 00:26:46,912
+Actually no one thing I really wanted to do was
+
+345
+00:26:49,216 --> 00:26:51,776
+In here what I want to try doing
+
+346
+00:26:52,032 --> 00:26:53,056
+Is
+
+347
+00:26:53,312 --> 00:26:58,688
+I want to try make me to output the imu as well because right now it's just not doing that
+
+348
+00:26:59,456 --> 00:27:00,992
+To see if I
+
+349
+00:27:01,248 --> 00:27:03,296
+I just fainted in running
+
+350
+00:27:08,160 --> 00:27:11,232
+Earlier in the week talk about
+
+351
+00:27:12,000 --> 00:27:13,280
+Recording
+
+352
+00:27:14,048 --> 00:27:15,072
+The live data
+
+353
+00:27:15,328 --> 00:27:21,472
+We can play back later on it simulated by
+
+354
+00:27:21,728 --> 00:27:27,872
+Continue developing ok that seems like a reasonable time for us to work on live
+
+355
+00:27:28,128 --> 00:27:30,944
+First I think I do when I get the
+
+356
+00:27:32,992 --> 00:27:37,344
+See how that work we probably want to make it to you can stream
+
+357
+00:27:37,600 --> 00:27:41,952
+Because we have this right now streaming to the terminal and then I wrote that to last time
+
+358
+00:27:42,208 --> 00:27:43,488
+Which farm
+
+359
+00:27:46,304 --> 00:27:52,448
+Call
+
+360
+00:27:52,704 --> 00:27:54,240
+Data server
+
+361
+00:27:54,752 --> 00:27:55,776
+So
+
+362
+00:27:56,032 --> 00:27:59,104
+Can you try taking the Samsung it's a little bit more robust
+
+363
+00:28:20,864 --> 00:28:27,008
+One thing I'd like to do anybody who's up for it I would like to try to run the data server again if somebody on the internet
+
+364
+00:28:27,264 --> 00:28:31,104
+Connect an and just try that out
+
+365
+00:28:31,616 --> 00:28:33,920
+I think that would be pretty cool
+
+366
+00:28:34,176 --> 00:28:35,200
+On
+
+367
+00:28:35,456 --> 00:28:41,088
+I had no idea as to what I think was causing the day that Dropout 3 bad before
+
+368
+00:28:41,344 --> 00:28:42,624
+Arm so
+
+369
+00:28:43,392 --> 00:28:44,416
+See if I can
+
+370
+00:28:45,952 --> 00:28:47,488
+Don't
+
+371
+00:28:50,304 --> 00:28:52,096
+Ok
+
+372
+00:28:53,888 --> 00:29:00,032
+Yeah it's been raining pretty hard
+
+373
+00:29:00,288 --> 00:29:01,568
+What what kind of weather
+
+374
+00:29:02,336 --> 00:29:03,104
+Were you were
+
+375
+00:29:05,664 --> 00:29:08,224
+No he describes something pretty pretty crazy
+
+376
+00:29:17,952 --> 00:29:23,840
+Weight recording format does does the HTC vive always support actual recording
+
+377
+00:29:27,424 --> 00:29:32,800
+If so I did not realise that in which case I guess I'll be up for trying to
+
+378
+00:29:33,312 --> 00:29:34,080
+Make it
+
+379
+00:29:34,848 --> 00:29:35,872
+He compatible
+
+380
+00:29:38,432 --> 00:29:42,784
+Arsenal voice in Southern Ireland and he was
+
+381
+00:29:43,040 --> 00:29:46,112
+Get a picture on Twitter of something crazy happening
+
+382
+00:29:47,648 --> 00:29:48,672
+See where is that
+
+383
+00:29:50,976 --> 00:29:51,488
+Here
+
+384
+00:29:52,256 --> 00:29:56,096
+Yeah that's definitely here that's really serious stuff
+
+385
+00:30:00,960 --> 00:30:02,752
+Sorry that was the strat
+
+386
+00:30:03,264 --> 00:30:05,824
+Something I need to
+
+387
+00:30:08,640 --> 00:30:14,784
+Someone I think there are venue
+
+388
+00:30:15,040 --> 00:30:21,184
+Phone of job but enough people wasted they could have experienced that you could make a video of VR experience
+
+389
+00:30:21,440 --> 00:30:22,464
+Wednesday at work
+
+390
+00:30:24,768 --> 00:30:26,816
+On
+
+391
+00:30:27,584 --> 00:30:30,144
+Yeah yeah
+
+392
+00:30:35,776 --> 00:30:40,896
+Brendan says Dad eventuary Rider counting just as software instead of accounting
+
+393
+00:30:44,480 --> 00:30:46,016
+Show
+
+394
+00:30:52,672 --> 00:30:57,024
+What am I doing is I'm going to make it so it's possible to drop
+
+395
+00:30:57,280 --> 00:30:59,328
+Packets if you're connected
+
+396
+00:31:00,864 --> 00:31:01,888
+In
+
+397
+00:31:02,144 --> 00:31:06,752
+And if you do drop them it'll be ok for a little bit in there and if you keep dropping on
+
+398
+00:31:10,848 --> 00:31:13,408
+It will eventually kick you out but I'm
+
+399
+00:31:41,824 --> 00:31:45,408
+Sea settings protobuffers
+
+400
+00:31:48,224 --> 00:31:50,528
+Actually never really worked at protobuffers
+
+401
+00:31:52,320 --> 00:31:53,600
+Protocol buffers
+
+402
+00:31:54,112 --> 00:31:56,160
+I'm guessing it's what you mean right
+
+403
+00:31:56,416 --> 00:31:58,464
+Protocol buffers the Google Play
+
+404
+00:32:37,888 --> 00:32:41,984
+Someone start a collection to get that laptop fan replace
+
+405
+00:32:42,496 --> 00:32:48,640
+New battery in a CD drive
+
+406
+00:33:28,576 --> 00:33:31,392
+Give me a moment here
+
+407
+00:33:31,648 --> 00:33:35,744
+I'm going to have to login to my router and open
+
+408
+00:33:36,000 --> 00:33:37,536
+Portcullis computer
+
+409
+00:33:43,680 --> 00:33:45,984
+CD drives in broken for years
+
+410
+00:33:53,152 --> 00:33:54,944
+Why is my Akira
+
+411
+00:34:05,184 --> 00:34:07,232
+Seriously why is Mighty wrong
+
+412
+00:34:34,368 --> 00:34:35,904
+That's me
+
+413
+00:34:38,720 --> 00:34:43,328
+Firewall
+
+414
+00:34:44,096 --> 00:34:45,632
+What 4 words
+
+415
+00:35:06,112 --> 00:35:10,464
+Does anyone from the internet want to see if they cannot connect in
+
+416
+00:35:24,544 --> 00:35:28,128
+Oh sweet that actually works you can ping home.st law.com
+
+417
+00:35:30,688 --> 00:35:33,504
+So you still a Telnet to
+
+418
+00:35:34,016 --> 00:35:38,624
+Silicon Port 9999
+
+419
+00:35:39,392 --> 00:35:40,160
+No
+
+420
+00:35:43,744 --> 00:35:46,048
+554 what have I done
+
+421
+00:35:56,544 --> 00:35:57,568
+There we go
+
+422
+00:35:59,872 --> 00:36:01,664
+Ok
+
+423
+00:36:17,792 --> 00:36:23,936
+Yeah and see if it's or if it's dying to like it was last time for a lotto
+
+424
+00:36:29,568 --> 00:36:31,104
+That was sad
+
+425
+00:36:38,016 --> 00:36:40,320
+Turn on the lights
+
+426
+00:36:50,304 --> 00:36:56,448
+I think I might try to do right now
+
+427
+00:36:56,704 --> 00:36:57,472
+Make a
+
+428
+00:36:57,728 --> 00:36:59,520
+Alive survive
+
+429
+00:36:59,776 --> 00:37:04,896
+Front end so I can feed data without actually being hooked up I guess
+
+430
+00:37:06,432 --> 00:37:09,504
+Ok
+
+431
+00:37:11,296 --> 00:37:13,600
+That's right now feeding data out
+
+432
+00:37:24,096 --> 00:37:28,192
+Just edit piraino just to get things moving calibrated see here
+
+433
+00:37:35,104 --> 00:37:38,176
+Saying anything
+
+434
+00:37:40,992 --> 00:37:45,856
+Are people still ok I can collect it works it works
+
+435
+00:37:46,880 --> 00:37:50,208
+Is there discord yes there is discord
+
+436
+00:37:50,720 --> 00:37:52,768
+I will
+
+437
+00:37:53,024 --> 00:37:56,864
+Yeah actually I can still hear certain links never expire
+
+438
+00:38:02,240 --> 00:38:03,776
+Person on the Earth
+
+439
+00:38:13,504 --> 00:38:15,296
+Ok
+
+440
+00:38:21,952 --> 00:38:24,256
+Yeah we had a power outage sorry
+
+441
+00:38:24,512 --> 00:38:25,792
+Everything's back up now
+
+442
+00:38:28,096 --> 00:38:30,144
+Vibe survive
+
+443
+00:38:39,360 --> 00:38:41,408
+Hey it's like everything is fine
+
+444
+00:38:41,664 --> 00:38:45,248
+Restart the data server
+
+445
+00:38:48,064 --> 00:38:50,368
+That was going to post a discord
+
+446
+00:38:52,928 --> 00:38:59,072
+Laptop laptop anymore it doesn't
+
+447
+00:39:07,520 --> 00:39:13,664
+Call
+
+448
+00:39:13,920 --> 00:39:16,224
+Server data server 9999
+
+449
+00:39:18,272 --> 00:39:19,552
+Ok
+
+450
+00:39:20,320 --> 00:39:21,856
+Looks pretty Spanky
+
+451
+00:39:22,368 --> 00:39:26,720
+Somebody has already connected in two people have connected
+
+452
+00:39:29,024 --> 00:39:35,168
+I think what I want to do right now just for the takeover
+
+453
+00:39:35,424 --> 00:39:36,192
+Things here
+
+454
+00:39:40,288 --> 00:39:46,432
+Are Ben one thing you might have missed a little bit earlier as I do want to change the way this works I think I want to do a little bit more
+
+455
+00:39:46,688 --> 00:39:51,552
+Like what you guys are sending out in the second or third livestream where
+
+456
+00:39:51,808 --> 00:39:57,952
+I find a pose estimation thing based on the camera space information from the lighthouses and then
+
+457
+00:39:58,208 --> 00:40:04,352
+Used to determine the location of the lighthouses and other poses originally I wanted to be able to combine information
+
+458
+00:40:04,608 --> 00:40:10,752
+Lighthouses in name creates a single pose estimation but I don't think that will work very well
+
+459
+00:40:11,008 --> 00:40:17,152
+So I'm going to try doing a switching to this other one and it is probably more in line with what you and Alan have been
+
+460
+00:40:17,408 --> 00:40:20,224
+Before with on the pose estimation
+
+461
+00:40:20,480 --> 00:40:26,624
+Which I feel embarrassed that I'm doing things other be fair what happened was I thought I was smart
+
+462
+00:40:26,880 --> 00:40:33,024
+Going to do some clever way and it turns out the clever way was the dumb away and then I found out ok this is
+
+463
+00:40:33,280 --> 00:40:36,608
+Better way to do it you guys right whole time so
+
+464
+00:40:42,496 --> 00:40:48,640
+Ok are you guys getting dropped forcibly or you just disconnecting
+
+465
+00:40:54,272 --> 00:40:56,576
+Play Attack without above ground cables
+
+466
+00:41:11,168 --> 00:41:17,312
+On purpose I got disconnected ones still getting kicked
+
+467
+00:41:22,688 --> 00:41:26,016
+I know that would be there would be since I started back up
+
+468
+00:41:31,136 --> 00:41:36,000
+Calibrate quiet ok so in here
+
+469
+00:41:39,840 --> 00:41:45,984
+Well I should be able to do is just shut the date in through the default imu process and through the door
+
+470
+00:41:46,240 --> 00:41:49,056
+White process so I kind of wanna try that now
+
+471
+00:41:52,128 --> 00:41:54,943
+China's be the beginning of coming back
+
+472
+00:41:55,199 --> 00:41:56,991
+Timer for the data
+
+473
+00:41:58,015 --> 00:41:59,295
+Yeah
+
+474
+00:41:59,807 --> 00:42:05,951
+Remember that actually works I think it does
+
+475
+00:42:20,799 --> 00:42:22,847
+Everybody get dropped all at once
+
+476
+00:42:25,151 --> 00:42:25,919
+I was weird
+
+477
+00:42:30,015 --> 00:42:36,159
+Can you just the first too many people connecting away there's somebody who's just spamming me
+
+478
+00:42:37,183 --> 00:42:40,511
+Who's 4666
+
+479
+00:42:41,279 --> 00:42:42,303
+Who is Dad
+
+480
+00:42:43,071 --> 00:42:45,119
+Hong Kong who are you
+
+481
+00:42:49,215 --> 00:42:54,847
+Somebody from the Netherlands from the Netherlands that is spending the server
+
+482
+00:43:05,599 --> 00:43:07,647
+Clearly Spelman
+
+483
+00:43:10,207 --> 00:43:16,095
+Whatever you guys are having fun I guess that's what matters
+
+484
+00:43:27,871 --> 00:43:30,175
+Oh you know why
+
+485
+00:43:34,527 --> 00:43:40,671
+In order to test so what am I
+
+486
+00:43:40,927 --> 00:43:47,071
+Try running another instance of Life survive so like this one's recording the data if I try
+
+487
+00:43:47,327 --> 00:43:50,399
+Playing it back it has to first connect to vinyl
+
+488
+00:43:50,911 --> 00:43:54,751
+Rape but I won't run for you because it won't we can connect device
+
+489
+00:43:55,775 --> 00:44:00,383
+We should probably fix there that's definitely something we have to fix sooner than later
+
+490
+00:44:03,199 --> 00:44:04,735
+What is an interconnected device
+
+491
+00:44:04,991 --> 00:44:07,295
+Because like you're right doesn't know what to do if it does
+
+492
+00:44:07,551 --> 00:44:11,391
+And that's totally about it should not have a problem with that
+
+493
+00:44:11,903 --> 00:44:13,951
+Lights to five should survive without
+
+494
+00:44:15,231 --> 00:44:16,767
+Kneeling next to the five
+
+495
+00:44:25,471 --> 00:44:30,079
+I'm thinking of pluggable sources thing is not getting more and more
+
+496
+00:44:30,335 --> 00:44:36,479
+Is there really sad that before you can do anything you find out you have to do like telling things and then to do any of those other
+
+497
+00:44:36,735 --> 00:44:39,039
+To do like a million other things
+
+498
+00:44:42,111 --> 00:44:44,159
+Mrs check discord
+
+499
+00:44:47,743 --> 00:44:49,535
+Disconnect
+
+500
+00:44:59,007 --> 00:45:03,103
+I don't understand what am I supposed to be looking at them they're saying that
+
+501
+00:45:03,359 --> 00:45:04,639
+The address to connect to
+
+502
+00:45:05,151 --> 00:45:05,919
+Oh yeah
+
+503
+00:45:10,015 --> 00:45:11,551
+Do I have access to New
+
+504
+00:45:25,375 --> 00:45:31,519
+So that's going to be a little bit you know whatever was trying to hack it in real quick and see if we can get something
+
+505
+00:45:46,879 --> 00:45:49,439
+Headless
+
+506
+00:46:26,047 --> 00:46:27,839
+See all that work
+
+507
+00:46:41,919 --> 00:46:45,503
+Data recorder
+
+508
+00:46:46,015 --> 00:46:47,807
+Expose
+
+509
+00:48:02,047 --> 00:48:05,119
+Surviving col
+
+510
+00:48:05,631 --> 00:48:11,007
+Can we make it so if we are in a headless mode we don't do anything stupid
+
+511
+00:48:11,519 --> 00:48:14,079
+Like trying to hold a USB
+
+512
+00:48:29,439 --> 00:48:33,023
+Hey sweet ok
+
+513
+00:48:33,535 --> 00:48:38,655
+How is a lot easier than I thought it would be we didn't have to go code an entire subsystem
+
+514
+00:48:39,423 --> 00:48:45,567
+Ok so what that means is this code just runs on a little spin loop all the time
+
+515
+00:48:45,823 --> 00:48:47,871
+So I should
+
+516
+00:48:56,831 --> 00:48:58,879
+Tabs
+
+517
+00:48:59,135 --> 00:49:04,511
+Why in the world would that be defaulted on
+
+518
+00:49:05,023 --> 00:49:07,071
+Ok so
+
+519
+00:49:07,839 --> 00:49:09,631
+Debtline
+
+520
+00:49:10,655 --> 00:49:15,007
+Play I'm jet wind what is that syntax
+
+521
+00:49:44,191 --> 00:49:46,751
+Are cats tbnr number
+
+522
+00:49:55,967 --> 00:50:02,111
+Actually so you know I gotta get your thing
+
+523
+00:50:07,231 --> 00:50:13,119
+Rayburn saying I want to get up your arm
+
+524
+00:50:15,167 --> 00:50:15,935
+What's your IP
+
+525
+00:50:31,295 --> 00:50:32,063
+Ok
+
+526
+00:50:38,719 --> 00:50:39,999
+Scanner
+
+527
+00:50:40,767 --> 00:50:44,607
+What's better than il2 somebody else's code that shows you how they did
+
+528
+00:51:04,319 --> 00:51:06,367
+Washing the chat for me
+
+529
+00:51:09,183 --> 00:51:12,511
+Yeah yeah now I can read the data
+
+530
+00:51:23,007 --> 00:51:24,287
+Paranoid
+
+531
+00:51:24,799 --> 00:51:25,823
+I can't hear it
+
+532
+00:51:27,615 --> 00:51:29,663
+What happens if you put it on something fabric
+
+533
+00:51:44,767 --> 00:51:50,911
+The one two
+
+534
+00:51:51,167 --> 00:51:57,311
+So
+
+535
+00:51:57,567 --> 00:52:01,151
+First character
+
+536
+00:52:07,807 --> 00:52:13,951
+Yeah it might have been reverberating to the table because it feels like I felt like
+
+537
+00:52:14,207 --> 00:52:20,351
+Feeling in my arms when you are running it that way so
+
+538
+00:52:20,607 --> 00:52:26,751
+Stay here
+
+539
+00:52:52,607 --> 00:52:58,751
+Light data
+
+540
+00:52:59,007 --> 00:53:05,151
+Just trying to sell his studying
+
+541
+00:53:05,407 --> 00:53:11,551
+A scanner line
+
+542
+00:53:19,487 --> 00:53:25,631
+Is this the right number 12345
+
+543
+00:54:01,727 --> 00:54:07,871
+Will this work with Sam
+
+544
+00:54:08,127 --> 00:54:14,271
+Calibration also yes that's right now
+
+545
+00:54:14,527 --> 00:54:20,671
+Turn into the calibrator
+
+546
+00:54:20,927 --> 00:54:27,071
+Yes that is the goal so this works like as I expect I should be able to tutor
+
+547
+00:54:27,327 --> 00:54:33,471
+Tell the difference
+
+548
+00:54:33,727 --> 00:54:39,871
+Timestamp a code
+
+549
+00:54:42,943 --> 00:54:49,087
+BA code x a code
+
+550
+00:54:49,343 --> 00:54:55,487
+ID sweep
+
+551
+00:54:55,743 --> 00:55:01,887
+IKEA
+
+552
+00:55:14,687 --> 00:55:20,831
+Think that's the right thing
+
+553
+00:55:27,487 --> 00:55:33,631
+House can be a little tricky
+
+554
+00:56:40,703 --> 00:56:46,847
+Think that's the right
+
+555
+00:56:47,103 --> 00:56:53,247
+Use for everything
+
+556
+00:56:53,503 --> 00:56:55,807
+Headset and white man
+
+557
+00:57:16,543 --> 00:57:22,687
+Putting the data recorder
+
+558
+00:57:26,015 --> 00:57:29,087
+Goes
+
+559
+00:57:32,415 --> 00:57:35,999
+That's all
+
+560
+00:57:55,967 --> 00:58:02,111
+Do skills horribly wrong like I'm noodling the data in the
+
+561
+00:58:02,367 --> 00:58:05,439
+Place it's just
+
+562
+00:58:05,695 --> 00:58:11,839
+Just wrong well I might just typing the data from the serial terminal into the function call but I would not
+
+563
+00:58:12,095 --> 00:58:18,239
+And I guess that makes sense
+
+564
+00:58:18,495 --> 00:58:24,383
+Hopefully
+
+565
+00:58:34,879 --> 00:58:41,023
+The first one is timecode
+
+566
+00:58:41,279 --> 00:58:47,423
+I don't think so cos I'm going to be the only already be processed by the
+
+567
+00:58:47,679 --> 00:58:53,823
+Most two figured out what the type deltatime should be this is after does the December duration stop
+
+568
+00:58:54,079 --> 00:58:58,175
+So it like it knows like this is when in the sweep and happened so
+
+569
+00:58:58,431 --> 00:59:04,575
+Why am I blanking on the mile
+
+570
+00:59:04,831 --> 00:59:09,183
+Santa idea which one is centrally this
+
+571
+00:59:09,951 --> 00:59:11,999
+After timecode
+
+572
+00:59:13,535 --> 00:59:19,679
+You know what a reasonable names
+
+573
+00:59:24,543 --> 00:59:30,687
+A code
+
+574
+00:59:46,815 --> 00:59:52,959
+Ok that gonna work that is totally Alan
+
+575
+01:00:21,887 --> 01:00:25,471
+Wait is that
+
+576
+01:00:32,895 --> 01:00:39,039
+Yeah is that I've only ever had
+
+577
+01:00:39,295 --> 01:00:45,439
+I would like there's just world
+
+578
+01:00:45,695 --> 01:00:51,839
+Well let's see if you come
+
+579
+01:00:52,095 --> 01:00:58,239
+A solution in then I'll get this committed and you guys can go have fun with this or something
+
+580
+01:00:58,495 --> 01:01:02,847
+Can you tell me if it's constantly crashing on you
+
+581
+01:01:03,871 --> 01:01:06,431
+No it died
+
+582
+01:01:07,967 --> 01:01:09,247
+Pilot crash
+
+583
+01:01:11,807 --> 01:01:17,183
+That was weird
+
+584
+01:01:17,439 --> 01:01:20,511
+I know why crashed
+
+585
+01:01:20,767 --> 01:01:26,911
+Cos it doesn't know where the points are for the headset because it can connect the head
+
+586
+01:01:28,959 --> 01:01:35,103
+We should probably also stored below the point locations in the config-file somewhere
+
+587
+01:01:35,359 --> 01:01:38,431
+Down
+
+588
+01:01:42,015 --> 01:01:47,903
+Is it going patience
+
+589
+01:01:59,935 --> 01:02:06,079
+Whatever it's worth committing now
+
+590
+01:03:14,431 --> 01:03:20,575
+Trash how to write
+
+591
+01:03:23,903 --> 01:03:30,047
+Ok do you want to see if you can find it off network wise
+
+592
+01:03:30,303 --> 01:03:36,447
+Ok so this is my cock you survive here
+
+593
+01:03:36,703 --> 01:03:41,055
+Give me a minute
+
+594
+01:03:47,455 --> 01:03:49,759
+When did I just use Nana
+
+595
+01:03:51,807 --> 01:03:57,951
+I just use illicit seriously now
+
+596
+01:03:58,207 --> 01:04:04,351
+Oh yeah yeah yeah that's true so I have your screen off
+
+597
+01:04:04,607 --> 01:04:10,751
+Holloway everything inside this fox is visible to the world
+
+598
+01:04:11,007 --> 01:04:17,151
+So I just artificial I drew it yeah you can go play out there now
+
+599
+01:04:17,407 --> 01:04:23,551
+And see what you're doing are you to be calling and then
+
+600
+01:04:23,807 --> 01:04:29,951
+I'll give you my IP
+
+601
+01:04:32,255 --> 01:04:38,399
+I don't know what my IP11 254 but I don't know why I don't know
+
+602
+01:04:42,495 --> 01:04:44,287
+9999
+
+603
+01:04:44,799 --> 01:04:50,943
+Sweet potato
+
+604
+01:04:57,087 --> 01:05:03,231
+Turn on my starting
+
+605
+01:05:03,487 --> 01:05:06,303
+Clientele from yeah
+
+606
+01:05:06,559 --> 01:05:12,703
+Cal underscore choir
+
+607
+01:05:12,959 --> 01:05:19,103
+I do not have device connected to my machine
+
+608
+01:05:19,359 --> 01:05:25,503
+The network
+
+609
+01:05:25,759 --> 01:05:28,063
+Latency
+
+610
+01:05:41,119 --> 01:05:47,263
+Does not what I would have expected to just work but there is interesting
+
+611
+01:05:47,519 --> 01:05:53,663
+Does give us another reason to distort the the point locations of
+
+612
+01:05:53,919 --> 01:05:58,783
+In the config files that's going to be a pain
+
+613
+01:05:59,039 --> 01:06:05,183
+Yeah cos as soon as I get to the final calibration step it's like I need to know where the points are in and it just crashes
+
+614
+01:06:09,279 --> 01:06:15,423
+No hello site no I do have a bit of an sp30
+
+615
+01:06:15,679 --> 01:06:18,495
+Private garden playing with
+
+616
+01:06:20,031 --> 01:06:23,615
+See if I can show that
+
+617
+01:06:46,655 --> 01:06:49,215
+Network
+
+618
+01:06:57,151 --> 01:06:59,711
+Carragher
+
+619
+01:07:06,879 --> 01:07:09,951
+My car's coolant cap without dinner
+
+620
+01:07:10,463 --> 01:07:11,231
+On
+
+621
+01:07:11,999 --> 01:07:18,143
+Hey I'm actually I doing a live stream right now can I call you back and I'm guessing an hour's
+
+622
+01:07:18,399 --> 01:07:24,543
+Short live stream
+
+623
+01:07:24,799 --> 01:07:30,431
+I would like to go out with
+
+624
+01:07:30,943 --> 01:07:36,319
+You're ok he said he's up for it
+
+625
+01:07:36,575 --> 01:07:42,719
+Yeah 2-hours he said yeah we be funny done by then
+
+626
+01:07:45,535 --> 01:07:51,167
+MC hear you see my camera is just hose
+
+627
+01:08:09,087 --> 01:08:15,231
+Hey there we go ok
+
+628
+01:08:15,487 --> 01:08:20,095
+Settle I have actually been playing with the esp32 as
+
+629
+01:08:26,751 --> 01:08:27,263
+Come on
+
+630
+01:08:36,479 --> 01:08:37,503
+Whatever
+
+631
+01:08:37,759 --> 01:08:39,807
+China's I've been playing with esp32
+
+632
+01:08:40,319 --> 01:08:46,463
+Pretty premium so far just little things here and there and I take
+
+633
+01:08:46,719 --> 01:08:52,863
+Play am now able to print circuit boards at home down 2.4 mbsc discount
+
+634
+01:09:02,847 --> 01:09:08,991
+Oh another thing that we did with the HTC vive stuff so
+
+635
+01:09:10,271 --> 01:09:16,415
+So before there is a thing we were completely tied to the fort
+
+636
+01:09:16,671 --> 01:09:22,815
+Tn25 itself used on but the problem is that there's really no good source for 48 mHz
+
+637
+01:09:23,071 --> 01:09:29,215
+Turn the ESP so for on collecting just regular data that was not going to fly
+
+638
+01:09:29,471 --> 01:09:34,591
+So loud survive does now actually have on
+
+639
+01:09:34,847 --> 01:09:40,991
+Configurable time basis so this has to do with the disability waiter the VAT is that all
+
+640
+01:09:41,247 --> 01:09:47,391
+These will be provided to whatever speed you actually want to operate at so right I'm in media
+
+641
+01:09:47,647 --> 01:09:49,695
+Please realise it has
+
+642
+01:09:53,023 --> 01:09:55,071
+What's going on
+
+643
+01:10:02,495 --> 01:10:08,639
+Cheap recommend
+
+644
+01:10:08,895 --> 01:10:15,039
+Is asking for PCB printing
+
+645
+01:10:15,295 --> 01:10:21,439
+Can you use a pendulum p2502 w
+
+646
+01:10:21,695 --> 01:10:25,535
+A super cheap
+
+647
+01:10:25,791 --> 01:10:31,935
+I'll pull up and I will show you guys just how ridiculous
+
+648
+01:10:32,191 --> 01:10:32,703
+Play cheap
+
+649
+01:10:32,959 --> 01:10:39,103
+Is my internet not working now
+
+650
+01:10:41,151 --> 01:10:44,735
+I'm streaming they're alright
+
+651
+01:10:44,991 --> 01:10:51,135
+Yes yeah I think it's
+
+652
+01:11:04,959 --> 01:11:07,263
+Am I streaming now
+
+653
+01:11:18,527 --> 01:11:23,647
+I think the internet here dropped out ok
+
+654
+01:11:25,951 --> 01:11:32,095
+No I'm definitely here is still here we don't have a power outage and I know where that was
+
+655
+01:11:40,031 --> 01:11:46,175
+Add this printer right here
+
+656
+01:11:46,431 --> 01:11:52,575
+When I bought it was 3699 3799 new and came with the
+
+657
+01:11:52,831 --> 01:11:58,975
+3 decent size cartridge and I bought another cartridge for it they're really cheap
+
+658
+01:11:59,231 --> 01:12:00,255
+Really nice
+
+659
+01:12:00,511 --> 01:12:06,655
+There are plenty fine for PCB printing normally I have to double up
+
+660
+01:12:06,911 --> 01:12:10,495
+He doesn't have enough turn aside to like
+
+661
+01:12:10,751 --> 01:12:16,895
+Double up transparencies stack them but it's fine
+
+662
+01:12:17,151 --> 01:12:23,295
+I now switched out my LED process my process for exposure to an LED
+
+663
+01:12:23,551 --> 01:12:29,695
+That was going to slow me down but it turns out it exposes in about 4 seconds so that's not an issue anymore
+
+664
+01:12:33,279 --> 01:12:39,423
+I'm leaving now to do now
+
+665
+01:12:39,679 --> 01:12:45,823
+So cold is right now for the most part
+
+666
+01:12:46,079 --> 01:12:52,223
+Going to be working on getting a I really want to do ESP tags to begin with
+
+667
+01:12:52,479 --> 01:12:58,623
+And after that I can go to switch off to whatever but I do want to do
+
+668
+01:12:58,879 --> 01:13:05,023
+Want to try to get life survive running on an esp32 so I can create kind of in a r
+
+669
+01:13:05,279 --> 01:13:11,423
+Environment where it'll be like a little screen that you can hold up in like look through and see
+
+670
+01:13:11,679 --> 01:13:17,823
+Around and be able to do that very very inexpensively I think there's some really things you can do with that
+
+671
+01:13:18,079 --> 01:13:24,223
+But the first part of all of that has to do with fencing on the ESB with you thinking I do with the esp8285
+
+672
+01:13:24,479 --> 01:13:30,623
+And be able to do it that way with that does not directly involved like survive
+
+673
+01:13:30,879 --> 01:13:36,255
+Dune Buggy asked like super stripped-down so I think that would be fun
+
+674
+01:13:36,511 --> 01:13:42,655
+Oh no not really have anything else to go over right now
+
+675
+01:13:42,911 --> 01:13:48,543
+Add some data running we can kind of processor
+
+676
+01:13:54,943 --> 01:13:56,991
+Yeah
+
+677
+01:13:57,247 --> 01:14:03,391
+4 seconds 4 seconds
+
+678
+01:14:03,647 --> 01:14:09,535
+You have a video of their just couldn't look so ridiculous it's done
+
+679
+01:14:12,607 --> 01:14:14,911
+Ok I don't know
+
+680
+01:14:15,167 --> 01:14:21,311
+Not really I feel like the only working when we doing is to do some of the more plausible stuff with
+
+681
+01:14:21,567 --> 01:14:27,711
+Divide really rather not do that on livestream I think that would detract from it
+
+682
+01:14:28,223 --> 01:14:34,367
+Yeah actually so I should have clarified that with the yes peas on the what I want to do with them
+
+683
+01:14:34,623 --> 01:14:40,767
+Is it going to be using the wrong packets from the ESP so you don't have to have all of this overhead
+
+684
+01:14:41,023 --> 01:14:47,167
+Connecting up in staying connected instead it'll just transmitter Warframe whenever it's easily white horse
+
+685
+01:14:47,423 --> 01:14:53,567
+Immediately just send it and then I'm a computer and it'll have at least two probably
+
+686
+01:14:53,823 --> 01:14:59,967
+Real text just sitting in passive mode listening and whenever a message comes
+
+687
+01:15:00,223 --> 01:15:06,367
+ESP it just goes in processes that right then and there that way you don't have to worry about staying
+
+688
+01:15:06,623 --> 01:15:12,767
+Connected you don't have to worry about the added latency of a wireless network and stuff like that it's it's
+
+689
+01:15:13,023 --> 01:15:19,167
+Stream Lilo latency when you use the red packets cell that works out pretty well
+
+690
+01:15:25,823 --> 01:15:28,127
+Are we have anything else to you
+
+691
+01:15:28,383 --> 01:15:30,431
+Ok
+
+692
+01:15:30,687 --> 01:15:36,831
+Yeah yesterday 32 well 3.5 is 10
+
+693
+01:15:37,087 --> 01:15:43,231
+Without spending amount and I'm shipping yeah esp32 is a lot more
+
+694
+01:15:43,487 --> 01:15:49,631
+You cannot get a lot more easily you can also just buy the sky for you too
+
+695
+01:15:52,191 --> 01:15:55,775
+For me at 5 of them for £14.99
+
+696
+01:15:59,359 --> 01:16:00,383
+Yep yep
+
+697
+01:16:08,831 --> 01:16:14,975
+Sorry I guess most is anything else based on what we had said you were going to do or later on in the Stream
+
+698
+01:16:15,999 --> 01:16:18,815
+Probably just going to go call it quits
+
+699
+01:16:22,143 --> 01:16:28,287
+Thanks everybody for coming out I will have to find a year going over different things
+
+700
+01:16:28,543 --> 01:16:32,895
+Difficult to get work done right now if anyone phase of it
+
+701
+01:16:33,151 --> 01:16:34,687
+Alarm
+
+702
+01:16:38,783 --> 01:16:43,647
+I don't have a colour laser printer
+
+703
+01:16:45,183 --> 01:16:47,999
+No that's Josh Allen
+
+704
+01:16:53,119 --> 01:16:59,263
+Thanks everybody for coming out this could be a real quick thing
+
+705
+01:17:01,567 --> 01:17:07,711
+What we still haven't gotten adarshi by Lady to sell him to me
+
+706
+01:17:07,967 --> 01:17:14,111
+Sometimes getting things from people in China's a lot more difficult than you'd expect
+
+707
+01:17:14,367 --> 01:17:16,671
+Ok bye everybody

@@ -1,0 +1,10063 @@
+1
+00:00:00,512 --> 00:00:06,656
+Hello everybody and thank you for coming out to this V12 I think you're up to our lives
+
+2
+00:00:06,912 --> 00:00:13,056
+Five live stream and this was really fun because I got a Snow Day today
+
+3
+00:00:13,312 --> 00:00:19,456
+Go watch the snow out my window while working on all the stuff now an ordinary we kind of
+
+4
+00:00:19,712 --> 00:00:25,856
+Spaced out all of the live streams over a fairly wide bit of time and that was because
+
+5
+00:00:26,112 --> 00:00:32,256
+We were going fairly slow until I'll buy no friend who is also known as
+
+6
+00:00:32,512 --> 00:00:38,656
+As I G David Berger on who is apparently neither albino or French
+
+7
+00:00:39,168 --> 00:00:45,312
+Decided to start contributing to live survive and all my he really
+
+8
+00:00:45,568 --> 00:00:51,712
+Hi Gear here with the probably a couple hundred can be it's over the
+
+9
+00:00:51,968 --> 00:00:53,248
+Couple weeks here
+
+10
+00:00:53,504 --> 00:00:57,600
+I'm actually really curious I can see that on his profile here
+
+11
+00:00:58,112 --> 00:00:59,904
+My where are you to David Berger
+
+12
+00:01:00,928 --> 00:01:02,720
+How do I get to you
+
+13
+00:01:02,976 --> 00:01:09,120
+J David Berger get up so this guy
+
+14
+00:01:09,376 --> 00:01:15,520
+When is this guy has been committing tons and tons of stuff including
+
+15
+00:01:15,776 --> 00:01:21,920
+In epmp poser now for Life survival were trying to do is figure out where
+
+16
+00:01:22,176 --> 00:01:28,320
+Houses and then what's mean
+
+17
+00:01:28,576 --> 00:01:34,720
+Houses are based on the headset then we can figure out where the this the hmd is in 3D
+
+18
+00:01:34,976 --> 00:01:41,120
+Yeah we're also able to figure out where virtually any other devices are including not artificial valve
+
+19
+00:01:41,376 --> 00:01:47,008
+Traxxas so hopefully like survival be fairly
+
+20
+00:01:48,544 --> 00:01:54,688
+Versatile in wide-ranging as far as it uses could be so what we've been trying
+
+21
+00:01:54,944 --> 00:02:01,088
+You up until now hours can create all of these different poses and algorithms in order to take the sweeps of light as they say
+
+22
+00:02:01,344 --> 00:02:06,720
+Cross and figure out where the thing is now up until now we have been
+
+23
+00:02:06,976 --> 00:02:13,120
+Last in spectacular this and that was why I guess the last week or so
+
+24
+00:02:13,376 --> 00:02:19,520
+When she started getting done
+
+25
+00:02:19,776 --> 00:02:25,920
+Is he was able to actually did through now in all of that there were a number of problems found deep within the other light
+
+26
+00:02:26,176 --> 00:02:32,320
+Core part of life survive the problems is his poses right now require the use of sea
+
+27
+00:02:32,576 --> 00:02:38,720
+Aegon
+
+28
+00:02:38,976 --> 00:02:45,120
+Can I fly to the long-term before right now I am more than happy to take his stuff with all the odd ball
+
+29
+00:02:45,376 --> 00:02:51,520
+It's fine because it got us moving it found tons of problems and we have a much better system for
+
+30
+00:02:51,776 --> 00:02:53,056
+4
+
+31
+00:02:53,312 --> 00:02:53,824
+Well
+
+32
+00:02:55,616 --> 00:03:01,760
+Running the whole life survive new configuration option tech right now I can run it with Kim
+
+33
+00:03:02,016 --> 00:03:08,160
+Decoration auction so like if I go at it like config json and I looking here
+
+34
+00:03:08,416 --> 00:03:14,560
+Headlight default poser poser territory which is the default browser instead I want to say
+
+35
+00:03:14,816 --> 00:03:20,960
+On closer is a default closure is poser
+
+36
+00:03:21,216 --> 00:03:27,360
+I'm now deciding if I go do that look at this it's selected by P&P poser you can actually use
+
+37
+00:03:27,616 --> 00:03:33,760
+Turn the line flags and their useful now which is like
+
+38
+00:03:34,016 --> 00:03:40,160
+Turn my Hall live he's also one of ridiculously awesome stuff which is like so I can
+
+39
+00:03:40,416 --> 00:03:46,560
+Unlike a data recorder
+
+40
+00:03:46,816 --> 00:03:50,400
+Headset back in its place
+
+41
+00:03:53,472 --> 00:03:59,616
+Which I will bring to you guys attention
+
+42
+00:03:59,872 --> 00:04:06,016
+I'm so right there sitting on that chair is the headset and what were
+
+43
+00:04:06,272 --> 00:04:12,416
+Time do you were going to go wrong data recorder recorder the normal way that you wanted
+
+44
+00:04:12,672 --> 00:04:17,536
+We're going to run data recorded in the ridiculous work on
+
+45
+00:04:18,303 --> 00:04:20,607
+Also he developed the whole play Back to Black
+
+46
+00:04:20,863 --> 00:04:21,631
+Playback system
+
+47
+00:04:21,887 --> 00:04:23,167
+No this is just
+
+48
+00:04:24,191 --> 00:04:30,335
+Insane on somebody go use websocket d with data recorder and
+
+49
+00:04:30,591 --> 00:04:31,615
+Go on
+
+50
+00:04:40,063 --> 00:04:46,207
+I'm going to go look in the tools free power and then under here there is like this thing that
+
+51
+00:04:46,463 --> 00:04:52,607
+Find it is right here you go open up this thing
+
+52
+00:04:52,863 --> 00:04:55,167
+This is using
+
+53
+00:04:55,423 --> 00:05:01,567
+I think it's ridiculous it's using this thing website and that's just a regular
+
+54
+00:05:01,823 --> 00:05:05,407
+And so now we can visualise where the
+
+55
+00:05:05,663 --> 00:05:06,431
+The
+
+56
+00:05:06,687 --> 00:05:09,503
+In 3D space
+
+57
+00:05:09,759 --> 00:05:10,527
+On
+
+58
+00:05:10,783 --> 00:05:13,343
+Ghost weakness
+
+59
+00:05:13,855 --> 00:05:17,183
+Set up doing that I'm going to go use
+
+60
+00:05:17,439 --> 00:05:22,815
+Will actually go use the pozary P&P for both a cow
+
+61
+00:05:23,327 --> 00:05:25,119
+Fig
+
+62
+00:05:33,055 --> 00:05:35,871
+Things running radio
+
+63
+00:05:38,175 --> 00:05:40,479
+Ok so we're going to go run this
+
+64
+00:05:47,647 --> 00:05:48,415
+Ok
+
+65
+00:05:50,207 --> 00:05:50,975
+Refresh
+
+66
+00:05:52,511 --> 00:05:55,583
+No I don't want you to
+
+67
+00:05:59,167 --> 00:06:04,031
+UPnP
+
+68
+00:06:04,287 --> 00:06:05,823
+Like dynamically
+
+69
+00:06:08,639 --> 00:06:11,967
+Using pozary PNP now for everything
+
+70
+00:06:12,223 --> 00:06:14,783
+Cancel is doing the ODEON Exeter
+
+71
+00:06:15,039 --> 00:06:17,855
+I'm so just got packets 0 packets 0
+
+72
+00:06:18,367 --> 00:06:20,415
+Come on Forest other packets
+
+73
+00:06:23,231 --> 00:06:26,559
+Set down to the wife not running first
+
+74
+00:06:26,815 --> 00:06:28,095
+Calibrate
+
+75
+00:06:36,287 --> 00:06:38,079
+Making lighthouses
+
+76
+00:06:45,759 --> 00:06:50,111
+I know what's going on here
+
+77
+00:06:51,391 --> 00:06:53,183
+Macmillan do it that way
+
+78
+00:06:57,023 --> 00:07:01,887
+Accused poser Kirby Tory for the other thing
+
+79
+00:07:03,167 --> 00:07:05,983
+Word cloud
+
+80
+00:07:10,591 --> 00:07:12,127
+Hopefully they'll be faster
+
+81
+00:07:25,695 --> 00:07:29,023
+Can you use the
+
+82
+00:07:33,887 --> 00:07:36,703
+Banakum use the Kirby big you later ok
+
+83
+00:07:38,239 --> 00:07:43,615
+I hope that was supposed to be just a quick presentation
+
+84
+00:07:46,175 --> 00:07:48,479
+Ok now to actually running
+
+85
+00:07:53,599 --> 00:07:55,903
+What I want to do I want to set
+
+86
+00:07:56,415 --> 00:07:59,999
+Allowed to Thailand
+
+87
+00:08:00,255 --> 00:08:03,839
+The whole time I could just get that one value and everything would have been fine
+
+88
+00:08:04,351 --> 00:08:07,167
+On Hay can something of an A1
+
+89
+00:08:11,263 --> 00:08:17,407
+PC does not run on a on that quite yet though there will be a time
+
+90
+00:08:17,663 --> 00:08:23,807
+And we'll see how that goes ;-) I'm actually doing a port myself for itself
+
+91
+00:08:25,855 --> 00:08:28,671
+The right now this is
+
+92
+00:08:29,439 --> 00:08:31,231
+Getting vo2max data
+
+93
+00:08:31,487 --> 00:08:32,511
+Continuing
+
+94
+00:08:33,023 --> 00:08:35,583
+Hopefully this is actually going to work right now
+
+95
+00:08:36,095 --> 00:08:42,239
+Pingo to check this out better I'll buy your friend she me
+
+96
+00:08:42,495 --> 00:08:47,359
+I'm going to go pick this up and moving around
+
+97
+00:08:47,615 --> 00:08:51,455
+Can you can see that it is actually working
+
+98
+00:08:51,967 --> 00:08:53,759
+Design move this around
+
+99
+00:08:54,015 --> 00:08:56,063
+It's glitching up pretty bad
+
+100
+00:09:02,975 --> 00:09:03,487
+Bye
+
+101
+00:09:03,743 --> 00:09:09,887
+He is able to take his cpnp poser and it does solve for the position of
+
+102
+00:09:10,143 --> 00:09:16,287
+The headset now between the lighthouses for this
+
+103
+00:09:16,543 --> 00:09:22,687
+Quite something that we can use other poses for SE18
+
+104
+00:09:22,943 --> 00:09:24,479
+News on Jose
+
+105
+00:09:24,735 --> 00:09:26,271
+I Dave ortho
+
+106
+00:09:26,783 --> 00:09:29,343
+Anyway to do the same sort of thing
+
+107
+00:09:31,135 --> 00:09:37,279
+Refresh has a couple problems with it one is that does not do any Fusion
+
+108
+00:09:37,535 --> 00:09:41,631
+Clean the lighthouses so you can see that shows both lighthouses point of view
+
+109
+00:09:41,887 --> 00:09:47,519
+P&P and this application is actually much slower than
+
+110
+00:09:49,055 --> 00:09:54,431
+Much slower is much slower than I would like it's only getting 240hz
+
+111
+00:09:54,687 --> 00:09:58,783
+Where is something like dave author was getting absolutely absurd speed
+
+112
+00:09:59,039 --> 00:10:05,183
+But the Solutions that a morpho put out just as good as the EP and he song
+
+113
+00:10:05,439 --> 00:10:11,583
+So that means the least for the time being we are married to
+
+114
+00:10:11,839 --> 00:10:16,447
+What was the other one
+
+115
+00:10:18,239 --> 00:10:22,079
+We were married to keep class and Lockie
+
+116
+00:10:22,335 --> 00:10:24,127
+So there's that
+
+117
+00:10:24,383 --> 00:10:28,735
+Interesting things if you use the same holder to do both
+
+118
+00:10:30,271 --> 00:10:34,367
+So like really I'm gonna calibrate the system using the dbortho closer
+
+119
+00:10:35,647 --> 00:10:36,415
+Or not
+
+120
+00:10:45,887 --> 00:10:48,703
+Ok now to using the composer for Dior
+
+121
+00:10:49,215 --> 00:10:49,727
+On
+
+122
+00:10:50,495 --> 00:10:51,775
+And that
+
+123
+00:10:57,919 --> 00:11:04,063
+Ok sorry now this is using purely Dave ortho for calibration and for
+
+124
+00:11:04,319 --> 00:11:07,903
+Operation and you can see that it's not great
+
+125
+00:11:08,159 --> 00:11:09,951
+20 days work
+
+126
+00:11:10,463 --> 00:11:11,231
+So
+
+127
+00:11:11,487 --> 00:11:17,631
+If you only had someone that's all we really looking at
+
+128
+00:11:17,887 --> 00:11:24,031
+Then like you can see that I can point there I could actually point it at the
+
+129
+00:11:24,287 --> 00:11:25,311
+At the webcam
+
+130
+00:11:27,359 --> 00:11:28,127
+Guys
+
+131
+00:11:30,175 --> 00:11:34,783
+Set interesting the Den I guess I don't really have the webgl thing
+
+132
+00:11:35,039 --> 00:11:41,183
+Pointing out from the camera point of view but yeah so this is this is actually working and it's
+
+133
+00:11:41,951 --> 00:11:43,743
+Ridiculous
+
+134
+00:11:44,255 --> 00:11:50,399
+If you're going to get you something
+
+135
+00:11:50,911 --> 00:11:56,287
+What are you are the hero of the week between all these ridiculous tools that you've added
+
+136
+00:11:56,543 --> 00:11:57,823
+And this functionality
+
+137
+00:11:58,335 --> 00:11:59,103
+Arm
+
+138
+00:11:59,359 --> 00:12:02,943
+No yes
+
+139
+00:12:03,455 --> 00:12:09,599
+Do you want to make sure that this will work with the 30-day later
+
+140
+00:12:09,855 --> 00:12:15,999
+I think and the distance is what handles the light pulses
+
+141
+00:12:16,255 --> 00:12:20,351
+And Tamsin into meaning for angles to the rest of the system can operate
+
+142
+00:12:20,607 --> 00:12:22,655
+So I'm going to go
+
+143
+00:12:23,423 --> 00:12:27,007
+Hopefully this will still work with the curvy
+
+144
+00:12:28,287 --> 00:12:29,311
+Disambiguated
+
+145
+00:12:33,151 --> 00:12:39,295
+Hey I have no idea has been entirely too long since I've written
+
+146
+00:12:39,551 --> 00:12:41,599
+Justin Waite
+
+147
+00:12:41,855 --> 00:12:47,999
+Is ok so are you albinos French DJ David burger or Justin Berger and why David W
+
+148
+00:12:48,255 --> 00:12:50,047
+Stop listening Justin David burger
+
+149
+00:12:50,303 --> 00:12:53,631
+But yeah you were truly the hero of
+
+150
+00:12:53,887 --> 00:12:54,911
+For a while here
+
+151
+00:12:57,983 --> 00:13:01,567
+I can't seem to get terveys disambiguating Running With
+
+152
+00:13:02,079 --> 00:13:04,127
+Rang the situation
+
+153
+00:13:05,407 --> 00:13:08,735
+You're like a tribe I could just try use one lighthouse for right now
+
+154
+00:13:11,551 --> 00:13:14,879
+What's easier
+
+155
+00:13:24,351 --> 00:13:27,679
+Think you can calibrate using one
+
+156
+00:13:35,871 --> 00:13:38,943
+War movie does ignores me and operated with both
+
+157
+00:13:42,271 --> 00:13:43,039
+Settle
+
+158
+00:13:48,927 --> 00:13:53,023
+Will definitely have to get some work done to get the
+
+159
+00:13:53,279 --> 00:13:56,351
+Justin
+
+160
+00:13:56,607 --> 00:14:00,959
+Can I call you Justin what should I call you
+
+161
+00:14:03,263 --> 00:14:08,639
+Adam can you Benny for
+
+162
+00:14:14,015 --> 00:14:15,295
+Hozier
+
+163
+00:14:16,063 --> 00:14:19,647
+SDA and poser
+
+164
+00:14:21,951 --> 00:14:23,231
+Beta-2
+
+165
+00:14:39,615 --> 00:14:41,151
+That's right right
+
+166
+00:14:41,407 --> 00:14:43,967
+Justin pozary pm-te
+
+167
+00:14:44,479 --> 00:14:45,503
+ASDA
+
+168
+00:14:45,759 --> 00:14:49,599
+This should work out of Becky white houses
+
+169
+00:14:50,111 --> 00:14:53,439
+And we'll keep using turveys
+
+170
+00:15:10,335 --> 00:15:12,639
+Ok what's try using the child 1
+
+171
+00:15:39,775 --> 00:15:45,919
+Hey Justin I have never actually use your ASDA before
+
+172
+00:15:46,175 --> 00:15:52,319
+So is Anna messages I'm seeing hear about a canary Prada original reproject
+
+173
+00:15:52,575 --> 00:15:53,599
+Is that expected
+
+174
+00:15:53,855 --> 00:15:55,391
+What is that on expected
+
+175
+00:15:55,647 --> 00:15:57,951
+Oh my gosh it's a stable
+
+176
+00:16:01,023 --> 00:16:02,559
+Little Jackie
+
+177
+00:16:04,863 --> 00:16:06,655
+Little clarkie
+
+178
+00:16:08,191 --> 00:16:08,959
+What is working
+
+179
+00:16:10,495 --> 00:16:11,775
+It's actually working
+
+180
+00:16:12,799 --> 00:16:14,335
+ASDA Photo
+
+181
+00:16:17,407 --> 00:16:19,199
+Change that
+
+182
+00:16:38,655 --> 00:16:41,471
+The hottest girls
+
+183
+00:16:47,103 --> 00:16:48,895
+Checking on discord
+
+184
+00:16:52,479 --> 00:16:58,623
+Our yes that is one of the big things I really want to do I really want to be able to take
+
+185
+00:16:58,879 --> 00:17:05,023
+Sp32 strap a to a couple of the senses and making an add-on for your phone so you can look in
+
+186
+00:17:05,279 --> 00:17:08,351
+The three-dimensional world almost like an ar system
+
+187
+00:17:08,607 --> 00:17:13,983
+I don't really think it's an interesting this mean like replacing Google cardboard but I think this is
+
+188
+00:17:14,239 --> 00:17:19,103
+Really need it now what does the SBA say with this
+
+189
+00:17:20,639 --> 00:17:22,431
+Oh you gotta be kidding me
+
+190
+00:17:24,479 --> 00:17:26,527
+Oh guys look at this
+
+191
+00:17:28,319 --> 00:17:29,343
+That
+
+192
+00:17:31,903 --> 00:17:32,927
+This is incredible
+
+193
+00:17:39,327 --> 00:17:43,167
+So it's jaggedy and all that there's no imu sensor Fusion
+
+194
+00:17:45,215 --> 00:17:51,359
+What are so I guess we should probably get started for the day we spend about half an hour recapping everything
+
+195
+00:17:51,615 --> 00:17:52,383
+Going on
+
+196
+00:17:52,639 --> 00:17:56,223
+With with life survive and
+
+197
+00:17:56,735 --> 00:18:01,343
+Now what the goal is
+
+198
+00:18:04,159 --> 00:18:06,975
+So this
+
+199
+00:18:10,559 --> 00:18:12,351
+I am I hope you was watching
+
+200
+00:18:13,119 --> 00:18:14,399
+Q
+
+201
+00:18:19,775 --> 00:18:23,871
+Are you watching the
+
+202
+00:18:24,383 --> 00:18:26,943
+Ok
+
+203
+00:18:27,967 --> 00:18:34,111
+So I have right here a orange pi
+
+204
+00:18:34,367 --> 00:18:40,511
+Play wine listening is like Tiny actually I do have to add a heatsink to this
+
+205
+00:18:40,767 --> 00:18:46,911
+Get down to do that while working on it I'll be there this thing right here normally like
+
+206
+00:18:47,167 --> 00:18:53,311
+They have a duck like that enough to Alperton the vibe in the vibe on fortunately has
+
+207
+00:18:53,567 --> 00:18:59,711
+Very restrictive set of modes that it allowed to operate in so you
+
+208
+00:18:59,967 --> 00:19:06,111
+Operative ID at all if you can't drive a resolution that matches the
+
+209
+00:19:06,367 --> 00:19:12,511
+One the stupid 12 or 2160 by 1200 that requires which is
+
+210
+00:19:12,767 --> 00:19:18,911
+Would preclude operating on something with very limited hardware except
+
+211
+00:19:19,167 --> 00:19:25,311
+Orange Pi has a dark clock that can just eat by so it does mean
+
+212
+00:19:25,567 --> 00:19:31,711
+Turnpike an output to the 5th some problems in that there is no kernel there wasn't the current
+
+213
+00:19:31,967 --> 00:19:36,575
+Few days ago that would be able to actually run
+
+214
+00:19:37,343 --> 00:19:39,391
+No actually be able to run
+
+215
+00:19:40,927 --> 00:19:43,743
+The Mali drivers the video card drivers
+
+216
+00:19:43,999 --> 00:19:44,511
+B
+
+217
+00:19:44,767 --> 00:19:46,047
+Thankfully
+
+218
+00:19:46,303 --> 00:19:52,447
+I can't about this lifestream which was the best person ever been going to see this later but then was like
+
+219
+00:19:52,703 --> 00:19:55,007
+Play Somebody put a project on hiatus for a year
+
+220
+00:19:55,263 --> 00:20:01,407
+Need it went on hiatus but they came back in the finished and I had to make some Carol patches and I'm still trying to
+
+221
+00:20:01,663 --> 00:20:07,807
+Some things ran through the main line it's not going so hard they don't really like my recommendations and I spent hour
+
+222
+00:20:08,063 --> 00:20:12,159
+How to send an email so they all go through but
+
+223
+00:20:12,415 --> 00:20:14,975
+Regardless what I do have
+
+224
+00:20:15,231 --> 00:20:21,375
+I have this little guy right here and one thing I can run on it
+
+225
+00:20:21,631 --> 00:20:24,447
+What I'll do is I'll see you guys going to unplug
+
+226
+00:20:24,703 --> 00:20:26,239
+The arm
+
+227
+00:20:26,495 --> 00:20:32,639
+The projector output which is projecting over there she can't really see that you don't really
+
+228
+00:20:32,895 --> 00:20:39,039
+B2c environment to do is plug in the five
+
+229
+00:20:39,295 --> 00:20:45,439
+Sufficient I think needs to be rebooted even better just decide to reboot itself
+
+230
+00:20:45,695 --> 00:20:51,839
+What's
+
+231
+00:20:52,095 --> 00:20:58,239
+It's little dealio
+
+232
+00:20:58,495 --> 00:21:04,639
+I'm gonna go kill live survivor here
+
+233
+00:21:05,151 --> 00:21:09,247
+Close that window
+
+234
+00:21:17,440 --> 00:21:22,048
+Ok
+
+235
+00:21:24,352 --> 00:21:25,376
+Miss me
+
+236
+00:21:38,176 --> 00:21:44,320
+Play one thing we can do is cat daddy
+
+237
+00:21:44,576 --> 00:21:47,136
+Random into Dev fp0
+
+238
+00:21:48,928 --> 00:21:55,072
+Ok so if you look inside here
+
+239
+00:21:58,144 --> 00:22:01,472
+Get all jaggedy
+
+240
+00:22:09,408 --> 00:22:14,784
+How do I set that should be
+
+241
+00:22:16,576 --> 00:22:21,440
+Oh no I need to do that with
+
+242
+00:22:21,696 --> 00:22:26,560
+Cubic view
+
+243
+00:22:42,432 --> 00:22:48,576
+So now you can see that this is a large pie is actually are putting to the Vibe
+
+244
+00:22:48,832 --> 00:22:53,440
+Thought I had it working with the drivers but I guess not
+
+245
+00:22:56,000 --> 00:23:02,144
+Can't initialise by GL50
+
+246
+00:23:02,400 --> 00:23:08,544
+Sonic build RC
+
+247
+00:23:12,128 --> 00:23:18,272
+Ok I'm just try reinstalling device drivers
+
+248
+00:23:18,528 --> 00:23:19,296
+Is it
+
+249
+00:23:19,552 --> 00:23:24,160
+I haven't seen anyway in a while still working
+
+250
+00:23:26,976 --> 00:23:29,536
+I'm an idiot
+
+251
+00:23:32,352 --> 00:23:35,424
+I started somebody type something make sure that the
+
+252
+00:23:35,936 --> 00:23:37,216
+The child is working
+
+253
+00:23:38,496 --> 00:23:44,384
+Ok I actually ctrl-c did I don't know what I why did that by accident
+
+254
+00:23:48,992 --> 00:23:54,112
+Also increase game song
+
+255
+00:23:54,368 --> 00:23:55,392
+Anyway
+
+256
+00:23:57,184 --> 00:24:02,048
+IPhone
+
+257
+00:24:10,496 --> 00:24:12,288
+Try rebooting again
+
+258
+00:24:13,824 --> 00:24:17,408
+Silicone turning there was a DPF issue
+
+259
+00:24:25,344 --> 00:24:29,952
+No be crazy if this is a but for something I thought I had working
+
+260
+00:24:32,512 --> 00:24:34,816
+There is actually a bunch of stuff that
+
+261
+00:24:44,032 --> 00:24:46,080
+Ok
+
+262
+00:24:50,944 --> 00:24:57,088
+So you know what
+
+263
+00:24:57,344 --> 00:24:59,648
+What is a core dump
+
+264
+00:25:00,416 --> 00:25:02,976
+Inside the channel so it's power off and back on
+
+265
+00:25:04,512 --> 00:25:07,328
+The other interesting things the
+
+266
+00:25:07,584 --> 00:25:11,936
+Even the Bootloader knows how to help with the device which is just while
+
+267
+00:25:17,056 --> 00:25:19,872
+How to really see it in there
+
+268
+00:25:22,944 --> 00:25:29,088
+Going
+
+269
+00:25:43,680 --> 00:25:46,752
+Device
+
+270
+00:25:47,008 --> 00:25:49,568
+Working
+
+271
+00:26:05,184 --> 00:26:07,744
+Can you find the mode
+
+272
+00:26:13,888 --> 00:26:20,032
+Yeah probably take about 5
+
+273
+00:26:20,288 --> 00:26:26,432
+Play minutes but it's something we're going to have to do to get it working in sewing keep on moving
+
+274
+00:26:26,688 --> 00:26:28,224
+Where is that
+
+275
+00:26:33,600 --> 00:26:39,744
+No I don't want to delete emojis before breeding that's half the fun of watching you guys
+
+276
+00:26:40,000 --> 00:26:43,072
+Heating just stop
+
+277
+00:26:43,328 --> 00:26:43,840
+Off
+
+278
+00:26:44,096 --> 00:26:45,120
+Ok
+
+279
+00:26:45,888 --> 00:26:47,168
+Wow
+
+280
+00:26:51,520 --> 00:26:54,592
+Well Mark just deleted that one
+
+281
+00:26:57,920 --> 00:27:03,040
+Arch arm too
+
+282
+00:27:21,472 --> 00:27:27,616
+1direction
+
+283
+00:27:37,088 --> 00:27:38,368
+That's interesting
+
+284
+00:27:39,648 --> 00:27:45,792
+Sure that's copy tilde slash son
+
+285
+00:27:47,328 --> 00:27:53,216
+I'm so what I'm doing right now is doing these files the DTS files within
+
+286
+00:27:56,032 --> 00:28:00,384
+Ok you know what it's some point I'm going to just have to the band hymns
+
+287
+00:28:01,152 --> 00:28:03,968
+Somehow I don't even know
+
+288
+00:28:04,736 --> 00:28:07,808
+Is just going to keep making emails or is
+
+289
+00:28:17,024 --> 00:28:18,560
+Yeah the bridge light is on
+
+290
+00:28:19,072 --> 00:28:25,216
+Whatever
+
+291
+00:28:25,472 --> 00:28:31,616
+The description on bridge is get hard
+
+292
+00:28:31,872 --> 00:28:38,016
+Social media tools and in here it is
+
+293
+00:28:38,272 --> 00:28:43,648
+Tchat monitor Bridge discord and then the other one is
+
+294
+00:28:43,904 --> 00:28:45,184
+VR
+
+295
+00:28:47,232 --> 00:28:53,376
+Well live survive years get hard
+
+296
+00:28:53,632 --> 00:28:55,936
+Ok
+
+297
+00:28:56,192 --> 00:29:02,336
+Very go go go go go make a thing so I can get rid of specific
+
+298
+00:29:02,592 --> 00:29:04,128
+Play anybody doing
+
+299
+00:29:05,920 --> 00:29:06,944
+Anywhere
+
+300
+00:29:09,760 --> 00:29:13,344
+G-board
+
+301
+00:29:15,648 --> 00:29:21,792
+So I'm going to go copy it so anyway on the all-weather trip like the arm
+
+302
+00:29:22,048 --> 00:29:28,192
+Lyrics system-on-chip things what they're trying to do is there trying to unify the kobeissi they can use the same kernels
+
+303
+00:29:28,448 --> 00:29:34,592
+Different light configuration items so these DTS files describe a high level what the harbour loadout
+
+304
+00:29:34,848 --> 00:29:40,992
+Including like white part of memory things are found in that kind of stuff so you can have something it says like
+
+305
+00:29:41,248 --> 00:29:43,296
+I'm in orange Pi 1
+
+306
+00:29:43,552 --> 00:29:49,696
+Col go do your thing and it will automatically KNOWHOW all of that set up now I spent hours
+
+307
+00:29:49,952 --> 00:29:56,096
+Been through it trying to figure out how the world to use it works now I'm good
+
+308
+00:29:56,352 --> 00:30:00,960
+This is one of the files that I was trying to get them to patch this still haven't matched it on
+
+309
+00:30:01,216 --> 00:30:04,544
+I'm really bad at getting people upstream to do things
+
+310
+00:30:04,800 --> 00:30:07,872
+I just don't know how to make that happen
+
+311
+00:30:09,920 --> 00:30:10,688
+Anyway
+
+312
+00:30:10,944 --> 00:30:12,480
+I'm going to
+
+313
+00:30:14,016 --> 00:30:17,088
+What's make sure
+
+314
+00:30:17,344 --> 00:30:23,488
+What's copy Dad
+
+315
+00:30:23,744 --> 00:30:28,864
+I can say vtbd TDS install
+
+316
+00:30:46,528 --> 00:30:48,576
+Ok so
+
+317
+00:30:48,832 --> 00:30:54,976
+Now I know just go double-check lsfl till the / boots / my TV
+
+318
+00:30:57,280 --> 00:31:01,888
+Website BTB
+
+319
+00:31:02,656 --> 00:31:04,704
+Ok that's pointing to that folder there
+
+320
+00:31:04,960 --> 00:31:11,104
+/ ttd / 4.1 6.0 Dash
+
+321
+00:31:11,360 --> 00:31:15,456
+3 make sure that's the right time
+
+322
+00:31:15,712 --> 00:31:19,808
+March 21st 20 day did ok what's reboot
+
+323
+00:31:20,064 --> 00:31:24,928
+Panicked again
+
+324
+00:31:25,184 --> 00:31:26,208
+Send it
+
+325
+00:31:26,720 --> 00:31:31,584
+Colonel club panicking and doing more stuff
+
+326
+00:31:31,840 --> 00:31:33,632
+Detaching loop devices
+
+327
+00:31:34,144 --> 00:31:36,704
+Is actually from
+
+328
+00:31:39,520 --> 00:31:45,664
+Really lemon in there yeah inside the headset
+
+329
+00:31:45,920 --> 00:31:52,064
+Go actually read the the thing there
+
+330
+00:31:52,320 --> 00:31:57,184
+Yes Dan
+
+331
+00:32:05,120 --> 00:32:11,008
+Ok fingers crossed that we will actually get 3D this time
+
+332
+00:32:17,920 --> 00:32:19,200
+Don't know the I fell off
+
+333
+00:32:19,456 --> 00:32:25,600
+Can't have a headset without the eyes
+
+334
+00:32:25,856 --> 00:32:32,000
+On
+
+335
+00:32:43,264 --> 00:32:49,408
+Hey bingo ok so what I have here
+
+336
+00:32:49,664 --> 00:32:55,808
+Are you going to get to see all of those all things hair bows
+
+337
+00:32:56,064 --> 00:33:02,208
+All individual triangles now it's something weird that goes on a little bit further down but
+
+338
+00:33:02,464 --> 00:33:08,608
+Are the triangles are a lot of them and it's rendering this at 90 FPS
+
+339
+00:33:08,864 --> 00:33:15,008
+Little boys right here he is able to keep up
+
+340
+00:33:15,264 --> 00:33:21,408
+Delta overheating crash and die I'm going to kill it before that happens so we will have to
+
+341
+00:33:21,664 --> 00:33:26,528
+Play ar add something to a turkey kind of temperature ok
+
+342
+00:33:26,784 --> 00:33:28,832
+Which I just realised
+
+343
+00:33:29,856 --> 00:33:30,880
+I don't know
+
+344
+00:33:31,136 --> 00:33:36,256
+The Tread the thermal things to have thermal pads on sale
+
+345
+00:33:44,704 --> 00:33:50,848
+Let's see here what's going on ok so right now
+
+346
+00:33:51,104 --> 00:33:57,248
+Play show you guys is this or like Mali testing right here which is just
+
+347
+00:33:57,504 --> 00:34:03,648
+PGL Buddha but it's running at 2160 by 1200 Bandit showing 150 by
+
+348
+00:34:03,904 --> 00:34:10,048
+150 triangles 150 x 150
+
+349
+00:34:10,304 --> 00:34:11,584
+Is
+
+350
+00:34:11,840 --> 00:34:17,984
+What year is 22500 triangles are being rounded in the vibe from
+
+351
+00:34:18,240 --> 00:34:24,384
+A $19 computer so my goal is to in a couple weeks
+
+352
+00:34:24,640 --> 00:34:30,784
+Maybe have a something that you could actually play Like a video game that you can play in the vibe it's probably going by
+
+353
+00:34:31,040 --> 00:34:32,576
+Friend on
+
+354
+00:34:32,832 --> 00:34:38,976
+Just imagine also run cmatrix if you can display
+
+355
+00:34:39,232 --> 00:34:41,024
+You command in headset
+
+356
+00:34:41,536 --> 00:34:43,584
+I don't know what's ematrix is
+
+357
+00:34:45,888 --> 00:34:52,032
+Orange Pi Amazon this is an orange Pi 1 not in orange Pi PC
+
+358
+00:34:52,288 --> 00:34:58,432
+Have an orange Pi PC here I haven't actually looked it up yet but it should work with the five
+
+359
+00:34:58,688 --> 00:35:02,272
+While I think about it let me go fix the game
+
+360
+00:35:03,552 --> 00:35:06,112
+That looks better
+
+361
+00:35:13,024 --> 00:35:17,888
+Also 1960 11 to 52
+
+362
+00:35:18,144 --> 00:35:20,448
+I'm not also fixed the
+
+363
+00:35:21,984 --> 00:35:23,008
+Hello
+
+364
+00:35:23,264 --> 00:35:24,800
+I don't know these controls deal
+
+365
+00:35:43,488 --> 00:35:45,792
+I assure you it's very bright up there
+
+366
+00:35:46,560 --> 00:35:48,352
+I don't really know what the cameras doing
+
+367
+00:35:52,192 --> 00:35:52,960
+Ok
+
+368
+00:35:55,008 --> 00:35:57,312
+Artsy what are people saying in chat
+
+369
+00:36:03,456 --> 00:36:09,600
+You can read the catalogue from the Viber made me to the Carol
+
+370
+00:36:09,856 --> 00:36:13,696
+$90 Amazon
+
+371
+00:36:14,720 --> 00:36:19,072
+Art like this all the time
+
+372
+00:36:19,328 --> 00:36:25,472
+Yeah dude 6.8 asteroids that would be the way
+
+373
+00:36:25,728 --> 00:36:31,872
+I'm thinking the things going to have no time keeping up with on the 5 with wireframe
+
+374
+00:36:32,128 --> 00:36:38,272
+I don't think it's going to be able to draw very much because between clearing the screen and rendering
+
+375
+00:36:38,528 --> 00:36:44,672
+Triangles wants and then rendering like overlap for a factor of 2 it can't keep up and that
+
+376
+00:36:44,928 --> 00:36:51,072
+Are you the shader it is so minimal it is in Spain
+
+377
+00:36:51,328 --> 00:36:54,400
+This is the shader
+
+378
+00:36:54,656 --> 00:37:00,800
+Were used to doing like 100 operations in the shooter something it's kind of
+
+379
+00:37:01,056 --> 00:37:03,104
+Generally is minimal nowadays like
+
+380
+00:37:03,360 --> 00:37:09,504
+What is cmatrix I don't also I don't have
+
+381
+00:37:09,760 --> 00:37:15,904
+A keyboard up to it so I can't really type things into it on
+
+382
+00:37:16,160 --> 00:37:22,304
+Anyway this GPU is literally that the fragment shader
+
+383
+00:37:22,560 --> 00:37:28,704
+Is literally the pixel into the buffer Indian like ok it's Toronto
+
+384
+00:37:28,960 --> 00:37:35,104
+Stop this all of this this all brings us to what we're actually doing today
+
+385
+00:37:35,360 --> 00:37:41,504
+The Matrix in my mind
+
+386
+00:37:41,760 --> 00:37:47,904
+Vibe headset that's strange
+
+387
+00:37:48,160 --> 00:37:54,304
+Sometime but not right now for this part
+
+388
+00:37:54,560 --> 00:38:00,704
+We're going to change the chat window because we have now done
+
+389
+00:38:00,960 --> 00:38:07,104
+Last 2-weeks and now are going to be putting rod raw on
+
+390
+00:38:13,760 --> 00:38:19,904
+Ok also that way so there we go
+
+391
+00:38:20,160 --> 00:38:26,304
+R2c
+
+392
+00:38:26,560 --> 00:38:32,704
+Oh come on I trying to actually spend almost the entire time actually recapping stuff and I would imagine this
+
+393
+00:38:32,960 --> 00:38:39,104
+The interesting for you are I would hope it's been pretty interesting to you all see if the viewer count to 100
+
+394
+00:38:39,360 --> 00:38:45,504
+So yeah I'm going to go with this was a pretty good livestream so far what we're going to do though
+
+395
+00:38:45,760 --> 00:38:51,904
+Is so smooth you guys might be aware of Rodger it's how we are we operate a number of things like a
+
+396
+00:38:52,160 --> 00:38:58,304
+Can you tell us 4 cm pick so if I say see anything google.com
+
+397
+00:38:58,560 --> 00:39:04,704
+Right here is strong or FIFA
+
+398
+00:39:24,160 --> 00:39:30,304
+RC I can type without
+
+399
+00:39:30,560 --> 00:39:36,704
+Placing my fingers ok
+
+400
+00:39:36,960 --> 00:39:43,104
+Check
+
+401
+00:39:43,360 --> 00:39:49,504
+You can help in web addresses this is actually pinging http
+
+402
+00:39:49,760 --> 00:39:55,904
+Call back home within HTTP thing
+
+403
+00:39:56,160 --> 00:40:02,304
+But I think this is just to burst swanky because like it's actually require
+
+404
+00:40:02,560 --> 00:40:08,704
+I'm from Google by K can I get that webpage in your actually paying it and you can do this
+
+405
+00:40:08,960 --> 00:40:15,104
+So somebody wanted deportes en paying over the Android like you actually could now
+
+406
+00:40:15,360 --> 00:40:21,504
+If anybody does want to port City anything over to Google please do so
+
+407
+00:40:21,760 --> 00:40:27,904
+See hear
+
+408
+00:40:28,160 --> 00:40:34,304
+My friend just texted me she was administered she says if I won't lie
+
+409
+00:40:34,560 --> 00:40:40,704
+Everytime it snowed I'd never get off my phone
+
+410
+00:40:40,960 --> 00:40:47,104
+Actually no day anyway
+
+411
+00:40:47,360 --> 00:40:53,504
+You being close all that over trying to do right now is trying to make a on
+
+412
+00:40:53,760 --> 00:40:59,904
+Etl driver for Rod rod and what is going to do is going to give us a common platform to be able to
+
+413
+00:41:00,160 --> 00:41:06,304
+Draw things inside the bike headset on this is gonna be really valuable because rod rod something that we
+
+414
+00:41:06,560 --> 00:41:12,704
+Unlike use and test in other environments as well so we're not limited in so far as the
+
+415
+00:41:12,960 --> 00:41:18,080
+Development in developing and developed in really specific things
+
+416
+00:41:18,336 --> 00:41:24,480
+What are you annoying thing as egl completely removes immediate mode so you have to claim a fake It Yourself
+
+417
+00:41:24,736 --> 00:41:27,552
+Which is a little bit awkward
+
+418
+00:41:27,808 --> 00:41:33,952
+Can you just do it anyway so
+
+419
+00:41:34,208 --> 00:41:40,352
+Alright now as you guys can see is supporting rudra and that would be important to the headset
+
+420
+00:41:40,608 --> 00:41:46,752
+Understand the end goal for today is to be able to see an object in 3D space
+
+421
+00:41:47,008 --> 00:41:53,151
+Please may I be able to move the headset and heavy object kind of see
+
+422
+00:41:53,407 --> 00:41:58,783
+Still a little bit during that so yeah
+
+423
+00:41:59,807 --> 00:42:03,135
+Gomovies
+
+424
+00:42:07,487 --> 00:42:13,631
+Ok so what I have in St cyr
+
+425
+00:42:13,887 --> 00:42:20,031
+Raja cmfg you can do things like a pixel which would go out put one more
+
+426
+00:42:20,287 --> 00:42:26,431
+Pixel to the screen on a specific location or tax segment which would take a segment cheapest
+
+427
+00:42:26,687 --> 00:42:32,831
+Line segment to the screen at the specific location so these are all really basic
+
+428
+00:42:33,087 --> 00:42:39,231
+We have to in order to work with egl we're gonna have to put them into offers
+
+429
+00:42:39,487 --> 00:42:42,047
+Turn my problem we go setup
+
+430
+00:42:42,303 --> 00:42:45,119
+Excuse me setup a buffer and alcoholic
+
+431
+00:42:45,375 --> 00:42:51,519
+Alarm in specific to Marty
+
+432
+00:42:51,775 --> 00:42:57,919
+I was same a maltese whatever same thing because it's really fast
+
+433
+00:42:58,175 --> 00:43:02,783
+It doesn't have any of the composites of slow down it's it's just
+
+434
+00:43:03,039 --> 00:43:09,183
+It's super duper fast so you can even use it in the arms and it feels real time
+
+435
+00:43:09,439 --> 00:43:15,583
+Anyway so I was actually working on tax segment on before I started on
+
+436
+00:43:15,839 --> 00:43:21,983
+We're going to go now so what you can do there
+
+437
+00:43:22,239 --> 00:43:28,383
+Briefings X1 y1 X2 Y2 and
+
+438
+00:43:28,639 --> 00:43:34,783
+Colour butter
+
+439
+00:43:35,039 --> 00:43:36,831
+We want to make that x
+
+440
+00:43:43,231 --> 00:43:49,375
+Because we have a line a colour for this segment and a colour for the end
+
+441
+00:43:49,631 --> 00:43:51,935
+Text we have a colour basically
+
+442
+00:44:01,407 --> 00:44:07,551
+X 2 she know how the lines worth with Tom
+
+443
+00:44:07,807 --> 00:44:13,951
+With with a g l e s wear with dark PGL so we'll see
+
+444
+00:44:14,207 --> 00:44:14,975
+Alarms
+
+445
+00:44:16,255 --> 00:44:21,887
+See how that goes so next is
+
+446
+00:44:27,775 --> 00:44:30,335
+Vgl
+
+447
+00:44:31,103 --> 00:44:34,943
+Acquired
+
+448
+00:44:42,623 --> 00:44:44,159
+Sergio quads
+
+449
+00:44:59,007 --> 00:45:00,031
+What is that
+
+450
+00:45:00,287 --> 00:45:06,431
+Airlines tier points and what are they
+
+451
+00:45:06,687 --> 00:45:08,223
+We have
+
+452
+00:45:08,991 --> 00:45:15,135
+TCL lines GL triangles to quads
+
+453
+00:45:15,391 --> 00:45:19,999
+I'll put quads
+
+454
+00:45:25,631 --> 00:45:31,263
+3
+
+455
+00:45:31,519 --> 00:45:37,663
+Accounting for rectangles of that uses the background colour of the foreground colour
+
+456
+00:45:37,919 --> 00:45:44,063
+So inside here
+
+457
+00:45:44,319 --> 00:45:50,463
+Tack rectangle that doesn't really tell me much
+
+458
+00:45:50,719 --> 00:45:56,863
+Brush based off of last
+
+459
+00:46:00,703 --> 00:46:05,055
+Yes so uses the EGR currentcolor
+
+460
+00:46:08,895 --> 00:46:15,039
+Ok cos there's four points
+
+461
+00:46:27,327 --> 00:46:33,471
+We'll see if I can keep ringing back Morar YouTube I chat stuff I'm glad for this one I was able to get the
+
+462
+00:46:33,727 --> 00:46:34,751
+Thing up and running
+
+463
+00:46:35,263 --> 00:46:41,407
+I'm really happy with that what is your question with GLS less than 2
+
+464
+00:46:41,663 --> 00:46:43,199
+I don't know what you're on
+
+465
+00:46:45,247 --> 00:46:48,063
+You got you do are you serious read
+
+466
+00:46:48,319 --> 00:46:49,855
+What is this the
+
+467
+00:46:50,111 --> 00:46:52,927
+Oh my gosh you guys but so depressing
+
+468
+00:46:53,439 --> 00:46:54,463
+Why would the
+
+469
+00:46:54,719 --> 00:46:58,047
+Why do people get rid of things that are so good
+
+470
+00:47:04,703 --> 00:47:06,751
+So wait so it'll be
+
+471
+00:47:12,639 --> 00:47:17,503
+I guess I really only had two triangles then right there's no
+
+472
+00:47:18,015 --> 00:47:18,527
+Heart
+
+473
+00:47:22,367 --> 00:47:23,647
+Whatever
+
+474
+00:47:24,671 --> 00:47:29,535
+W = 2 triangles how does that work
+
+475
+00:47:29,791 --> 00:47:32,095
+What school look at the example code
+
+476
+00:47:32,351 --> 00:47:34,655
+Conveniently we have the
+
+477
+00:47:35,167 --> 00:47:41,311
+Basically basing this author Melita because I do know that this application works so I can
+
+478
+00:47:41,567 --> 00:47:47,711
+One of the things I am looking sorry about this to get sizes that means there is no z-buffer with the cast
+
+479
+00:47:47,967 --> 00:47:48,991
+Will worry about that later
+
+480
+00:47:56,415 --> 00:48:00,255
+Ok Josh if I wanted to spew some lines of the screen
+
+481
+00:48:00,511 --> 00:48:04,095
+I don't understand why shouldn't be allowed to spew some lines on the screen
+
+482
+00:48:04,351 --> 00:48:08,703
+Like I get that it's slow as molasses as it should be
+
+483
+00:48:09,983 --> 00:48:11,775
+Outline the got to go somewhere
+
+484
+00:48:12,031 --> 00:48:14,079
+I'm not having a buffer object
+
+485
+00:48:28,927 --> 00:48:33,023
+I guess you'll triangles tries count x 3
+
+486
+00:48:33,279 --> 00:48:37,119
+What's the number of vertices that sell pudding
+
+487
+00:48:38,399 --> 00:48:39,679
+So really
+
+488
+00:48:39,935 --> 00:48:42,751
+If I was going to do this it would be
+
+489
+00:48:43,007 --> 00:48:45,567
+But but
+
+490
+00:49:09,631 --> 00:49:13,983
+Are my friend just texted me asking me what I'm doing
+
+491
+00:49:14,239 --> 00:49:20,383
+Right now I'm trying to get this orange Pi the small $19 computer and a man
+
+492
+00:49:20,639 --> 00:49:26,783
+Try to get this thing to output video to the HTC vive
+
+493
+00:49:27,039 --> 00:49:28,319
+Possible theoretically
+
+494
+00:49:28,575 --> 00:49:34,719
+To have VR entirely in the headset so I won't have to have a long cable
+
+495
+00:49:34,975 --> 00:49:40,351
+Going all the way back to the wall and to the computer
+
+496
+00:49:41,887 --> 00:49:43,679
+I just did that thing
+
+497
+00:50:01,087 --> 00:50:07,231
+Saudi X1 so making the quad and so that's going to be
+
+498
+00:50:28,223 --> 00:50:34,367
+So that's going to be X1 y1
+
+499
+00:50:34,623 --> 00:50:35,903
+Over 2
+
+500
+00:50:36,415 --> 00:50:39,999
+X2 y1
+
+501
+00:50:40,255 --> 00:50:46,399
+And we got to be clockwise when arranging things
+
+502
+00:50:46,655 --> 00:50:52,799
+Don't forget to go clockwise
+
+503
+00:51:03,039 --> 00:51:06,111
+Tell me read your guide stuff you've been saying a lot of stuff
+
+504
+00:51:12,767 --> 00:51:14,559
+Yeah it's really depressing
+
+505
+00:51:17,887 --> 00:51:24,031
+Yeah it's fine I'm just looking at the amount of bits you have to give to the the headset and it's just
+
+506
+00:51:24,287 --> 00:51:30,431
+It's just completely depressing so the next so 1234
+
+507
+00:51:30,687 --> 00:51:36,831
+So the next to sea would be x 1 y 2 which is that
+
+508
+00:51:37,087 --> 00:51:43,231
+And then the next ones we would do is X1 Y2 than x 2
+
+509
+00:51:43,487 --> 00:51:46,303
+Y1 and then x
+
+510
+00:51:46,559 --> 00:51:52,703
+2 y 20 123456789 10
+
+511
+00:51:52,959 --> 00:51:59,103
+Navan for the 12th and then for the colours we feel it in 12
+
+512
+00:51:59,359 --> 00:52:05,503
+34 123 45 x 6
+
+513
+00:52:05,759 --> 00:52:11,135
+Ok on wish that you had it had
+
+514
+00:52:11,391 --> 00:52:12,671
+The thing where you could
+
+515
+00:52:14,975 --> 00:52:17,535
+Vertically anyway
+
+516
+00:52:19,839 --> 00:52:25,983
+Neon pi is is OpenGL ES
+
+517
+00:52:27,263 --> 00:52:30,591
+Clicking like music on nobody's referring to
+
+518
+00:52:31,359 --> 00:52:32,383
+Are
+
+519
+00:52:35,711 --> 00:52:41,855
+The bandwidth is hard anyway so
+
+520
+00:52:42,111 --> 00:52:46,719
+The rectangle in X1 is transmitting polygons
+
+521
+00:52:47,743 --> 00:52:49,535
+Arbitrary polygons
+
+522
+00:52:52,095 --> 00:52:58,239
+Now drivers not intended for normal operation it is just intended for
+
+523
+00:52:59,775 --> 00:53:00,287
+Bike
+
+524
+00:53:01,311 --> 00:53:07,455
+Right output but you can abuse rod ra2 output to open up a screen
+
+525
+00:53:07,711 --> 00:53:13,855
+To have the underline OpenGL OpenGL ES available to you so that way if you want to have it open to your window
+
+526
+00:53:14,111 --> 00:53:20,255
+Don't want to include or do all the window open yourself you can just use rather on
+
+527
+00:53:20,511 --> 00:53:23,071
+Just throwing it out there if you guys want to have some fun with it
+
+528
+00:53:25,375 --> 00:53:31,519
+Yes ggl size
+
+529
+00:53:39,199 --> 00:53:43,295
+Overflowed
+
+530
+00:53:43,551 --> 00:53:44,831
+The buffer
+
+531
+00:54:05,311 --> 00:54:08,383
+And I do have to subscribe to
+
+532
+00:54:09,151 --> 00:54:12,479
+Describe fewer is 2
+
+533
+00:54:12,735 --> 00:54:18,879
+The stride means the number of components per day died in Sofia right now just X and Y
+
+534
+00:54:19,135 --> 00:54:20,927
+So I'm selling it to till
+
+535
+00:54:25,791 --> 00:54:28,351
+Krd point
+
+536
+00:54:33,727 --> 00:54:36,799
+What is an early point I don't remember
+
+537
+00:54:40,639 --> 00:54:43,199
+So where is the thing for
+
+538
+00:54:48,319 --> 00:54:50,879
+Keep using shorts
+
+539
+00:55:45,407 --> 00:55:50,527
+Turn the frame didn't go copy and paste that from over here
+
+540
+00:55:50,783 --> 00:55:53,087
+Add
+
+541
+00:55:54,111 --> 00:56:00,255
+How do I should figure out a clear with back cover
+
+542
+00:56:00,511 --> 00:56:01,535
+To do that
+
+543
+00:56:08,191 --> 00:56:09,215
+I lost my preview
+
+544
+00:56:17,919 --> 00:56:18,943
+At that right
+
+545
+00:56:23,039 --> 00:56:24,063
+Ice pack
+
+546
+00:56:24,575 --> 00:56:28,159
+I lost the the YouTube preview for heart secondary
+
+547
+00:56:29,951 --> 00:56:36,095
+Anyway so we're going to take polygons for going to clear frames in order to clear the frame programmed to be cleared
+
+548
+00:56:36,351 --> 00:56:42,495
+Where and declare possible clear colour
+
+549
+00:56:48,639 --> 00:56:54,527
+What's the hell VX driver does it
+
+550
+00:56:55,039 --> 00:56:58,367
+Clear frame
+
+551
+00:56:59,391 --> 00:57:05,535
+Foreground
+
+552
+00:57:08,351 --> 00:57:11,167
+We will use that too I guess
+
+553
+00:57:12,191 --> 00:57:17,823
+And sobr which is That Ends Well
+
+554
+00:57:29,343 --> 00:57:33,439
+X
+
+555
+00:57:34,207 --> 00:57:37,535
+That number
+
+556
+00:57:37,791 --> 00:57:39,583
+Turn down
+
+557
+00:57:43,935 --> 00:57:47,775
+55 times
+
+558
+00:57:48,287 --> 00:57:52,383
+Set a timer 65 that number
+
+559
+00:58:00,831 --> 00:58:06,207
+It's kind of wacky then for the next one cause you can't multiply that out because you'd lose bits of precision
+
+560
+00:58:07,999 --> 00:58:10,815
+Turn it down
+
+561
+00:58:13,631 --> 00:58:19,775
+24-bit down and then we can do 255 again
+
+562
+00:58:20,031 --> 00:58:24,639
+That should clear the frames now swapping bottles that should be fairly easy to
+
+563
+00:58:27,711 --> 00:58:28,991
+Offers
+
+564
+00:58:29,247 --> 00:58:35,391
+Ytl swap office what is a function for it
+
+565
+00:58:43,327 --> 00:58:48,447
+That's a good point Morpheus even the stupidest of compilers will do that
+
+566
+00:58:49,727 --> 00:58:52,031
+I don't know it's just force of habit I guess
+
+567
+00:58:52,799 --> 00:58:56,127
+Probably better I probably should have written it the other way
+
+568
+00:58:57,151 --> 00:59:03,295
+Anyway get dimensions
+
+569
+00:59:04,319 --> 00:59:07,647
+Do we already have screen with the height stored anywhere
+
+570
+00:59:09,439 --> 00:59:12,767
+Need a window handles that
+
+571
+00:59:13,023 --> 00:59:17,119
+Is an actual fine
+
+572
+00:59:27,359 --> 00:59:33,503
+Turn the light off
+
+573
+00:59:33,759 --> 00:59:39,903
+Ok
+
+574
+00:59:40,159 --> 00:59:46,303
+You had better already be in full screen mode
+
+575
+00:59:46,559 --> 00:59:52,703
+Candle import we don't have any input on the system so
+
+576
+00:59:52,959 --> 00:59:59,103
+Don't know what to do there so next thing we have to do that is set up the screen
+
+577
+00:59:59,359 --> 01:00:01,663
+How do we do that let's go over here unlock
+
+578
+01:00:04,991 --> 01:00:07,295
+Copy and paste this code
+
+579
+01:00:09,343 --> 01:00:15,487
+Xopendisplay Noel the Wi-Fi using X11 which were not be
+
+580
+01:00:15,743 --> 01:00:21,375
+I have still not been able to get the thing to start up an X11 window with video acceleration
+
+581
+01:00:21,631 --> 01:00:24,703
+Forget it
+
+582
+01:00:31,615 --> 01:00:37,759
+Tea here so next thing to display which should
+
+583
+01:00:38,015 --> 01:00:38,783
+Work
+
+584
+01:00:39,039 --> 01:00:41,599
+Theoretically
+
+585
+01:00:46,463 --> 01:00:49,279
+Probably want to do that
+
+586
+01:00:50,559 --> 01:00:54,143
+What's to all this stuff this looks good I like all the stuff
+
+587
+01:00:55,679 --> 01:00:58,495
+Looks like a really good stuff
+
+588
+01:00:58,751 --> 01:01:00,031
+Stop stop stop
+
+589
+01:01:01,567 --> 01:01:04,895
+Let's go copy on this wholesale
+
+590
+01:01:05,663 --> 01:01:08,223
+I am really starting to hope that
+
+591
+01:01:08,735 --> 01:01:10,015
+This is
+
+592
+01:01:10,271 --> 01:01:12,575
+Under a licence I'm allowed to use
+
+593
+01:01:16,671 --> 01:01:19,743
+Don't need to do anything else
+
+594
+01:01:30,495 --> 01:01:34,591
+Probably make sure I can actually with this code
+
+595
+01:01:41,503 --> 01:01:47,647
+Yes I can't live this code thank you Mr whoever you are
+
+596
+01:01:56,351 --> 01:02:00,191
+Ok so
+
+597
+01:02:00,447 --> 01:02:02,751
+That copied
+
+598
+01:02:03,775 --> 01:02:06,591
+Still want to
+
+599
+01:02:08,383 --> 01:02:13,503
+You still working on to do now is we're going to want to take
+
+600
+01:02:14,271 --> 01:02:20,415
+The the end here there is a thing worse x 11 for getting a fan switch
+
+601
+01:02:20,671 --> 01:02:26,815
+If we someday have X11 available to us which we got today
+
+602
+01:02:28,095 --> 01:02:30,143
+Whatever
+
+603
+01:02:38,591 --> 01:02:40,895
+Ok
+
+604
+01:02:41,151 --> 01:02:47,295
+I'm going to do now TV Jet2
+
+605
+01:02:47,551 --> 01:02:53,695
+It's my mum
+
+606
+01:02:54,463 --> 01:02:57,279
+Hey man I'm actually likes doing right now
+
+607
+01:03:01,119 --> 01:03:04,447
+I need you later tonight
+
+608
+01:03:07,519 --> 01:03:13,663
+Hello ok I will definitely done before midnight
+
+609
+01:03:13,919 --> 01:03:20,063
+Rhodri
+
+610
+01:03:20,319 --> 01:03:25,951
+Oh you know what
+
+611
+01:03:36,191 --> 01:03:42,335
+I'm gonna make a staying in regatta call Roger
+
+612
+01:03:42,591 --> 01:03:47,711
+Orange egl
+
+613
+01:04:13,055 --> 01:04:17,919
+Do not want to use rasterizer think that might actually do me
+
+614
+01:04:30,207 --> 01:04:31,231
+Ok
+
+615
+01:04:31,743 --> 01:04:33,535
+Off
+
+616
+01:04:40,959 --> 01:04:45,055
+Start digging through
+
+617
+01:05:00,927 --> 01:05:03,999
+Courier
+
+618
+01:05:04,255 --> 01:05:08,095
+With undeclared here
+
+619
+01:05:11,423 --> 01:05:14,495
+That would be fair because we don't yet know
+
+620
+01:05:16,543 --> 01:05:22,687
+How big this is going to be
+
+621
+01:05:23,199 --> 01:05:29,087
+What we do when we set up the screen or at least we know how big the user thinks it should be when we set up the screen
+
+622
+01:05:41,631 --> 01:05:44,191
+The next couple of Christmas
+
+623
+01:05:55,711 --> 01:06:00,831
+And what's going on here
+
+624
+01:06:01,855 --> 01:06:07,231
+Should be should be
+
+625
+01:06:13,631 --> 01:06:14,655
+No
+
+626
+01:06:14,911 --> 01:06:15,935
+What to do in wrong
+
+627
+01:06:16,191 --> 01:06:20,543
+Does anybody online see what's wrong here cos I'm not really sure what I'm doing wrong
+
+628
+01:06:21,055 --> 01:06:23,103
+I think I can use GLS your
+
+629
+01:06:36,415 --> 01:06:41,535
+Wz grg
+
+630
+01:06:44,351 --> 01:06:48,447
+Says unexpected error expected identifier
+
+631
+01:06:48,703 --> 01:06:51,263
+Open France use before numeric constant
+
+632
+01:07:07,903 --> 01:07:14,047
+Service needs to be a un 16th
+
+633
+01:07:14,303 --> 01:07:20,447
+Thank you
+
+634
+01:07:20,703 --> 01:07:24,287
+You just took the problem
+
+635
+01:07:24,543 --> 01:07:28,127
+Next
+
+636
+01:07:40,159 --> 01:07:46,303
+Now there is one annoying thing about when your operating on an SD card is sometimes your data just disappears so I'm
+
+637
+01:07:46,559 --> 01:07:47,839
+You pushing a fair bit
+
+638
+01:07:48,095 --> 01:07:51,935
+Saving files as nothing when the the bringer of death comes
+
+639
+01:07:54,751 --> 01:07:59,103
+So24
+
+640
+01:07:59,359 --> 01:08:00,639
+Window
+
+641
+01:08:00,895 --> 01:08:03,455
+That's doing there
+
+642
+01:08:07,295 --> 01:08:13,439
+Next one is go shot
+
+643
+01:08:13,695 --> 01:08:15,999
+T0shirt
+
+644
+01:08:24,191 --> 01:08:27,007
+What time is ardee point I'm known
+
+645
+01:08:27,263 --> 01:08:33,407
+Have not done in food
+
+646
+01:08:54,399 --> 01:08:56,191
+Chat typecast
+
+647
+01:09:01,311 --> 01:09:02,335
+Harley Quinn
+
+648
+01:09:02,591 --> 01:09:06,687
+What type of fat is that in C
+
+649
+01:09:07,199 --> 01:09:11,039
+So that song
+
+650
+01:09:16,415 --> 01:09:19,743
+Yep just Corbridge is definitely working
+
+651
+01:09:19,999 --> 01:09:23,839
+And if you go over life survive
+
+652
+01:09:25,119 --> 01:09:27,679
+You can totally see
+
+653
+01:09:27,935 --> 01:09:29,471
+YouTube live chat
+
+654
+01:09:30,239 --> 01:09:33,311
+Can you can go read through it I did disable
+
+655
+01:09:36,127 --> 01:09:37,919
+Editing the things so so
+
+656
+01:09:38,175 --> 01:09:43,807
+If you really wanted to search it or go back through the chat history of any of the live streams you totally can now
+
+657
+01:09:49,439 --> 01:09:50,207
+Off
+
+658
+01:09:51,231 --> 01:09:54,303
+You didn't hear me I f*** you
+
+659
+01:09:56,095 --> 01:10:02,239
+It is not two-way
+
+660
+01:10:02,495 --> 01:10:06,335
+I did not want to patch it back to YouTube says YouTube is temporary
+
+661
+01:10:06,591 --> 01:10:12,735
+And discord is permanent if you want to chat just chat or not telling you to so next one
+
+662
+01:10:12,991 --> 01:10:17,855
+Repoint why is Ali point
+
+663
+01:10:18,623 --> 01:10:20,671
+Ok silver here
+
+664
+01:10:20,927 --> 01:10:27,071
+See what line was there I was on 227 and it says
+
+665
+01:10:27,327 --> 01:10:30,911
+And not why
+
+666
+01:10:41,407 --> 01:10:44,735
+Finisterre
+
+667
+01:10:49,599 --> 01:10:53,951
+Not have any good way of returning out of that land on it
+
+668
+01:11:04,959 --> 01:11:06,495
+It has a problem
+
+669
+01:11:07,775 --> 01:11:12,127
+I just crashed ok that's great
+
+670
+01:11:12,895 --> 01:11:14,175
+There is no way to fail
+
+671
+01:11:15,711 --> 01:11:16,991
+I don't like that
+
+672
+01:11:19,039 --> 01:11:23,135
+I'm going to make it so that CFG setup in fail
+
+673
+01:11:33,119 --> 01:11:38,495
+For all of seeing actually
+
+674
+01:11:55,903 --> 01:11:56,927
+Hi corn dog
+
+675
+01:11:57,951 --> 01:12:04,095
+Actually is anybody tried checking to make sure that they can't write in the discord chat Ark
+
+676
+01:12:04,607 --> 01:12:09,983
+Arm that seems like a thing that should have been tested that I never tested
+
+677
+01:12:21,503 --> 01:12:27,647
+Probably open the rest of drivers to make sure on break something
+
+678
+01:12:34,815 --> 01:12:39,167
+Who had all this jumper I have no idea how to return things in
+
+679
+01:12:39,423 --> 01:12:41,983
+Does anybody in there know
+
+680
+01:12:42,495 --> 01:12:44,799
+Objective-C
+
+681
+01:12:45,823 --> 01:12:48,895
+I have no idea how to
+
+682
+01:12:50,943 --> 01:12:51,967
+2R
+
+683
+01:12:52,223 --> 01:12:54,015
+Return a value
+
+684
+01:13:05,023 --> 01:13:07,071
+You can write into a live chat
+
+685
+01:13:07,327 --> 01:13:09,375
+So you can wait until I said that's right
+
+686
+01:13:12,703 --> 01:13:13,471
+How
+
+687
+01:13:23,455 --> 01:13:24,991
+Can you just return
+
+688
+01:13:25,247 --> 01:13:28,319
+Is anybody know live chat
+
+689
+01:13:30,367 --> 01:13:32,927
+Does anybody know Jack Dempsey
+
+690
+01:13:33,183 --> 01:13:38,303
+Return integer objective
+
+691
+01:13:45,983 --> 01:13:48,543
+No I want to return integer from a function
+
+692
+01:13:51,103 --> 01:13:55,711
+They have this function here which I guess it's a functional real wacky to me
+
+693
+01:13:55,967 --> 01:13:56,991
+Arm
+
+694
+01:13:57,247 --> 01:13:59,039
+How to return a value from it
+
+695
+01:14:00,063 --> 01:14:01,855
+No return
+
+696
+01:14:26,431 --> 01:14:29,503
+Yeah nice try you can
+
+697
+01:14:29,759 --> 01:14:35,647
+I'd like to see you try to make an apple desktop app in see a lot of people have tried
+
+698
+01:14:35,903 --> 01:14:37,439
+Succeeded
+
+699
+01:15:07,391 --> 01:15:13,535
+So the reason why Roswell was ported to Apple was because
+
+700
+01:15:14,559 --> 01:15:20,703
+Specifically I'm already in that file was specifically
+
+701
+01:15:20,959 --> 01:15:25,311
+4recent so that people could run see anything on a Mac
+
+702
+01:15:38,367 --> 01:15:44,511
+Isn't a language much like Python it's just a cold
+
+703
+01:16:03,967 --> 01:16:10,111
+Ok
+
+704
+01:16:10,367 --> 01:16:16,511
+Play Netflix with a lot of noses
+
+705
+01:16:16,767 --> 01:16:22,911
+293 g size
+
+706
+01:16:23,167 --> 01:16:29,311
+Ok where is EGR major come from
+
+707
+01:16:42,367 --> 01:16:48,511
+Undeclared income
+
+708
+01:17:46,367 --> 01:17:52,511
+So very strange year
+
+709
+01:17:52,767 --> 01:17:58,911
+So first
+
+710
+01:17:59,167 --> 01:18:05,311
+Reporting this text Michael clearport Roger to the Orange pi
+
+711
+01:18:05,567 --> 01:18:11,711
+Killer portlight survived and then form
+
+712
+01:18:31,167 --> 01:18:37,311
+Yes actually I don't have any way of flashing it near all in
+
+713
+01:18:37,567 --> 01:18:43,711
+Unless you can send me a link with like an actual guide is how they do it which would be kinda fun to do a live on air
+
+714
+01:18:43,967 --> 01:18:50,111
+So we could try it it's going to be at least two more times before two more livestreams before I
+
+715
+01:18:50,367 --> 01:18:56,511
+Get Ty going back to getting a whole bunch of my custom FDM tags
+
+716
+01:18:56,767 --> 01:19:02,911
+Ok so let's look try try try
+
+717
+01:19:03,167 --> 01:19:09,311
+I get my drawer
+
+718
+01:19:09,567 --> 01:19:15,711
+Include user include
+
+719
+01:19:15,967 --> 01:19:22,111
+EGR EGR the HR
+
+720
+01:19:22,367 --> 01:19:28,511
+Dpy config native window type
+
+721
+01:19:28,767 --> 01:19:34,911
+What is that
+
+722
+01:20:07,423 --> 01:20:13,567
+Avoid star
+
+723
+01:20:40,448 --> 01:20:41,472
+Punks
+
+724
+01:20:42,240 --> 01:20:43,776
+That's not right
+
+725
+01:20:45,056 --> 01:20:47,616
+Unix isn't only X11
+
+726
+01:20:49,664 --> 01:20:51,968
+Ignore it for right now
+
+727
+01:21:02,976 --> 01:21:05,280
+Whatever happened in North right now
+
+728
+01:21:08,864 --> 01:21:10,144
+Ugly
+
+729
+01:21:49,568 --> 01:21:52,128
+We can do we can forcibly
+
+730
+01:22:14,144 --> 01:22:15,936
+TV
+
+731
+01:22:16,192 --> 01:22:19,008
+Hello weird
+
+732
+01:22:35,648 --> 01:22:38,464
+Sure let's just used Dad
+
+733
+01:23:19,936 --> 01:23:23,008
+Vertex shader source not found
+
+734
+01:23:26,080 --> 01:23:28,384
+Default
+
+735
+01:23:30,176 --> 01:23:36,320
+Things same things probably happened for pregnant
+
+736
+01:23:36,576 --> 01:23:37,088
+Thesaurus
+
+737
+01:23:39,136 --> 01:23:41,440
+1
+
+738
+01:23:43,232 --> 01:23:44,768
+Rat
+
+739
+01:24:06,272 --> 01:24:07,808
+That's an easy fix
+
+740
+01:24:16,000 --> 01:24:18,304
+Capital Mali
+
+741
+01:24:25,984 --> 01:24:30,080
+Yes that's all secret
+
+742
+01:24:43,648 --> 01:24:46,720
+Snakes reproduce the fire
+
+743
+01:24:47,488 --> 01:24:49,280
+39 KB
+
+744
+01:24:49,792 --> 01:24:51,328
+Made a file
+
+745
+01:25:05,408 --> 01:25:06,944
+Yes we're on it
+
+746
+01:25:07,200 --> 01:25:09,504
+Everybody's waiting for me to run in Marseille
+
+747
+01:25:16,160 --> 01:25:21,024
+Yeah I couldn't get the GPU working with sorry services who wants me to run
+
+748
+01:25:21,792 --> 01:25:23,584
+Where is ITV guys hanging
+
+749
+01:25:26,144 --> 01:25:28,448
+Who sings is going to crash
+
+750
+01:25:29,216 --> 01:25:35,360
+We are either going to crash before does anything
+
+751
+01:25:35,616 --> 01:25:41,760
+Cos like it won't link Wray it's going to crash want to talk to making calls to OpenGL
+
+752
+01:25:42,016 --> 01:25:48,160
+Or it's going to start crashing as soon as he tries to understand the screen is not going to crash but nothing's going to come out of the van
+
+753
+01:25:49,952 --> 01:25:51,232
+What are you guys thinking
+
+754
+01:25:52,256 --> 01:25:55,072
+Using a crash were you guys thinking of crash
+
+755
+01:25:56,608 --> 01:25:58,144
+Before does anything
+
+756
+01:25:59,680 --> 01:26:05,824
+Ok I think that's a reasonable thing so it's probably going to crash when it starts the Open
+
+757
+01:26:06,080 --> 01:26:06,848
+As driver
+
+758
+01:26:07,360 --> 01:26:11,712
+And honestly I haven't tried running the ogs toughest boot
+
+759
+01:26:11,968 --> 01:26:18,112
+I'm order crash up that's a good point if it crashes the colonel that's going to be hilarious
+
+760
+01:26:20,672 --> 01:26:21,440
+Ok
+
+761
+01:26:22,976 --> 01:26:28,864
+Ready like my heart actually kind of breathing fast right now
+
+762
+01:26:31,680 --> 01:26:37,824
+Adam gave me the fire extinguisher could you go
+
+763
+01:26:38,080 --> 01:26:41,664
+Heatsinks under stairs and apply 12V on pi
+
+764
+01:26:41,920 --> 01:26:46,784
+Yeah you're right here
+
+765
+01:26:47,040 --> 01:26:53,184
+Have I ever radio purchased
+
+766
+01:26:53,440 --> 01:26:54,976
+Looks like maybe the problem is
+
+767
+01:26:55,488 --> 01:26:57,280
+Well
+
+768
+01:26:57,536 --> 01:27:03,680
+Where is there's no gdst
+
+769
+01:27:09,056 --> 01:27:11,616
+Cancel
+
+770
+01:27:13,920 --> 01:27:15,200
+Pulling out all the time
+
+771
+01:27:15,456 --> 01:27:21,600
+Yeah
+
+772
+01:27:21,856 --> 01:27:28,000
+Adam is now applying Keepsafe to the
+
+773
+01:27:47,456 --> 01:27:53,600
+I don't think so I don't think that was the one that got hot
+
+774
+01:27:53,856 --> 01:27:58,464
+Imagine that only if someone is the main one is for the GP will tell so
+
+775
+01:27:58,720 --> 01:28:01,792
+Memory warm but not hot
+
+776
+01:28:02,048 --> 01:28:08,192
+That supposed to be heating
+
+777
+01:28:08,448 --> 01:28:08,960
+Play Holdem
+
+778
+01:28:09,216 --> 01:28:12,288
+Do you wanna show the camera
+
+779
+01:28:12,544 --> 01:28:16,896
+Nice things about the surface area and then there's just a flat thing which
+
+780
+01:28:17,152 --> 01:28:19,712
+Seems like it would do virtually nothing
+
+781
+01:28:22,016 --> 01:28:26,112
+Most heatsinks always worry me
+
+782
+01:28:26,624 --> 01:28:32,768
+Yeah they do seem dubious xochi pensions
+
+783
+01:28:34,304 --> 01:28:38,400
+Which is way for that I would have expected you to garden
+
+784
+01:28:41,216 --> 01:28:47,360
+What's this for
+
+785
+01:28:47,616 --> 01:28:53,760
+Will the shops
+
+786
+01:28:54,016 --> 01:28:56,064
+Yeah we put this on Mia
+
+787
+01:28:56,320 --> 01:28:57,856
+Anyway
+
+788
+01:28:58,368 --> 01:29:04,512
+Ok this code got wait for another night
+
+789
+01:29:04,768 --> 01:29:10,656
+Piece of sorry only this half of the cameras visible this is an orange Pi PC
+
+790
+01:29:10,912 --> 01:29:14,496
+As opposed to this one which is an arm for orange Pi one
+
+791
+01:29:14,752 --> 01:29:20,128
+Find ktc Hazel
+
+792
+01:29:20,896 --> 01:29:23,712
+For something else is used for
+
+793
+01:29:26,272 --> 01:29:29,600
+Yeah that's fine pipeeasy is identical to the Raspberry Pi
+
+794
+01:29:30,880 --> 01:29:37,024
+It is not identical but has completely different
+
+795
+01:29:37,280 --> 01:29:38,560
+Physical
+
+796
+01:29:38,816 --> 01:29:44,960
+I appreciate that actually instead of a stupid micro USB
+
+797
+01:29:45,216 --> 01:29:51,360
+Actually you know what they're all now this is the wrong one somewhere I have a girl
+
+798
+01:29:54,176 --> 01:30:00,320
+Play so it's actually getting all the way through set up in scratch and some
+
+799
+01:30:00,576 --> 01:30:03,648
+Pause
+
+800
+01:30:03,904 --> 01:30:07,744
+Tvd guys
+
+801
+01:30:15,168 --> 01:30:19,008
+No orange Pi uses of very different shape
+
+802
+01:30:19,264 --> 01:30:22,080
+If you use the same ship we wouldn't be able to use it for this
+
+803
+01:30:43,072 --> 01:30:48,960
+Pixel
+
+804
+01:30:50,240 --> 01:30:52,544
+Pixel
+
+805
+01:30:59,968 --> 01:31:06,112
+Oh hey look at that
+
+806
+01:31:06,368 --> 01:31:07,904
+Set off
+
+807
+01:31:12,768 --> 01:31:16,096
+Yeah I know it's not the right resolution by default so
+
+808
+01:32:07,552 --> 01:32:09,856
+It is utterly broken
+
+809
+01:32:10,624 --> 01:32:11,648
+It is
+
+810
+01:32:12,160 --> 01:32:13,440
+Completely
+
+811
+01:32:13,696 --> 01:32:14,976
+Broken
+
+812
+01:32:23,424 --> 01:32:29,568
+That is not even remotely right
+
+813
+01:32:30,080 --> 01:32:33,152
+Ok
+
+814
+01:32:39,040 --> 01:32:41,344
+Time for us to start the debugging
+
+815
+01:32:42,624 --> 01:32:44,416
+Ok hello
+
+816
+01:32:47,232 --> 01:32:50,048
+Is the first part we have to do
+
+817
+01:32:51,840 --> 01:32:55,936
+Change one thing deep within our
+
+818
+01:32:56,192 --> 01:33:00,544
+10-ft function stop
+
+819
+01:33:04,640 --> 01:33:08,736
+Somewhere run
+
+820
+01:33:21,280 --> 01:33:25,888
+Yeah it's pretty bad right now got to figure out what's actually going on
+
+821
+01:33:27,424 --> 01:33:30,752
+Is 27 frames per second of nothingness so
+
+822
+01:34:17,344 --> 01:34:20,416
+Cancel audio is just to their
+
+823
+01:34:22,720 --> 01:34:25,280
+Trying to get something working
+
+824
+01:34:38,592 --> 01:34:44,736
+1000 1000
+
+825
+01:34:44,992 --> 01:34:46,528
+2000
+
+826
+01:34:47,808 --> 01:34:50,880
+To see what happens
+
+827
+01:35:03,680 --> 01:35:09,824
+Well it's
+
+828
+01:35:10,080 --> 01:35:13,920
+Big blue screen
+
+829
+01:35:14,176 --> 01:35:20,064
+Solis clear colours working
+
+830
+01:35:31,072 --> 01:35:33,120
+Check to see what
+
+831
+01:35:33,376 --> 01:35:36,192
+How are you know what
+
+832
+01:35:37,728 --> 01:35:40,800
+About one's numbers that are much smaller
+
+833
+01:35:43,360 --> 01:35:46,944
+Seymours play this 5.0 wine
+
+834
+01:35:47,200 --> 01:35:51,552
+See what happens
+
+835
+01:36:12,032 --> 01:36:15,616
+Turn it around some like shapes
+
+836
+01:36:30,720 --> 01:36:36,864
+If there's something I need to see and chat let me know it cos right now I don't
+
+837
+01:36:37,120 --> 01:36:39,424
+Don't intend to follow you guys for the next couple of minutes
+
+838
+01:36:39,680 --> 01:36:45,824
+Girls into the strange world
+
+839
+01:37:39,328 --> 01:37:44,192
+Nothing nothing at all
+
+840
+01:37:44,960 --> 01:37:47,520
+What's going on here
+
+841
+01:37:50,848 --> 01:37:53,152
+Cell
+
+842
+01:37:53,408 --> 01:37:57,504
+Going to have to get this going
+
+843
+01:38:10,048 --> 01:38:16,192
+OK Google what what's right now for children clothes
+
+844
+01:38:17,472 --> 01:38:18,752
+Floats down
+
+845
+01:39:45,280 --> 01:39:51,424
+I think
+
+846
+01:40:04,480 --> 01:40:10,624
+Come on
+
+847
+01:40:10,880 --> 01:40:17,024
+Smart working
+
+848
+01:40:30,080 --> 01:40:36,224
+Ok
+
+849
+01:40:36,480 --> 01:40:42,624
+Let's just prior rendering a triangle with the Melly test
+
+850
+01:40:49,280 --> 01:40:55,424
+Also I just realized I'm an idiot
+
+851
+01:41:14,880 --> 01:41:21,024
+Hitman display so you can go outside without the optics
+
+852
+01:41:21,280 --> 01:41:27,424
+You can I believe remove those lenses but you also have those prototype head not displays that
+
+853
+01:41:27,680 --> 01:41:33,824
+If you want to go check that would be super awesome
+
+854
+01:41:34,080 --> 01:41:40,224
+Downstairs under the next song
+
+855
+01:41:40,480 --> 01:41:46,624
+Blue screen
+
+856
+01:42:12,480 --> 01:42:18,624
+Listen
+
+857
+01:42:18,880 --> 01:42:25,024
+How does that not work
+
+858
+01:42:31,680 --> 01:42:37,824
+No it's just that it's just wonderful just just
+
+859
+01:42:44,480 --> 01:42:50,624
+Getting cold
+
+860
+01:43:10,080 --> 01:43:16,224
+Ok thank you
+
+861
+01:43:16,480 --> 01:43:22,624
+Are you serious
+
+862
+01:43:22,880 --> 01:43:29,024
+You can probably pull the active site of that one just as easily I would much rather not not after seeing this
+
+863
+01:43:29,280 --> 01:43:35,424
+Here's one that doesn't have the whole thing
+
+864
+01:43:35,680 --> 01:43:41,824
+Can you get another
+
+865
+01:43:42,080 --> 01:43:48,224
+No I don't but I would need somewhere powering it
+
+866
+01:43:49,760 --> 01:43:55,904
+Valve send me prototype head units so this is one of the perfect iPad units that will be
+
+867
+01:43:56,160 --> 01:43:57,952
+Will a call to have set up
+
+868
+01:43:59,232 --> 01:44:03,840
+Yes that's a really good idea atom
+
+869
+01:44:10,752 --> 01:44:13,568
+That song gets tied to you guys
+
+870
+01:44:18,432 --> 01:44:23,040
+Ok so right now I'm able to actually get something on the screen
+
+871
+01:44:24,832 --> 01:44:28,416
+What's called back to what we had before
+
+872
+01:44:37,888 --> 01:44:40,960
+Private and see what happens
+
+873
+01:44:43,264 --> 01:44:49,408
+There is nothing
+
+874
+01:45:00,928 --> 01:45:06,816
+Nothing
+
+875
+01:45:12,192 --> 01:45:18,336
+Who's the powered by
+
+876
+01:45:18,592 --> 01:45:21,664
+Small barrel connector
+
+877
+01:45:23,200 --> 01:45:27,296
+Actually that's used
+
+878
+01:45:28,064 --> 01:45:34,208
+Do you want to pull that out of there yeah we can do that
+
+879
+01:45:34,464 --> 01:45:40,608
+Cos you're wanting you didn't seem to give us it all that without feeling like an unexploded it
+
+880
+01:45:51,360 --> 01:45:57,504
+That's why it's not rendering that's a degenerate triangle how did it get to
+
+881
+01:45:57,760 --> 01:46:03,904
+Triangle triangle
+
+882
+01:46:04,160 --> 01:46:10,304
+Is Mr Strong
+
+883
+01:46:20,800 --> 01:46:24,128
+Do you want to keep it so that we can plug into this fairly easily
+
+884
+01:46:28,224 --> 01:46:34,368
+In case the damn thing doesn't work at all
+
+885
+01:46:34,624 --> 01:46:38,208
+Stop
+
+886
+01:46:38,976 --> 01:46:45,120
+Hey ok maybe it's about putting something right now
+
+887
+01:46:51,776 --> 01:46:57,920
+Power down
+
+888
+01:46:58,176 --> 01:47:04,320
+I see light there's something in the corner to see if you have it
+
+889
+01:47:04,576 --> 01:47:09,440
+Message
+
+890
+01:47:09,952 --> 01:47:14,304
+Are you random into Dad apdl
+
+891
+01:47:14,560 --> 01:47:15,840
+Hey
+
+892
+01:47:16,096 --> 01:47:22,240
+That's really Jackie though the camera so yeah it's
+
+893
+01:47:22,496 --> 01:47:26,336
+Hard to see but it's like a bunch of noise
+
+894
+01:47:32,736 --> 01:47:38,880
+Ok so we got to figure out this year I will try to figure out
+
+895
+01:47:39,136 --> 01:47:45,280
+Why this is not working it just black now
+
+896
+01:47:52,192 --> 01:47:58,336
+Anything right now
+
+897
+01:48:04,992 --> 01:48:11,136
+I'm actually probably going to go to slightly different Direction with the next thing with Steam
+
+898
+01:48:11,392 --> 01:48:17,536
+Then I think that they are going to go
+
+899
+01:48:36,992 --> 01:48:43,136
+What's good to me what's wrong with it artificial
+
+900
+01:48:49,792 --> 01:48:55,936
+Where is Genki
+
+901
+01:48:56,192 --> 01:49:02,336
+Give Adam a moment to see
+
+902
+01:49:02,592 --> 01:49:08,736
+Fixes doing anything
+
+903
+01:49:08,992 --> 01:49:15,136
+Dad but yeah yeah blue
+
+904
+01:49:15,392 --> 01:49:21,536
+Ok because I had no idea I thought that was
+
+905
+01:49:21,792 --> 01:49:27,936
+Not a screen I had no idea
+
+906
+01:49:28,192 --> 01:49:34,336
+Turn down funny screen texture
+
+907
+01:49:34,592 --> 01:49:40,736
+Yeah it was like Grey black
+
+908
+01:49:40,992 --> 01:49:47,136
+Really pretty though anyway
+
+909
+01:49:49,440 --> 01:49:51,744
+Displaying anything
+
+910
+01:49:57,888 --> 01:50:02,240
+I'm not having the party
+
+911
+01:50:02,496 --> 01:50:08,640
+Black totally black
+
+912
+01:50:14,784 --> 01:50:20,928
+Not right now thank you
+
+913
+01:50:23,488 --> 01:50:29,632
+Ok check that out
+
+914
+01:50:29,888 --> 01:50:36,032
+There is a triangle inside the five for making progress here
+
+915
+01:50:36,288 --> 01:50:42,432
+Adam heating somebody to hold this up here while
+
+916
+01:50:49,088 --> 01:50:51,904
+Tending to be ok
+
+917
+01:50:52,160 --> 01:50:54,208
+Let's go to stack of chairs
+
+918
+01:50:54,720 --> 01:50:57,536
+We do have the chair stack
+
+919
+01:50:59,584 --> 01:51:05,728
+If you want to build something ridiculous right near me
+
+920
+01:51:05,984 --> 01:51:07,264
+Freeze dried soup
+
+921
+01:51:09,568 --> 01:51:15,712
+No it was Nicky smell it was 25fps when it's doing the default test which is
+
+922
+01:51:15,968 --> 01:51:19,296
+Intensive of things better didn't Crumlin
+
+923
+01:51:31,840 --> 01:51:37,984
+I I will do that but not right now I want to get our kind of working first
+
+924
+01:51:39,520 --> 01:51:41,824
+Looks like to see
+
+925
+01:51:43,104 --> 01:51:44,128
+Why would a
+
+926
+01:51:44,384 --> 01:51:47,968
+What's what's take A Peek inside of the Colour buffer
+
+927
+01:51:49,504 --> 01:51:53,600
+Unsigned by for stride
+
+928
+01:51:54,112 --> 01:51:55,392
+4
+
+929
+01:52:06,656 --> 01:52:12,800
+No you have it can you be looking
+
+930
+01:52:13,056 --> 01:52:19,200
+The background on the matter what it's broken right now definitely wrong
+
+931
+01:52:19,456 --> 01:52:25,600
+Skyline
+
+932
+01:52:32,256 --> 01:52:38,400
+Stop cast
+
+933
+01:52:38,656 --> 01:52:44,800
+Turn off the lights
+
+934
+01:52:50,432 --> 01:52:56,576
+Horrifying
+
+935
+01:52:56,832 --> 01:53:02,976
+Crashing ok sorry about that
+
+936
+01:53:03,232 --> 01:53:09,376
+Oh that's not a bad idea
+
+937
+01:53:09,632 --> 01:53:11,936
+Difficulty
+
+938
+01:53:12,192 --> 01:53:16,800
+Meant to be clearly visible
+
+939
+01:53:17,056 --> 01:53:23,200
+Very dark compared to the outside
+
+940
+01:53:23,456 --> 01:53:29,600
+Is the display 0 years by it but it's all
+
+941
+01:53:29,856 --> 01:53:36,000
+Doing the stripy thing the rolling shutter
+
+942
+01:53:36,256 --> 01:53:42,400
+Song because I can manually can control the exposure Times online
+
+943
+01:53:42,656 --> 01:53:48,800
+I might w Jack so on the IP camera
+
+944
+01:53:49,056 --> 01:53:55,200
+Media image
+
+945
+01:53:55,456 --> 01:54:01,600
+No no
+
+946
+01:54:01,856 --> 01:54:08,000
+Set timer
+
+947
+01:54:27,456 --> 01:54:33,600
+I don't see it
+
+948
+01:54:33,856 --> 01:54:40,000
+It looks janky
+
+949
+01:54:40,256 --> 01:54:46,400
+30/60 it's still look pretty rough
+
+950
+01:54:46,656 --> 01:54:52,800
+Because it's only open for a very short period of time
+
+951
+01:54:53,056 --> 01:54:59,200
+Ok so this is clearly wrong it's passing FF 00000000
+
+952
+01:54:59,456 --> 01:55:05,600
+Cheers just playing Black why is it passing black
+
+953
+01:55:05,856 --> 01:55:12,000
+Webcam cannot do it you have to go
+
+954
+01:55:12,256 --> 01:55:18,400
+Before you can do that and I don't want to be a serious because there is enough x
+
+955
+01:55:18,656 --> 01:55:24,800
+White bits white you have a triangle look at that guys
+
+956
+01:55:25,056 --> 01:55:26,080
+Ok
+
+957
+01:55:28,384 --> 01:55:34,528
+How is going ok where are or are making inroads here
+
+958
+01:55:40,416 --> 01:55:42,464
+Hair erase
+
+959
+01:56:01,152 --> 01:56:07,296
+More useful Charles
+
+960
+01:56:07,552 --> 01:56:09,344
+Is there anyway good too
+
+961
+01:56:09,600 --> 01:56:14,976
+Now that's probably fine
+
+962
+01:56:15,488 --> 01:56:20,864
+Video message please
+
+963
+01:56:26,240 --> 01:56:32,384
+I can maybe we can see is there anything going on the centre
+
+964
+01:56:32,640 --> 01:56:35,712
+No nothing is going on the centre
+
+965
+01:56:36,480 --> 01:56:42,624
+Actually let's take a peek back individual buffer
+
+966
+01:56:43,392 --> 01:56:49,024
+12
+
+967
+01:57:02,848 --> 01:57:08,992
+Is there anything visible on the centre on
+
+968
+01:57:09,248 --> 01:57:15,392
+Look like now
+
+969
+01:57:15,648 --> 01:57:21,792
+I don't actually know it OpenGL does with
+
+970
+01:57:22,048 --> 01:57:28,192
+That's the wrong thing I bet you people were
+
+971
+01:57:28,448 --> 01:57:34,592
+Writing in chat
+
+972
+01:57:47,648 --> 01:57:53,792
+Turn the heater inside the shader
+
+973
+01:58:23,232 --> 01:58:29,376
+Hey ok we have a triangle again
+
+974
+01:58:31,680 --> 01:58:34,752
+Is it worth doing janky stuff to make that work
+
+975
+01:58:41,408 --> 01:58:47,552
+Security a good way of getting quite
+
+976
+01:58:47,808 --> 01:58:53,952
+If you really need to see I'm done
+
+977
+01:58:54,208 --> 01:59:00,352
+No more need to until 2 minutes from now
+
+978
+01:59:00,608 --> 01:59:03,936
+Sideways
+
+979
+01:59:04,192 --> 01:59:04,704
+Something
+
+980
+01:59:36,192 --> 01:59:37,984
+Saying thanks bye
+
+981
+01:59:38,496 --> 01:59:39,776
+Put your screen is cut off
+
+982
+01:59:42,592 --> 01:59:44,896
+KFC off the right side
+
+983
+01:59:51,040 --> 01:59:54,880
+I like somebody wanted to know what was going on like going line
+
+984
+01:59:56,160 --> 02:00:01,792
+Anyway
+
+985
+02:00:52,224 --> 02:00:58,112
+Tell anybody else to have a use uniforms Josh if you're still watching you probably know better than ideal
+
+986
+02:01:22,432 --> 02:01:24,224
+Did something go wrong with the
+
+987
+02:01:40,096 --> 02:01:42,144
+Oh no
+
+988
+02:01:43,936 --> 02:01:50,080
+Are you looks like a prototype is to display panels Adam did you happen to notice of the display
+
+989
+02:01:50,336 --> 02:01:55,200
+The prototype was to display kennels
+
+990
+02:01:56,480 --> 02:01:58,528
+He says it's just one piano
+
+991
+02:02:01,088 --> 02:02:02,880
+Ok so
+
+992
+02:02:23,360 --> 02:02:29,504
+Yeah I know I understand what uniforms are I just don't have it use them on
+
+993
+02:02:29,760 --> 02:02:32,320
+On this platform
+
+994
+02:02:54,336 --> 02:03:00,480
+Let's see this person is done it how you look go uniform it's a thing
+
+995
+02:03:13,024 --> 02:03:19,168
+After the program links you would call
+
+996
+02:03:25,824 --> 02:03:29,408
+Security uniform shader program
+
+997
+02:03:29,664 --> 02:03:33,248
+Recalling the
+
+998
+02:03:36,832 --> 02:03:42,976
+Screen scale
+
+999
+02:04:12,928 --> 02:04:16,256
+What's 4 in here we kinda now
+
+1000
+02:04:16,512 --> 02:04:22,656
+I'm so going to try to do is try to scale the object by x&y appropriately
+
+1001
+02:04:29,312 --> 02:04:35,456
+And I'll show the FPS in a minute imagine that the FPS 90 FPS
+
+1002
+02:04:35,712 --> 02:04:37,760
+Only driving a single triangle
+
+1003
+02:04:41,856 --> 02:04:48,000
+See hear
+
+1004
+02:04:50,560 --> 02:04:56,704
+Play so will I by width and height
+
+1005
+02:04:57,728 --> 02:04:59,520
+Ok
+
+1006
+02:05:03,104 --> 02:05:07,200
+And would actually be saying /
+
+1007
+02:05:07,712 --> 02:05:10,784
+So we have like 500
+
+1008
+02:05:12,320 --> 02:05:18,464
+Will want to say for 0.0 is your point
+
+1009
+02:05:18,720 --> 02:05:22,048
+930
+
+1010
+02:05:24,096 --> 02:05:27,168
+Position a
+
+1011
+02:05:29,728 --> 02:05:33,312
+X
+
+1012
+02:05:35,360 --> 02:05:36,640
+Scale
+
+1013
+02:05:37,920 --> 02:05:39,456
+Let's be
+
+1014
+02:05:39,968 --> 02:05:42,272
+Chill
+
+1015
+02:05:49,184 --> 02:05:55,328
+Electronic if you want to do that I have a source code for Rod supports esp32 another
+
+1016
+02:05:55,584 --> 02:06:01,728
+The things so it does let you do matrices on Mike really lame hardware and princess on the
+
+1017
+02:06:01,984 --> 02:06:07,360
+8266 works there is no floating point so it's all using like
+
+1018
+02:06:08,384 --> 02:06:14,528
+Movie Lee basic operations if you want to see how I do it then there was the wireframe example with
+
+1019
+02:06:17,088 --> 02:06:23,232
+Ok
+
+1020
+02:06:27,328 --> 02:06:29,888
+Maybe the sort now
+
+1021
+02:06:58,304 --> 02:07:04,192
+Nothing there is a reason why that could be
+
+1022
+02:07:07,264 --> 02:07:12,896
+One of those reasons will be there
+
+1023
+02:07:34,400 --> 02:07:40,288
+What's try rendering really dig
+
+1024
+02:07:43,360 --> 02:07:48,224
+50/50 and over and
+
+1025
+02:07:55,648 --> 02:08:01,792
+So you need shaders because you aren't allowed there's no fix functionality pipeline in in
+
+1026
+02:08:02,048 --> 02:08:08,192
+Move down there like yeah we're just going to rehearse Elves and triangles without tutors
+
+1027
+02:08:08,448 --> 02:08:14,592
+Flippantly but I guess it was nice because now all hard work has to support shooters
+
+1028
+02:08:14,848 --> 02:08:19,200
+If you want to be OpenGL yes but I don't know
+
+1029
+02:08:28,672 --> 02:08:30,976
+Hey there is a little
+
+1030
+02:08:31,232 --> 02:08:33,792
+You guys can see that in the upper corner
+
+1031
+02:08:34,304 --> 02:08:35,584
+Tiny little
+
+1032
+02:08:36,096 --> 02:08:37,120
+Do Dad
+
+1033
+02:08:39,936 --> 02:08:46,080
+So let's try blowing up song 500/500
+
+1034
+02:08:46,336 --> 02:08:51,712
+See that looks like the top corner of a triangle
+
+1035
+02:08:54,272 --> 02:09:00,416
+That looks super wrong
+
+1036
+02:09:00,672 --> 02:09:03,232
+Really wrong
+
+1037
+02:09:03,488 --> 02:09:09,632
+That means there year
+
+1038
+02:09:09,888 --> 02:09:11,424
+Turn on
+
+1039
+02:09:12,960 --> 02:09:16,032
+I guess we just shouldn't be having things at the screen edges
+
+1040
+02:09:16,544 --> 02:09:22,688
+And the other thing is going on here is the way that works is 00 is at the bar
+
+1041
+02:09:22,944 --> 02:09:29,088
+Turn on bottom corner right here and that's not where it is
+
+1042
+02:09:29,344 --> 02:09:35,488
+Anything like graphics we're on graphics it goes way up at the top that would be easier as your own so I guess
+
+1043
+02:09:35,744 --> 02:09:37,536
+Adjusted so that
+
+1044
+02:09:37,792 --> 02:09:40,096
+I can handle all that in this year
+
+1045
+02:09:42,656 --> 02:09:48,800
+Pudsey here I'm going to have my tutor and then you
+
+1046
+02:09:49,056 --> 02:09:50,080
+Lip
+
+1047
+02:09:50,848 --> 02:09:54,176
+I think it is
+
+1048
+02:09:54,688 --> 02:10:00,832
+3 - 2 and then that would be plus 1
+
+1049
+02:10:01,088 --> 02:10:07,232
+I think that's gonna look at around so that the triangle show up in the top corner perfect it did
+
+1050
+02:10:07,488 --> 02:10:13,632
+That's good insane now
+
+1051
+02:10:33,088 --> 02:10:39,232
+Something else now
+
+1052
+02:10:45,888 --> 02:10:52,032
+What's 2160 / 2 as 1080
+
+1053
+02:10:58,688 --> 02:11:04,832
+1205 8 to the 600
+
+1054
+02:11:05,088 --> 02:11:11,232
+That looks like I should be in the middle
+
+1055
+02:11:11,488 --> 02:11:17,632
+It is yeah we have a triangle
+
+1056
+02:11:17,888 --> 02:11:24,032
+Ok
+
+1057
+02:11:24,288 --> 02:11:30,432
+What's the term in framerate
+
+1058
+02:11:43,488 --> 02:11:49,632
+9.5 FPS which is exactly what it should be so we are getting
+
+1059
+02:11:49,888 --> 02:11:56,032
+90fps out of the system right now that's perfect
+
+1060
+02:11:56,288 --> 02:12:02,432
+Ok next one let's try drawing some wines
+
+1061
+02:12:09,088 --> 02:12:15,232
+Gorgeous
+
+1062
+02:12:21,888 --> 02:12:28,032
+Excellent that is the way I want to see things working
+
+1063
+02:12:28,288 --> 02:12:34,432
+Ok so what that means is now we have a odgl driver
+
+1064
+02:12:34,688 --> 02:12:40,832
+4 Raja which is one of the big things we wanted to college today so I'd say where
+
+1065
+02:12:41,088 --> 02:12:47,232
+Cruising along pretty good just double-check some things like one thing
+
+1066
+02:12:47,488 --> 02:12:53,632
+New right now is re-enable this junk and see what happens
+
+1067
+02:12:53,888 --> 02:13:00,032
+On the other thing I want to do is get rid of
+
+1068
+02:13:13,088 --> 02:13:19,232
+It's not quite right
+
+1069
+02:13:25,888 --> 02:13:32,032
+Actually painfully slow but I can't see in FPS
+
+1070
+02:13:38,688 --> 02:13:44,832
+Turn the lights as well
+
+1071
+02:14:10,688 --> 02:14:16,832
+I'm going to have to go over there and take a look and tea
+
+1072
+02:14:36,288 --> 02:14:42,432
+Something's definitely
+
+1073
+02:14:42,688 --> 02:14:48,832
+I don't really know what's going on I could be like a CPU I don't want to
+
+1074
+02:14:49,088 --> 02:14:55,232
+It could be something like maybe I'm switching dramos really quickly
+
+1075
+02:14:55,488 --> 02:15:01,632
+So all I can do is every single frame I can print
+
+1076
+02:15:01,888 --> 02:15:08,032
+And then what I can do is inside of the
+
+1077
+02:15:08,288 --> 02:15:14,432
+Here every single time I would draw a new settee geometry I can
+
+1078
+02:15:14,688 --> 02:15:19,808
+Like the lights nation point and I can know how many different types of
+
+1079
+02:15:20,064 --> 02:15:22,880
+Oh my
+
+1080
+02:15:23,904 --> 02:15:27,488
+Oh my god that is a lot of draw calls
+
+1081
+02:15:29,792 --> 02:15:33,120
+That's concerning the bigger they I wonder
+
+1082
+02:15:42,592 --> 02:15:48,224
+Hello there tiny why are there all these tiny rock holes
+
+1083
+02:16:11,776 --> 02:16:17,920
+Also Sue
+
+1084
+02:16:18,176 --> 02:16:23,552
+Busted
+
+1085
+02:16:30,720 --> 02:16:33,792
+Why would we not getting 90 FPS
+
+1086
+02:16:37,376 --> 02:16:42,752
+Yeah so you just can't intermix segments and pixels in the same thing
+
+1087
+02:16:43,520 --> 02:16:49,664
+But I don't understand is so I guess what you guys can't see
+
+1088
+02:16:49,920 --> 02:16:56,064
+There's almost nothing you
+
+1089
+02:16:56,320 --> 02:17:02,464
+Can you do some get a glimpse of the the little piece of geometry but it's almost never there so
+
+1090
+02:17:02,720 --> 02:17:08,864
+Not really sure what's going on
+
+1091
+02:17:09,120 --> 02:17:11,936
+Turn black back on a blue background see you never going to see it
+
+1092
+02:17:12,192 --> 02:17:14,240
+Make the background much darker
+
+1093
+02:17:23,968 --> 02:17:26,016
+I forgotten how to make a background darker
+
+1094
+02:17:28,320 --> 02:17:29,856
+Where is the
+
+1095
+02:17:33,440 --> 02:17:34,464
+This
+
+1096
+02:17:38,560 --> 02:17:44,704
+So now I'm here
+
+1097
+02:17:44,960 --> 02:17:51,104
+See like a little bit of red just Barrett
+
+1098
+02:17:51,360 --> 02:17:57,504
+Invisible so it's like it's only the very first and very last bit of the geometry
+
+1099
+02:17:57,760 --> 02:18:00,320
+Play bits of the geometry they're actually being rendered
+
+1100
+02:18:01,088 --> 02:18:04,672
+Natural why that is we should totally figure that out
+
+1101
+02:18:05,696 --> 02:18:06,720
+So
+
+1102
+02:18:10,560 --> 02:18:11,584
+Clothes
+
+1103
+02:18:28,992 --> 02:18:31,040
+I was only drawing one thing that's why
+
+1104
+02:18:44,352 --> 02:18:50,496
+Completely plastered
+
+1105
+02:18:50,752 --> 02:18:53,568
+118 APS
+
+1106
+02:18:55,616 --> 02:18:57,664
+Samsung trolley broke
+
+1107
+02:19:01,248 --> 02:19:02,784
+What about day
+
+1108
+02:19:13,024 --> 02:19:15,072
+What's
+
+1109
+02:19:15,328 --> 02:19:17,120
+5 x 3
+
+1110
+02:19:47,584 --> 02:19:51,936
+Nothing
+
+1111
+02:20:24,704 --> 02:20:28,288
+Vertex attrib pointer how's this thing used
+
+1112
+02:20:29,312 --> 02:20:31,104
+Potassium 3
+
+1113
+02:20:32,128 --> 02:20:35,200
+Alice the number of vertices
+
+1114
+02:20:38,272 --> 02:20:40,064
+Number of colors
+
+1115
+02:20:41,600 --> 02:20:44,928
+No it's the stride it's only the stride rate
+
+1116
+02:20:49,280 --> 02:20:51,584
+So maybe that
+
+1117
+02:20:56,448 --> 02:21:01,312
+I'm getting the same basic stuff again
+
+1118
+02:21:22,048 --> 02:21:24,864
+Could be doing something wrong here
+
+1119
+02:21:25,888 --> 02:21:29,984
+Make sure not clearing through multiple times
+
+1120
+02:21:45,088 --> 02:21:47,392
+Oh you know what quarries
+
+1121
+02:22:02,496 --> 02:22:04,800
+Calories has that function used
+
+1122
+02:22:15,040 --> 02:22:18,624
+Set an alarm tonight probably why should be doing
+
+1123
+02:22:23,744 --> 02:22:25,536
+Not home stride
+
+1124
+02:22:29,888 --> 02:22:35,008
+What's NI
+
+1125
+02:22:41,920 --> 02:22:48,064
+Buy there is definitely a problem something with the speed of this is really slow
+
+1126
+02:23:21,088 --> 02:23:24,928
+Can't imagine printer office what's slowing it down
+
+1127
+02:23:39,008 --> 02:23:44,128
+Alaska I will stop printing and see how that does
+
+1128
+02:23:54,112 --> 02:23:56,416
+We want to also cancel the
+
+1129
+02:24:18,688 --> 02:24:21,760
+I'm swapping buffers twice
+
+1130
+02:24:22,016 --> 02:24:24,064
+That would do it
+
+1131
+02:24:27,392 --> 02:24:32,512
+Oh hey it's gorgeous now
+
+1132
+02:24:32,768 --> 02:24:38,912
+Oh yeah
+
+1133
+02:24:45,568 --> 02:24:51,712
+Decorate a hole in it for some reason not sure if that's about but
+
+1134
+02:24:51,968 --> 02:24:57,600
+Yeah
+
+1135
+02:25:01,184 --> 02:25:07,328
+I was swapping offers twice in the the same like swapping in swipe
+
+1136
+02:25:07,584 --> 02:25:12,704
+Stopping at back which is just a recipe for all sorts of failure
+
+1137
+02:25:14,752 --> 02:25:16,544
+Cecil that's those
+
+1138
+02:25:17,312 --> 02:25:21,152
+Should we all see the texts that should be being wrong
+
+1139
+02:25:22,688 --> 02:25:26,016
+I'm gonna come out and see what happens with changes
+
+1140
+02:25:45,216 --> 02:25:49,568
+See any text anywhere on screen that should appear there
+
+1141
+02:25:51,616 --> 02:25:57,760
+Oh meat
+
+1142
+02:25:58,016 --> 02:26:04,160
+All you guys
+
+1143
+02:26:04,416 --> 02:26:10,560
+Let me go
+
+1144
+02:26:10,816 --> 02:26:16,960
+Online 111
+
+1145
+02:26:23,616 --> 02:26:29,760
+Why is that
+
+1146
+02:26:30,016 --> 02:26:36,160
+My colour
+
+1147
+02:26:36,416 --> 02:26:42,560
+You know why
+
+1148
+02:26:42,816 --> 02:26:48,960
+Life doesn't do that I think it does
+
+1149
+02:26:55,616 --> 02:27:01,760
+The dialogue colour whatever
+
+1150
+02:27:08,416 --> 02:27:14,560
+Yes the spies rendering this
+
+1151
+02:27:27,616 --> 02:27:33,760
+Rip headphone users
+
+1152
+02:27:34,016 --> 02:27:40,160
+I'm sorry I have no idea
+
+1153
+02:27:40,416 --> 02:27:46,560
+This rate you guys can see what's going on connected to the Orange pi
+
+1154
+02:27:46,816 --> 02:27:52,960
+Right there through the HDMI plug
+
+1155
+02:27:53,216 --> 02:27:59,360
+What do you mean like taking it out of the house
+
+1156
+02:27:59,616 --> 02:28:01,664
+That's silly Adam
+
+1157
+02:28:02,176 --> 02:28:04,736
+That's just silly
+
+1158
+02:28:10,368 --> 02:28:16,512
+I guess I could put it back there I couldn't see the things on the
+
+1159
+02:28:16,768 --> 02:28:18,560
+Before but I can't now so
+
+1160
+02:28:20,864 --> 02:28:23,424
+I hope that's ok I just have a huge
+
+1161
+02:28:57,728 --> 02:28:59,520
+Hi Amazon
+
+1162
+02:29:18,464 --> 02:29:24,608
+Work so hard
+
+1163
+02:29:24,864 --> 02:29:31,008
+Play displaying keep broad right as it is it's because there is no available with video acceleration
+
+1164
+02:29:31,264 --> 02:29:35,104
+I want to be able to have a very xvideo accelerated output
+
+1165
+02:29:36,640 --> 02:29:38,688
+Ok that's so much better
+
+1166
+02:30:10,432 --> 02:30:13,248
+That pretty good
+
+1167
+02:30:14,272 --> 02:30:19,648
+Surrey now that little area in the top corner should turn greyish
+
+1168
+02:30:19,904 --> 02:30:22,208
+Richard end
+
+1169
+02:30:22,464 --> 02:30:23,488
+Just to spite me
+
+1170
+02:30:32,960 --> 02:30:38,336
+Nope still in Accra
+
+1171
+02:31:01,888 --> 02:31:08,032
+I think would be very cool somebody reported virtual boy over to this
+
+1172
+02:31:19,040 --> 02:31:21,344
+Maybe it's actually just that dark
+
+1173
+02:31:26,720 --> 02:31:28,000
+I just can't see it
+
+1174
+02:31:31,840 --> 02:31:37,984
+Yeah that's what's going on
+
+1175
+02:31:58,208 --> 02:32:04,352
+Blue going on
+
+1176
+02:32:45,568 --> 02:32:51,712
+What does refrain do that could be breaking it rain
+
+1177
+02:32:58,368 --> 02:33:04,512
+Just comment out of bath
+
+1178
+02:33:04,768 --> 02:33:07,328
+Graphics programming can sometimes Go
+
+1179
+02:33:07,584 --> 02:33:13,728
+Ok why is this not behaving the way over expected to then
+
+1180
+02:33:13,984 --> 02:33:18,848
+01
+
+1181
+02:33:19,104 --> 02:33:25,248
+How is Rob Oxo
+
+1182
+02:33:25,504 --> 02:33:27,296
+How are called does play into it
+
+1183
+02:34:29,760 --> 02:34:35,904
+Why would the colours be boosted so heavily
+
+1184
+02:34:46,656 --> 02:34:52,800
+And last
+
+1185
+02:34:53,056 --> 02:34:59,200
+You know why it could be little endian
+
+1186
+02:35:05,856 --> 02:35:12,000
+Began dry Indian
+
+1187
+02:35:12,256 --> 02:35:18,400
+Most significant bye
+
+1188
+02:35:18,656 --> 02:35:24,800
+No that's not the case but
+
+1189
+02:35:44,256 --> 02:35:50,400
+There is a function somewhere here is
+
+1190
+02:35:50,656 --> 02:35:56,800
+Set the colour of pasta
+
+1191
+02:35:57,056 --> 02:36:03,200
+Crgv up
+
+1192
+02:36:16,256 --> 02:36:22,400
+I'm just walking around
+
+1193
+02:36:29,056 --> 02:36:35,200
+No that was my great ok let's try fix guys
+
+1194
+02:36:41,856 --> 02:36:48,000
+So you know why
+
+1195
+02:36:48,256 --> 02:36:54,400
+There's a thing you can do and it's
+
+1196
+02:36:54,656 --> 02:37:00,800
+OpenGL I think it's with this
+
+1197
+02:37:01,056 --> 02:37:07,200
+It's
+
+1198
+02:37:07,456 --> 02:37:13,600
+Sing about this knows that the new viapro the old one first
+
+1199
+02:37:13,856 --> 02:37:20,000
+Normal eyes
+
+1200
+02:37:20,256 --> 02:37:26,400
+What's right setting like to true
+
+1201
+02:37:26,656 --> 02:37:32,800
+So right now I'm sitting red to be 1 out of 255
+
+1202
+02:37:33,056 --> 02:37:39,200
+So should be nowhere near as Bray
+
+1203
+02:37:39,456 --> 02:37:45,600
+Perfect ha
+
+1204
+02:37:45,856 --> 02:37:52,000
+Ok so now
+
+1205
+02:37:52,256 --> 02:37:58,400
+Undo everything here here
+
+1206
+02:37:58,656 --> 02:38:04,800
+Set the back to GL horse
+
+1207
+02:38:17,856 --> 02:38:24,000
+I lost my video stream
+
+1208
+02:38:30,656 --> 02:38:36,800
+Ok I show you there's something on the display we just have to figure out why the
+
+1209
+02:38:37,056 --> 02:38:43,200
+Radio 1
+
+1210
+02:38:43,456 --> 02:38:49,600
+Hey there we go
+
+1211
+02:38:49,856 --> 02:38:56,000
+What's even weirder what's going on it's like
+
+1212
+02:38:56,256 --> 02:39:02,400
+Call Jackie
+
+1213
+02:39:02,656 --> 02:39:08,800
+I would not be amazed if they hacked it
+
+1214
+02:39:09,056 --> 02:39:15,200
+Wow what's going on I can see here
+
+1215
+02:39:34,656 --> 02:39:40,800
+Volume again I guess I have to
+
+1216
+02:39:47,456 --> 02:39:53,600
+Well
+
+1217
+02:40:19,456 --> 02:40:25,600
+No it's still host it's just lost the ability to sell
+
+1218
+02:40:25,856 --> 02:40:32,000
+Rtsp streams
+
+1219
+02:40:38,656 --> 02:40:44,800
+Very strange
+
+1220
+02:40:45,056 --> 02:40:51,200
+How I guess we could just watch it in a stone
+
+1221
+02:40:51,456 --> 02:40:57,600
+Or something
+
+1222
+02:41:04,256 --> 02:41:10,400
+No it's a wired camera
+
+1223
+02:41:10,656 --> 02:41:16,800
+Re9 viewing in the web browser so to using an mjpeg stream
+
+1224
+02:41:23,456 --> 02:41:29,600
+Whoops
+
+1225
+02:41:55,456 --> 02:42:01,600
+The full width
+
+1226
+02:42:01,856 --> 02:42:08,000
+It's working now so I have a functional
+
+1227
+02:42:08,256 --> 02:42:14,400
+OMD the red area actually has texted you to it ok
+
+1228
+02:42:14,656 --> 02:42:20,800
+What song what do a wee bit of a stress test
+
+1229
+02:42:21,056 --> 02:42:27,200
+Without doing any kind of clever optimizations let's see what happens if we try to render a
+
+1230
+02:42:27,456 --> 02:42:33,600
+One More Line s
+
+1231
+02:42:39,232 --> 02:42:45,376
+Still able to keep up
+
+1232
+02:42:45,632 --> 02:42:51,776
+Critters in the background there
+
+1233
+02:42:52,032 --> 02:42:54,848
+Turn up to over 10000
+
+1234
+02:42:59,200 --> 02:43:05,344
+That it's not able to do
+
+1235
+02:43:11,488 --> 02:43:17,632
+Yes I did unfortunately it's going to be a pain getting that all the upstream stuff
+
+1236
+02:43:17,888 --> 02:43:24,032
+Because they don't seem to be taking very
+
+1237
+02:43:24,288 --> 02:43:30,432
+Play to me and I don't really understand how to get Lanark to club patches for me so
+
+1238
+02:43:30,944 --> 02:43:37,088
+Yeah
+
+1239
+02:43:37,344 --> 02:43:43,488
+Looks like actually 9000 is probably about the most but I'm gonna bump back down to eat right now concepts
+
+1240
+02:43:43,744 --> 02:43:46,560
+Plenty enough for the kind of things I Wanna Do
+
+1241
+02:43:48,864 --> 02:43:55,008
+Ok now what I want to do is I want to see if I
+
+1242
+02:43:55,264 --> 02:44:01,408
+Turn the change the line width but see how you do that
+
+1243
+02:44:01,664 --> 02:44:07,808
+Vs change line width
+
+1244
+02:44:08,064 --> 02:44:14,208
+OpenGL ES is that like actually offend
+
+1245
+02:44:30,336 --> 02:44:36,480
+Aldi Darwen
+
+1246
+02:44:36,736 --> 02:44:42,880
+I'm emailing to make sure that's actually
+
+1247
+02:44:43,136 --> 02:44:49,280
+I can't really tell
+
+1248
+02:44:55,936 --> 02:45:01,056
+Try not see what happens
+
+1249
+02:45:03,104 --> 02:45:09,248
+I still am I going dumb
+
+1250
+02:45:09,504 --> 02:45:11,296
+Really tell
+
+1251
+02:45:18,720 --> 02:45:24,864
+Oh yeah it's definitely they're all look at those wide Lines
+
+1252
+02:45:25,120 --> 02:45:31,264
+Look at that
+
+1253
+02:45:37,920 --> 02:45:44,064
+Oh my gosh survival keeping up to
+
+1254
+02:45:44,320 --> 02:45:50,464
+That's great
+
+1255
+02:45:50,720 --> 02:45:56,864
+Let's see what happens if we are
+
+1256
+02:45:57,120 --> 02:46:03,264
+Things I can try to do the tweak the output see if those speed it up and all
+
+1257
+02:46:35,775 --> 02:46:41,919
+No there is just an upper limit on how many lines the
+
+1258
+02:46:42,175 --> 02:46:48,319
+You can draw looks like
+
+1259
+02:46:48,575 --> 02:46:54,719
+Answer right now or somewhere between about 70 and 85 FPS so what I can do as I can try
+
+1260
+02:46:54,975 --> 02:47:01,119
+Turning on deaf testing and we'll see if that helps
+
+1261
+02:47:01,375 --> 02:47:07,519
+2416 is all we really need
+
+1262
+02:47:14,175 --> 02:47:18,783
+Pressing suit about the same speed even with z-depth stuff
+
+1263
+02:47:33,119 --> 02:47:35,679
+OGL enable
+
+1264
+02:47:37,471 --> 02:47:41,311
+Neighbours cast
+
+1265
+02:47:41,567 --> 02:47:43,871
+Right
+
+1266
+02:47:51,551 --> 02:47:55,903
+An example Example
+
+1267
+02:47:56,671 --> 02:47:59,999
+Is fine example I want to copy and paste something I don't have to think
+
+1268
+02:48:12,031 --> 02:48:18,175
+Does anybody have any really quick OpenGL code for Harding like quickly do dips stuff
+
+1269
+02:48:19,199 --> 02:48:21,759
+Why did I click on a direct3d 9 link
+
+1270
+02:48:47,103 --> 02:48:52,991
+I just realised this isn't going to be able to be testable with Rod rockers rod rod doesn't had a deal with z
+
+1271
+02:48:53,247 --> 02:48:55,295
+So it's pointless
+
+1272
+02:48:57,087 --> 02:48:59,903
+I guess I just wanted to see but
+
+1273
+02:49:24,735 --> 02:49:30,879
+Please don't slow down please don't slow down please don't slow down please don't say oh my gosh
+
+1274
+02:49:31,135 --> 02:49:37,279
+Wait a minute it's not slowing down and it's clearly working
+
+1275
+02:49:37,535 --> 02:49:43,679
+Testing completely broken but
+
+1276
+02:49:43,935 --> 02:49:50,079
+That's a really good sign that means we can use death testing if you're really
+
+1277
+02:49:50,335 --> 02:49:56,479
+Ok I think 4 time for do for a break
+
+1278
+02:49:56,735 --> 02:50:02,879
+Back at 7
+
+1279
+02:50:03,135 --> 02:50:09,279
+P.m. to do is commit stuff
+
+1280
+02:50:12,607 --> 02:50:14,911
+I'm going to go back abroad
+
+1281
+02:50:34,879 --> 02:50:36,927
+Make sure it doesn't explode
+
+1282
+02:50:39,487 --> 02:50:45,631
+Goodnight ok
+
+1283
+02:50:45,887 --> 02:50:52,031
+Is working just fine up there and everything's fine I guess I should not
+
+1284
+02:50:52,287 --> 02:50:58,431
+Do you dab
+
+1285
+02:51:23,007 --> 02:51:29,151
+It's really cool that you can have
+
+1286
+02:51:29,407 --> 02:51:35,551
+I didn't know you could set up screens in the castle that were not full screen
+
+1287
+02:52:12,671 --> 02:52:18,815
+Yeah we need to fix that
+
+1288
+02:52:19,071 --> 02:52:25,215
+It's killing the framerate because it's switching between arm
+
+1289
+02:52:25,471 --> 02:52:31,615
+Pixels and segments so dramatically
+
+1290
+02:54:52,671 --> 02:54:58,815
+Brendan
+
+1291
+02:54:59,071 --> 02:55:05,215
+Mirrors at mine
+
+1292
+02:55:37,471 --> 02:55:43,615
+Play I in Chard
+
+1293
+02:55:43,871 --> 02:55:50,015
+Can somebody in Shotton work the time of the
+
+1294
+02:55:50,271 --> 02:55:56,415
+Like when everything came together so I can use it for a coming together or something else
+
+1295
+02:55:56,671 --> 02:56:02,815
+Something's wrong with this not running it
+
+1296
+02:56:03,071 --> 02:56:09,215
+Speed
+
+1297
+02:56:35,071 --> 02:56:41,215
+What is this thing doing
+
+1298
+02:56:47,871 --> 02:56:54,015
+Confront the powers of quietly practically
+
+1299
+02:57:13,471 --> 02:57:19,615
+Did you want to make something for dinner
+
+1300
+02:57:32,671 --> 02:57:38,815
+Ok
+
+1301
+02:58:04,671 --> 02:58:10,815
+You know what movie I want
+
+1302
+02:58:23,871 --> 02:58:30,015
+I know it's only 2
+
+1303
+02:58:30,271 --> 02:58:36,415
+GPU or PC PSU it's this thing right here which is really
+
+1304
+02:58:36,671 --> 02:58:42,815
+Smart grinder litepower right now
+
+1305
+02:58:43,071 --> 02:58:49,215
+Do you know why it's only drawing like a couple milli
+
+1306
+02:58:55,871 --> 02:59:02,015
+Hideous waiting
+
+1307
+02:59:02,271 --> 02:59:08,415
+What happens if you let it go as fast as I can
+
+1308
+02:59:08,671 --> 02:59:14,815
+Marius just fine
+
+1309
+03:00:11,647 --> 03:00:12,927
+Thank you Jamie
+
+1310
+03:00:35,455 --> 03:00:41,599
+How am I going to get my credentials without
+
+1311
+03:00:41,855 --> 03:00:47,999
+You guys seeing it
+
+1312
+03:01:26,655 --> 03:01:32,799
+OK actually I should do
+
+1313
+03:01:33,055 --> 03:01:39,199
+To worry about that again
+
+1314
+03:02:43,455 --> 03:02:49,599
+49 no
+
+1315
+03:02:49,855 --> 03:02:55,999
+Cheese gluten free
+
+1316
+03:02:56,255 --> 03:03:02,399
+Alternative combined the white shells and cheddar
+
+1317
+03:03:02,655 --> 03:03:08,799
+No that's even worse
+
+1318
+03:03:15,455 --> 03:03:21,599
+Make just one
+
+1319
+03:03:21,855 --> 03:03:27,999
+Ok
+
+1320
+03:03:34,655 --> 03:03:40,799
+Oh so there is
+
+1321
+03:03:41,055 --> 03:03:47,199
+Turn off the fan in the video the video is behind the sound for the fan
+
+1322
+03:03:47,455 --> 03:03:53,599
+So you probably would hear our him Mark my order fast food to our house
+
+1323
+03:03:53,855 --> 03:03:59,999
+Do we do we want him to do that
+
+1324
+03:04:00,255 --> 03:04:06,399
+Ok Haymarket London
+
+1325
+03:04:06,655 --> 03:04:12,799
+Lighting are you seeing that we the orange pi is actually working with the van everything
+
+1326
+03:04:13,055 --> 03:04:19,199
+Actually not we can do
+
+1327
+03:04:19,455 --> 03:04:25,599
+Diamond port life survive there is
+
+1328
+03:04:25,855 --> 03:04:31,999
+Number to anymore stop
+
+1329
+03:04:40,703 --> 03:04:46,847
+Another box of Ono I don't want the gluten-free I was just curious
+
+1330
+03:04:47,103 --> 03:04:53,247
+Like I bought two boxes I only everyone also Dylan ever comes over I'll do it for him
+
+1331
+03:04:53,503 --> 03:04:54,015
+Get it
+
+1332
+03:04:54,271 --> 03:04:56,063
+Did taste pretty rough
+
+1333
+03:04:56,319 --> 03:04:58,111
+I feel very sad for Dylan
+
+1334
+03:05:10,399 --> 03:05:11,935
+Ok
+
+1335
+03:05:13,727 --> 03:05:15,263
+I think you're good
+
+1336
+03:05:15,775 --> 03:05:21,919
+Mayo for the second part of this which is the
+
+1337
+03:05:22,175 --> 03:05:28,319
+Bury park to me right now
+
+1338
+03:05:28,575 --> 03:05:30,111
+You guys wanna Morgan chat
+
+1339
+03:05:33,695 --> 03:05:39,839
+So here's the second part the second part is
+
+1340
+03:05:40,095 --> 03:05:46,239
+Lights to 52 the orange Pi the original plan was for white survive to only
+
+1341
+03:05:46,495 --> 03:05:52,639
+Require a minimal set of libraries that's making a very easy to Port to anything unfortunately
+
+1342
+03:05:52,895 --> 03:05:59,039
+Justin Berger thank you very much for all of the work you've done you have made this love
+
+1343
+03:05:59,295 --> 03:06:05,439
+So we'll see if it's harder or if it's really not that hard I have my opinions
+
+1344
+03:06:05,695 --> 03:06:11,839
+What's find out
+
+1345
+03:06:26,943 --> 03:06:33,087
+I forgot I also have to remove the extra copy of linux
+
+1346
+03:07:07,647 --> 03:07:11,743
+Selma install the extra packages that are needed to make the Sling run
+
+1347
+03:07:13,791 --> 03:07:15,839
+That's not that bad
+
+1348
+03:07:16,095 --> 03:07:19,167
+76 MB isn't that bad
+
+1349
+03:07:21,727 --> 03:07:25,823
+I was preparing for that number to be with bigger
+
+1350
+03:07:34,015 --> 03:07:40,159
+Esp32
+
+1351
+03:07:40,415 --> 03:07:46,559
+Probably fine
+
+1352
+03:08:00,895 --> 03:08:06,783
+There anyway
+
+1353
+03:08:07,039 --> 03:08:13,183
+Can you help me Adam
+
+1354
+03:08:13,439 --> 03:08:19,583
+Got myself in a pickle
+
+1355
+03:08:19,839 --> 03:08:25,983
+Get a real stand for desk
+
+1356
+03:08:26,751 --> 03:08:32,895
+Hey Mark and Dylan if you guys want you could actually attach the live chat back up
+
+1357
+03:08:33,151 --> 03:08:39,295
+Your help and then we can be controlling things by live chat at your house and I could stream or webcam
+
+1358
+03:08:39,551 --> 03:08:45,695
+Your house to here
+
+1359
+03:08:47,999 --> 03:08:54,143
+So I'm right now going to try this on the experiment
+
+1360
+03:08:54,399 --> 03:09:00,543
+Actually I should do we have the experimental vibe has
+
+1361
+03:09:00,799 --> 03:09:01,311
+Again
+
+1362
+03:09:03,615 --> 03:09:09,759
+So
+
+1363
+03:09:10,015 --> 03:09:15,391
+Live survive what's the running and see what happens
+
+1364
+03:09:32,543 --> 03:09:38,687
+Wow no it is not going
+
+1365
+03:09:38,943 --> 03:09:45,087
+Turn off the old developmental for hardware
+
+1366
+03:09:45,343 --> 03:09:51,487
+No no
+
+1367
+03:09:51,743 --> 03:09:53,791
+Log into my computer I'm trying to run on my computer
+
+1368
+03:09:54,047 --> 03:10:00,191
+I don't know no
+
+1369
+03:10:00,447 --> 03:10:01,983
+No it doesn't work
+
+1370
+03:10:02,495 --> 03:10:08,639
+Volume to my desktop and I don't know which of these USB ports to use
+
+1371
+03:10:14,527 --> 03:10:19,647
+Check
+
+1372
+03:10:19,903 --> 03:10:23,231
+No it's definitely had it in the right one
+
+1373
+03:10:35,775 --> 03:10:37,311
+Brown sugar
+
+1374
+03:11:05,983 --> 03:11:12,127
+New Viber is working just fine with the video output from the orange pi
+
+1375
+03:11:18,783 --> 03:11:24,927
+Hey also one more thing if you guys are up for it if you go into discord
+
+1376
+03:11:25,183 --> 03:11:31,327
+And if you like you guys to do if you're if you're up for it would be going to
+
+1377
+03:11:31,583 --> 03:11:32,351
+Off-topic
+
+1378
+03:11:32,863 --> 03:11:39,007
+And tell me what things about the stream you like in what things you didn't like or things that I can improve
+
+1379
+03:11:39,263 --> 03:11:42,079
+Would like to try to up my YouTube streaming game in the future
+
+1380
+03:11:44,383 --> 03:11:50,527
+Also really pretty good
+
+1381
+03:11:52,319 --> 03:11:57,695
+What would happen the people hate it so much ok
+
+1382
+03:11:58,207 --> 03:12:04,351
+So actually I just didn't should I pull on my
+
+1383
+03:12:04,607 --> 03:12:09,983
+Last I don't even care about my desktop I'm going to go plug in the arm pie
+
+1384
+03:12:42,751 --> 03:12:45,567
+Unplug the vibe
+
+1385
+03:12:49,407 --> 03:12:50,943
+Stop the White House
+
+1386
+03:13:07,583 --> 03:13:12,191
+So now
+
+1387
+03:13:13,215 --> 03:13:17,311
+How to get a copy of web socket be on here as well
+
+1388
+03:13:18,591 --> 03:13:21,919
+Websocket
+
+1389
+03:13:44,703 --> 03:13:48,543
+Cardiff city website
+
+1390
+03:13:54,943 --> 03:13:59,551
+Oh no they're trying to download go
+
+1391
+03:13:59,807 --> 03:14:02,111
+4 X86 64
+
+1392
+03:14:02,623 --> 03:14:03,903
+R32
+
+1393
+03:14:04,927 --> 03:14:06,207
+That's not gonna work
+
+1394
+03:14:09,791 --> 03:14:14,655
+Stolen websocket Dion arm
+
+1395
+03:14:22,847 --> 03:14:28,735
+Ok I guess we'll just do this that look scary and
+
+1396
+03:14:31,807 --> 03:14:37,695
+I really don't know how I feel about just running a
+
+1397
+03:14:39,743 --> 03:14:41,791
+Binary from someone
+
+1398
+03:14:43,583 --> 03:14:44,607
+Hey
+
+1399
+03:14:44,863 --> 03:14:49,471
+This game
+
+1400
+03:14:49,983 --> 03:14:55,359
+What nakai
+
+1401
+03:15:17,119 --> 03:15:19,167
+I really don't want to
+
+1402
+03:15:20,703 --> 03:15:26,847
+Hey Justin
+
+1403
+03:15:27,103 --> 03:15:33,247
+Wait where is the arm binary is in the fish alarm binary
+
+1404
+03:15:33,503 --> 03:15:39,647
+It is there is in a pickle or binary
+
+1405
+03:16:14,975 --> 03:16:21,119
+Do you need to get my hands I'm live USD
+
+1406
+03:16:22,143 --> 03:16:25,727
+I can just copy the line
+
+1407
+03:16:27,775 --> 03:16:31,871
+I don't need actually much that stuff
+
+1408
+03:16:35,455 --> 03:16:38,527
+I don't need light x 11
+
+1409
+03:17:11,551 --> 03:17:14,623
+There's no way this is gonna link
+
+1410
+03:17:17,183 --> 03:17:18,463
+There is no way
+
+1411
+03:17:27,167 --> 03:17:29,215
+Not linked
+
+1412
+03:17:40,991 --> 03:17:45,087
+Wow
+
+1413
+03:17:45,343 --> 03:17:51,487
+0 lines of code needed to be changed
+
+1414
+03:17:56,351 --> 03:18:00,447
+Well we'll see that right about that
+
+1415
+03:18:00,703 --> 03:18:05,311
+Actually one thing I should do is I should do why forwarding
+
+1416
+03:18:06,079 --> 03:18:11,711
+That way I can run things like eggs
+
+1417
+03:18:14,271 --> 03:18:17,855
+Through the thing back to me
+
+1418
+03:18:18,111 --> 03:18:24,255
+Like this extern window is actually running on the Orange pi
+
+1419
+03:18:24,511 --> 03:18:25,791
+Lights off I've
+
+1420
+03:18:26,047 --> 03:18:31,167
+Calibrate
+
+1421
+03:18:33,983 --> 03:18:36,287
+You've gotta be kidding me
+
+1422
+03:18:40,383 --> 03:18:42,687
+Our can keep up though
+
+1423
+03:18:54,975 --> 03:19:01,119
+What's right starting with Dave ortho cos that's gonna be the easiest one the wrong
+
+1424
+03:19:28,511 --> 03:19:32,607
+Are jelly that's a really good point exporting might be slowing it down
+
+1425
+03:19:33,631 --> 03:19:39,775
+So we can run as you can do that black Adidas sockets webrecorder magic socket
+
+1426
+03:19:40,031 --> 03:19:43,359
+Name
+
+1427
+03:19:47,199 --> 03:19:49,759
+And I will
+
+1428
+03:20:00,767 --> 03:20:04,863
+Stop
+
+1429
+03:20:06,911 --> 03:20:08,447
+How do you tell it
+
+1430
+03:20:34,815 --> 03:20:37,631
+You can change the HTML page
+
+1431
+03:20:38,399 --> 03:20:39,935
+Where how
+
+1432
+03:20:43,263 --> 03:20:47,359
+Window that location I can't override that
+
+1433
+03:20:47,615 --> 03:20:53,759
+Friday's here
+
+1434
+03:21:06,303 --> 03:21:12,447
+Now it's not keeping up
+
+1435
+03:21:24,223 --> 03:21:30,367
+Website could be sucking down ok
+
+1436
+03:21:30,623 --> 03:21:36,767
+J David Berger I think I know what I'm going to do this week
+
+1437
+03:21:37,023 --> 03:21:42,911
+I'm going to rewrite websocket D&C I can have all the features
+
+1438
+03:21:43,679 --> 03:21:49,823
+By the way I journal I would have said goes just fine until that a minute ago in which case now and like
+
+1439
+03:21:50,079 --> 03:21:51,615
+Because
+
+1440
+03:21:51,871 --> 03:21:53,663
+There is no way
+
+1441
+03:21:55,711 --> 03:22:01,855
+In esp8266 can do website as this world why why is
+
+1442
+03:22:02,111 --> 03:22:04,927
+Websocket d not able to keep up
+
+1443
+03:22:06,463 --> 03:22:09,791
+Ok
+
+1444
+03:22:19,007 --> 03:22:21,055
+M&S
+
+1445
+03:22:21,311 --> 03:22:27,455
+That's a good idea
+
+1446
+03:22:31,039 --> 03:22:35,135
+I was so there is this other problem that happens with this sort of stuff where
+
+1447
+03:22:38,463 --> 03:22:39,231
+Where
+
+1448
+03:22:39,487 --> 03:22:45,631
+No you're right it could also just be using the poses that could be causing it
+
+1449
+03:22:45,887 --> 03:22:51,007
+But it shouldn't be using 47%
+
+1450
+03:22:52,031 --> 03:22:58,175
+Have you disable so there's this bug in people's brains for they think that
+
+1451
+03:22:58,431 --> 03:23:03,551
+That's not SSL should be killed in there just there just wrong
+
+1452
+03:23:04,063 --> 03:23:08,671
+And I don't see any way to do this without
+
+1453
+03:23:11,999 --> 03:23:16,607
+It is website secure it isn't secured it's still not working
+
+1454
+03:23:20,703 --> 03:23:26,847
+No ok my opinion is the website needs to go get
+
+1455
+03:23:27,871 --> 03:23:34,015
+Yeah this is really lame but you're right I'm going to go to change it to use the
+
+1456
+03:23:34,271 --> 03:23:39,391
+Sores / survive
+
+1457
+03:23:39,647 --> 03:23:45,791
+Are processed us from one survived data
+
+1458
+03:23:46,047 --> 03:23:50,143
+See in try using the trolls 2 simulator
+
+1459
+03:23:55,775 --> 03:23:59,359
+Now ok fine we'll try moving it
+
+1460
+03:24:19,839 --> 03:24:25,983
+I'm pretty sure it just doesn't have to go
+
+1461
+03:24:27,263 --> 03:24:29,823
+I'm not using keyboard notes
+
+1462
+03:24:49,535 --> 03:24:52,351
+Turn on smart keeping up
+
+1463
+03:24:56,191 --> 03:25:02,079
+So what's happening is the second number is coming up and resetting because it missed a a packet
+
+1464
+03:25:09,247 --> 03:25:11,551
+It doesn't need overclocking
+
+1465
+03:25:34,079 --> 03:25:40,223
+So there is another thing that we're going to have to eventually get around to doing and that's going to be
+
+1466
+03:25:40,479 --> 03:25:41,247
+2 on
+
+1467
+03:25:45,343 --> 03:25:51,487
+That's going to be to dislike decouple the incoming data from
+
+1468
+03:25:51,743 --> 03:25:57,887
+The system probably and I've been trying to like push that off but
+
+1469
+03:25:59,679 --> 03:26:00,447
+Yeah
+
+1470
+03:26:02,495 --> 03:26:08,639
+Oh no it's only using 14% CPU
+
+1471
+03:26:09,663 --> 03:26:14,271
+Compilot I didn't recompile like good call
+
+1472
+03:26:28,351 --> 03:26:34,495
+Quick guys throw some more things in chat that I would jump to conclusions quickly for
+
+1473
+03:26:40,383 --> 03:26:45,247
+Time to turn off the infrared part of the camera
+
+1474
+03:27:21,087 --> 03:27:23,647
+Can you not
+
+1475
+03:27:36,959 --> 03:27:37,983
+Discrete
+
+1476
+03:27:56,671 --> 03:28:00,255
+I got distracted
+
+1477
+03:28:00,767 --> 03:28:03,071
+Yeah it's working
+
+1478
+03:28:03,327 --> 03:28:05,119
+It was able to get past
+
+1479
+03:28:07,167 --> 03:28:09,727
+That's good
+
+1480
+03:28:10,751 --> 03:28:12,031
+That's really good
+
+1481
+03:28:23,039 --> 03:28:27,391
+We'll have to go Duty more tweaks but right now
+
+1482
+03:28:42,495 --> 03:28:46,335
+What's wrong mate I make sure that all the data coming in as expected
+
+1483
+03:28:59,391 --> 03:29:03,231
+Ok so this is spectacular
+
+1484
+03:29:03,487 --> 03:29:05,279
+Json
+
+1485
+03:29:12,191 --> 03:29:13,471
+0
+
+1486
+03:29:13,983 --> 03:29:17,567
+And hmd I think is what we want
+
+1487
+03:29:18,079 --> 03:29:21,919
+Please Ryan please run please run please run please run
+
+1488
+03:29:33,183 --> 03:29:35,231
+Ok
+
+1489
+03:29:35,487 --> 03:29:39,839
+Next week Friday run with the e p n t
+
+1490
+03:29:40,351 --> 03:29:44,959
+And because we're going to views
+
+1491
+03:29:45,215 --> 03:29:47,775
+What's the name of the thing something shotgun
+
+1492
+03:29:48,287 --> 03:29:54,431
+Euripides shotgun method of debugging where can I change two things
+
+1493
+03:29:54,687 --> 03:29:55,455
+Stephanie John
+
+1494
+03:29:55,711 --> 03:29:59,807
+Can I change two things at the same time
+
+1495
+03:30:04,159 --> 03:30:07,231
+Go back over here
+
+1496
+03:30:10,047 --> 03:30:12,863
+Can come on please work
+
+1497
+03:30:27,711 --> 03:30:28,991
+Good good
+
+1498
+03:30:29,759 --> 03:30:30,527
+Good
+
+1499
+03:30:31,551 --> 03:30:32,063
+Good
+
+1500
+03:30:32,831 --> 03:30:33,599
+Good
+
+1501
+03:30:34,623 --> 03:30:35,647
+Golden
+
+1502
+03:30:36,415 --> 03:30:39,487
+Oh yes
+
+1503
+03:30:39,743 --> 03:30:45,375
+We are running live survive ok and so
+
+1504
+03:30:45,631 --> 03:30:49,983
+I know you're going to tell me the news
+
+1505
+03:30:50,239 --> 03:30:53,567
+RSPCA
+
+1506
+03:31:21,215 --> 03:31:27,359
+Does not seem to want a girl
+
+1507
+03:31:40,159 --> 03:31:43,231
+I know the tractor visuals are not running on there
+
+1508
+03:31:45,535 --> 03:31:49,887
+This is running on my computer
+
+1509
+03:31:51,679 --> 03:31:57,823
+Hey Justin burger if you can look at the screen now or tell me what
+
+1510
+03:31:58,079 --> 03:32:00,383
+I think I could do to find out why
+
+1511
+03:32:00,895 --> 03:32:04,223
+This isn't working that would be awesome
+
+1512
+03:32:05,759 --> 03:32:08,575
+I don't see The Catcher in the white House's
+
+1513
+03:32:09,855 --> 03:32:10,879
+Maybe
+
+1514
+03:32:13,439 --> 03:32:16,255
+It's fine let's try moving around
+
+1515
+03:32:34,943 --> 03:32:37,247
+I'm thinking this is working
+
+1516
+03:32:42,111 --> 03:32:46,207
+But
+
+1517
+03:32:46,463 --> 03:32:48,767
+It's doing something
+
+1518
+03:32:49,791 --> 03:32:54,655
+Ok
+
+1519
+03:32:56,447 --> 03:32:59,519
+Yeah looks like a never 0tx
+
+1520
+03:33:03,103 --> 03:33:04,895
+Can I see any otx here
+
+1521
+03:33:08,735 --> 03:33:10,271
+Never ATX
+
+1522
+03:33:11,807 --> 03:33:13,087
+Don't know why
+
+1523
+03:33:14,367 --> 03:33:19,999
+Figure out the configuration AdultWork so
+
+1524
+03:33:20,255 --> 03:33:26,399
+Maybe if we can fit pose based off
+
+1525
+03:33:31,007 --> 03:33:32,287
+Read a minute
+
+1526
+03:33:33,055 --> 03:33:34,335
+Hey
+
+1527
+03:33:34,847 --> 03:33:36,895
+II
+
+1528
+03:33:38,175 --> 03:33:44,319
+Swap TNT TNT for default poser
+
+1529
+03:33:44,575 --> 03:33:48,415
+Do I really want to do that that would be the us all I want to do isn't it
+
+1530
+03:33:53,535 --> 03:33:56,095
+What does see what happens
+
+1531
+03:33:56,351 --> 03:33:58,655
+Baby God knows he acts
+
+1532
+03:34:00,447 --> 03:34:01,983
+We got another 0tx
+
+1533
+03:34:02,239 --> 03:34:08,383
+Oh and by the way see you no like some of the people have done
+
+1534
+03:34:08,639 --> 03:34:14,783
+The past like Josh Allen XL pressure in the chat he was the one that wrote the 0tx decoder
+
+1535
+03:34:15,039 --> 03:34:18,623
+Candy configuration system ok
+
+1536
+03:34:21,439 --> 03:34:24,767
+Do I know 1PS pie from my default that I would
+
+1537
+03:34:26,047 --> 03:34:29,631
+Are you tried turning off the infrared lights I couldn't figure out how
+
+1538
+03:34:32,447 --> 03:34:36,287
+Do you like you do is just stop looking outside
+
+1539
+03:34:37,311 --> 03:34:39,359
+Think it's going to work
+
+1540
+03:34:40,127 --> 03:34:41,407
+Haha
+
+1541
+03:34:47,039 --> 03:34:51,391
+So we have that they're gonna go back here pick up around
+
+1542
+03:35:21,599 --> 03:35:24,415
+Looks like I'm looking at the right things
+
+1543
+03:35:25,439 --> 03:35:28,511
+Really jittery Rough by
+
+1544
+03:35:31,327 --> 03:35:33,119
+Night workout
+
+1545
+03:35:34,911 --> 03:35:40,799
+So guys we are still on schedule
+
+1546
+03:35:41,567 --> 03:35:46,943
+We are going to try to talk to you guys directly
+
+1547
+03:35:47,455 --> 03:35:51,807
+We're still on schedule
+
+1548
+03:35:52,319 --> 03:35:58,463
+Codeword for talking in chat about something like
+
+1549
+03:35:58,719 --> 03:36:04,863
+Go to this point for a highlight reel
+
+1550
+03:36:08,703 --> 03:36:11,519
+We're still on track it is
+
+1551
+03:36:11,775 --> 03:36:15,359
+8 p.m. local time I intend to spend about another
+
+1552
+03:36:15,615 --> 03:36:18,431
+Hour and a half to two hours tonight
+
+1553
+03:36:19,967 --> 03:36:20,991
+The goal
+
+1554
+03:36:21,247 --> 03:36:25,599
+Is to hook up light survive to what we just did with Raja
+
+1555
+03:36:25,855 --> 03:36:27,647
+To see if we can see
+
+1556
+03:36:27,903 --> 03:36:28,927
+An object
+
+1557
+03:36:29,183 --> 03:36:35,327
+In 3D space through the 5 running divide off of in
+
+1558
+03:36:35,583 --> 03:36:36,095
+Hi
+
+1559
+03:36:37,631 --> 03:36:39,167
+I think we can do it
+
+1560
+03:36:40,703 --> 03:36:42,239
+I I think
+
+1561
+03:36:43,263 --> 03:36:45,055
+I think it's going to happen
+
+1562
+03:36:46,079 --> 03:36:49,151
+Ok guys I mean
+
+1563
+03:36:49,407 --> 03:36:51,199
+I can't wait
+
+1564
+03:37:09,631 --> 03:37:12,191
+I need a new version of Raja
+
+1565
+03:37:14,495 --> 03:37:15,775
+We can pull in
+
+1566
+03:37:27,039 --> 03:37:28,063
+Call me on
+
+1567
+03:37:42,143 --> 03:37:44,447
+YouTube Peppa
+
+1568
+03:37:44,703 --> 03:37:47,519
+Show them how much you driving down the flu
+
+1569
+03:38:22,079 --> 03:38:22,847
+That's annoying
+
+1570
+03:38:24,127 --> 03:38:25,151
+It looks like
+
+1571
+03:38:26,687 --> 03:38:29,503
+Take me to back horse and fixes first
+
+1572
+03:38:32,831 --> 03:38:35,135
+Let's do that right now
+
+1573
+03:40:03,455 --> 03:40:04,991
+Ring driver
+
+1574
+03:40:06,015 --> 03:40:08,319
+Which one of these was more up today
+
+1575
+03:40:13,951 --> 03:40:14,975
+Cancel button
+
+1576
+03:40:16,767 --> 03:40:19,327
+Which one
+
+1577
+03:40:37,503 --> 03:40:39,551
+Chloe
+
+1578
+03:40:39,807 --> 03:40:40,831
+The song
+
+1579
+03:40:48,255 --> 03:40:50,303
+Thank you out for dinner
+
+1580
+03:41:23,071 --> 03:41:25,375
+So question right here is
+
+1581
+03:41:34,335 --> 03:41:37,407
+NFC image driver
+
+1582
+03:41:43,295 --> 03:41:44,319
+Where is the deaf
+
+1583
+03:42:21,695 --> 03:42:23,743
+Yeah yeah yeah yeah yeah
+
+1584
+03:42:24,511 --> 03:42:28,863
+The problem was that this is like been strewn from all over so
+
+1585
+03:42:53,695 --> 03:42:58,559
+Hi Mum I'm gonna assume that the other one is newer so I'll just do that
+
+1586
+03:43:02,911 --> 03:43:08,287
+I don't know how they got changed in last Dave Chapman had his own version
+
+1587
+03:43:31,071 --> 03:43:32,863
+Looks good
+
+1588
+03:43:36,959 --> 03:43:39,263
+Are there is one but I need to add
+
+1589
+03:43:57,695 --> 03:43:58,207
+Good
+
+1590
+03:43:58,463 --> 03:43:59,231
+Good
+
+1591
+03:44:01,535 --> 03:44:02,303
+Heard
+
+1592
+03:44:05,375 --> 03:44:06,655
+Might need to get tweaked
+
+1593
+03:44:28,415 --> 03:44:30,463
+OK Google ok
+
+1594
+03:45:55,199 --> 03:46:00,319
+Change without to me we have to use the trolls poster on the system instead of the derby poser
+
+1595
+03:46:01,599 --> 03:46:03,135
+Download should make batter
+
+1596
+03:46:03,647 --> 03:46:07,487
+Difference ok so let's go back into this year
+
+1597
+03:46:07,999 --> 03:46:12,095
+Now we're going to have to
+
+1598
+03:46:13,119 --> 03:46:15,935
+Make a new tool
+
+1599
+03:46:21,311 --> 03:46:24,127
+Live survive
+
+1600
+03:46:24,639 --> 03:46:27,711
+Make
+
+1601
+03:46:27,967 --> 03:46:30,783
+Orange high test
+
+1602
+03:46:32,831 --> 03:46:33,599
+Ok
+
+1603
+03:47:11,743 --> 03:47:14,047
+You're right
+
+1604
+03:47:14,559 --> 03:47:15,583
+Thank you Google
+
+1605
+03:48:39,039 --> 03:48:40,319
+Sertraline
+
+1606
+03:48:40,575 --> 03:48:41,599
+Survive
+
+1607
+03:48:42,111 --> 03:48:44,927
+Read pie I see you're coming up with the new name for it
+
+1608
+03:48:45,183 --> 03:48:48,767
+Once you guys in chat Settle on a name
+
+1609
+03:48:49,791 --> 03:48:50,815
+We can rename it
+
+1610
+03:50:18,367 --> 03:50:20,159
+Redist online 5
+
+1611
+03:50:22,719 --> 03:50:23,743
+Thanks
+
+1612
+03:50:53,695 --> 03:50:56,767
+Someone need retest include
+
+1613
+03:51:00,095 --> 03:51:02,143
+Live survive
+
+1614
+03:51:10,079 --> 03:51:14,687
+2160 by 1200
+
+1615
+03:51:18,527 --> 03:51:20,831
+Lights to revive online 6
+
+1616
+03:51:22,879 --> 03:51:23,903
+You are
+
+1617
+03:51:24,159 --> 03:51:30,303
+I think I need to take a little bit aspirin give me just a second
+
+1618
+03:52:27,391 --> 03:52:30,975
+Ok
+
+1619
+03:53:02,207 --> 03:53:05,023
+What's just copy and paste example from
+
+1620
+03:53:17,055 --> 03:53:19,871
+From Rod right in the here
+
+1621
+03:53:20,127 --> 03:53:22,943
+Why not look at a weird grid thing
+
+1622
+03:53:32,159 --> 03:53:33,695
+Raja
+
+1623
+03:53:36,255 --> 03:53:38,815
+Going to go for dinner time
+
+1624
+03:54:04,159 --> 03:54:06,207
+Not really need to do any other stuff
+
+1625
+03:54:07,487 --> 03:54:08,511
+Weather stuff
+
+1626
+03:54:09,535 --> 03:54:12,351
+Or the stuff I don't know what that stuff is even
+
+1627
+03:54:14,399 --> 03:54:16,191
+Why do you need to do this stuff
+
+1628
+03:54:17,215 --> 03:54:20,287
+And I don't need to wait
+
+1629
+03:54:34,879 --> 03:54:37,695
+Set the goal right now is just to get back to where we wore
+
+1630
+03:54:37,951 --> 03:54:39,487
+With the yarn
+
+1631
+03:54:46,911 --> 03:54:49,471
+Bacteria with destroying stuff in the
+
+1632
+03:54:49,727 --> 03:54:51,007
+Survive
+
+1633
+03:54:57,919 --> 03:54:59,967
+What I do wrong
+
+1634
+03:55:00,223 --> 03:55:01,759
+Nothing
+
+1635
+03:55:04,319 --> 03:55:05,087
+Ok
+
+1636
+03:55:07,135 --> 03:55:08,927
+So we need to get
+
+1637
+03:55:11,231 --> 03:55:12,511
+Sinach
+
+1638
+03:55:13,791 --> 03:55:15,839
+3D
+
+1639
+03:55:20,959 --> 03:55:21,983
+Why is that night
+
+1640
+03:55:47,327 --> 03:55:48,351
+Put away
+
+1641
+03:56:01,919 --> 03:56:03,711
+Lionel living character for
+
+1642
+03:56:04,735 --> 03:56:10,879
+Oh my gosh yes I was definitely I think I might be getting a migraine or something I started
+
+1643
+03:56:13,439 --> 03:56:17,023
+Lapack
+
+1644
+03:56:20,095 --> 03:56:21,119
+What is it called
+
+1645
+03:56:21,631 --> 03:56:23,935
+Sea glass
+
+1646
+03:56:34,431 --> 03:56:40,575
+Candyland
+
+1647
+03:56:40,831 --> 03:56:44,671
+Ok C-Class apaki
+
+1648
+03:56:51,327 --> 03:56:55,423
+Actually that's even wrong wow I am just losing my mind right now
+
+1649
+03:57:09,759 --> 03:57:15,903
+See what's going on
+
+1650
+03:57:22,303 --> 03:57:25,375
+I do see a full screen
+
+1651
+03:57:25,887 --> 03:57:32,031
+Video of the things so
+
+1652
+03:58:03,775 --> 03:58:09,919
+Actually do the pair
+
+1653
+03:58:10,175 --> 03:58:16,319
+Sunglasses but I think it's a little bit ridiculous to coding these cos they are Led sunglasses which are
+
+1654
+03:58:16,575 --> 03:58:22,719
+Very dark though I can still see everything with him so sure
+
+1655
+03:58:22,975 --> 03:58:29,119
+Who do this
+
+1656
+03:58:29,375 --> 03:58:35,519
+It hurt my eyes to maybe sunglasses
+
+1657
+03:58:35,775 --> 03:58:41,919
+Stop alarm
+
+1658
+03:58:42,175 --> 03:58:48,319
+I want to run with the same scene twice from two different points of View
+
+1659
+03:58:54,975 --> 03:59:01,119
+I looked over the 5-in look up and it's just the sunglasses are so dark and I
+
+1660
+03:59:01,375 --> 03:59:07,519
+Can't actually read text with sunglasses on or welding glasses
+
+1661
+03:59:07,775 --> 03:59:13,919
+Where are there
+
+1662
+03:59:14,175 --> 03:59:20,319
+It's too bright are that's an interesting point I should probably switch at 2 a.m.
+
+1663
+03:59:20,575 --> 03:59:26,719
+Come on
+
+1664
+03:59:33,375 --> 03:59:39,519
+Under the sea
+
+1665
+03:59:39,775 --> 03:59:45,919
+Spice from two different points of View so I think I want to do is
+
+1666
+03:59:52,575 --> 03:59:58,719
+Respective m here set up the
+
+1667
+03:59:58,975 --> 04:00:05,119
+Newport
+
+1668
+04:00:30,975 --> 04:00:37,119
+So
+
+1669
+04:00:37,375 --> 04:00:43,519
+So everybody knows this is not the way you would ordinarily code a game this is tremendously horrendous
+
+1670
+04:00:43,775 --> 04:00:49,919
+But I'm using RAW for a game it's just not care for it
+
+1671
+04:00:50,175 --> 04:00:56,319
+What I have working right now so by Galley I'm gonna use it
+
+1672
+04:00:56,575 --> 04:01:02,719
+So I should be able to do now as I struggle to say
+
+1673
+04:01:02,975 --> 04:01:09,119
+Turn off rain and then what's 2160
+
+1674
+04:01:09,375 --> 04:01:15,519
+1080
+
+1675
+04:01:15,775 --> 04:01:21,919
+Add 1080 by 1080
+
+1676
+04:01:41,375 --> 04:01:47,519
+At did not work at all
+
+1677
+04:01:53,663 --> 04:01:59,807
+IC1
+
+1678
+04:02:00,063 --> 04:02:06,207
+My left eye and nothing in my right eye
+
+1679
+04:02:07,487 --> 04:02:10,303
+How do I see nothing in my right eye
+
+1680
+04:02:20,799 --> 04:02:25,919
+What's
+
+1681
+04:02:58,687 --> 04:03:00,991
+Probably fine
+
+1682
+04:03:01,247 --> 04:03:05,087
+Ok the weather Toronto
+
+1683
+04:03:05,855 --> 04:03:09,439
+Why nothing to displaying up in the other eye
+
+1684
+04:03:14,815 --> 04:03:20,959
+Why am I getting only up yet
+
+1685
+04:03:21,215 --> 04:03:27,359
+Google are mysteries going on right now
+
+1686
+04:03:27,615 --> 04:03:33,759
+Is a water mysteries
+
+1687
+04:03:50,911 --> 04:03:57,055
+Does anybody see why this which is not work
+
+1688
+04:03:57,311 --> 04:04:02,431
+One-eyed
+
+1689
+04:04:45,951 --> 04:04:52,095
+Offset axis should be 180 or 1080 cos I want to be over there
+
+1690
+04:05:13,087 --> 04:05:16,927
+What's your local screenex in a local screenwipe
+
+1691
+04:05:17,183 --> 04:05:19,487
+There's no confusion about that
+
+1692
+04:05:23,071 --> 04:05:28,191
+How to use a are much wider field of view
+
+1693
+04:05:34,847 --> 04:05:40,991
+See something in my left eye nothing in my right
+
+1694
+04:05:47,647 --> 04:05:53,791
+No there isn't
+
+1695
+04:06:32,447 --> 04:06:38,591
+What what train will see what happens
+
+1696
+04:06:38,847 --> 04:06:44,991
+I think that's going to make the second frame a very wide frame but what's a
+
+1697
+04:06:51,647 --> 04:06:57,791
+What is definitely interesting you put it in the middle instead of off to one side
+
+1698
+04:06:58,047 --> 04:07:04,191
+So maybe it's
+
+1699
+04:07:04,447 --> 04:07:06,751
+It's just nice pushing it over
+
+1700
+04:07:08,543 --> 04:07:11,615
+Oh it's not using hpto jump that's why
+
+1701
+04:07:36,703 --> 04:07:41,311
+ADHD so ABC
+
+1702
+04:07:54,367 --> 04:08:00,511
+Well it's something awful
+
+1703
+04:08:04,607 --> 04:08:09,727
+How would I stream this to you guys
+
+1704
+04:08:10,239 --> 04:08:13,567
+I'll show you guys whenever I get it working
+
+1705
+04:08:26,623 --> 04:08:32,767
+Almost
+
+1706
+04:08:33,023 --> 04:08:39,167
+It looks like the centre of the frame is not actually
+
+1707
+04:08:39,423 --> 04:08:45,567
+Like centre of each frame
+
+1708
+04:08:45,823 --> 04:08:51,967
+Does anybody remember a diopter
+
+1709
+04:08:52,223 --> 04:08:58,367
+What's the same seller to tan so that would be
+
+1710
+04:08:58,623 --> 04:09:04,767
+Minus diopter in this process died after make it 40
+
+1711
+04:09:05,023 --> 04:09:11,167
+That
+
+1712
+04:09:11,423 --> 04:09:17,567
+Crazy like wrong but
+
+1713
+04:09:17,823 --> 04:09:23,967
+So I'm this
+
+1714
+04:09:24,223 --> 04:09:30,367
+You have one and I'm just by you have the of
+
+1715
+04:09:30,623 --> 04:09:36,767
+That's that's pretty good now
+
+1716
+04:09:37,023 --> 04:09:43,167
+Snow like separation between the two but that's ok for the moment
+
+1717
+04:09:43,423 --> 04:09:49,567
+Try to do next is make it so that the I can be adjusted for Peugeot point
+
+1718
+04:10:00,831 --> 04:10:04,159
+So you actually don't want to spin around like that it all
+
+1719
+04:10:06,463 --> 04:10:12,607
+See how we just want to pass i n
+
+1720
+04:10:15,679 --> 04:10:20,799
+What is the size of this thing that were looking at this
+
+1721
+04:10:21,055 --> 04:10:27,199
+What UNIS deeprot nhmh my
+
+1722
+04:10:34,111 --> 04:10:35,903
+I bet it's huge
+
+1723
+04:10:36,159 --> 04:10:37,951
+Probably huge
+
+1724
+04:10:38,207 --> 04:10:39,487
+I have to steal a dance song
+
+1725
+04:10:40,767 --> 04:10:43,071
+Like my kind of you
+
+1726
+04:10:43,327 --> 04:10:49,471
+If you was weird that I'm finally getting the point in something where we're going to be talking about
+
+1727
+04:10:49,727 --> 04:10:54,335
+Things an actual unit so when I say 40 units it'll be 40 m by
+
+1728
+04:10:54,847 --> 04:10:57,151
+Dead so
+
+1729
+04:10:57,663 --> 04:11:03,807
+Ok
+
+1730
+04:11:04,063 --> 04:11:08,671
+I'm gonna just put up I won
+
+1731
+04:11:08,927 --> 04:11:15,071
+0111
+
+1732
+04:11:15,327 --> 04:11:19,935
+And I still at 111 as well
+
+1733
+04:11:20,191 --> 04:11:22,495
+You should be looking at the thing
+
+1734
+04:11:22,751 --> 04:11:28,127
+I think the one thing we're going to have to do is change
+
+1735
+04:11:28,383 --> 04:11:31,199
+Scaling on the height map
+
+1736
+04:11:33,247 --> 04:11:39,391
+Undo that got to see what we say
+
+1737
+04:11:39,647 --> 04:11:45,791
+Free Guy
+
+1738
+04:11:46,047 --> 04:11:52,191
+Look at home it's a very top I see something so not really sure why that's all the way up there
+
+1739
+04:11:52,447 --> 04:11:58,591
+It is up there in both eyes the same those that's good
+
+1740
+04:11:58,847 --> 04:12:04,991
+Ok I'll see here what will be next
+
+1741
+04:12:17,791 --> 04:12:19,071
+Stop
+
+1742
+04:12:19,327 --> 04:12:22,911
+First I need to do one thing affects the performance
+
+1743
+04:12:23,935 --> 04:12:26,495
+3
+
+1744
+04:12:30,335 --> 04:12:33,151
+Yeah that was definitely a migraine coming on
+
+1745
+04:12:34,687 --> 04:12:38,271
+Staff we must persevere
+
+1746
+04:12:44,159 --> 04:12:45,439
+Hall and about 1
+
+1747
+04:13:00,543 --> 04:13:03,359
+Ok so it is Center but it's very large
+
+1748
+04:13:04,383 --> 04:13:10,527
+Height map
+
+1749
+04:13:10,783 --> 04:13:16,927
+Sub
+
+1750
+04:13:36,383 --> 04:13:42,527
+You should probably try scaling
+
+1751
+04:13:42,783 --> 04:13:48,927
+Scale here
+
+1752
+04:14:10,431 --> 04:14:16,575
+Hi
+
+1753
+04:14:16,831 --> 04:14:22,975
+Play up
+
+1754
+04:14:23,231 --> 04:14:29,375
+Why is that
+
+1755
+04:14:33,471 --> 04:14:39,615
+Car right now
+
+1756
+04:14:59,071 --> 04:15:01,631
+24 look at
+
+1757
+04:15:03,423 --> 04:15:09,567
+Not exactly the same
+
+1758
+04:15:09,823 --> 04:15:11,615
+You're doing something stupid
+
+1759
+04:15:12,383 --> 04:15:14,943
+What can we be doing that stupid
+
+1760
+04:15:23,903 --> 04:15:27,231
+You know whatever this movie I asked song
+
+1761
+04:15:48,991 --> 04:15:55,135
+What makes no sense
+
+1762
+04:15:55,391 --> 04:16:01,535
+Diverse
+
+1763
+04:16:43,775 --> 04:16:49,919
+Crucify applied to scale there that does anything
+
+1764
+04:16:51,455 --> 04:16:55,807
+Here
+
+1765
+04:17:05,791 --> 04:17:11,935
+But you know what I can do I can just manually change point it's fine
+
+1766
+04:17:49,055 --> 04:17:55,199
+Performer concerning the night
+
+1767
+04:17:55,455 --> 04:18:01,599
+Use the lookup function O2 are so right now
+
+1768
+04:18:01,855 --> 04:18:07,999
+In the centre of frame the
+
+1769
+04:18:08,255 --> 04:18:14,399
+That's working I don't know
+
+1770
+04:18:14,655 --> 04:18:16,703
+Why I can't get the same effect
+
+1771
+04:18:17,215 --> 04:18:19,007
+I just moving the eye back
+
+1772
+04:18:47,935 --> 04:18:54,079
+Exactly the same effect
+
+1773
+04:18:54,335 --> 04:19:00,479
+That's good
+
+1774
+04:19:00,735 --> 04:19:06,879
+Ok so the nice thing about that would be that means two things one if we were 50 m away that's what
+
+1775
+04:19:07,135 --> 04:19:13,279
+Look like brown inside my house so we can get 50 m away at the most we could really get it up to me away
+
+1776
+04:19:13,535 --> 04:19:19,679
+What the thing looks like it out
+
+1777
+04:19:27,103 --> 04:19:33,247
+The kind of big at 1 m away
+
+1778
+04:19:33,503 --> 04:19:39,647
+What's drinking a little bit
+
+1779
+04:19:49,887 --> 04:19:56,031
+0.05 ok so now the next thing to do is hooky and live survive
+
+1780
+04:20:02,175 --> 04:20:08,319
+Actually probably want to start its own trailer
+
+1781
+04:20:10,623 --> 04:20:13,951
+So what we can do that is we can go look at
+
+1782
+04:20:19,071 --> 04:20:20,607
+I won't forget to call my mum back
+
+1783
+04:20:22,399 --> 04:20:25,215
+Our source
+
+1784
+04:20:33,663 --> 04:20:35,199
+I have text
+
+1785
+04:20:37,503 --> 04:20:39,551
+Well I want you texts
+
+1786
+04:20:46,207 --> 04:20:47,743
+Somebody
+
+1787
+04:21:06,175 --> 04:21:11,295
+Obama discussion group Whitchurch was cancelled for tomorrow
+
+1788
+04:21:12,063 --> 04:21:18,207
+Anyway let's go look and see how
+
+1789
+04:21:18,463 --> 04:21:22,047
+Data recorder works
+
+1790
+04:21:25,375 --> 04:21:27,423
+Not need any of this junk
+
+1791
+04:21:27,679 --> 04:21:29,215
+Where does junk
+
+1792
+04:21:31,519 --> 04:21:37,663
+Hey Justin are you still in there if so what is the command for actually getting the final close
+
+1793
+04:21:37,919 --> 04:21:38,431
+Back it up
+
+1794
+04:22:03,263 --> 04:22:07,615
+No like what's the survival after install to get the nice
+
+1795
+04:22:07,871 --> 04:22:13,759
+Like the pose that you randomly your thing with the hook into it
+
+1796
+04:22:28,095 --> 04:22:34,239
+My Rob process pose pose I don't think
+
+1797
+04:22:34,495 --> 04:22:40,639
+What a nice pretty bows and question is there any way to prevent it from trying to do lighthouse calibration right
+
+1798
+04:22:43,455 --> 04:22:47,295
+No I don't want lighthouse calibration
+
+1799
+04:23:19,039 --> 04:23:24,927
+Go to ducal install so right now if I run this it should not do Cal install
+
+1800
+04:23:25,439 --> 04:23:31,583
+Ptx
+
+1801
+04:23:54,367 --> 04:23:57,183
+Outright
+
+1802
+04:23:57,439 --> 04:24:00,255
+Always have a hard time remembering capitalization start
+
+1803
+04:24:32,511 --> 04:24:35,583
+Going to try the rotten world
+
+1804
+04:24:40,703 --> 04:24:44,287
+I want to just say
+
+1805
+04:24:49,919 --> 04:24:52,479
+What is incompatible about it
+
+1806
+04:25:01,183 --> 04:25:06,303
+I'm going to hold the over here come on
+
+1807
+04:25:07,583 --> 04:25:09,119
+Oh ok
+
+1808
+04:25:10,911 --> 04:25:17,055
+Sea flags
+
+1809
+04:25:17,311 --> 04:25:19,103
+Equals double
+
+1810
+04:25:31,903 --> 04:25:34,975
+Wait why is there redefining
+
+1811
+04:26:08,511 --> 04:26:14,655
+So I might have to rebuild long time ago no it's gone
+
+1812
+04:26:14,911 --> 04:26:21,055
+Ok just so what am I missing
+
+1813
+04:26:21,311 --> 04:26:27,455
+Offered to the chat diary of something
+
+1814
+04:26:53,055 --> 04:26:59,199
+I want I can use that
+
+1815
+04:27:07,135 --> 04:27:13,279
+Ok so now we have a pose
+
+1816
+04:27:39,135 --> 04:27:45,279
+That's working
+
+1817
+04:27:48,095 --> 04:27:49,375
+Next thing
+
+1818
+04:27:49,887 --> 04:27:54,751
+We're going after render the eyes from two slightly different point of view let's try that right here
+
+1819
+04:27:55,519 --> 04:27:57,311
+21
+
+1820
+04:28:18,047 --> 04:28:23,679
+That's obscenely wrong
+
+1821
+04:28:40,575 --> 04:28:46,719
+Is the opposite of what to do
+
+1822
+04:28:54,143 --> 04:29:00,287
+Hey does anybody know how I would be able to share terminal
+
+1823
+04:29:00,543 --> 04:29:06,687
+Make it so that other people online can see the terminal and by train
+
+1824
+04:29:06,943 --> 04:29:13,087
+I mean the Castle
+
+1825
+04:29:13,343 --> 04:29:19,487
+No no the tramadol the hardware camel dive fb0
+
+1826
+04:29:23,583 --> 04:29:25,631
+From the
+
+1827
+04:29:25,887 --> 04:29:29,727
+I can get a bottle of brown know what to do with the buffer
+
+1828
+04:29:31,519 --> 04:29:36,383
+I think there is a thing on PS4
+
+1829
+04:29:38,431 --> 04:29:44,575
+It would be on a separate computer
+
+1830
+04:29:51,999 --> 04:29:58,143
+Ok so probably
+
+1831
+04:30:04,799 --> 04:30:10,943
+Ok this might work yeah I think 0.7 with work
+
+1832
+04:30:11,199 --> 04:30:17,343
+I think it's just a little bit too big so that's good so what were going to want to do right now
+
+1833
+04:30:17,599 --> 04:30:21,183
+What's the advised to be the same
+
+1834
+04:30:21,439 --> 04:30:23,231
+Hand
+
+1835
+04:30:25,279 --> 04:30:27,839
+It's going to be all wrong
+
+1836
+04:30:31,167 --> 04:30:37,311
+To take into account the where the agency is looking
+
+1837
+04:30:47,807 --> 04:30:51,391
+So what I really need to do is convert the quote into a matrix
+
+1838
+04:31:06,495 --> 04:31:09,055
+What do matrix
+
+1839
+04:31:20,319 --> 04:31:22,367
+That's not exactly what I want to do is it
+
+1840
+04:31:33,119 --> 04:31:39,263
+Morpheus if you are you go do it that would be that would be kinda need to be up for trying it
+
+1841
+04:31:54,367 --> 04:31:59,487
+No I think I will use item up it does feel right
+
+1842
+04:32:01,279 --> 04:32:05,887
+I will Star at fullstar up
+
+1843
+04:32:06,143 --> 04:32:11,263
+Done I'm going to
+
+1844
+04:32:30,207 --> 04:32:34,047
+What's TMAX
+
+1845
+04:32:37,375 --> 04:32:43,007
+UB40
+
+1846
+04:32:49,151 --> 04:32:51,967
+I'm just a security login right now
+
+1847
+04:33:00,159 --> 04:33:03,999
+But I can screen only works attacked
+
+1848
+04:33:08,095 --> 04:33:14,239
+No I'm trying to get this video I'm out puddings 2 / 10 / fp0
+
+1849
+04:33:15,519 --> 04:33:21,663
+Yes
+
+1850
+04:33:21,919 --> 04:33:24,735
+Ok cancel
+
+1851
+04:33:24,991 --> 04:33:29,343
+Fb.con which is the frame buffer console
+
+1852
+04:33:42,911 --> 04:33:48,799
+Yeah I want to hear the fp02 something so I can show you guys
+
+1853
+04:33:50,335 --> 04:33:51,359
+It's fine
+
+1854
+04:33:51,871 --> 04:33:57,759
+Maybe you feeling vidstreaming might be quite slow on the OPI
+
+1855
+04:33:58,015 --> 04:34:03,135
+Only getting 1 FPS that's probably sufficient for the sake of this
+
+1856
+04:34:03,391 --> 04:34:06,975
+I think it'd be really needed you guys for watching this thing finally happened
+
+1857
+04:34:07,487 --> 04:34:13,631
+I have
+
+1858
+04:34:13,887 --> 04:34:15,679
+Not ideal
+
+1859
+04:34:20,287 --> 04:34:26,431
+Yeah you should just be able to open Dev fb0 and then like is
+
+1860
+04:34:26,687 --> 04:34:28,991
+Nm-applet into memory
+
+1861
+04:34:42,047 --> 04:34:48,191
+Start time for a bit even if you guys are nice in 1-ft
+
+1862
+04:34:48,447 --> 04:34:54,591
+I'm sure that's fine
+
+1863
+04:35:20,447 --> 04:35:26,591
+Goodnight
+
+1864
+04:35:39,647 --> 04:35:45,791
+Apply poster 0.1
+
+1865
+04:36:05,247 --> 04:36:11,391
+Ok so I guess what I will do is I'll pretend that might
+
+1866
+04:36:11,647 --> 04:36:17,791
+Days are where they are in my head so one I would be at
+
+1867
+04:36:18,047 --> 04:36:24,191
+According to this thing it would be at -7 cm
+
+1868
+04:36:24,447 --> 04:36:30,591
+They said no it doesn't make any sense of it
+
+1869
+04:36:30,847 --> 04:36:36,991
+No that's should be like that 14 mm 1.4 mm so
+
+1870
+04:36:37,247 --> 04:36:43,391
+0.0014
+
+1871
+04:36:43,647 --> 04:36:49,791
+Can I one can I two
+
+1872
+04:36:50,047 --> 04:36:56,191
+Is it really 7335
+
+1873
+04:36:56,447 --> 04:37:02,591
+I don't believe I'll do 30
+
+1874
+04:37:02,847 --> 04:37:08,991
+Exaggerated but ok
+
+1875
+04:37:09,247 --> 04:37:15,391
+Set for last I want to make sure we get our orientation right
+
+1876
+04:37:15,647 --> 04:37:21,791
+Are what PSI is parsec
+
+1877
+04:37:22,047 --> 04:37:28,191
+Arise - x
+
+1878
+04:37:28,447 --> 04:37:34,591
+Why do you think it's fine we'll
+
+1879
+04:37:34,847 --> 04:37:40,991
+You guys don't need a lot of a lot of FPS
+
+1880
+04:38:00,447 --> 04:38:06,591
+I guess we're looking at
+
+1881
+04:38:19,647 --> 04:38:25,791
+Looking Glass
+
+1882
+04:38:26,047 --> 04:38:32,191
+Hey that looks exactly like what I want
+
+1883
+04:38:32,447 --> 04:38:35,263
+What is the tool and never heard of it can you get leg
+
+1884
+04:38:42,431 --> 04:38:43,711
+Can
+
+1885
+04:38:44,735 --> 04:38:46,783
+At
+
+1886
+04:38:49,343 --> 04:38:55,487
+CCS very far past
+
+1887
+04:38:55,743 --> 04:38:57,791
+News
+
+1888
+04:39:01,375 --> 04:39:03,679
+Can up
+
+1889
+04:39:09,567 --> 04:39:12,639
+Turn off
+
+1890
+04:39:20,575 --> 04:39:21,855
+That would be
+
+1891
+04:39:22,111 --> 04:39:24,415
+0
+
+1892
+04:39:25,951 --> 04:39:31,071
+SY1
+
+1893
+04:39:43,615 --> 04:39:44,639
+Ok
+
+1894
+04:39:45,407 --> 04:39:48,735
+There's a very low chance for this is going to work
+
+1895
+04:39:53,343 --> 04:39:59,487
+Ok Nicky discord now click on it
+
+1896
+04:39:59,743 --> 04:40:05,887
+Just straight up transfer like devafuser work
+
+1897
+04:40:06,143 --> 04:40:09,215
+Compiler is out so I'm not going to
+
+1898
+04:40:10,239 --> 04:40:14,847
+To do this right yet until
+
+1899
+04:40:16,127 --> 04:40:21,247
+Until you guys are watching
+
+1900
+04:40:35,583 --> 04:40:38,399
+How's pin-up mod
+
+1901
+04:41:24,991 --> 04:41:28,063
+There's argument wolf pup star
+
+1902
+04:41:28,319 --> 04:41:29,599
+What's a 40 star
+
+1903
+04:41:33,951 --> 04:41:36,767
+Oh he's supposed to be doubles
+
+1904
+04:41:51,103 --> 04:41:53,407
+That's going to have another
+
+1905
+04:41:59,551 --> 04:42:05,695
+What is to the conversion of here
+
+1906
+04:42:42,815 --> 04:42:48,959
+Oh this is going to require a way more than what I'm doing here we're just trying to get
+
+1907
+04:42:49,215 --> 04:42:50,239
+Basic stuff together
+
+1908
+04:43:26,335 --> 04:43:32,479
+I am not interested in the right answer I am interested in the worst possible answer that gets us what we need
+
+1909
+04:43:48,095 --> 04:43:54,239
+My bill but I'm not going to work through this until we have some way I'm showing you guys
+
+1910
+04:44:37,759 --> 04:44:41,087
+No no running the Sunday pi
+
+1911
+04:44:41,343 --> 04:44:43,391
+We are not going to back out now
+
+1912
+04:44:43,903 --> 04:44:50,047
+I'm alright at myself
+
+1913
+04:44:50,303 --> 04:44:52,095
+Away
+
+1914
+04:44:54,911 --> 04:44:59,775
+Hey wait a minute never mind to move caravan spray
+
+1915
+04:45:00,031 --> 04:45:04,895
+After install ffmpeg
+
+1916
+04:45:10,271 --> 04:45:11,039
+Oh
+
+1917
+04:45:11,295 --> 04:45:13,855
+No no I'm just going to go this
+
+1918
+04:45:14,367 --> 04:45:15,391
+Chappie that bad
+
+1919
+04:45:19,743 --> 04:45:22,815
+Received right I'm JPEG streams
+
+1920
+04:45:39,967 --> 04:45:41,503
+Yeah sure whatever I'll do it
+
+1921
+04:45:59,935 --> 04:46:06,079
+Hey was soaking somebody says type data
+
+1922
+04:46:08,895 --> 04:46:13,247
+Now we've already been doing the camera goggles it's just it's
+
+1923
+04:46:13,503 --> 04:46:19,391
+It's bad because I get to see it first I really don't want it to happen I want everybody to see this at the same time
+
+1924
+04:46:45,503 --> 04:46:47,807
+Not working JME
+
+1925
+04:46:50,367 --> 04:46:52,415
+Not working
+
+1926
+04:46:53,951 --> 04:46:56,767
+What do I do Jamie how do I make it work
+
+1927
+04:46:59,583 --> 04:47:02,655
+The last space
+
+1928
+04:47:08,799 --> 04:47:10,591
+I don't have a display variable
+
+1929
+04:47:11,871 --> 04:47:13,407
+I want to connect to SD Dev
+
+1930
+04:47:52,063 --> 04:47:54,879
+No ffmpeg we're doing it
+
+1931
+04:47:55,903 --> 04:48:02,047
+Oh I see you're saying no I'll be awful doing it over x 4
+
+1932
+04:48:06,655 --> 04:48:08,703
+I'm not sending straight to YouTube
+
+1933
+04:48:08,959 --> 04:48:11,007
+I want to do rtmp
+
+1934
+04:48:15,103 --> 04:48:18,175
+Rtmp
+
+1935
+04:48:18,687 --> 04:48:24,063
+Isn't there some way to just do it like a peg or something
+
+1936
+04:48:41,983 --> 04:48:43,263
+Hey
+
+1937
+04:49:23,711 --> 04:49:26,271
+Address family not supported
+
+1938
+04:49:33,695 --> 04:49:36,511
+Price training
+
+1939
+04:49:40,863 --> 04:49:43,423
+Ffm before you feed URL
+
+1940
+04:49:51,871 --> 04:49:55,455
+Maybe
+
+1941
+04:50:03,135 --> 04:50:04,671
+Operation not permitted
+
+1942
+04:50:05,183 --> 04:50:06,463
+Get to use
+
+1943
+04:50:09,023 --> 04:50:15,167
+Get to use a fb401 than FM before
+
+1944
+04:50:17,983 --> 04:50:19,775
+Does it have to be Dash
+
+1945
+04:50:22,847 --> 04:50:26,943
+Wake me up at 10 p.m. doesn't use a dash
+
+1946
+04:50:27,199 --> 04:50:30,783
+Connection refused
+
+1947
+04:50:37,183 --> 04:50:40,255
+No I wanted to publish to a URL
+
+1948
+04:50:41,279 --> 04:50:44,607
+How do you make SMP published
+
+1949
+04:50:45,631 --> 04:50:47,167
+I'm sorry says
+
+1950
+04:50:48,447 --> 04:50:51,007
+No I got the input that's fine but
+
+1951
+04:50:51,263 --> 04:50:55,359
+How do you how do you make it output to something over the network
+
+1952
+04:50:55,871 --> 04:51:02,015
+FM
+
+1953
+04:51:02,271 --> 04:51:05,343
+To webpage
+
+1954
+04:51:07,391 --> 04:51:09,183
+I don't want to stream from
+
+1955
+04:51:15,327 --> 04:51:21,471
+I'm here honey no no I'm not
+
+1956
+04:51:21,727 --> 04:51:26,079
+Darling Nginx this is like this should be like 50 lines of code
+
+1957
+04:51:26,335 --> 04:51:32,479
+You know what forget it I'm doing it doing it we're doing it we're doing it at least
+
+1958
+04:51:34,015 --> 04:51:40,159
+What after stream.cz include a CD
+
+1959
+04:51:40,415 --> 04:51:46,559
+Age and main
+
+1960
+04:51:46,815 --> 04:51:52,959
+Place fpzero
+
+1961
+04:52:01,919 --> 04:52:04,991
+Tutorial bingo sought-after
+
+1962
+04:52:05,759 --> 04:52:10,111
+Always John Kirby mine
+
+1963
+04:52:10,367 --> 04:52:16,255
+Do it live
+
+1964
+04:52:16,511 --> 04:52:17,279
+Off
+
+1965
+04:52:18,815 --> 04:52:23,167
+No no no no it's not let Spotify Pro
+
+1966
+04:52:24,191 --> 04:52:26,751
+It's not a vipro
+
+1967
+04:52:28,031 --> 04:52:34,175
+It is a prototype but it is definitely before the regular on
+
+1968
+04:52:34,431 --> 04:52:38,527
+Definitely
+
+1969
+04:52:47,231 --> 04:52:53,375
+I'm even care about doing honest that's what I'm after
+
+1970
+04:53:00,031 --> 04:53:01,823
+What is the map what now
+
+1971
+04:53:04,639 --> 04:53:06,687
+Change map
+
+1972
+04:53:07,199 --> 04:53:13,343
+Probably Bob la file size
+
+1973
+04:53:13,599 --> 04:53:17,951
+X 12 1200 x 4
+
+1974
+04:53:18,463 --> 04:53:24,095
+No we're not doing it we're doing it
+
+1975
+04:53:24,351 --> 04:53:30,495
+Why didn't I guess you work before going off with the with the frame buffer vein
+
+1976
+04:53:30,751 --> 04:53:33,055
+Moving on
+
+1977
+04:53:37,151 --> 04:53:41,759
+Ok
+
+1978
+04:53:42,015 --> 04:53:48,159
+So now that we have a potentially and now
+
+1979
+04:53:48,415 --> 04:53:54,559
+What's pocket see what the very first value is map of 0
+
+1980
+04:53:54,815 --> 04:54:00,959
+Ttd live survive
+
+1981
+04:54:01,215 --> 04:54:07,359
+Stream
+
+1982
+04:54:14,015 --> 04:54:20,159
+Scream
+
+1983
+04:54:20,415 --> 04:54:26,559
+Stream.cz CC
+
+1984
+04:54:27,839 --> 04:54:30,399
+Dash
+
+1985
+04:54:30,655 --> 04:54:36,799
+Really I guess clean
+
+1986
+04:54:37,055 --> 04:54:43,199
+Start cleaning
+
+1987
+04:54:43,455 --> 04:54:49,599
+Let's go guys if you have never seen this you will be amazed
+
+1988
+04:54:50,623 --> 04:54:53,439
+Look at the stain
+
+1989
+04:54:53,695 --> 04:54:54,975
+Image rate
+
+1990
+04:54:55,231 --> 04:54:56,255
+Bingo
+
+1991
+04:54:56,511 --> 04:55:01,119
+Elmeg also to crazy files like JPEGs
+
+1992
+04:55:07,775 --> 04:55:09,311
+Cold
+
+1993
+04:55:10,079 --> 04:55:13,151
+ATV underscore image underscore i.age
+
+1994
+04:55:16,479 --> 04:55:18,783
+Home is done
+
+1995
+04:55:19,295 --> 04:55:22,623
+What would I do is we are going to
+
+1996
+04:55:24,671 --> 04:55:25,951
+Halloween clue
+
+1997
+04:55:26,207 --> 04:55:28,255
+Include something
+
+1998
+04:55:33,631 --> 04:55:39,775
+Ok so we have that we're going to include
+
+1999
+04:55:40,031 --> 04:55:43,103
+TV right daddy
+
+2000
+04:55:43,359 --> 04:55:45,407
+Turn on we are going to
+
+2001
+04:55:47,455 --> 04:55:52,319
+The pound to find before I use it I can't see what it is though
+
+2002
+04:56:02,559 --> 04:56:06,399
+How to find that thing
+
+2003
+04:56:06,911 --> 04:56:12,287
+We're going to write jpgs
+
+2004
+04:56:12,543 --> 04:56:18,687
+Whatever filename was just go output right now to just
+
+2005
+04:56:18,943 --> 04:56:21,759
+Splashtastic jpg
+
+2006
+04:56:22,015 --> 04:56:28,159
+Tight so weird height
+
+2007
+04:56:28,415 --> 04:56:30,719
+4
+
+2008
+04:56:31,231 --> 04:56:37,375
+Define with 2160
+
+2009
+04:56:37,631 --> 04:56:43,775
+How to find height 1200
+
+2010
+04:57:02,463 --> 04:57:08,351
+Ok so there is no way this is going to work let's try this first
+
+2011
+04:57:23,967 --> 04:57:25,759
+Just happened there
+
+2012
+04:57:45,983 --> 04:57:51,871
+Yes haha
+
+2013
+04:57:52,127 --> 04:57:54,431
+Are glorious
+
+2014
+04:57:54,687 --> 04:57:57,247
+Wow that looks like absolute garbage
+
+2015
+04:57:59,295 --> 04:58:02,879
+Don't know why it looks like garbage don't really care it looks like garbage
+
+2016
+04:58:04,159 --> 04:58:05,695
+Tracery
+
+2017
+04:58:06,463 --> 04:58:12,607
+How to 76 KB
+
+2018
+04:58:26,175 --> 04:58:28,479
+Vauxhall Toomey
+
+2019
+04:58:29,759 --> 04:58:34,623
+077 so whatever the thing is clearly demented that he can
+
+2020
+04:58:34,879 --> 04:58:41,023
+Open it but whatever is there is stuck here at school streaming over a webpage
+
+2021
+04:58:41,279 --> 04:58:47,167
+HTTP TCP server example
+
+2022
+04:58:47,423 --> 04:58:50,495
+All see no colour is wrong
+
+2023
+04:58:50,751 --> 04:58:56,895
+It's fine we're gonna to worry about colour or just going to be just just smashing through the stuff
+
+2024
+04:58:57,407 --> 04:58:59,199
+Tcpserver
+
+2025
+04:58:59,711 --> 04:59:05,855
+Who was Kathy all this junk up here
+
+2026
+04:59:06,111 --> 04:59:12,255
+Yeah
+
+2027
+04:59:12,511 --> 04:59:18,655
+Bust size huge
+
+2028
+04:59:18,911 --> 04:59:25,055
+Whatever
+
+2029
+04:59:31,711 --> 04:59:37,855
+FD all that
+
+2030
+04:59:38,111 --> 04:59:44,255
+PC
+
+2031
+04:59:44,511 --> 04:59:50,655
+Which countries was making a time but
+
+2032
+04:59:57,311 --> 05:00:03,455
+Ok
+
+2033
+05:00:03,711 --> 05:00:09,855
+Still copy some more John Coffey internet without any kind of regard for
+
+2034
+05:00:10,111 --> 05:00:16,255
+Ownership
+
+2035
+05:00:29,311 --> 05:00:35,455
+The summer dress from where are we going to go to set up the address to bind 2ru
+
+2036
+05:00:35,711 --> 05:00:41,855
+Let's go bumper cervico down a little bit
+
+2037
+05:01:01,311 --> 05:01:07,455
+I'm going to be raining in mjpeg server yeah
+
+2038
+05:01:07,711 --> 05:01:13,855
+We're going all the way doing it now
+
+2039
+05:01:14,111 --> 05:01:20,255
+Also give the sky credit and travel insurance
+
+2040
+05:01:20,511 --> 05:01:26,655
+Start the way to clear a half of the guy
+
+2041
+05:01:26,911 --> 05:01:33,055
+I got a city lines over to Somewhere not here
+
+2042
+05:01:33,311 --> 05:01:39,455
+No I do have a whole thing cnh GDP but I don't want to do that I want to see if I can ride a hole
+
+2043
+05:01:39,711 --> 05:01:45,855
+Mjpeg server and one c file on see how small it is cos that's more fun
+
+2044
+05:01:46,111 --> 05:01:52,255
+Wayanad
+
+2045
+05:01:52,511 --> 05:01:58,655
+Just do it
+
+2046
+05:01:58,911 --> 05:02:05,055
+OK Google do next thing
+
+2047
+05:02:05,311 --> 05:02:11,455
+So we have our map
+
+2048
+05:02:11,711 --> 05:02:17,855
+The spy device
+
+2049
+05:02:18,111 --> 05:02:24,255
+And then you'll see you do a motion tng right
+
+2050
+05:02:24,511 --> 05:02:30,655
+Each other isn't it
+
+2051
+05:02:30,911 --> 05:02:37,055
+Nice thing about mjpeg is that the browser basic
+
+2052
+05:02:37,311 --> 05:02:43,455
+Forgetting to the sooners in displays at so let's go
+
+2053
+05:03:14,687 --> 05:03:20,831
+We won't even write a multithreaded one it's just going to be one Fred one client whatever
+
+2054
+05:03:21,087 --> 05:03:22,623
+Soft fine
+
+2055
+05:03:23,391 --> 05:03:24,415
+Ring fine
+
+2056
+05:04:01,279 --> 05:04:07,423
+Ok so I'm gonna clean off all TCP server and awful single-threaded TCP services give me the worst of the word
+
+2057
+05:04:07,679 --> 05:04:13,823
+And then we're going to go I don't know it's cats jump it's going on
+
+2058
+05:04:14,079 --> 05:04:20,223
+Organic set the socket or something like that the web servers going to tell us something but I don't really care what it
+
+2059
+05:04:20,479 --> 05:04:25,343
+Received
+
+2060
+05:04:25,599 --> 05:04:28,671
+Tile FC now
+
+2061
+05:04:28,927 --> 05:04:35,071
+Car
+
+2062
+05:04:35,327 --> 05:04:41,215
+So man receive
+
+2063
+05:04:44,543 --> 05:04:46,079
+Received
+
+2064
+05:04:46,591 --> 05:04:50,431
+Sarcastic size 1
+
+2065
+05:04:50,943 --> 05:04:56,319
+So received I left the box office size
+
+2066
+05:04:58,367 --> 05:05:00,671
+Off-plan flag zero
+
+2067
+05:05:00,927 --> 05:05:02,975
+Ok
+
+2068
+05:05:05,535 --> 05:05:07,327
+While
+
+2069
+05:05:08,607 --> 05:05:10,399
+Thrill
+
+2070
+05:05:15,007 --> 05:05:18,591
+Alright ok what I want to do is
+
+2071
+05:05:22,943 --> 05:05:28,319
+Write the function
+
+2072
+05:05:29,343 --> 05:05:32,159
+Thank you Sean Brett you are the coolest
+
+2073
+05:05:35,743 --> 05:05:37,791
+Goals
+
+2074
+05:05:41,631 --> 05:05:43,423
+Turn jpg
+
+2075
+05:05:43,679 --> 05:05:49,823
+Ocean
+
+2076
+05:05:50,079 --> 05:05:54,943
+Http
+
+2077
+05:05:57,759 --> 05:06:00,831
+Looks like somebody hazard and python2 bad redundancy
+
+2078
+05:06:04,415 --> 05:06:05,695
+Nope
+
+2079
+05:06:06,719 --> 05:06:12,351
+You know what we can do we can just do another trick here Wireshark
+
+2080
+05:06:13,119 --> 05:06:14,911
+Guess what we have running right here
+
+2081
+05:06:16,191 --> 05:06:16,959
+Yes
+
+2082
+05:06:18,495 --> 05:06:20,031
+And mjpeg stream
+
+2083
+05:06:21,311 --> 05:06:22,335
+Hello
+
+2084
+05:06:26,687 --> 05:06:27,455
+Ok
+
+2085
+05:06:27,967 --> 05:06:28,735
+Stop
+
+2086
+05:06:35,135 --> 05:06:39,231
+Dddd dddd dddd
+
+2087
+05:07:08,671 --> 05:07:11,743
+We're going to go send this chance to me I don't care what it is
+
+2088
+05:07:12,511 --> 05:07:16,863
+You might even hilarious you're too decent web server
+
+2089
+05:07:20,191 --> 05:07:21,471
+I say hello there yet
+
+2090
+05:07:21,727 --> 05:07:25,567
+And it just disturbs literally jumping back JPEG data
+
+2091
+05:07:26,847 --> 05:07:27,615
+Players
+
+2092
+05:07:28,383 --> 05:07:29,407
+Hilarious
+
+2093
+05:07:30,687 --> 05:07:32,223
+There's no header
+
+2094
+05:07:32,479 --> 05:07:33,503
+Don't even bother
+
+2095
+05:07:33,759 --> 05:07:36,319
+You know what I'm not gonna bother either
+
+2096
+05:08:00,383 --> 05:08:04,479
+Right wingers find out what it is
+
+2097
+05:08:05,759 --> 05:08:07,295
+What is
+
+2098
+05:08:08,575 --> 05:08:09,599
+Call
+
+2099
+05:08:10,879 --> 05:08:14,719
+Sian Brett was nice enough to leave the template light below hand
+
+2100
+05:08:18,559 --> 05:08:20,607
+What is
+
+2101
+05:08:21,119 --> 05:08:23,167
+Out here
+
+2102
+05:08:25,215 --> 05:08:27,519
+Exercise
+
+2103
+05:08:30,847 --> 05:08:34,431
+Tp52
+
+2104
+05:08:34,687 --> 05:08:35,967
+0
+
+2105
+05:08:38,271 --> 05:08:42,111
+My GPA grade
+
+2106
+05:08:59,519 --> 05:09:04,639
+Without car with hi
+
+2107
+05:09:08,479 --> 05:09:10,271
+Const void data
+
+2108
+05:09:15,903 --> 05:09:17,951
+Data years
+
+2109
+05:09:18,463 --> 05:09:24,607
+Now quality let's just say I'll try once you Friday
+
+2110
+05:09:25,631 --> 05:09:26,399
+Why not
+
+2111
+05:09:28,447 --> 05:09:34,591
+Yeah you know what I would catch sink pipe but you can really get that on a stand
+
+2112
+05:09:35,871 --> 05:09:42,015
+We will sink pipe and pipe I mean not even bothered
+
+2113
+05:09:48,159 --> 05:09:54,303
+Sorry phone on stand
+
+2114
+05:09:55,583 --> 05:10:01,727
+RC here copy
+
+2115
+05:10:03,007 --> 05:10:09,151
+Jpg size
+
+2116
+05:10:09,407 --> 05:10:12,223
+SunBites onion
+
+2117
+05:10:12,735 --> 05:10:15,295
+Man down here
+
+2118
+05:10:15,551 --> 05:10:21,695
+You have an example of somebody who really just says dashdash ipcam 264
+
+2119
+05:10:21,951 --> 05:10:28,095
+Enter and then some content Young
+
+2120
+05:10:28,351 --> 05:10:34,495
+Guitar
+
+2121
+05:10:34,751 --> 05:10:38,591
+IDK m264
+
+2122
+05:10:41,151 --> 05:10:42,175
+Add
+
+2123
+05:10:43,199 --> 05:10:48,575
+Backsplash or backsplash and content-type
+
+2124
+05:10:49,599 --> 05:10:53,183
+Image search
+
+2125
+05:10:53,439 --> 05:10:56,767
+Jpg
+
+2126
+05:10:57,023 --> 05:11:01,887
+Can't add dashlane
+
+2127
+05:11:03,679 --> 05:11:05,727
+Forlan
+
+2128
+05:11:05,983 --> 05:11:08,543
+2 peg size
+
+2129
+05:11:20,575 --> 05:11:21,343
+Ok
+
+2130
+05:11:24,671 --> 05:11:27,487
+Send
+
+2131
+05:11:27,743 --> 05:11:32,607
+Tile ft
+
+2132
+05:11:34,911 --> 05:11:36,191
+Yes
+
+2133
+05:11:36,447 --> 05:11:39,263
+What is the command
+
+2134
+05:11:39,519 --> 05:11:41,567
+To sand
+
+2135
+05:11:48,223 --> 05:11:54,367
+MSG no signal something goes wrong
+
+2136
+05:11:54,623 --> 05:12:00,767
+Send child at the check this one
+
+2137
+05:12:04,095 --> 05:12:10,239
+Boscombe GP size and HD no signal
+
+2138
+05:12:10,495 --> 05:12:16,127
+Connection
+
+2139
+05:12:32,767 --> 05:12:36,863
+What's to see if this works
+
+2140
+05:12:41,215 --> 05:12:47,359
+Oh no this is no multi-part magic this is just a bunch of terms that people strung together in order to get to work
+
+2141
+05:12:49,663 --> 05:12:51,199
+It's just terrible
+
+2142
+05:12:51,711 --> 05:12:55,551
+What's wrong with that line
+
+2143
+05:13:02,719 --> 05:13:04,255
+What's wrong with this
+
+2144
+05:13:10,655 --> 05:13:11,679
+We will accept that
+
+2145
+05:14:17,215 --> 05:14:20,543
+Can't smell
+
+2146
+05:14:27,711 --> 05:14:31,807
+JPEG size stupid so stupid site header header
+
+2147
+05:14:32,063 --> 05:14:34,111
+TVR
+
+2148
+05:14:36,671 --> 05:14:40,767
+From highly
+
+2149
+05:14:53,823 --> 05:14:56,639
+The address for B
+
+2150
+05:14:56,895 --> 05:15:00,479
+18080 / snap.svg
+
+2151
+05:15:14,047 --> 05:15:14,815
+Hello
+
+2152
+05:15:37,087 --> 05:15:39,647
+Contact 90
+
+2153
+05:16:00,895 --> 05:16:04,223
+So you know what I didn't update the fire
+
+2154
+05:16:06,271 --> 05:16:11,903
+Update the size
+
+2155
+05:16:16,511 --> 05:16:18,559
+I know Harris don't start with dash dash
+
+2156
+05:16:18,815 --> 05:16:21,375
+Does it mean won't work
+
+2157
+05:16:27,519 --> 05:16:28,287
+Medium
+
+2158
+05:16:31,103 --> 05:16:35,711
+Ok fine maybe won't work it out
+
+2159
+05:16:38,527 --> 05:16:40,063
+How to make it work
+
+2160
+05:17:19,231 --> 05:17:21,535
+I actually do get the header
+
+2161
+05:17:22,047 --> 05:17:24,607
+I can't there some sort of really terrible
+
+2162
+05:17:25,631 --> 05:17:27,935
+Magic going on
+
+2163
+05:17:52,255 --> 05:17:53,791
+GU10 2800k
+
+2164
+05:17:54,047 --> 05:17:57,119
+That's weird
+
+2165
+05:17:58,143 --> 05:18:00,191
+Set lights to do that
+
+2166
+05:18:01,983 --> 05:18:07,103
+Content area content type
+
+2167
+05:18:09,919 --> 05:18:12,991
+Multipart x mixed replace
+
+2168
+05:18:25,791 --> 05:18:31,935
+Boundary equals
+
+2169
+05:18:32,191 --> 05:18:38,335
+464
+
+2170
+05:18:53,183 --> 05:18:54,719
+Hey check that out
+
+2171
+05:18:59,071 --> 05:19:05,215
+Electronic
+
+2172
+05:19:05,471 --> 05:19:09,567
+You guys can see what happens
+
+2173
+05:19:10,847 --> 05:19:16,223
+Alcohol yes probably
+
+2174
+05:19:16,479 --> 05:19:21,855
+Lol Locker mythos
+
+2175
+05:19:24,671 --> 05:19:30,815
+Ocular actually
+
+2176
+05:19:31,071 --> 05:19:33,119
+My credentials again
+
+2177
+05:19:52,319 --> 05:19:58,463
+KFC is that what I'm actually seeing through the headset
+
+2178
+05:19:58,719 --> 05:20:04,863
+Yeah that's exactly what I'm saying to the headset
+
+2179
+05:20:11,519 --> 05:20:17,663
+And in fact it's not updating
+
+2180
+05:20:17,919 --> 05:20:19,967
+Close information and see what's going on
+
+2181
+05:20:26,367 --> 05:20:32,255
+All the colours are all backwards but who cares about colours so you know what is even a better way to do this
+
+2182
+05:20:32,511 --> 05:20:36,095
+Oh this we can just reorder the colours by like
+
+2183
+05:20:36,607 --> 05:20:41,215
+Off-by-one in it
+
+2184
+05:20:41,727 --> 05:20:45,567
+I want to see what happens because it's going to be fun
+
+2185
+05:20:47,103 --> 05:20:48,127
+Reduce a random
+
+2186
+05:20:48,383 --> 05:20:52,735
+Set reviews
+
+2187
+05:20:53,759 --> 05:20:57,855
+I don't think so
+
+2188
+05:21:23,711 --> 05:21:26,527
+The colours the same
+
+2189
+05:21:47,519 --> 05:21:53,663
+You know guys I if this doesn't fix the colours after the going through the trial
+
+2190
+05:21:57,503 --> 05:22:00,063
+That's actually completely wrong there
+
+2191
+05:22:01,343 --> 05:22:04,927
+Very cool looking
+
+2192
+05:22:12,607 --> 05:22:15,423
+Ask you can see the
+
+2193
+05:22:15,935 --> 05:22:18,239
+The cursor blinking up here
+
+2194
+05:22:19,007 --> 05:22:20,799
+You could see the cursor blinking
+
+2195
+05:22:24,127 --> 05:22:30,271
+Put the order in here maybe somewhere just
+
+2196
+05:22:37,951 --> 05:22:40,255
+No I think I want rgba
+
+2197
+05:22:51,263 --> 05:22:54,079
+Time
+
+2198
+05:22:56,639 --> 05:22:59,199
+One thing I really want to find out
+
+2199
+05:22:59,711 --> 05:23:04,063
+Arm what happens if I do that
+
+2200
+05:23:04,831 --> 05:23:08,159
+This is a load of attention
+
+2201
+05:23:11,231 --> 05:23:12,511
+I'm really curious
+
+2202
+05:23:24,799 --> 05:23:26,591
+Can the browser handle this
+
+2203
+05:23:30,431 --> 05:23:35,551
+There is nothing in the content type that would indicators jpeg
+
+2204
+05:23:54,751 --> 05:23:58,079
+15 by 2
+
+2205
+05:24:02,943 --> 05:24:07,807
+Keep my we are on in arm so it is all sorts of probable that it's wacky
+
+2206
+05:24:14,463 --> 05:24:17,791
+That's almost really actually
+
+2207
+05:24:20,863 --> 05:24:23,935
+No it's so wrong
+
+2208
+05:24:24,191 --> 05:24:28,287
+What colour is that it's red yellow Israel Iran
+
+2209
+05:24:37,503 --> 05:24:40,319
+Looks like just implying it's good enough
+
+2210
+05:24:41,599 --> 05:24:44,415
+Strongly suggesting that it might be mjpeg
+
+2211
+05:24:47,743 --> 05:24:50,559
+Stream anything that's awful
+
+2212
+05:24:51,839 --> 05:24:55,679
+Ok looks like you guys are going to be getting your foot colour order
+
+2213
+05:24:56,191 --> 05:24:57,215
+Sorry dude
+
+2214
+05:25:20,256 --> 05:25:23,840
+Ok so this is happening right now which is wrong
+
+2215
+05:25:24,096 --> 05:25:28,192
+Because were supposed to be somewhere and looking at something
+
+2216
+05:25:28,448 --> 05:25:34,336
+Definitely not worth seeing something to go print out the clothes here and see what lights revives telling us
+
+2217
+05:25:39,456 --> 05:25:41,760
+Wait does it actually say Imogen somewhere
+
+2218
+05:25:42,784 --> 05:25:44,320
+Oh I'm an idiot
+
+2219
+05:25:47,392 --> 05:25:49,696
+Final ghost in 5-minutes to check the test
+
+2220
+05:25:50,720 --> 05:25:56,608
+And tried tested p&g
+
+2221
+05:26:16,064 --> 05:26:22,208
+Yeah I don't think browser is no handle motion Cian juice like that
+
+2222
+05:26:22,464 --> 05:26:28,608
+So for some reason my stomach getting close information
+
+2223
+05:26:28,864 --> 05:26:35,008
+Revert
+
+2224
+05:26:41,664 --> 05:26:47,808
+JPEGs to files to JPEGs JPEGs
+
+2225
+05:26:48,064 --> 05:26:54,208
+All the way down
+
+2226
+05:26:54,464 --> 05:27:00,608
+Yes fpzero is an app straight onto Matt Dillon
+
+2227
+05:27:00,864 --> 05:27:07,008
+Emma can that be what
+
+2228
+05:27:07,264 --> 05:27:13,408
+Pause it as you can open up a file but pretend that is just a bunch of memory that we don't have to read things in or out of it
+
+2229
+05:27:13,664 --> 05:27:19,808
+Can just go read data like an array is so it's part of the file itself 250g
+
+2230
+05:27:20,064 --> 05:27:26,208
+Instead of having to like speak to you want and read out what you want then seek somewhere else you can do
+
+2231
+05:27:26,464 --> 05:27:32,608
+Napit directly into memory and then you can just access stuff in the erase you would just feel like it
+
+2232
+05:27:32,864 --> 05:27:39,008
+Emma Disney
+
+2233
+05:27:39,264 --> 05:27:45,408
+That's that's really wrong
+
+2234
+05:27:52,064 --> 05:27:58,208
+Why are we getting
+
+2235
+05:27:58,464 --> 05:28:04,608
+Lights alive
+
+2236
+05:28:04,864 --> 05:28:11,008
+That's right
+
+2237
+05:28:11,264 --> 05:28:17,408
+Boss orange pytest' history grab
+
+2238
+05:28:17,664 --> 05:28:23,808
+Orange hi test
+
+2239
+05:28:24,064 --> 05:28:30,208
+We have to pass it to write parameter if you want to get the data
+
+2240
+05:28:30,464 --> 05:28:36,608
+And we also do that
+
+2241
+05:28:49,664 --> 05:28:55,808
+That is
+
+2242
+05:28:56,064 --> 05:29:02,208
+Lee Ryan
+
+2243
+05:29:02,464 --> 05:29:08,608
+By the way it's
+
+2244
+05:29:08,864 --> 05:29:15,008
+Pretty going to be in the glasses to them now
+
+2245
+05:29:28,064 --> 05:29:34,208
+It is actually
+
+2246
+05:29:40,864 --> 05:29:47,008
+General effects on them
+
+2247
+05:29:47,264 --> 05:29:53,408
+Working
+
+2248
+05:30:00,064 --> 05:30:06,208
+Turn down
+
+2249
+05:30:06,464 --> 05:30:12,608
+Oh my gosh
+
+2250
+05:30:12,864 --> 05:30:19,008
+It is like I can walk around the thing it's just
+
+2251
+05:30:19,264 --> 05:30:25,408
+Downer anything
+
+2252
+05:30:32,064 --> 05:30:38,208
+So right now I'm saying it from one side song
+
+2253
+05:30:51,264 --> 05:30:57,408
+Intensifiers
+
+2254
+05:30:57,664 --> 05:31:03,808
+From underneath
+
+2255
+05:31:04,064 --> 05:31:10,208
+The way to use oh my gosh no
+
+2256
+05:31:16,864 --> 05:31:23,008
+Someone you loved
+
+2257
+05:31:36,064 --> 05:31:42,208
+Route
+
+2258
+05:31:48,864 --> 05:31:55,008
+It should not be doing now
+
+2259
+05:32:01,664 --> 05:32:07,808
+If I rotate my head one way
+
+2260
+05:32:08,064 --> 05:32:14,208
+The other way is actually rotating the object appropriately so that's really good
+
+2261
+05:32:14,464 --> 05:32:20,608
+This is as Jackie is it should be oh my god
+
+2262
+05:32:20,864 --> 05:32:27,008
+Survive on an Orange Pi while streaming of with the world's worst witch
+
+2263
+05:32:40,064 --> 05:32:46,208
+Who are the care of you watching record apple
+
+2264
+05:32:46,464 --> 05:32:52,608
+I can walk over here and see if I can still on hit the chair
+
+2265
+05:32:52,864 --> 05:32:59,008
+Set the heart I'm cracking
+
+2266
+05:33:05,664 --> 05:33:11,808
+All the way around the chair without hitting it
+
+2267
+05:33:12,064 --> 05:33:18,208
+Only use the headset to tell me where I think the chair is
+
+2268
+05:33:18,464 --> 05:33:24,608
+The chair
+
+2269
+05:33:24,864 --> 05:33:31,008
+So this is actually working I am running
+
+2270
+05:33:31,264 --> 05:33:37,408
+I am running at successfully on the Orange pi
+
+2271
+05:33:37,664 --> 05:33:43,808
+The world's worst VR system
+
+2272
+05:33:56,864 --> 05:34:03,008
+Ok I'm going to go put the
+
+2273
+05:34:16,064 --> 05:34:22,208
+This might be the very first live stream where
+
+2274
+05:34:22,464 --> 05:34:28,608
+Where we try to do something and it may have worked
+
+2275
+05:34:28,864 --> 05:34:34,496
+What is the happiest 100fps
+
+2276
+05:34:34,752 --> 05:34:40,896
+Yeah I'm sorry 90fps so that's working out it's just lights off
+
+2277
+05:34:41,152 --> 05:34:47,296
+When is absolutely janky
+
+2278
+05:34:53,952 --> 05:35:00,096
+What's a top
+
+2279
+05:35:13,152 --> 05:35:19,296
+The thing was visible to everyone right like I didn't actually put it behind something I shouldn't have right
+
+2280
+05:35:25,952 --> 05:35:32,096
+What is orange Pi podcast ok that's fair in fbstreams using a
+
+2281
+05:35:32,352 --> 05:35:38,496
+Even though it's system
+
+2282
+05:35:38,752 --> 05:35:44,896
+What's the thing even doing
+
+2283
+05:35:51,552 --> 05:35:57,696
+Pause
+
+2284
+05:35:57,952 --> 05:36:04,096
+This is a livestream I'm going to be releasing
+
+2285
+05:36:10,752 --> 05:36:16,896
+Change the way this works I'm gonna go change fbstream
+
+2286
+05:36:17,152 --> 05:36:23,296
+So it copies it to a butter first and then send ZL
+
+2287
+05:37:08,352 --> 05:37:14,496
+What else I can do is
+
+2288
+05:37:21,152 --> 05:37:27,296
+Happy Direct action should be with 32
+
+2289
+05:38:37,952 --> 05:38:44,096
+I think I just written the worst code I've written in
+
+2290
+05:38:44,352 --> 05:38:50,496
+Years and I had a blast
+
+2291
+05:38:57,152 --> 05:39:03,296
+Hey this is a lot better now or not
+
+2292
+05:39:03,552 --> 05:39:09,696
+You're going to do work
+
+2293
+05:39:09,952 --> 05:39:16,096
+Send 8:30 pixels
+
+2294
+05:40:13,952 --> 05:40:20,096
+No I call Mike ice papa is dropping the green channel
+
+2295
+05:40:20,352 --> 05:40:26,496
+Aladdin the green channel
+
+2296
+05:40:58,752 --> 05:41:04,896
+That way
+
+2297
+05:41:17,952 --> 05:41:24,096
+We can do it that way now
+
+2298
+05:41:24,352 --> 05:41:30,496
+You know it's starting to get fun this is this is little
+
+2299
+05:41:30,752 --> 05:41:36,896
+The worst code I ever actually remember writing even though if
+
+2300
+05:41:37,152 --> 05:41:43,296
+I don't even
+
+2301
+05:41:56,352 --> 05:42:02,496
+I don't even know how it's doing whatever it's doing that's
+
+2302
+05:42:02,752 --> 05:42:08,896
+I truly horrendous
+
+2303
+05:42:09,152 --> 05:42:15,296
+This is
+
+2304
+05:42:15,552 --> 05:42:21,696
+What is this chat how do I write what is this I want to do this bank somebody just send me another one
+
+2305
+05:42:21,952 --> 05:42:28,096
+72a terminals route
+
+2306
+05:42:28,352 --> 05:42:34,496
+I don't know what I looking for here what is
+
+2307
+05:42:34,752 --> 05:42:40,896
+Oh snap
+
+2308
+05:42:41,152 --> 05:42:47,296
+I am going to have to turn off the dri2 bug
+
+2309
+05:42:47,552 --> 05:42:53,696
+Stuff that can cause all sorts of problems
+
+2310
+05:42:53,952 --> 05:43:00,096
+Yeah let's do that
+
+2311
+05:43:23,392 --> 05:43:29,536
+Dr on the bog with her 2ff that's probably not needed
+
+2312
+05:43:36,960 --> 05:43:43,104
+Right now though I just want to get this thing working again with
+
+2313
+05:43:49,760 --> 05:43:55,904
+What's right to me
+
+2314
+05:44:08,960 --> 05:44:15,104
+Definitely
+
+2315
+05:44:15,360 --> 05:44:21,504
+How to stop that systemd alarm from stewing everywhere eventually as soon as
+
+2316
+05:44:21,760 --> 05:44:27,904
+Should get fixed
+
+2317
+05:44:28,160 --> 05:44:34,304
+That's really
+
+2318
+05:44:34,560 --> 05:44:40,704
+Really low quality
+
+2319
+05:45:06,560 --> 05:45:12,704
+Yodel
+
+2320
+05:45:19,360 --> 05:45:25,504
+Is it out of 100 I think it's one two or three
+
+2321
+05:45:32,160 --> 05:45:38,304
+No the problem is it with you when you some colour is that
+
+2322
+05:45:38,560 --> 05:45:44,704
+It's it's actually really bad
+
+2323
+05:45:44,960 --> 05:45:51,104
+Appreciate it
+
+2324
+05:45:51,360 --> 05:45:57,504
+Actually it's need
+
+2325
+05:45:57,760 --> 05:46:03,904
+So what you actually seen here is your seen the colour channels bleed into each other across
+
+2326
+05:46:04,160 --> 05:46:10,304
+The B boundaries that's why it's doing that wacky stuff they're because when we divide by
+
+2327
+05:46:10,560 --> 05:46:16,704
+Or it's bringing the least significant bit into the next lowest register which
+
+2328
+05:46:16,960 --> 05:46:23,104
+Play really do a really awful tricky fix bad in week by doing it this way we could say
+
+2329
+05:46:23,360 --> 05:46:29,504
+And 0 x arm
+
+2330
+05:46:29,760 --> 05:46:35,904
+ABC CCFC FC
+
+2331
+05:46:36,160 --> 05:46:42,304
+It's going to do is stop the the best better than all registers when we shift down from going into the
+
+2332
+05:46:42,560 --> 05:46:48,704
+Next upper thing is no longer that Dad is
+
+2333
+05:46:48,960 --> 05:46:55,104
+And operator in there
+
+2334
+05:46:55,360 --> 05:47:01,504
+Why did that happen like that a dark
+
+2335
+05:47:01,760 --> 05:47:07,904
+CSCS
+
+2336
+05:47:08,160 --> 05:47:14,304
+CSCS c
+
+2337
+05:47:33,760 --> 05:47:39,904
+I'm having the wrong B I think
+
+2338
+05:47:40,160 --> 05:47:46,304
+I am hitting the wrong B C
+
+2339
+05:47:46,560 --> 05:47:52,704
+CSCS
+
+2340
+05:47:52,960 --> 05:47:59,104
+No wouldn't be bitswap I think that I'm I was accounting for favourite
+
+2341
+05:47:59,360 --> 05:48:05,504
+Already down but they may not be see what happens if I know I did
+
+2342
+05:48:12,160 --> 05:48:18,304
+It might be
+
+2343
+05:48:24,960 --> 05:48:31,104
+Yeah I think I'm eating the other bits so I think I want to hear I think this is right
+
+2344
+05:48:31,360 --> 05:48:37,504
+Now it's still wrong
+
+2345
+05:48:37,760 --> 05:48:43,904
+Ch3f ok news only
+
+2346
+05:48:44,160 --> 05:48:50,304
+Anyways this could be you want exhaust them
+
+2347
+05:48:56,960 --> 05:49:03,104
+He's right you can't do this while separating each colour last
+
+2348
+05:49:03,360 --> 05:49:09,504
+Well
+
+2349
+05:49:09,760 --> 05:49:15,904
+Turn off
+
+2350
+05:49:16,160 --> 05:49:22,304
+You can do it up here
+
+2351
+05:49:41,760 --> 05:49:47,904
+Yeah I don't know if this is right or wrong
+
+2352
+05:49:48,160 --> 05:49:54,304
+Not apparently 200% correct but exactly how you do it
+
+2353
+05:49:54,560 --> 05:50:00,704
+Ok so that's actually pretty good quality now
+
+2354
+05:50:00,960 --> 05:50:07,104
+Why would I
+
+2355
+05:50:07,360 --> 05:50:13,504
+Down as it's too far away and I look up it's so much better
+
+2356
+05:50:13,760 --> 05:50:19,904
+You know what
+
+2357
+05:50:20,160 --> 05:50:26,304
+I make need to
+
+2358
+05:50:32,960 --> 05:50:39,104
+Yeah I am just needing the the resolution
+
+2359
+05:50:39,360 --> 05:50:45,504
+Actually no we could have just scrap all of this and you guys can just look at every like for pixel
+
+2360
+05:50:45,760 --> 05:50:51,904
+You don't need to see them all
+
+2361
+05:50:58,560 --> 05:51:04,704
+Why didn't I just do that first it's obviously the awful way to do it
+
+2362
+05:51:11,360 --> 05:51:17,504
+Sapphire walking down
+
+2363
+05:51:30,560 --> 05:51:36,704
+Firework Down it looks
+
+2364
+05:51:36,960 --> 05:51:43,104
+Really far away and look up it gets much bigger and that's definitely
+
+2365
+05:51:43,360 --> 05:51:49,504
+So let's see what could be causing that
+
+2366
+05:51:49,760 --> 05:51:55,904
+I would definitely stay the system awful cold it's very good results
+
+2367
+05:51:56,160 --> 05:52:02,304
+Stop pretty much admin that was an hour of my considering now it's a streaming
+
+2368
+05:52:02,560 --> 05:52:08,704
+JP web server that reads from memory mapped file and streams
+
+2369
+05:52:08,960 --> 05:52:15,104
+It's pretty good for an hour
+
+2370
+05:52:15,360 --> 05:52:21,504
+So one thing that sometimes happens is a look at some times
+
+2371
+05:52:21,760 --> 05:52:27,904
+Next all of your your values to be on like orthogonal
+
+2372
+05:52:28,160 --> 05:52:34,304
+Not orthogonal bad things can have it so that's one thing that might have gone wrong
+
+2373
+05:52:34,560 --> 05:52:40,704
+Actually looking at this I think it's unlikely that
+
+2374
+05:52:40,960 --> 05:52:47,104
+What's what's going wrong
+
+2375
+05:53:38,560 --> 05:53:44,704
+Awesome
+
+2376
+05:53:44,960 --> 05:53:51,104
+Printing a good time to let us commit that and we do
+
+2377
+05:55:12,000 --> 05:55:16,352
+Hey darling have you Hooked Up the chat anything yet because you totally can
+
+2378
+05:55:52,192 --> 05:55:55,008
+Oh that's a good question
+
+2379
+05:56:01,152 --> 05:56:02,944
+And then I will
+
+2380
+05:56:09,600 --> 05:56:11,392
+See how this goes
+
+2381
+05:56:11,904 --> 05:56:15,488
+I am like always the colonel sink faltered
+
+2382
+05:56:33,920 --> 05:56:36,992
+Power off icon
+
+2383
+05:56:39,040 --> 05:56:42,368
+What's the temperature
+
+2384
+05:56:46,720 --> 05:56:48,000
+UK
+
+2385
+05:56:49,792 --> 05:56:51,840
+Survive sex
+
+2386
+05:57:13,344 --> 05:57:16,928
+Actually electron Ash
+
+2387
+05:57:22,048 --> 05:57:28,192
+I can't do it that way I have already ordered earlier today
+
+2388
+05:57:31,264 --> 05:57:33,824
+Lipo battery
+
+2389
+05:57:36,128 --> 05:57:38,944
+It's already been ordered it's too late now
+
+2390
+05:58:31,936 --> 05:58:35,008
+Can't really read it because it is
+
+2391
+05:58:35,520 --> 05:58:38,080
+Really terribly scaled
+
+2392
+05:59:07,520 --> 05:59:13,664
+Oh Mum
+
+2393
+05:59:13,920 --> 05:59:15,712
+What's the time headed to do
+
+2394
+05:59:21,600 --> 05:59:27,744
+This is what I intend to do
+
+2395
+05:59:50,528 --> 05:59:56,672
+Do not want to be printing out the post like every frame
+
+2396
+06:00:00,512 --> 06:00:06,656
+Ok so I is that
+
+2397
+06:00:06,912 --> 06:00:13,056
+That's about right yet
+
+2398
+06:00:13,312 --> 06:00:19,456
+Why is up
+
+2399
+06:00:19,712 --> 06:00:25,856
+Wow that's weird
+
+2400
+06:00:26,112 --> 06:00:32,256
+Adds no copyright
+
+2401
+06:00:32,512 --> 06:00:38,656
+Oo option using the
+
+2402
+06:00:38,912 --> 06:00:45,056
+Position is it say it's just a direction it's not a on like a sieve
+
+2403
+06:00:45,312 --> 06:00:51,456
+Active things so for up you would want to subtract on
+
+2404
+06:01:04,512 --> 06:01:10,656
+Is better ways of doing this but we're just going to do
+
+2405
+06:01:10,912 --> 06:01:17,056
+Just terrible way right now
+
+2406
+06:01:23,712 --> 06:01:29,856
+Can-can off
+
+2407
+06:01:30,112 --> 06:01:36,256
+0 - 10
+
+2408
+06:01:36,512 --> 06:01:42,656
+So the problem it's the up that wasn't funny
+
+2409
+06:01:42,912 --> 06:01:43,680
+Stop it was like
+
+2410
+06:01:43,936 --> 06:01:50,080
+Appoint over here where is the up is supposed to be like a vector it supposed to point in the direction
+
+2411
+06:01:50,336 --> 06:01:51,872
+Supposed to be unit length
+
+2412
+06:01:58,528 --> 06:02:04,672
+Lidl super wrong
+
+2413
+06:02:04,928 --> 06:02:11,072
+Let's go over there and take a peek
+
+2414
+06:02:24,128 --> 06:02:30,272
+As you guys can't really see it I'll bring it up next time
+
+2415
+06:02:36,928 --> 06:02:43,072
+Hey well that actually looks like a pistol stop
+
+2416
+06:03:15,328 --> 06:03:21,472
+Stop
+
+2417
+06:03:28,128 --> 06:03:34,272
+Ok so I'm trying to work here
+
+2418
+06:03:34,528 --> 06:03:40,672
+How old is Stefan just died
+
+2419
+06:03:40,928 --> 06:03:47,072
+I am outside
+
+2420
+06:03:47,328 --> 06:03:53,472
+So yeah
+
+2421
+06:03:53,728 --> 06:03:59,872
+How long was Everything getting a use the iPlayer on screen
+
+2422
+06:04:00,128 --> 06:04:06,272
+Much better refresh
+
+2423
+06:04:06,528 --> 06:04:12,672
+Getting me up
+
+2424
+06:04:12,928 --> 06:04:19,072
+Touch it
+
+2425
+06:04:25,728 --> 06:04:31,872
+Real
+
+2426
+06:04:32,128 --> 06:04:38,272
+Pause
+
+2427
+06:04:38,528 --> 06:04:44,672
+Put this back together and then
+
+2428
+06:04:55,680 --> 06:05:01,824
+I mean I can just hold it up to my face
+
+2429
+06:05:02,080 --> 06:05:08,224
+Actually know what I want to try first
+
+2430
+06:05:08,480 --> 06:05:14,624
+Like
+
+2431
+06:05:21,280 --> 06:05:25,632
+Like that's what it actually looks like for me inside of there
+
+2432
+06:05:38,688 --> 06:05:44,832
+It's a problem noise I think
+
+2433
+06:05:45,088 --> 06:05:51,232
+Google by the way if any of you guys want to help out with life survive
+
+2434
+06:05:51,488 --> 06:05:57,632
+Totally a project that needs more people
+
+2435
+06:05:57,888 --> 06:06:03,520
+Yeah
+
+2436
+06:06:03,776 --> 06:06:09,920
+Give me a second can you stand still don't move cosmetics
+
+2437
+06:06:10,176 --> 06:06:14,272
+Is it might be a little darling let me change one thing
+
+2438
+06:06:15,808 --> 06:06:18,624
+You know what would be a better place
+
+2439
+06:06:18,880 --> 06:06:24,512
+Getting back off from it's the point where
+
+2440
+06:06:24,768 --> 06:06:30,912
+Right now you have to get the other other lighthouse in UB40
+
+2441
+06:06:31,168 --> 06:06:37,312
+Ok now the lighthouses in bewsey Nice Builder
+
+2442
+06:06:37,568 --> 06:06:43,712
+Try holding your hands for their back so I can get to the yeah that works too
+
+2443
+06:06:43,968 --> 06:06:50,112
+Does it feel better
+
+2444
+06:06:50,368 --> 06:06:56,512
+This is working here
+
+2445
+06:06:56,768 --> 06:07:02,912
+Hopton I think one day
+
+2446
+06:07:03,168 --> 06:07:09,312
+With the Charles toes are still needs to be able to be seen on the first lighthouse in ordered operate so
+
+2447
+06:07:09,568 --> 06:07:13,408
+Back up to the point where
+
+2448
+06:07:13,664 --> 06:07:19,808
+Intersection of lines
+
+2449
+06:07:20,064 --> 06:07:26,208
+Filled in landscape which was really nice
+
+2450
+06:07:26,464 --> 06:07:31,072
+Like the back corner
+
+2451
+06:07:31,328 --> 06:07:37,472
+Oh I see you're saying you don't like
+
+2452
+06:07:37,728 --> 06:07:43,872
+You try to make those triangles hold on give me a give me a minute don't don't don't move too much
+
+2453
+06:07:44,128 --> 06:07:48,224
+Give me a
+
+2454
+06:07:48,480 --> 06:07:52,576
+Tea
+
+2455
+06:07:52,832 --> 06:07:55,136
+I can figure out how they do that
+
+2456
+06:07:57,184 --> 06:07:59,744
+GTA
+
+2457
+06:08:29,440 --> 06:08:35,584
+Armour stand
+
+2458
+06:08:40,960 --> 06:08:44,288
+Make the small work
+
+2459
+06:09:01,440 --> 06:09:02,976
+Big salty
+
+2460
+06:09:03,744 --> 06:09:04,768
+Give me a second
+
+2461
+06:09:06,816 --> 06:09:08,608
+Nothing
+
+2462
+06:09:24,992 --> 06:09:26,016
+Text Holly
+
+2463
+06:09:43,424 --> 06:09:44,960
+C words crashing
+
+2464
+06:09:59,552 --> 06:10:01,600
+Don't forget to join alive survive group
+
+2465
+06:10:05,184 --> 06:10:06,464
+I'm discord
+
+2466
+06:10:24,128 --> 06:10:30,272
+It's just like way up there so
+
+2467
+06:10:34,368 --> 06:10:40,256
+That has nothing to do with this
+
+2468
+06:11:33,248 --> 06:11:39,392
+Posed
+
+2469
+06:11:58,848 --> 06:12:04,992
+Hey
+
+2470
+06:12:05,248 --> 06:12:11,392
+Looks like we still getting on
+
+2471
+06:12:11,648 --> 06:12:17,792
+Do you mind if I make it
+
+2472
+06:12:18,048 --> 06:12:24,192
+Power
+
+2473
+06:12:24,448 --> 06:12:30,592
+No I won't overlap quite as bad
+
+2474
+06:12:37,248 --> 06:12:43,392
+Hey ok can you get close to it
+
+2475
+06:12:56,448 --> 06:13:02,592
+The chair yes actually
+
+2476
+06:13:02,848 --> 06:13:08,992
+Put your hand in where you think the middle of it is
+
+2477
+06:13:09,248 --> 06:13:15,392
+Much further hire
+
+2478
+06:13:15,648 --> 06:13:21,792
+I'm not really sure how to file that
+
+2479
+06:13:22,048 --> 06:13:28,192
+Yes so now
+
+2480
+06:13:28,448 --> 06:13:34,592
+Tracking
+
+2481
+06:13:34,848 --> 06:13:40,992
+As you take your right hand
+
+2482
+06:13:41,248 --> 06:13:47,392
+Off and move it somewhere else you might be able to get further but not all the way
+
+2483
+06:13:47,648 --> 06:13:53,792
+Am I now adjacent to the other side
+
+2484
+06:13:54,048 --> 06:14:00,192
+Now that's
+
+2485
+06:14:06,848 --> 06:14:12,992
+What's call Barbara Adam
+
+2486
+06:14:32,448 --> 06:14:38,592
+Ok guys what else do we want to do in I say word on it
+
+2487
+06:14:38,848 --> 06:14:44,992
+Probably just hang up and go home
+
+2488
+06:14:45,248 --> 06:14:51,392
+Yeah
+
+2489
+06:14:51,648 --> 06:14:57,792
+Hey you guys want to see how much power does things uses
+
+2490
+06:14:58,048 --> 06:15:04,192
+So
+
+2491
+06:15:04,448 --> 06:15:10,592
+3.4 Watts
+
+2492
+06:15:10,848 --> 06:15:16,992
+You can run the vibe on a computer that draws 3.4 Watts
+
+2493
+06:15:17,248 --> 06:15:23,392
+I'll be calling for done
+
+2494
+06:15:23,648 --> 06:15:29,792
+I'll be down this is a fun Project
+
+2495
+06:15:30,048 --> 06:15:36,192
+Final price
+
+2496
+06:15:36,448 --> 06:15:42,592
+I'm like still getting chills this is something I only ever dreamed of
+
+2497
+06:15:42,848 --> 06:15:48,992
+Thank you so much
+
+2498
+06:15:49,248 --> 06:15:55,392
+Albino French everybody but like a happy ending
+
+2499
+06:15:55,648 --> 06:16:01,792
+Making that push to the poser that was just that's just amazing
+
+2500
+06:16:02,048 --> 06:16:08,192
+This is only the orange Pi one
+
+2501
+06:16:21,248 --> 06:16:27,392
+Can the orange Pi still has 3 CPU
+
+2502
+06:16:27,648 --> 06:16:33,792
+Which is absolutely mind-blowing
+
+2503
+06:16:40,448 --> 06:16:46,592
+It goes
+
+2504
+06:16:46,848 --> 06:16:52,992
+Thank you everybody for coming out tonight
+
+2505
+06:16:53,248 --> 06:16:59,392
+How much is a running within an hour
+
+2506
+06:17:06,048 --> 06:17:12,192
+Thank you everybody for coming out tonight this is being an abscess
+
+2507
+06:17:12,448 --> 06:17:18,592
+Blast on I just I'm so happy with this
+
+2508
+06:17:18,848 --> 06:17:24,992
+I hope that
+
+2509
+06:17:25,248 --> 06:17:31,392
+Will get some more people contributing and we can make even more happen with lights alive
+
+2510
+06:17:38,048 --> 06:17:44,192
+Yeah guys go for it take a straw Paul did you like the stream what did you like what did she like
+
+2511
+06:17:44,448 --> 06:17:50,592
+What time Jamie on the discordant give me a heads up
+
+2512
+06:17:50,848 --> 06:17:56,992
+Oh yeah you want to see it with nothing wrong
+
+2513
+06:17:57,248 --> 06:18:03,392
+If I kill wife survive the goes to 5.5 hundred something milliamps
+
+2514
+06:18:03,648 --> 06:18:09,792
+If I kill the streamer yeah so it really doesn't use that much right now
+
+2515
+06:18:10,048 --> 06:18:16,192
+Imagine once we start using the GPU a little bit heavier it's gonna start coming to get a reply
+
+2516
+06:18:16,448 --> 06:18:22,592
+Have a baby did this have a great evening guys
