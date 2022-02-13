@@ -1,5 +1,4 @@
 I love @CNLohr's live streams about Libsurvive. But English is not my native language. So I used pyTranscriber to create subtitles for these videos
-
 - #1 HTC Vive USB Protocol Reverse Engineering
 - #2 USB Messages on an HTC vive (2nd Event)
 - #3 HTC Vive Livestream Phase 2 Getting Camera Positions
