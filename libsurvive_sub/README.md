@@ -11,11 +11,11 @@ I love @CNLohr's live streams about Libsurvive. But English is not my native lan
 - #11 Let's get our bearings again!
 - #12 OrangePi Madness!
 
-- #10 bring up the ESP (youtube auto generated)
-- #13 Wireless Vive with an Orange Pi (youtube auto generated)
+youtube auto generated
 
-Vive 2.0 Lighthouse
-- #1 Reverse Engineering (youtube auto generated)
-- #2 Reverse Engineering (youtube auto generated)
-- #3 Tearing down a Vive Lighthouse 2.0. (youtube auto generated)
-- #4 First shot at trying to decode Lighthouse 2.0 Data (youtube auto generated)
+- #10 bring up the ESP
+- #13 Wireless Vive with an Orange Pi
+- #1 Vive 2.0 Lighthouse Reverse Engineering
+- #2 Vive 2.0 Lighthouse Reverse Engineering
+- #3 Vive 2.0 Lighthouse Tearing down a Vive Lighthouse 2.0.
+- #4 Vive 2.0 Lighthouse First shot at trying to decode Lighthouse 2.0 Data
