@@ -49,3 +49,19 @@ for i in range(0,361, 45):
 # X: [1.000,0.000] anticlockwise rotation 270.0 get [-0.000 -1.000]
 # X: [1.000,0.000] anticlockwise rotation 315.0 get [0.707 -0.707]
 # X: [1.000,0.000] anticlockwise rotation 360.0 get [1.000 -0.000]
+
+'''
+Đoạn code trên thực hiện công việc:
+Trong một mặt phẳng tọa độ 2D (Ox, Oy)
+Một điểm ban đầu X(1,0) tạo độ điểm này nằm trên trục X
+Thực hiện phép quay ngược chiều kim đồng hồ step:45 độ
+Ma trận xoay 2D
+    R(theta) = np.array([[cos(theta), - sin(theta)],
+                      [sin(theta), cos(theta)]])
+Công thức tọa độ điểm mới
+    X_new = R.dot(X)
+    [2,2] x [2]
+    [[1,2], dot [2,3] = [1*2+2*3 3*2+4*3]  = [8 18]
+    [3,4]]
+
+'''

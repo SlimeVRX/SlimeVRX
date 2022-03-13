@@ -113,3 +113,23 @@ print("A Cb2nZ", An)
 # A Cb2nX [ 0.        -0.5        0.8660254]
 # A Cb2nY [0.64278761 0.         0.76604444]
 # A Cb2nZ [0. 0. 1.]
+
+'''
+Phép xoay 2D
+    R(theta) = np.array([[cos(theta), - sin(theta)],
+                          [sin(theta), cos(theta)]])
+Phép xoay 3D
+Xoay quanh trục Z
+    ch_rotz(theta) = np.array([[cos(theta), -sin(theta), 0],
+                                [sin(theta), cos(theta), 0],
+                                 [0, 0, 1]])
+Xoay quanh trục Y
+    ch_roty(theta) = np.array([[cos(theta), 0, sin(theta)],
+                                [0, 1, 0],
+                                 [-sin(theta), 0, cos(theta)]])
+Xoay quanh trục X
+    ch_rotx(theta) = np.array([[1, 0, 0], 
+                                [0, cos(theta), -sin(theta)],
+                                 [0, sin(theta), cos(theta)]])                                 
+    
+'''

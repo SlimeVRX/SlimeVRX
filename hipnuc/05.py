@@ -127,20 +127,50 @@ def ch_m2eul_321(Cb2n):
     return beta, alpha, gamma
 
 a,b,c = ch_m2eul_312(m_312)
+# [[ 0.24620194 -0.66341395  0.70658796]
+#  [ 0.79341204  0.5566704   0.24620194]
+#  [-0.5566704   0.5         0.66341395]]
 print(a / pi * 180,
       b / pi * 180,
       c / pi * 180)
+# 30.0 40.0 49.99999999999999
 
 a,b,c = ch_m2eul_321(m_321)
+# [[ 0.49240388 -0.45682599  0.74084306]
+#  [ 0.58682409  0.80287234  0.10504046]
+#  [-0.64278761  0.38302222  0.66341395]]
 print(a / pi * 180,
       b / pi * 180,
       c / pi * 180)
+# 30.0 39.99999999999999 50.0
 
+'''
+Xoay 312 Z - X - Y
+    alpha = pi * i[2] / 180     # (Alpha Z)
+    beta = pi * i[0] / 180      # (Beta X)
+    gamma = pi * i[1] / 180     # (Gamma Y)
 
-
-    # Cb2n_321
-    # rotz * roty * rotx
-    # Cb2n_321 =
-
-# def Cb2n_321(i):
-#     pass
+    s_z_alpha = sin(alpha); s_x_beta = sin(beta); s_y_gamma = sin(gamma)
+    c_z_alpha = cos(alpha); c_x_beta = cos(beta); c_y_gamma = cos(gamma)
+    
+    Cb2n_312 = ch_rotz(eul[2]). dot(ch_rotx(eul[0])). dot(ch_roty(eul[1]))
+            = np.array([[ c_y_gamma*c_z_alpha-s_x_beta*s_y_gamma*s_z_alpha, -c_x_beta*s_z_alpha,  s_y_gamma*c_z_alpha+s_x_beta*c_y_gamma*s_z_alpha],
+                     [c_y_gamma*s_z_alpha+s_x_beta*s_y_gamma*c_z_alpha,  c_x_beta*c_z_alpha,  s_y_gamma*s_z_alpha-s_x_beta*c_y_gamma*c_z_alpha],
+                     [-c_x_beta*s_y_gamma,           s_x_beta,     c_x_beta*c_y_gamma           ]])
+                     
+    ch_m2eul_312 :    
+        beta = asin(Cb2n_312[2,1])
+        alpha = atan2(-Cb2n_312[2,0], Cb2n_312[2,2])
+        gamma = atan2(-Cb2n_312[0,1], Cb2n_312[1,1])
+    
+Xoay 321 Z - Y - X
+    Cb2n_321 = ch_rotz(eul[2]). dot(ch_roty(eul[1])). dot(ch_rotx(eul[0]))
+            = np.array([[ c_y_gamma*c_z_alpha, s_x_beta*s_y_gamma*c_z_alpha-c_x_beta*s_z_alpha, c_x_beta*s_y_gamma*c_z_alpha+s_x_beta*s_z_alpha],
+                         [c_y_gamma*s_z_alpha, s_x_beta*s_y_gamma*s_z_alpha+c_x_beta*c_z_alpha, c_x_beta*s_y_gamma*s_z_alpha-s_x_beta*c_z_alpha],
+                         [-s_y_gamma,    s_x_beta*c_y_gamma,          c_x_beta*c_y_gamma            ]])
+                         
+    ch_m2eul_321 :
+        beta = atan2(Cb2n_321[2,1], Cb2n_321[2,2])
+        alpha = asin(-Cb2n_321[2,0])
+        gamma = atan2(Cb2n_321[1,0],Cb2n_321[0,0])
+'''

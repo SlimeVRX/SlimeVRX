@@ -58,3 +58,14 @@ Ab = np.array([0, 0, 1])
 ch_roty(40). dot(ch_rotx(30). dot(ch_rotx(50). dot(Ab)))
 
 ch_rotx(30). dot(ch_roty(40). dot(ch_rotx(50). dot(Ab)))
+
+'''
+eul = [30 40 50] [X, Y, Z]
+
+Xoay 312 Z - X - Y
+    Cb2n = ch_rotz(eul[2]). dot(ch_rotx(eul[0])). dot(ch_roty(eul[1]))
+    Cn2b = ch_roty(-eul[1]). dot(ch_rotx(-eul[0]). dot(ch_rotz(-eul[2]))
+Xoay 321 Z - Y - X
+    Cb2n = ch_rotz(eul[2]). dot(ch_roty(eul[1])). dot(ch_rotx(eul[0]))
+
+'''
