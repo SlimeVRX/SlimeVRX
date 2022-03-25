@@ -50,7 +50,7 @@ def ch_m2eul_312(Cb2n):
     gamma = atan2(-Cb2n[0,1], Cb2n[1,1])
     return beta, alpha, gamma
 
-annots = sio.loadmat('gyroReading.mat')
+annots = sio.loadmat('gyroReading__.mat')
 gyroReading = np.array([item for item in annots['gyroReading']], dtype=np.float64)
 
 dt = 0.01

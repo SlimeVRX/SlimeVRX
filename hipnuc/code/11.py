@@ -129,21 +129,16 @@ def ch_nav_equ_local_tan(p, v, q ,acc, gyr, dt, gN):
     p = p + (old_v + v) * dt / 2
     return p, v, q
 
-def ch_q2m(Qb2n):
-    q11 = Qb2n[0]*Qb2n[0]; q12 = Qb2n[0]*Qb2n[1]; q13 = Qb2n[0]*Qb2n[2]; q14 = Qb2n[0]*Qb2n[3]
-    q22 = Qb2n[1]*Qb2n[1]; q23 = Qb2n[1]*Qb2n[2]; q24 = Qb2n[1]*Qb2n[3]
-    q33 = Qb2n[2]*Qb2n[2]; q34 = Qb2n[2]*Qb2n[3]
-    q44 = Qb2n[3]*Qb2n[3]
-    Cb2n = np.array([[ q11+q22-q33-q44,  2*(q23-q14),     2*(q24+q13)],
-                     [2*(q23+q14),      q11-q22+q33-q44, 2*(q34-q12)],
-                     [2*(q24-q13),      2*(q34+q12),     q11-q22-q33+q44 ]], dtype=np.float64)
-    return Cb2n
+def ch_q2eul_312(Qb2n):
+    q0 = Qb2n[0]
+    q1 = Qb2n[1]
+    q2 = Qb2n[2]
+    q3 = Qb2n[3]
 
-def ch_m2eul_312(Cb2n):
-    beta = asin(Cb2n[2,1])
-    alpha = atan2(-Cb2n[2,0], Cb2n[2,2])
-    gamma = atan2(-Cb2n[0,1], Cb2n[1,1])
-    return beta, alpha, gamma
+    roll = -atan2(2 * (q1 * q3 - q0 * q2), q0 * q0 - q1 * q1 - q2 * q2 + q3 * q3)
+    pitch = asin(2 * (q0 * q1 + q2 * q3))
+    yaw = -atan2(2 * (q1 * q2 - q0 * q3), q0 * q0 - q1 * q1 + q2 * q2 - q3 * q3)
+    return pitch, roll, yaw
 
 Fs = 100
 N = Fs*10
@@ -167,8 +162,7 @@ for i in range(N):
     pos[i, :] = p
 
     # eul(i,:) = np.rad2deg(ch_q2eul(q))
-    Cb2n = ch_q2m(q)
-    eul[i, :] = np.rad2deg(ch_m2eul_312(Cb2n))
+    eul[i, :] = np.rad2deg(ch_q2eul_312(q))
 
 print('纯积分测试: 陀螺bias(rad):%.3f %.3f %.3f\n' %(gyr[0], gyr[1], gyr[2]))
 # 纯积分测试: 陀螺bias(rad):0.002 0.003 0.005
