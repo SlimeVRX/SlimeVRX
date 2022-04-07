@@ -64,4 +64,4 @@
 
 # Introduction
 
-The HI229 launched by 超核电子 is a low-cost, high-performance, small size, and low-latency attitude reference unit (AHRS). This product integrates a triaxial accelerometer, a triaxial gyroscope, a triaxial magnetometer and a microcontroller.
+The Hi229 launched by 超核电子 is a low-cost, high-performance, small size, and low-latency attitude reference unit (AHRS). This product integrates a triaxial accelerometer, a triaxial gyroscope, a triaxial magnetometer and a microcontroller.
