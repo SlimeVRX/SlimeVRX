@@ -1,6 +1,6 @@
 # Hi229 User Manual
 
-> IMU/VRU/AHRS Attitude Measurement Module , Rev 1.0 [PDF](https://www.hipnuc.com/doc_gen/hi229/hi229um_cn.pdf)
+> IMU/VRU/AHRS Attitude Measurement Module , Rev 1.0 [(PDF)](https://www.hipnuc.com/doc_gen/hi229/hi229um_cn.pdf)
 
 <p align="left"><img width="400", src="https://user-images.githubusercontent.com/60751518/162100908-e1a732ac-b3e2-40f8-a385-436e349fcdae.png"></p>
 
@@ -64,9 +64,4 @@
 
 # Introduction
 
-Hi229 is a low cost, high performance, small size, low latency Attitude and Heading Reference System (AHRS). This product integrates a 3-axis accelerometer, a 3-axis gyroscope, a 3-axis magnetic field sensor and a microcontroller. It can output 3D orientation data based on local geographic coordinates calculated by the sensor fusion algorithm including Yaw, Pitch and Roll angles. It can also output calibrated raw sensor data. This product has certain indoor geomagnetic anti-interference performance, and can still work normally under a certain intensity of geomagnetic interference environment.
-
-Application:
-- VR \ Motion Capture
-- Attitude measurement \ motion performance evaluation in high dynamic environment
-- Drone control
+The HI229 launched by 超核电子 is a low-cost, high-performance, small size, and low-latency attitude reference unit (AHRS). This product integrates a triaxial accelerometer, a triaxial gyroscope, a triaxial magnetometer and a microcontroller.
