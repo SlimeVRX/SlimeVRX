@@ -92,5 +92,5 @@ Magnetometer | 800mG  (miligauss)
 ### Digital interface and Power management
 
 - Serial port (compatible with TTL, can be directly connected to 5V or 3.3V Serial devices)
-- Supply voltage: 3.3 (± 100mV)
+- Supply voltage: 3.3V (± 100mV)
 - Maximum peak power consumption: 32mA **(đơn vị không đúng)**
