@@ -5,9 +5,9 @@
 <p align="left"><img width="400", src="https://user-images.githubusercontent.com/60751518/162100908-e1a732ac-b3e2-40f8-a385-436e349fcdae.png"></p>
 
 - [Functional Overview](#FunctionalOverview)
-- Key features
-  - Key features of integrated sensors
-  - Digital interface and Power supply
+- [Functional Description](#FunctionalDescription)
+  - [Sensor Configuration](#SensorConfiguration)
+  - [Digital interface and Power management](#DigitalinterfaceandPowermanagement)
 - Hardware parameters
   - Size
   - Pin definition
@@ -62,7 +62,7 @@
 
 <a name="FunctionalOverview"/>
 
-# Functional Overview
+## Functional Overview
 
 The Hi229 manufactured by 超核电子 is a System in Package (SiP) that integrates a triaxial 12-bit accelerometer with a range of ±8G, triaxial 16-bit gyroscope with a range of ±2000 degrees per second, a triaxial geomagnetic sensor, and a 32-bit ARM® Cortex™-M4 microcontroller. The sensors are provided by Bosch Sensortec and the Cortex M4 processor by Artery Technology Corporation. The firmware provides sensor fusion algorithms to process sensor data and provide precise real-time 3D orientation, heading, calibrated acceleration and calibrated angular velocity, as well as calibrated raw sensor data. The Hi229 has certain indoor magnetic anti-interference properties, and can still work normally under a certain intensity of magnetic field interference environment.
 
@@ -72,3 +72,25 @@ Typical application
 - Advanced system attitude measurement
 - Drone control
 - Internet of Things (IoT)
+
+<a name="FunctionalDescription"/>
+
+## Functional Description
+
+<a name="SensorConfiguration"/>
+
+### Sensor Configuration
+
+Sensor | Range
+--- | ---
+Gyroscope | ± 2000°/s
+Accelerometer | ± 8G
+Magnetometer | 800mG  (miligauss)
+
+<a name="DigitalinterfaceandPowermanagement"/>
+
+### Digital interface and Power management
+
+- Serial port (compatible with TTL, can be directly connected to 5V or 3.3V Serial devices)
+- Supply voltage: 3.3 (+/- 100 mV)
+- Maximum peak power consumption: 32mA **(đơn vị không đúng)**
