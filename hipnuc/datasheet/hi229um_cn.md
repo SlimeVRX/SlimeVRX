@@ -5,12 +5,14 @@
 <p align="left"><img width="400", src="https://user-images.githubusercontent.com/60751518/162100908-e1a732ac-b3e2-40f8-a385-436e349fcdae.png"></p>
 
 - [Functional Overview](#FunctionalOverview)
-- [Functional Description](#FunctionalDescription)
-  - [Sensor Configuration](#SensorConfiguration)
-  - [Digital interface and Power management](#DigitalinterfaceandPowermanagement)
-- Hardware parameters
-  - Size
-  - Pin definition
+  - [Hi229 Connectivity](#Hi229Connectivity)
+    - [Pin Descriptions](#PinDescriptions)
+- [Performance Characteristics](#PerformanceCharacteristics)
+  - [Attitude angle](#Attitudeangle)
+  - [Accelerometer](#Accelerometer)
+  - [Gyroscope](#Gyroscope)
+  - [Magnetometer](#Magnetometer)
+  - [Module data interface](#Moduledatainterface)
 - Coordinate system definition
 - Performance
   - Attitude angle output accuracy
@@ -73,24 +75,102 @@ Typical application
 - Robotics
 - Self-driving car
 
-<a name="FunctionalDescription"/>
+<a name="Hi229Connectivity"/>
 
-## Functional Description
+### Hi229 Connectivity
 
-<a name="SensorConfiguration"/>
+The Hi229 can support connections to a host microcontroller through various serial interfaces:
+- UART interface (TTL 1.8V-5.0V)
+- USB (with USB evaluation board)
 
-### Sensor Configuration
+<a name="PinDescriptions"/>
 
-Sensor | Range
+#### Pin Descriptions
+
+<p align="left"><img width="500", src="https://user-images.githubusercontent.com/60751518/162490460-07ee5e49-ed09-401e-8458-0df3d1c5b35c.png"></p>
+
+Pin Number | Name | Description
+--- | --- | --- 
+5 | N/C | Reserve
+6 | VDD | Supply voltage (sensors) 3.3V
+7 | SYNC_OUT | The data output is synchronized with internal pull-up. High level when there is no data output, low level when a frame of data starts to be sent, and return to high level after a frame of data is sent. Need to be suspended when not in use.
+8 | RXD | The module serial port receives UART RXD (TXD connected to MCU)
+9 | TXD | The module serial port sends UART TXD (RXD connected to MCU)
+10 | SYNC_IN | The data input is synchronized with internal pull-up. When the module detects a falling edge, it will output a frame of data. Need to be suspended when not in use.
+11 | N/C | Reserve
+19 | GND | GND
+20 | RST | Reset, internal pull-up. >10uS low level reset module. No need for external resistors and capacitors. It is recommended to connect to the GPIO pin of the MCU for software reset.
+21 | N/C | Reserved
+22 | N/C | Reserved
+23 | N/C | Reserved
+24 | GND | GND
+25 | N/C | Reserved
+
+<a name="PerformanceCharacteristics"/>
+
+## Performance Characteristics
+
+<a name="Attitudeangle"/>
+
+### Attitude angle
+
+Parameter | Value
 --- | ---
-Gyroscope | ± 2000°/s
-Accelerometer | ± 8G
-Magnetometer | 800mG  (miligauss)
+Roll and Pitch error - Static | 0.8°
+Roll and Pitch error - Dynamic | 2.5°
+Heading angle error in movement (6-axis mode, tested in 30min, horizontal smooth sweeper-like movement) | <10°
+Heading angle error in movement (9-axis mode, after magnetic calibration and no nearby magnetic interference) | 3°
 
-<a name="DigitalinterfaceandPowermanagement"/>
+<a name="Accelerometer"/>
 
-### Digital interface and Power management
+### Accelerometer
 
-- Serial port (compatible with TTL, can be directly connected to 5V or 3.3V Serial devices)
-- Supply voltage: 3.3V (± 100mV)
-- Maximum peak power consumption: 32mA **(đơn vị không đúng)**
+Parameter | Value | Condition
+--- | --- | ---
+Digital resolution | 12 bit
+Resolution | 1uG ~~(0,98 mG?)~~ |
+Measurement ranges (programmable)| ±8G (1G = 1x gravitational acceleration) |
+Internal sampling frequency | 1KHz |
+Zero Bias Stability | 60uG | @25°C,1σ
+Zero offset repeatability | 4.8mG | @25°C,1σ
+Non-orthogonal error | ±0.1%
+Random walk | 0.08 | @25°C,1σ
+Scale factor error | ±0.3% (at full scale) | After factory calibration
+Full temperature range temperature change | 2mg | -20 - 85°
+
+<a name="Gyroscope"/>
+
+### Gyroscope
+
+Parameter | Value | Condition
+--- | --- | ---
+Digital resolution | 16 bit
+Resolution | 0.01°/s ~~(0.004°/s)~~ |
+Measurement ranges (programmable) | ± 2000°/s |
+Internal sampling frequency | 1KHz |
+Zero bias stability | 8°/h | @25°C,1σ
+Zero offset repeatability | 0.12°/s | @25°C,1σ
+Non-orthogonal error | ±0.1% | @25°C,1σ
+Random walk | 0.6° | @25°C,1σ
+Scale nonlinearity | ±0.1% | At full scale (maximum)
+Scale factor error | ±0.4% | After factory calibration
+Acceleration sensitivity | 0.1°/s/g | 
+
+<a name="Magnetometer"/>
+
+### Magnetometer
+
+Parameter | Value
+--- | ---
+Measuring range | 800mG (miligauss)
+Nonlinearity | ±0.1%
+Resolution | 0.25mG
+
+<a name="Moduledatainterface"/>
+
+### Module data interface
+
+Parameter | Value
+--- | ---
+Serial output baud rate | 9600/115200/460800/921600 optional
+Frame output rate | 1/25/50/100/200/400Hz optional
