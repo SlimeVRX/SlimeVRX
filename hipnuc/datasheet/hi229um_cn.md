@@ -5,6 +5,10 @@
 <p align="left"><img width="400", src="https://user-images.githubusercontent.com/60751518/162100908-e1a732ac-b3e2-40f8-a385-436e349fcdae.png"></p>
 
 - [Functional Overview](#FunctionalOverview)
+  - [Key features](#Keyfeatures)
+  - [Key features of integrated sensors](#Keyfeaturesofintegratedsensors)
+  - [Typical application](#Typicalapplication)
+  - [General description](#Generaldescription)
   - [Hi229 Connectivity](#Hi229Connectivity)
     - [Pin Descriptions](#PinDescriptions)
 - [Performance Characteristics](#PerformanceCharacteristics)
@@ -66,14 +70,48 @@
 
 ## Functional Overview
 
-The Hi229 manufactured by HiPNUC is a System in Package (SiP) that integrates a triaxial accelerometer, a triaxial gyroscope, a triaxial magnetometer and a 32-bit ARM® Cortex™-M4 microcontroller running HiPNUC's sensor fusion firmware. The firmware provides sophisticated signal processing algorithms to process sensor data and provide precise real-time 3D orientation, heading, calibrated acceleration and calibrated angular velocity, as well as calibrated raw sensor data. The Hi229 has certain indoor magnetic anti-interference properties, and can still work normally under a certain intensity of magnetic field interference environment.
+<a name="Keyfeatures"/>
 
-Typical application
+### Key features
+
+Key features | Description
+--- | ---
+Outputs fused sensor data | Quaternion, Euler angles, Angular velocity, Linear acceleration, Gravity, Heading
+3 sensors in one device | a triaxial 16-bit gyroscope, a triaxial 12-bit accelerometer, a triaxial geomagnetic sensor, and a 32-bit ARM® Cortex™-M4 microcontroller
+Small package | Footprint 12 x 12 mm², height 2.6 mm
+~~Power Management~~ | ~~Intelligent Power Management: normal, low power and suspend mode available~~
+Digital interface | UART (TTL 1.8V - 5.0V)
+Voltage supplies | VDD voltage range: 3.3V (± 100mV)
+Power consumption | 86mW @3.3V
+Maximum peak power consumption | 32mA
+Consumer electronics suite | ~~MSL1~~, RoHS compliant, ~~halogen-free~~. Operating temperature: -20°C - 85°C
+Maximum output rate | 400Hz
+
+<a name="Keyfeaturesofintegratedsensors"/>
+
+### Key features of integrated sensors
+
+Sensor | Range
+--- | ---
+Accelerometer | ± 8G
+Gyroscope | ± 2000°/s
+Magnetometer | 800mG  (miligauss)
+
+<a name="Typicalapplication"/>
+
+### Typical application
+
 - Augmented reality
 - Motion capture
 - Advanced system attitude measurement
 - Robotics
 - Self-driving car
+
+<a name="Generaldescription"/>
+
+### General description
+
+The Hi229 manufactured by HiPNUC is a System in Package (SiP) that integrates a triaxial accelerometer, a triaxial gyroscope, a triaxial magnetometer and a 32-bit ARM® Cortex™-M4 microcontroller running HiPNUC's sensor fusion firmware. The firmware provides sophisticated signal processing algorithms to process sensor data and provide precise real-time 3D orientation, heading, calibrated acceleration and calibrated angular velocity, as well as calibrated raw sensor data. The Hi229 has certain indoor magnetic anti-interference properties, and can still work normally under a certain intensity of magnetic field interference environment.
 
 <a name="Hi229Connectivity"/>
 
