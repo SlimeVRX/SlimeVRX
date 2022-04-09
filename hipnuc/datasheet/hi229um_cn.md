@@ -204,5 +204,5 @@ Resolution | 0.25mG
 
 Parameter | Value
 --- | ---
-Serial output baud rate | 9600/115200/460800/921600 optional
-Frame output rate | 1/25/50/100/200/400Hz optional
+Serial output baud rate | 9600/115200/460800/921600 (optional)
+Frame output rate | 1/25/50/100/200/400Hz (optional)
