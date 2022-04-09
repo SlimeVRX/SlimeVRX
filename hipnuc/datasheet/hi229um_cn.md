@@ -70,8 +70,8 @@
 
 Key features | Description
 --- | ---
-Outputs fused sensor data | Quaternion, Euler angles, Angular velocity, Linear acceleration, Gravity, Heading
-3 sensors in one device | a triaxial 16-bit gyroscope, a triaxial 12-bit accelerometer, a triaxial geomagnetic sensor, and a 32-bit ARM® Cortex™-M4 microcontroller
+Outputs fused sensor data | Quaternion, Euler angles, Linear acceleration, Angular velocity, Magnetic field, ~~Gravity, Heading~~
+3 sensors in one device | A triaxial 16-bit gyroscope, a triaxial 12-bit accelerometer, a triaxial geomagnetic sensor, and a 32-bit ARM® Cortex™-M4 microcontroller
 Small package | Footprint 12 x 12 mm², Height 2.6 mm
 ~~Power Management~~ | ~~Intelligent Power Management: normal, low power and suspend mode available~~
 Digital interface | UART (TTL 1.8V - 5.0V)
