@@ -74,7 +74,7 @@ Outputs fused sensor data | Quaternion, Euler angles, Linear acceleration, Angul
 3 sensors in one device | A triaxial 16-bit gyroscope, a triaxial 12-bit accelerometer, a triaxial geomagnetic sensor, and a 32-bit ARM® Cortex™-M4 microcontroller
 Small package | Footprint 12 x 12 mm², Height 2.6 mm
 ~~Power Management~~ | ~~Intelligent Power Management: normal, low power and suspend mode available~~
-Digital interface | UART (TTL 1.8V - 5.0V)
+Digital interface | UART (TTL 1.8V - 5.0V), USB (with USB evaluation board)
 Voltage supplies | VDD voltage range: 3.3V (± 100mV)
 Power consumption | 86mW @3.3V
 Maximum peak power consumption | 32mA
