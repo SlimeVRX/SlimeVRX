@@ -23,7 +23,7 @@
     - [More about magnetic field interference](#Moreaboutmagneticfieldinterference)
     - [Difference between 6-axis and 9-axis mode](#Differencebetween6-axisand9-axismode)
     - [Mobile Robot](#MobileRobot)
-- Coordinate system definition
+- [Hi229 Orientation](#Hi229Orientation)
 - Mounting and Soldering
 - Application Guide
   - The module is connected to the PC
@@ -280,3 +280,17 @@ Both kinds of interference exist at the same time and can be very large, which p
 
 1. Calibration: It must be calibrated with the robot (the robot is small enough). It is not correct to take the module off and calibrate it and then install it. The robot and the module must be regarded as a rigid body to be calibrated to obtain the correct calibration result. Please refer to the above for the specific calibration link. After the calibration is successful, power on (reset) to take effect.
 2. Due to the complex indoor magnetic environment, even if the calibration is completed correctly, there may still be large magnetic field errors, especially when the motor starts and stops, and the power changes, which has a huge impact on the magnetic field.
+
+<a name="Hi229Orientation"/>
+
+## Hi229 Orientation
+
+<p align="left"><img width="300", src="https://user-images.githubusercontent.com/60751518/162636182-e599530f-1a5b-4b20-83cc-3169ae749d2e.png"></p>
+
+The vector system uses the Front-Left-Up (FLU) right-handed coordinate system. The geographic coordinate system uses the North-West-Ultra (NWU) coordinate system. The Euler angle rotation order is: Z-Y-X (turn the Z axis first, then the Y axis, and finally the X axis) rotation sequence. The specific definitions are as follows:
+
+- Rotation around the Z-axis: also called Yaw or (pronounced: Psi). Range: -180°- 180°
+- Rotation around the Y-axis: also called Pitch or (pronounced: Theta). Range: -90°-90°
+- Rotation around the X-axis: also called Roll or (pronounced: Phi). Range: -180°-180°
+
+If you think of the module as an aircraft. The X-axis should be considered the direction of the machine head. When the sensor frame coincides with the inertial frame, the ideal output of Euler angles is: Pitch = 0°, Roll = 0°, Yaw = 0°
