@@ -27,10 +27,10 @@
 - [Packaging Information](#PackagingInformation)
   - [Package Outline](#PackageOutline)
   - [Soldering Guidelines](#SolderingGuidelines)
-- Application Guide
-  - The module is connected to the PC
-  - The module is connected to the MCU
-- Serial communication protocol
+- [Getting Started with Hi229](#GettingStartedwithHi229)
+  - [Connect the module to the PC](#ConnectthemoduletothePC)
+  - [Connect the module to the MCU](#ConnectthemoduletotheMCU)
+  - [Reading/Writing the Hi229](#ReadingWritingtheHi229)
 - Serial data packet
   - Overview
   - Product Support Package List
@@ -341,3 +341,81 @@ f | - | 1 | - | mm
 <p align="left"><img width="600", src="https://user-images.githubusercontent.com/60751518/162638196-d36e6554-08e4-4799-8441-76cdf8eb8ef8.png"></p>
 
 **Notice:** The final stage of reflow soldering requires natural cooling, and the furnace cannot be turned on for forced air cooling, otherwise the product performance will be seriously affected.
+
+<a name="GettingStartedwithHi229"/>
+
+## Getting Started with Hi229
+
+<a name="ConnectthemoduletothePC"/>
+
+### Connect the module to the PC
+
+It is recommended to use the evaluation board to connect to the PC. The evaluation board has on-board USB power supply and USB to serial port functions, which can be conveniently used with the evaluation software on the PC for performance testing. See the Evaluation Boards section in the appendix for details.
+
+<a name="ConnectthemoduletotheMCU"/>
+
+### Connect the module to the MCU
+
+The module and the MCU are connected through the serial port of TTL level. It is recommended that the RST pin of the module be connected to the GPIO of the MCU. It is convenient for MCU to force reset the module.
+
+<p align="left"><img width="800", src="https://user-images.githubusercontent.com/60751518/162639226-0c1b1a2e-f840-4459-a5a8-f18322742678.png"></p>
+
+**Notice:**
+
+1. If the synchronization input (SYNC_IN) and synchronization output functions (SYNC_OUT) are not used, SYNC_IN and SYNC_OUT can be disconnected.
+2. The function of the 120 ohm resistor is to facilitate debugging and prevent the level mismatch between the MCU and the module.  It can be removed. It is recommended to keep it.
+3. Please refer to the manual for the voltage range of ~~VCC~~ VDD
+4. The module has built-in power-on reset circuit, RST can be disconnected, but it is recommended to connect RST to a GPIO of the host to realize software reset.
+
+<a name="ReadingWritingtheHi229"/>
+
+### Reading/Writing the Hi229
+
+After the module is powered on, the frame data is output at the factory frame rate (usually 100) by default. The frame format is as follows:
+
+``` 
+Serial data frame structure
+<frame header (0x5A)><frame type (0xA5)><length><CRC check><data field>
+ ```
+
+Domain name | Value | Length (bytes) | Description
+--- | --- | --- | ---
+PRE | 0x5A | 1 | Fixed to 0x5A
+TYPE | 0xA5 | 1 | Fixed to 0xA5
+LEN | 1-512 | 2 | The length of the data field in the frame, the low byte comes first. The length represents the length of the data field (PAYLOAD) and does not contain the PRE, TYPE, LEN, CRC fields.
+CRC | - | 2 | Except for the CRC itself, the 16-bit CRC checksum of the frame data for all other fields (PRE, TYPE, LEN, PAYLOAD ). LSB (low byte first)
+PAYLOAD | - | 1-512 | The data carried in one frame. The PAYLOAD field consists of several sub-packets.  Each data packet contains two parts: the data packet label and the data. The label determines the type and length of the data.
+
+<p align="left"><img width="300", src="https://user-images.githubusercontent.com/60751518/162641629-a64b38ec-f923-4311-a952-dc307311a794.png"></p>
+
+CRC implementation function:
+
+```
+/*
+    currectCrc: previous crc value, set 0 if it's first section 
+    src: source stream data
+    lengthInBytes: length
+*/
+static void crc16_update(uint16_t *currectCrc, const uint8_t *src, 
+uint32_t lengthInBytes)
+{
+    uint32_t crc = *currectCrc; 
+    uint32_t j;
+    for (j=0; j < lengthInBytes; ++j)
+    {
+        uint32_t i;
+        uint32_t byte = src[j]; 
+        crc ^= byte << 8;
+        for (i = 0; i < 8; ++i)
+        {
+            uint32_t temp = crc << 1; 
+            if (crc & 0x8000)
+            {
+                temp ^= 0x1021;
+            }
+            crc = temp;
+        }
+    }
+    *currectCrc = crc;
+}
+```
