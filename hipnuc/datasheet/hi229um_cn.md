@@ -24,7 +24,9 @@
     - [Difference between 6-axis and 9-axis mode](#Differencebetween6-axisand9-axismode)
     - [Mobile Robot](#MobileRobot)
 - [Hi229 Orientation](#Hi229Orientation)
-- Mounting and Soldering
+- [Packaging Information](#PackagingInformation)
+  - [Package Outline](#PackageOutline)
+  - [Soldering Guidelines](#SolderingGuidelines)
 - Application Guide
   - The module is connected to the PC
   - The module is connected to the MCU
@@ -252,7 +254,7 @@ Interference in the sensor coordinate system (Distortions that move with sensor)
 
 The figure is a typical indoor magnetic field distribution map. The spatial magnetic field distortion of the general indoor environment is relatively serious (belonging to spatial magnetic field interference, which cannot be calibrated and compensated)
 
-**Note:** In the indoor environment, the spatial magnetic interference is particularly serious, and it cannot be eliminated by calibration. Although the module has a built-in homogeneous magnetic field detection and shielding mechanism. The heading angle accuracy of the 9-axis mode depends largely on the degree of indoor magnetic field distortion. If the indoor magnetic field environment is very poor (such as next to the computer room, electromagnetic laboratory, workshop, underground garage, etc.), even after calibration, the heading angle accuracy of the 9-axis may not be as good as the 6-axis or even a large angle error.
+**Notice:** In the indoor environment, the spatial magnetic interference is particularly serious, and it cannot be eliminated by calibration. Although the module has a built-in homogeneous magnetic field detection and shielding mechanism. The heading angle accuracy of the 9-axis mode depends largely on the degree of indoor magnetic field distortion. If the indoor magnetic field environment is very poor (such as next to the computer room, electromagnetic laboratory, workshop, underground garage, etc.), even after calibration, the heading angle accuracy of the 9-axis may not be as good as the 6-axis or even a large angle error.
 
 <a name="Differencebetween6-axisand9-axismode"/>
 
@@ -294,3 +296,48 @@ The vector system uses the Front-Left-Up (FLU) right-handed coordinate system. T
 - Rotation around the X-axis: also called Roll or (pronounced: Phi). Range: -180°-180°
 
 If you think of the module as an aircraft. The X-axis should be considered the direction of the machine head. When the sensor frame coincides with the inertial frame, the ideal output of Euler angles is: Pitch = 0°, Roll = 0°, Yaw = 0°
+
+<a name="PackagingInformation"/>
+
+## Packaging Information
+
+<a name="PackageOutline"/>
+
+### Package Outline
+
+<p align="left"><img width="600", src="https://user-images.githubusercontent.com/60751518/162636659-c4b2618b-933a-468a-9ad3-ccafee286340.png"></p>
+
+Symbol | Minimum value | Typical value | Maximum value | Unit
+--- | --- | --- | --- | ---
+A1 | - | 11 | - | mm
+B | - | 11 | - | mm
+D | - | 12 | - | mm
+E | - | 12 | - | mm
+H | 2.5 | 2.6 | 2.7 | mm
+a | - | 1.5 | - | mm
+b | - | 0.9 | - | mm
+c | - | 1 | - | mm
+e | - | 1.27 | - | mm
+f | - | 1 | - | mm
+
+<a name="SolderingGuidelines"/>
+
+### Soldering Guidelines
+
+1. The installation position should be away from the easy deformation point of the PCB, try to stay away from the edge of the PCB (>30mm), and away from the PCB positioning screw hole (>10mm).
+
+<p align="left"><img width="600", src="https://user-images.githubusercontent.com/60751518/162638036-36e54dda-bee3-4446-9843-283242da371f.png"></p>
+
+2. The installation position should be away from strong magnetic devices, such as motors, speakers and other strong magnetic devices.
+
+3. The assembled PCB must not be cleaned with an ultrasonic cleaner.
+
+4. This product cannot be plastic-sealed or sprayed with conformal paint. Spraying or plastic-sealing will cause the sensor stress to change and affect its performance.
+
+<p align="left"><img width="600", src="https://user-images.githubusercontent.com/60751518/162638125-0ca03f68-734c-46a9-822c-614eb70c4dfc.png"></p>
+
+5. The recommended oven temperature graph for reflow soldering is as follows:
+
+<p align="left"><img width="600", src="https://user-images.githubusercontent.com/60751518/162638196-d36e6554-08e4-4799-8441-76cdf8eb8ef8.png"></p>
+
+**Notice:** The final stage of reflow soldering requires natural cooling, and the furnace cannot be turned on for forced air cooling, otherwise the product performance will be seriously affected.
