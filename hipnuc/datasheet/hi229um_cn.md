@@ -151,7 +151,7 @@ Parameter | Value
 Roll and Pitch error - Static | 0.8°
 Roll and Pitch error - Dynamic | 2.5°
 Heading angle error in movement (6-axis mode, tested in 30min, horizontal smooth sweeper-like movement) | <10°
-Heading angle error in movement (9-axis mode, after magnetic calibration and no nearby magnetic interference) | 3°
+Heading angle error in movement (9-axis mode, after magnetic calibration and no nearby magnetic field interference) | 3°
 
 <a name="Accelerometer"/>
 
