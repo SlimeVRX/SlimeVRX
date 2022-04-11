@@ -232,7 +232,7 @@ When the module is used for the first time with the 9-axis mode, the following c
 
 1. Check if the surrounding is magnetically clean: Indoors, next to the laboratory table, near the large iron/steel frame structure. All belong to common interference areas. It is recommended to take the module to an outdoor open space. Even if you don't have the conditions to get it outdoors, try to keep the module away (>0.5m) from objects that are prone to interference, such as laboratory desks/computers.
 2. In the smallest possible range (the position does not move, just rotates), slowly rotate the module and let the module experience as many attitude positions as possible (rotate each axis at least 360° for about 1 minute). Under normal circumstances, the calibration can be completed. If the module has not been successfully calibrated, it means that the surrounding magnetic field interference is relatively large.
-3. The success of the calibration can be checked by using the AT command: send the AT+INFO=HSI command, and the module will print the current status of the magnetometer calibration system:
+3. The success of the calibration can be checked by using the AT command: send the `AT+INFO=HSI` command, and the module will print the current status of the magnetometer calibration system:
 
 <p align="left"><img width="500", src="https://user-images.githubusercontent.com/60751518/162633949-cee0e355-e8ff-4f1f-a712-1042529b8c3b.png"></p>
 
@@ -624,8 +624,8 @@ Z-axis angular velocity = (int16_t)((0xFF<<8)+ 0x32) = -206
 `D0 64 F2 6C 0E BB 01`: Euler angle data packet, 0xD0 is the data packet label
 
 ```
-Pitch= (int16_t)((0xF2<<8)+ 0x64) / 100 = -3484 / 100 = -34.84°
-Roll= (int16_t)((0x0E<<8)+ 0x6C) / 100 = 3692 / 100 = 36.92°
+Pitch = (int16_t)((0xF2<<8)+ 0x64) / 100 = -3484 / 100 = -34.84°
+Roll = (int16_t)((0x0E<<8)+ 0x6C) / 100 = 3692 / 100 = 36.92°
 Yaw = (int16_t)((0x01<<8)+ 0xBB) / 10 = 443 /10 = 44.3°
 ```
 
