@@ -236,7 +236,7 @@ When the module is used for the first time with the 9-axis mode, the following c
 
 <p align="left"><img width="500", src="https://user-images.githubusercontent.com/60751518/162633949-cee0e355-e8ff-4f1f-a712-1042529b8c3b.png"></p>
 
-Just care about **[fiterr]**: 0.03 or less indicates that the calibration result is good enough. If **[fiterr]** is always > 0.1, it means that the magnetic field interference is very large, and it needs to be calibrated again to get better calibration results. ~~拟合残差会随着时间缓慢增长。~~
+Just care about `fiterr`: 0.03 or less indicates that the calibration result is good enough. If `fiterr` is always > 0.1, it means that the magnetic field interference is very large, and it needs to be calibrated again to get better calibration results. ~~拟合残差会随着时间缓慢增长。~~
 
 4. Although magnetometer calibration parameters can be dynamically fitted automatically. However, if the surrounding magnetometer environment changes (For example, need to move to another room or indoor and outdoor, or the module is installed/soldered into a new environment), 1-3 need to be repeated.
 
