@@ -31,21 +31,20 @@
   - [Connect the module to the PC](#ConnectthemoduletothePC)
   - [Connect the module to the MCU](#ConnectthemoduletotheMCU)
   - [Reading/Writing the Hi229](#ReadingWritingtheHi229)
-- Serial data packet
-  - Overview
-  - Product Support Package List
-  - 0x90 (User ID)
-  - 0xA0 (Acceleration)
-  - 0xB0 (Angular Velocity)
-  - 0xC0 (Magnetic Field Strength)
-  - 0xD0 (Eulerian Angles)
-  - 0XD1 (Quaternion)
-  - 0XF0 (Air Pressure)
-  - 0X91 (IMUSOL)
-  - Factory default data package
-  - Example of data frame structure
-    - The data frame is configured as 0x90,0xA0,0xB0,0xC0,0xD0,0xF0 packets
-    - The data frame is configured as 0x91 packets
+    - [Serial data frame structure](#Serialdataframestructure)
+    - [Serial data packet](#Serialdatapacket)
+    - [0x90 (User ID)](#0x90(UserID))
+    - [0xA0 (Acceleration)](#0xA0(Acceleration))
+    - [0xB0 (Angular velocity)](#0xB0(Angularvelocity))
+    - [0xC0 (Magnetic Field Strength)](#0xC0(MagneticFieldStrength))
+    - [0xD0 (Euler Angles)](#0xD0(EulerAngles))
+    - [0xD1 (Quaternion)](#0xD1(Quaternion))
+    - [0xF0 (Air Pressure)](#0xF0(AirPressure))
+    - [0x91 IMUSOL (IMU data set)](#0x91IMUSOL(IMUdataset))
+    - [Factory default data package](#Factorydefaultdatapackage)
+    - [Example of data frame structure](#Exampleofdataframestructure)
+      - [The data frame is configured as 0x90,0xA0,0xB0,0xC0,0xD0,0xF0 packets](#0x90)
+      - [The data frame is configured as 0x91 packets](#0x91)
 - AT command
   - AT+ID
   - AT+INFO
@@ -371,10 +370,13 @@ The module and the MCU are connected through the serial port of TTL level. It is
 
 ### Reading/Writing the Hi229
 
+<a name="Serialdataframestructure"/>
+
+#### Serial data frame structure
+
 After the module is powered on, the frame data is output at the factory frame rate (usually 100) by default. The frame format is as follows:
 
 ``` 
-Serial data frame structure
 <frame header (0x5A)><frame type (0xA5)><length><CRC check><data field>
  ```
 
@@ -418,4 +420,303 @@ uint32_t lengthInBytes)
     }
     *currectCrc = crc;
 }
+```
+
+<a name="Serialdatapacket"/>
+
+#### Serial data packet
+
+Record ID | Length (bytes) | Name | Remark
+--- | --- | --- | ---
+0x90 | 2 | User ID
+0xA0 | 7 | Acceleration
+0xB0 | 7 | Angular velocity
+0xC0 | 7 | Magnetic Field Strength
+0xD0 | 7 | Euler Angles
+0xD1 | 17 | Quaternion
+0xF0 | 5 | Air Pressure | Output 0
+0x91 | 76 | IMUSOL (IMU data set) | Recommended
+
+<a name="0x90(UserID)"/>
+
+#### 0x90 (User ID)
+
+A total of 2 bytes, the ID set by the user.
+
+Byte | Type | Size | Unit | Description
+--- | --- | --- | --- | ---
+0 | uint8_t | 1 | - | Data packet label: 0x90
+1 | uint8_t | 1 | - | User ID
+
+<a name="0xA0(Acceleration)"/>
+
+#### 0xA0 (Acceleration)
+
+A total of 7 bytes, LSB. Output the raw acceleration of the sensor
+
+Byte | Type | Size | Unit | Description
+--- | --- | --- | --- | ---
+0 | uint8_t | 1 | - | Data packet label: 0xA0
+1 | int16_t | 2 | 0.001G (1G = 1 gravitational acceleration) | X-axis acceleration
+3 | int16_t | 2 | 0.001G | Y-axis acceleration
+5 | int16_t | 2 | 0.001G | Z-axis acceleration
+
+<a name="0xB0(Angularvelocity)"/>
+
+#### 0xB0 (Angular velocity)
+
+A total of 7 bytes, LSB. Output the raw angular velocity of the sensor
+
+Byte | Type | Size | Unit | Description
+--- | --- | --- | --- | ---
+0 | uint8_t | 1 | - | Data packet label: 0xB0
+1 | int16_t | 2 | 0.1°/s | X-axis angular velocity
+3 | int16_t | 2 | 0.1°/s | Y-axis angular velocity
+5 | int16_t | 2 | 0.1°/s | Z-axis angular velocity
+
+<a name="0xC0(MagneticFieldStrength)"/>
+
+#### 0xC0 (Magnetic Field Strength)
+
+A total of 7 bytes, LSB. Output the original magnetic field strength of the sensor
+
+Byte | Type | Size | Unit | Description
+--- | --- | --- | --- | ---
+0 | uint8_t | 1 | - | Data packet label: 0xC0
+1 | int16_t | 2 | 0.001Gauss | X-axis magnetic field strength
+3 | int16_t | 2 | 0.001Gauss | Y-axis magnetic field strength
+5 | int16_t | 2 | 0.001Gauss | Z-axis magnetic field strength
+
+<a name="0xD0(EulerAngles)"/>
+
+#### 0xD0 (Euler Angles)
+
+A total of 7 bytes, LSB. The format is int16, a total of 3 values, each axis occupies 2 bytes, and the order is Pitch/Roll/Yaw. Roll, Pitch are the value obtained by multiplying the physical value by 100, and Yaw is the value obtained by multiplying it by 10.
+
+Example: When the received Yaw = 100, it means that the heading angle is 10°
+
+Byte | Type | Size | Unit | Description
+--- | --- | --- | --- | ---
+0 | uint8_t | 1 | - | Data packet label: 0xD0
+1 | int16_t | 2 | 0.01° | Pitch (pitch angle)
+3 | int16_t | 2 | 0.01° | Roll (roll angle)
+5 | int16_t | 2 | 0.1° | Yaw (heading angle)
+
+<a name="0xD1(Quaternion)"/>
+
+#### 0xD1 (Quaternion)
+
+A total of 17 bytes, LSB. The format is float, a total of 4 values, the order is: W X Y Z. Each value occupies 4 bytes (float), and the entire quaternion is 4 floats, LSB.
+
+Byte | Type | Size | Unit | Description
+--- | --- | --- | --- | ---
+0 | uint8_t | 1 | - | Data packet label: 0xD1
+1 | float | 4 | - | W
+5 | float | 4 | - | X
+9 | float | 4 | - | Y
+13 | float | 4 | - | Z
+
+<a name="0xF0(AirPressure)"/>
+
+#### 0xF0 (Air Pressure)
+
+A total of 5 bytes, the format is float. (Only for products with air pressure sensor)
+
+Byte | Type | Size | Unit | Description
+--- | --- | --- | --- | ---
+0 | uint8_t | 1 | - | Data packet label: 0xF0
+1 | float | 4 | Pa | Atmospheric pressure
+
+<a name="0x91IMUSOL(IMUdataset)"/>
+
+#### 0x91 IMUSOL (IMU data set)
+
+A total of 76 bytes, the newly added data packet is used to replace A0, B0, C0, D0, D1 and other data packets. Integrate the sensor raw output of the IMU and the attitude solution data.
+
+Byte | Type | Size | Unit | Description
+--- | --- | --- | --- | ---
+0 | uint8_t | 1 | - | Data packet label: 0x91
+1 | uint8_t | 1 | - | ID
+2 | - | 6 | - | Reserved
+8 | uint32_t | 4 | ms | Timestamp information, accumulated from the system boot, increases by 1 per millisecond
+12 | float | 12 | (1G = 1 acceleration of gravity) | Acceleration on the X, Y, and Z axis, note that the unit is different from 0xA0
+24 | float | 12 | deg/s | the angular velocity of the X, Y, and Z axis, note that the unit is different from 0xB0
+36 | float | 12 | uT | the magnetic field strength of X, Y, and Z axis (Hi229 support, note that the unit is different from 0xC0)
+48 | float | 12 | deg | A set of Euler angles of nodes, in the order: Roll angle (Roll), Pitch angle (Pitch), heading angle (Yaw) (note that the order and unit are different from the 0xD0 data packet)
+60 | float | 16 | - | WXYZ Set of node quaternions, the order is WXYZ
+
+<a name="Factorydefaultdatapackage"/>
+
+#### Factory default data package
+
+The factory default definition of packet data carried in a frame is as follows:
+
+Product | Default output data packet
+--- | ---
+Hi229 | 0x91
+
+<a name="Exampleofdataframestructure"/>
+
+#### Example of data frame structure
+
+<a name="0x90"/>
+
+##### The data frame is configured as `0x90, 0xA0,0xB0,0xC0,0xD0, 0xF0` data packets
+
+Use the serial port assistant to sample a frame of data, a total of 41 bytes, the first 6 bytes are the frame header, length and CRC check value. The remaining 35 bytes are data fields. Suppose the data is received into the C language array `buf` . As follows:
+
+5A A5 23 00 FD 61 **90** 00 **A0** 55 02 3D 01 E2 02 **B0** FE FF 17 00 44 00 **C0** 80 FF 60 FF 32 FF **D0** 64 F2 6C 0E BB 01 **F0** 00 00 00 00
+
+- Step 1: Determine the frame header, get the data field length and frame CRC:
+
+Frame header: `5A` `A5`
+
+Frame data field length: `23` `00` : (0x00<<8) + 0x23 = 35
+
+Frame CRC check value: `FD` `61` :(0x61<<8) + 0xFD = 0x61FD
+
+- Step 2: Check CRC
+
+```
+    uint16_t payload_len; 
+    uint16_t crc;
+
+    crc = 0;
+    payload_len = buf[2] + (buf[3] << 8);
+
+    /* calulate 5A A5 and LEN filed crc */
+    crc16_update(&crc, buf, 4);
+
+    /* calulate payload crc */
+    crc16_update(&crc, buf + 6, payload_len);
+```
+
+The obtained CRC value is 0x61FD, which is the same as the CRC value carried by the frame, and the frame CRC check is passed. 
+
+- Step 3: Receive data
+
+`90 00`: ID data packet, 0x90 is the data packet label, ID = 0x00. 
+
+`A0 55 02 3D 01 E2 02`: Acceleration data packet, 0xA0 is the data packet label, and the three-axis acceleration is：
+
+```
+X-axis acceleration = (int16_t) ((0x02<<8) +0x55) = 597 (unit is mG)
+Y-axis acceleration = (int16_t) ((0x01<<8)+0x3D) = 317
+Z-axis acceleration = (int16_t) ((0x02<<8) +0xE2) = 738
+```
+
+`B0 FE FF 17 00 44 00`: Angular velocity data packet, 0xB0 is the data packet label, and the three-axis angular velocity is：
+
+```
+X-axis angular velocity = (int16_t)((0xFF<<8)+ 0xFE) = -2 (unit is 0.1°/s)
+Y-axis angular velocity = (int16_t)((0x00<<8)+ 0x17) = 23
+Z-axis angular velocity = (int16_t)((0x00<<8)+ 0x44) = 68
+```
+
+`C0 80 FF 60 FF 32 FF`: Magnetic field data packet, 0xC0 is the data packet label, and the three-axis magnetic field is：
+
+```
+X-axis angular velocity = (int16_t)((0xFF<<8)+ 0x80) = -128 (unit is 0.001GAUSS)
+Y-axis angular velocity = (int16_t)((0xFF<<8)+ 0x60) = -160
+Z-axis angular velocity = (int16_t)((0xFF<<8)+ 0x32) = -206
+```
+
+`D0 64 F2 6C 0E BB 01`: Euler angle data packet, 0xD0 is the data packet label
+
+```
+Pitch= (int16_t)((0xF2<<8)+ 0x64) / 100 = -3484 / 100 = -34.84°
+Roll= (int16_t)((0x0E<<8)+ 0x6C) / 100 = 3692 / 100 = 36.92°
+Yaw = (int16_t)((0x01<<8)+ 0xBB) / 10 = 443 /10 = 44.3°
+```
+
+`F0 00 00 00 00`: Air pressure data packet, 0xF0 is the data packet label
+
+```
+    float prs;
+    prs = memcpy(&prs, &buf[37], 4);
+```
+
+Finally get the result：
+
+```
+id : 0
+acc(G) : 0.597 0.317 0.738
+gyr(deg/s) : -0.200 2.300 6.800
+mag(uT) : -12.800 -16.000 -20.600
+eul(R/P/Y) : 36.920 -34.840 44.300
+```
+
+<a name="0x91"/>
+
+##### The data frame is configured as a `0x91` data packet
+
+Use the serial port assistant to sample a frame of data, a total of 82 bytes, the first 6 bytes are the frame header, length and CRC check value. The remaining 76 bytes are data fields. Suppose the data is received into the C language array `buf`. As follows:
+
+5A A5 4C 00 6C 51 **91** 00 A0 3B 01 A8 02 97 BD BB 04 00 9C A0 65 3E A2 26 45 3F 5C E7 30 3F E2 D4 5A C2 E5 9D A0 C1 EB 23 EE C2 78 77 99 41 AB AA D1 C1 AB 2A 0A C2 8D E1 42 42 8F 1D A8 C1 1E 0C 36 C2 E6 E5 5A 3F C1 94 9E 3E B8 C0 9E BE BE DF 8D BE
+
+- Step 1: Determine the frame header, get the data field length and frame CRC:
+
+Frame header: `5A` `A5`
+
+Frame data field length: `4C` `00`: (0x00<<8) + 0x4C = 76
+
+Frame CRC check value: `6C` `51`:(0x51<<8) + 0x6C = 0x516C
+
+- Step 2: Check CRC
+
+```
+    uint16_t payload_len; 
+    uint16_t crc;
+
+    crc = 0;
+    payload_len = buf[2] + (buf[3] << 8);
+
+    /* calulate 5A A5 and LEN filed crc */ 
+    crc16_update(&crc, buf, 4);
+
+    /* calulate payload crc */ 
+    crc16_update(&crc, buf + 6, payload_len);
+```
+
+The CRC value obtained is 0x516C. The frame CRC check is passed.
+
+- Step 3: Receive data
+
+The data field of the data packet starts from `0x91`. In C language, you can define a structure to easily read data:
+
+Define the 0x91 packet structure as follows:
+
+```
+__packed typedef struct
+{
+    uint8_t tag; /* data packet tag:  0x91*/
+    uint8_t id; /* module ID */
+    uint8_t rev[6]; /* reserved */
+    uint32_t ts; /* timestamp */
+    float acc[3]; /* acceleration */
+    float gyr[3]; /* angular velocity */
+    float mag[3]; /* geomagnetic */
+    float eul[3]; /* euler angles: Roll, Pitch, Yaw */
+    float quat[4]; /* quaternion*/
+}id0x91_t;
+```
+
+`__packed` is the compiler keyword (Keil), which means that the structure is tightly aligned by bytes, and each element of the structure corresponds to the structure definition of the 0x91 data packet. When receiving data, `memcpy` the received array directly to the structure: (notice that 4 bytes must be aligned when defining the structure), where `buf` points to the frame header and `buf [6]` points to the data field in the frame. 
+
+```
+    /* Receive data and use the 0x91 packet structure definition to interpret the data */
+    __align(4) id0x91_t dat; /* struct must be 4 byte aligned */ 
+    memcpy(&dat, &buf[6], sizeof(id0x91_t));
+```
+
+Finally get the dat data result：
+
+```
+id : 0
+timestamp : 310205
+acc : 0.224 0.770 0.691
+gyr : -54.708 -20.077 -119.070
+mag : 19.183 -26.208 -34.542
+eul(R/P/Y) : 48.720 -21.014 -45.512
+quat : 0.855 0.310 -0.310 -0.277
 ```
