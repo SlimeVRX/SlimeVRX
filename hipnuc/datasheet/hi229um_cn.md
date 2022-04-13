@@ -181,9 +181,9 @@ Digital resolution | 16 bit
 Resolution | 0.01°/s ~~(0.004°/s)~~ |
 Measurement ranges (programmable) | ± 2000°/s |
 Internal sampling frequency | 1KHz |
-Zero bias stability | 8°/h | @25°C,1σ
-Zero offset repeatability | 0.12°/s | @25°C,1σ
-Non-orthogonal error | ±0.1% | @25°C,1σ
+Zero-bias stability | 8°/h | @25°C,1σ
+Zero-bias repeatability | 0.12°/s | @25°C,1σ
+Non-orthogonal errors | ±0.1% | @25°C,1σ
 Random walk | 0.6° | @25°C,1σ
 Scale nonlinearity | ±0.1% | At full scale (maximum)
 Scale factor error | ±0.4% | After factory calibration
