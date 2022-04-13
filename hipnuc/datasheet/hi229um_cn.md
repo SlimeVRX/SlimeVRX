@@ -162,14 +162,14 @@ Parameter | Value | Condition
 --- | --- | ---
 Digital resolution | 12 bit
 Resolution | 1uG ~~(0,98 mG?)~~ |
-Measurement ranges (programmable)| ±8G (1G = 1x gravitational acceleration) |
+Measurement ranges (programmable)| ±8G (1G = 1x acceleration of gravity) |
 Internal sampling frequency | 1KHz |
-Zero Bias Stability | 60uG | @25°C,1σ
-Zero offset repeatability | 4.8mG | @25°C,1σ
+Zero-bias stability | 60uG | @25°C,1σ
+Zero-bias repeatability | 4.8mG | @25°C,1σ
 Non-orthogonal error | ±0.1%
 Random walk | 0.08 | @25°C,1σ
 Scale factor error | ±0.3% (at full scale) | After factory calibration
-Full temperature range temperature change | 2mg | -20 - 85°
+Operating temperature | 2mg | -20 - 85°
 
 <a name="Gyroscope"/>
 
