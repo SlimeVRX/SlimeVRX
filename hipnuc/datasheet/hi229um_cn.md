@@ -4,73 +4,77 @@
 
 <p align="left"><img width="400", src="https://user-images.githubusercontent.com/60751518/162100908-e1a732ac-b3e2-40f8-a385-436e349fcdae.png"></p>
 
-- [Functional Overview](#FunctionalOverview)
-  - [Key features](#Keyfeatures)
-  - [Key features of integrated sensors](#Keyfeaturesofintegratedsensors)
-  - [Typical application](#Typicalapplication)
-  - [General description](#Generaldescription)
-  - [Hi229 Connectivity](#Hi229Connectivity)
-    - [Pin Descriptions](#PinDescriptions)
-- [Performance Characteristics](#PerformanceCharacteristics)
-  - [Attitude angle](#Attitudeangle)
-  - [Accelerometer](#Accelerometer)
-  - [Gyroscope](#Gyroscope)
-  - [Magnetometer](#Magnetometer)
-  - [Module data interface](#Moduledatainterface)
-- [Calibration and Interpretation](#CalibrationandInterpretation)
-  - [Accelerometer and Gyroscope Calibration](#AccelerometerandGyroscopeCalibration)
-  - [Magnetometer Calibration](#MagnetometerCalibration)
-    - [More about magnetic field interference](#Moreaboutmagneticfieldinterference)
-    - [Difference between 6-axis and 9-axis mode](#Differencebetween6-axisand9-axismode)
-    - [Mobile Robot](#MobileRobot)
-- [Hi229 Orientation](#Hi229Orientation)
-- [Packaging Information](#PackagingInformation)
-  - [Package Outline](#PackageOutline)
-  - [Soldering Guidelines](#SolderingGuidelines)
-- [Getting Started with Hi229](#GettingStartedwithHi229)
-  - [Connect the module to the PC](#ConnectthemoduletothePC)
-  - [Connect the module to the MCU](#ConnectthemoduletotheMCU)
-  - [Reading/Writing the Hi229](#ReadingWritingtheHi229)
-    - [Serial data frame structure](#Serialdataframestructure)
-    - [Serial data packet](#Serialdatapacket)
-    - [0x90 (User ID)](#0x90(UserID))
-    - [0xA0 (Acceleration)](#0xA0(Acceleration))
-    - [0xB0 (Angular velocity)](#0xB0(Angularvelocity))
-    - [0xC0 (Magnetic Field Strength)](#0xC0(MagneticFieldStrength))
-    - [0xD0 (Euler Angles)](#0xD0(EulerAngles))
-    - [0xD1 (Quaternion)](#0xD1(Quaternion))
-    - [0xF0 (Air Pressure)](#0xF0(AirPressure))
-    - [0x91 IMUSOL (IMU data set)](#0x91IMUSOL(IMUdataset))
-    - [Factory default data package](#Factorydefaultdatapackage)
-    - [Example of data frame structure](#Exampleofdataframestructure)
-      - [The data frame is configured as 0x90,0xA0,0xB0,0xC0,0xD0,0xF0 packets](#0x90)
-      - [The data frame is configured as 0x91 packets](#0x91)
-  - [AT command](#ATcommand)
-    - [AT+ID](#AT+ID)
-    - [AT+INFO](#AT+INFO)
-    - [AT+ODR](#AT+ODR)
-    - [AT+BAUD](#AT+BAUD)
-    - [AT+EOUT](#AT+EOUT)
-    - [AT+RST](#AT+RST)
-    - [AT+TRG](#AT+TRG)
-    - [AT+SETPTL](#AT+SETPTL)
-    - [AT+MODE](#AT+MODE)
-    - [AT+SETYAW](#AT+SETYAW)
-- [Appendix A-Evaluation Board](#AppendixA-EvaluationBoard)
-  - [Introduction to Evaluation Board](#IntroductiontoEvaluationBoard)
-  - [Remove the product from the evaluation board](#Removetheproductfromtheevaluationboard)
-- [Appendix B-Firmware Upgrade and Factory Reset](#AppendixB-FirmwareUpgradeandFactoryReset)
-- [Appendix C-FAQ](#AppendixC-FAQ)
-- [Version History](#VersionHistory)
-- [References](#References)
+<!-- !numberedheadings (level=4 minlevel=2 skip=1) -->
+
+<!-- !toc (level=4 minlevel=2 omit="Table of Contents") -->
+
+* [1\. Functional Overview](#FunctionalOverview)
+  * [1.1\. Key features](#Keyfeatures)
+  * [1.2\. Key features of integrated sensors](#Keyfeaturesofintegratedsensors)
+  * [1.3\. Typical application](#Typicalapplication)
+  * [1.4\. General description](#Generaldescription)
+  * [1.5\. Hi229 Connectivity](#Hi229Connectivity)
+    * [1.5.1\. Pin Descriptions](#PinDescriptions)
+* [2\. Performance Characteristics](#PerformanceCharacteristics)
+  * [2.1\. Attitude angle](#Attitudeangle)
+  * [2.2\. Accelerometer](#Accelerometer)
+  * [2.3\. Gyroscope](#Gyroscope)
+  * [2.4\. Magnetometer](#Magnetometer)
+  * [2.5\. Module data interface](#Moduledatainterface)
+* [3\. Calibration and Interpretation](#CalibrationandInterpretation)
+  * [3.1\. Accelerometer and Gyroscope Calibration](#AccelerometerandGyroscopeCalibration)
+  * [3.2\. Magnetometer Calibration](#MagnetometerCalibration)
+    * [3.2.1\. More about magnetic field interference](#Moreaboutmagneticfieldinterference)
+    * [3.2.2\. Difference between 6-axis and 9-axis mode](#Differencebetween6-axisand9-axismode)
+    * [3.2.3\. Mobile Robot](#MobileRobot)
+* [4\. Hi229 Orientation](#Hi229Orientation)
+* [5\. Packaging Information](#PackagingInformation)
+  * [5.1\. Package Outline](#PackageOutline)
+  * [5.2\. Soldering Guidelines](#SolderingGuidelines)
+* [6\. Getting Started with Hi229](#GettingStartedwithHi229)
+  * [6.1\. Connect the module to the PC](#ConnectthemoduletothePC)
+  * [6.2\. Connect the module to the MCU](#ConnectthemoduletotheMCU)
+  * [6.3\. Reading/Writing the Hi229](#ReadingWritingtheHi229)
+    * [6.3.1\. Serial data frame structure](#Serialdataframestructure)
+    * [6.3.2\. Serial data packet](#Serialdatapacket)
+      * [6.3.2.1\. 0x90 (User ID)](#0x90(UserID))
+      * [6.3.2.2\. 0xA0 (Acceleration)](#0xA0(Acceleration))
+      * [6.3.2.3\. 0xB0 (Angular velocity)](#0xB0(Angularvelocity))
+      * [6.3.2.4\. 0xC0 (Magnetic Field Strength)](#0xC0(MagneticFieldStrength))
+      * [6.3.2.5\. 0xD0 (Euler Angles)](#0xD0(EulerAngles))
+      * [6.3.2.6\. 0xD1 (Quaternion)](#0xD1(Quaternion))
+      * [6.3.2.7\. 0xF0 (Air Pressure)](#0xF0(AirPressure))
+      * [6.3.2.8\. 0x91 IMUSOL (IMU data set)](#0x91IMUSOL(IMUdataset))
+    * [6.3.3\. Factory default data package](#Factorydefaultdatapackage)
+    * [6.3.4\. Example of data frame structure](#Exampleofdataframestructure)
+      * [6.3.4.1\. The data frame is configured as 0x90,0xA0,0xB0,0xC0,0xD0,0xF0 packets](#0x90)
+      * [6.3.4.2\. The data frame is configured as 0x91 packets](#0x91)
+  * [6.4\. AT command](#ATcommand)
+    * [6.4.1\. AT+ID](#AT+ID)
+    * [6.4.2\. AT+INFO](#AT+INFO)
+    * [6.4.3\. AT+ODR](#AT+ODR)
+    * [6.4.4\. AT+BAUD](#AT+BAUD)
+    * [6.4.5\. AT+EOUT](#AT+EOUT)
+    * [6.4.6\. AT+RST](#AT+RST)
+    * [6.4.7\. AT+TRG](#AT+TRG)
+    * [6.4.8\. AT+SETPTL](#AT+SETPTL)
+    * [6.4.9\. AT+MODE](#AT+MODE)
+    * [6.4.10\. AT+SETYAW](#AT+SETYAW)
+* [7\. Appendix A-Evaluation Board](#AppendixA-EvaluationBoard)
+  * [7.1\. Introduction to Evaluation Board](#IntroductiontoEvaluationBoard)
+  * [7.2\. Remove the product from the evaluation board](#Removetheproductfromtheevaluationboard)
+* [8\. Appendix B-Firmware Upgrade and Factory Reset](#AppendixB-FirmwareUpgradeandFactoryReset)
+* [9\. Appendix C-FAQ](#AppendixC-FAQ)
+* [10\. Version History](#VersionHistory)
+* [11\. References](#References)
 
 <a name="FunctionalOverview"/>
 
-## Functional Overview
+## 1\. Functional Overview
 
 <a name="Keyfeatures"/>
 
-### Key features
+### 1.1\. Key features
 
 Key features | Description
 --- | ---
@@ -87,7 +91,7 @@ Maximum output rate | 400Hz
 
 <a name="Keyfeaturesofintegratedsensors"/>
 
-### Key features of integrated sensors
+### 1.2\. Key features of integrated sensors
 
 Sensor | Range
 --- | ---
@@ -97,7 +101,7 @@ Magnetometer | 800mG  (miligauss)
 
 <a name="Typicalapplication"/>
 
-### Typical application
+### 1.3\. Typical application
 
 - Augmented reality
 - Motion capture
@@ -107,13 +111,13 @@ Magnetometer | 800mG  (miligauss)
 
 <a name="Generaldescription"/>
 
-### General description
+### 1.4\. General description
 
 The Hi229 manufactured by HiPNUC is a System in Package (SiP) that integrates a triaxial accelerometer, a triaxial gyroscope, a triaxial magnetometer and a 32-bit ARM® Cortex™-M4 microcontroller running HiPNUC's sensor fusion firmware. The firmware provides sophisticated signal processing algorithms to process sensor data and provide precise real-time 3D orientation, heading, calibrated acceleration and calibrated angular velocity, as well as calibrated raw sensor data. The Hi229 has certain indoor magnetic anti-interference properties, and can still work normally under a certain intensity of magnetic field interference environment.
 
 <a name="Hi229Connectivity"/>
 
-### Hi229 Connectivity
+### 1.5\. Hi229 Connectivity
 
 The Hi229 can support connections to a host microcontroller through various serial interfaces:
 - UART interface (TTL 1.8V-5.0V)
@@ -121,7 +125,7 @@ The Hi229 can support connections to a host microcontroller through various seri
 
 <a name="PinDescriptions"/>
 
-#### Pin Descriptions
+#### 1.5.1\. Pin Descriptions
 
 <p align="left"><img width="500", src="https://user-images.githubusercontent.com/60751518/162490460-07ee5e49-ed09-401e-8458-0df3d1c5b35c.png"></p>
 
@@ -144,11 +148,11 @@ Pin Number | Name | Description
 
 <a name="PerformanceCharacteristics"/>
 
-## Performance Characteristics
+## 2\. Performance Characteristics
 
 <a name="Attitudeangle"/>
 
-### Attitude angle
+### 2.1\. Attitude angle
 
 Parameter | Value
 --- | ---
@@ -159,7 +163,7 @@ Heading angle error in movement (9-axis mode, after magnetic calibration and no 
 
 <a name="Accelerometer"/>
 
-### Accelerometer
+### 2.2\. Accelerometer
 
 Parameter | Value | Condition
 --- | --- | ---
@@ -176,7 +180,7 @@ Operating temperature | 2mg | -20 - 85°
 
 <a name="Gyroscope"/>
 
-### Gyroscope
+### 2.3\. Gyroscope
 
 Parameter | Value | Condition
 --- | --- | ---
@@ -194,7 +198,7 @@ Acceleration sensitivity | 0.1°/s/g |
 
 <a name="Magnetometer"/>
 
-### Magnetometer
+### 2.4\. Magnetometer
 
 Parameter | Value
 --- | ---
@@ -204,7 +208,7 @@ Resolution | 0.25mG
 
 <a name="Moduledatainterface"/>
 
-### Module data interface
+### 2.5\. Module data interface
 
 Parameter | Value
 --- | ---
@@ -213,11 +217,11 @@ Frame output rate | 1/25/50/100/200/400Hz (optional)
 
 <a name="CalibrationandInterpretation"/>
 
-## Calibration and Interpretation
+## 3\. Calibration and Interpretation
 
 <a name="AccelerometerandGyroscopeCalibration"/>
 
-### Accelerometer and Gyroscope Calibration
+### 3.1\. Accelerometer and Gyroscope Calibration
 
 The accelerometer and gyroscope are calibrated for scale factor error, non-quadrature error and zero bias error before leaving the factory. Calibration parameters are stored inside the module.
 
@@ -225,7 +229,7 @@ The gyroscope is also calibrated for temperature compensation before leaving the
 
 <a name="MagnetometerCalibration"/>
 
-### Magnetometer Calibration
+### 3.2\. Magnetometer Calibration
 
 The magnetic sensor (supported by some models) is ellipsoid calibrated before leaving the factory, but the magnetic sensor is easily disturbed by the magnetic field of the external environment, and generally requires the customer to recalibrate:
 
@@ -245,7 +249,7 @@ Just care about `fiterr`: 0.03 or less indicates that the calibration result is 
 
 <a name="Moreaboutmagneticfieldinterference"/>
 
-#### More about magnetic field interference
+#### 3.2.1\. More about magnetic field interference
 
 Mode | Description | Typical Interference Source | Influence | Precaution
 --- | --- | --- | --- | ---
@@ -260,7 +264,7 @@ The figure is a typical indoor magnetic field distribution map. The spatial magn
 
 <a name="Differencebetween6-axisand9-axismode"/>
 
-#### Difference between 6-axis and 9-axis mode
+#### 3.2.2\. Difference between 6-axis and 9-axis mode
 
 Because the magnetic field is very susceptible to spatial interference, great care should be taken when using the 9-axis mode. The following table lists the recommendations for different use occasions and working conditions
 
@@ -273,7 +277,7 @@ The module's automatic geomagnetic calibration system can only handle fixed magn
 
 <a name="MobileRobot"/>
 
-#### Mobile Robot
+#### 3.2.3\. Mobile Robot
 
 Suppose the customer wants to use the 9-axis mode on the mobile robot to obtain an accurate, non-drifting heading angle, and the module is mounted on the robot (think of it as a rigid body)：
 
@@ -287,7 +291,7 @@ Both kinds of interference exist at the same time and can be very large, which p
 
 <a name="Hi229Orientation"/>
 
-## Hi229 Orientation
+## 4\. Hi229 Orientation
 
 <p align="left"><img width="300", src="https://user-images.githubusercontent.com/60751518/162636182-e599530f-1a5b-4b20-83cc-3169ae749d2e.png"></p>
 
@@ -301,11 +305,11 @@ If you think of the module as an aircraft. The X-axis should be considered the d
 
 <a name="PackagingInformation"/>
 
-## Packaging Information
+## 5\. Packaging Information
 
 <a name="PackageOutline"/>
 
-### Package Outline
+### 5.1\. Package Outline
 
 <p align="left"><img width="600", src="https://user-images.githubusercontent.com/60751518/162636659-c4b2618b-933a-468a-9ad3-ccafee286340.png"></p>
 
@@ -324,7 +328,7 @@ f | - | 1 | - | mm
 
 <a name="SolderingGuidelines"/>
 
-### Soldering Guidelines
+### 5.2\. Soldering Guidelines
 
 1. The installation position should be away from the easy deformation point of the PCB, try to stay away from the edge of the PCB (>30mm), and away from the PCB positioning screw hole (>10mm).
 
@@ -346,17 +350,17 @@ f | - | 1 | - | mm
 
 <a name="GettingStartedwithHi229"/>
 
-## Getting Started with Hi229
+## 6\. Getting Started with Hi229
 
 <a name="ConnectthemoduletothePC"/>
 
-### Connect the module to the PC
+### 6.1\. Connect the module to the PC
 
 It is recommended to use the evaluation board to connect to the PC. The evaluation board has on-board USB power supply and USB to serial port functions, which can be conveniently used with the evaluation software on the PC for performance testing. See the Evaluation Boards section in the appendix for details.
 
 <a name="ConnectthemoduletotheMCU"/>
 
-### Connect the module to the MCU
+### 6.2\. Connect the module to the MCU
 
 The module and the MCU are connected through the serial port of TTL level. It is recommended that the RST pin of the module be connected to the GPIO of the MCU. It is convenient for MCU to force reset the module.
 
@@ -371,11 +375,11 @@ The module and the MCU are connected through the serial port of TTL level. It is
 
 <a name="ReadingWritingtheHi229"/>
 
-### Reading/Writing the Hi229
+### 6.3\. Reading/Writing the Hi229
 
 <a name="Serialdataframestructure"/>
 
-#### Serial data frame structure
+#### 6.3.1\. Serial data frame structure
 
 After the module is powered on, the frame data is output at the factory frame rate (usually 100) by default. The frame format is as follows:
 
@@ -427,7 +431,7 @@ uint32_t lengthInBytes)
 
 <a name="Serialdatapacket"/>
 
-#### Serial data packet
+#### 6.3.2\. Serial data packet
 
 Record ID | Length (bytes) | Name | Remark
 --- | --- | --- | ---
@@ -442,7 +446,7 @@ Record ID | Length (bytes) | Name | Remark
 
 <a name="0x90(UserID)"/>
 
-#### 0x90 (User ID)
+##### 6.3.2.1\. 0x90 (User ID)
 
 A total of 2 bytes, the ID set by the user.
 
@@ -453,7 +457,7 @@ Byte | Type | Size | Unit | Description
 
 <a name="0xA0(Acceleration)"/>
 
-#### 0xA0 (Acceleration)
+##### 6.3.2.2\. 0xA0 (Acceleration)
 
 A total of 7 bytes, LSB. Output the raw acceleration of the sensor
 
@@ -466,7 +470,7 @@ Byte | Type | Size | Unit | Description
 
 <a name="0xB0(Angularvelocity)"/>
 
-#### 0xB0 (Angular velocity)
+##### 6.3.2.3\. 0xB0 (Angular velocity)
 
 A total of 7 bytes, LSB. Output the raw angular velocity of the sensor
 
@@ -479,7 +483,7 @@ Byte | Type | Size | Unit | Description
 
 <a name="0xC0(MagneticFieldStrength)"/>
 
-#### 0xC0 (Magnetic Field Strength)
+##### 6.3.2.4\. 0xC0 (Magnetic Field Strength)
 
 A total of 7 bytes, LSB. Output the original magnetic field strength of the sensor
 
@@ -492,7 +496,7 @@ Byte | Type | Size | Unit | Description
 
 <a name="0xD0(EulerAngles)"/>
 
-#### 0xD0 (Euler Angles)
+##### 6.3.2.5\. 0xD0 (Euler Angles)
 
 A total of 7 bytes, LSB. The format is int16, a total of 3 values, each axis occupies 2 bytes, and the order is Pitch/Roll/Yaw. Roll, Pitch are the value obtained by multiplying the physical value by 100, and Yaw is the value obtained by multiplying it by 10.
 
@@ -507,7 +511,7 @@ Byte | Type | Size | Unit | Description
 
 <a name="0xD1(Quaternion)"/>
 
-#### 0xD1 (Quaternion)
+##### 6.3.2.6\. 0xD1 (Quaternion)
 
 A total of 17 bytes, LSB. The format is float, a total of 4 values, the order is: W X Y Z. Each value occupies 4 bytes (float), and the entire quaternion is 4 floats, LSB.
 
@@ -521,7 +525,7 @@ Byte | Type | Size | Unit | Description
 
 <a name="0xF0(AirPressure)"/>
 
-#### 0xF0 (Air Pressure)
+##### 6.3.2.7\. 0xF0 (Air Pressure)
 
 A total of 5 bytes, the format is float. (Only for products with air pressure sensor)
 
@@ -532,7 +536,7 @@ Byte | Type | Size | Unit | Description
 
 <a name="0x91IMUSOL(IMUdataset)"/>
 
-#### 0x91 IMUSOL (IMU data set)
+##### 6.3.2.8\. 0x91 IMUSOL (IMU data set)
 
 A total of 76 bytes, the newly added data packet is used to replace A0, B0, C0, D0, D1 and other data packets. Integrate the sensor raw output of the IMU and the attitude solution data.
 
@@ -550,7 +554,7 @@ Byte | Type | Size | Unit | Description
 
 <a name="Factorydefaultdatapackage"/>
 
-#### Factory default data package
+#### 6.3.3\. Factory default data package
 
 The factory default definition of packet data carried in a frame is as follows:
 
@@ -560,11 +564,11 @@ Hi229 | 0x91
 
 <a name="Exampleofdataframestructure"/>
 
-#### Example of data frame structure
+#### 6.3.4\. Example of data frame structure
 
 <a name="0x90"/>
 
-##### The data frame is configured as `0x90, 0xA0,0xB0,0xC0,0xD0, 0xF0` data packets
+##### 6.3.4.1\. The data frame is configured as `0x90, 0xA0,0xB0,0xC0,0xD0, 0xF0` data packets
 
 Use the serial port assistant to sample a frame of data, a total of 41 bytes, the first 6 bytes are the frame header, length and CRC check value. The remaining 35 bytes are data fields. Suppose the data is received into the C language array `buf` . As follows:
 
@@ -651,7 +655,7 @@ eul(R/P/Y) : 36.920 -34.840 44.300
 
 <a name="0x91"/>
 
-##### The data frame is configured as a `0x91` data packet
+##### 6.3.4.2\. The data frame is configured as a `0x91` data packet
 
 Use the serial port assistant to sample a frame of data, a total of 82 bytes, the first 6 bytes are the frame header, length and CRC check value. The remaining 76 bytes are data fields. Suppose the data is received into the C language array `buf`. As follows:
 
@@ -726,7 +730,7 @@ quat : 0.855 0.310 -0.310 -0.277
 
 <a name="ATcommand"/>
 
-### AT command
+### 6.4\. AT command
 
 When using the serial port to communicate with the module, the module supports AT command set configuration/view module parameters. AT commands always start with ASCII code, followed by control characters, and finally ends with a carriage return and a newline `\r\n`.
 
@@ -756,19 +760,19 @@ AT+SETYAW | Set the heading angle |
 
 <a name="AT+ID"/>
 
-#### AT+ID
+#### 6.4.1\. AT+ID
 Set the module user ID
 
 Example `AT+ID=1`
 
 <a name="AT+INFO"/>
 
-#### AT+INFO
+#### 6.4.2\. AT+INFO
 Print module information, including product model, version, firmware release date, etc.
 
 <a name="AT+ODR"/>
 
-#### AT+ODR
+#### 6.4.3\. AT+ODR
 Set the output rate of the module serial port. Power-off save, reset the module to take effect
 
 Example: Set the serial output rate to 100Hz: `AT+ODR=100`
@@ -777,7 +781,7 @@ Example: Set the serial output rate to 100Hz: `AT+ODR=100`
 
 <a name="AT+BAUD"/>
 
-#### AT+BAUD
+#### 6.4.4\. AT+BAUD
 Set the serial port baud rate, optional value: `9600/115200/460800/921600`
 
 Example `AT+BAUD=115200`
@@ -789,7 +793,7 @@ Example `AT+BAUD=115200`
 
 <a name="AT+EOUT"/>
 
-#### AT+EOUT
+#### 6.4.5\. AT+EOUT
 Serial output switch
 
 Example: 
@@ -798,21 +802,21 @@ Example:
 
 <a name="AT+RST"/>
 
-#### AT+RST
+#### 6.4.6\. AT+RST
 Reset module
 
 Example `AT+RST`
 
 <a name="AT+TRG"/>
 
-#### AT+TRG
+#### 6.4.7\. AT+TRG
 The trigger module outputs a frame of data, which can be used with AT+ODR=0 to achieve a single trigger output.
 
 Example `AT+TRG`
 
 <a name="AT+SETPTL"/>
 
-#### AT+SETPTL
+#### 6.4.8\. AT+SETPTL
 Set the output protocol:
 
 Set the data packets contained in a frame: the format is `AT+SETPTL=<ITEM_ID>,<ITEM_ID>...`
@@ -822,7 +826,7 @@ Configuration module output: acceleration (A0), angular velocity (B0), shaping f
 
 <a name="AT+MODE"/>
 
-#### AT+MODE
+#### 6.4.9\. AT+MODE
 Set the module working mode
 Example
 - Set the module to work in 6-axis mode (non-magnetic calibration) `AT+MODE=0`
@@ -830,7 +834,7 @@ Example
 
 <a name="AT+SETYAW"/>
 
-#### AT+SETYAW
+#### 6.4.10\. AT+SETYAW
 Set the heading angle, the format is AT+SETYAW=<MODE>,<VAL>
 Example
 - MODE=0 Absolute mode: Set the heading angle directly to the value of VAL. For example, `AT+SETYAW=0,90` will directly set the heading angle to 90°
@@ -838,13 +842,13 @@ Example
   
 <a name="AppendixA-EvaluationBoard"/>
   
-## Appendix A-Evaluation Board
+## 7\. Appendix A-Evaluation Board
 
 <p align="left"><img width="800", src="https://user-images.githubusercontent.com/60751518/163308421-d58fb959-dd0f-4f45-b071-01ac47b183ff.png"></p>
 
 <a name="IntroductiontoEvaluationBoard"/>
   
-### Introduction to Evaluation Board
+### 7.1\. Introduction to Evaluation Board
 
 Provide power supply + USB to serial port function, which is convenient for customers to quickly evaluate products.
 
@@ -852,7 +856,7 @@ The data package contains the CP2104 USB-UART driver. Connect the USB cable to t
 
 <a name="Removetheproductfromtheevaluationboard"/>
   
-### Remove the product from the evaluation board
+### 7.2\. Remove the product from the evaluation board
 
 The module is embedded in the PLCC28 slot of the evaluation board by default. To remove the module, please follow the steps below:
 
@@ -866,7 +870,7 @@ The module is embedded in the PLCC28 slot of the evaluation board by default. To
 
 <a name="AppendixB-FirmwareUpgradeandFactoryReset"/>
   
-## Appendix B-Firmware Upgrade and Factory Reset
+## 8\. Appendix B-Firmware Upgrade and Factory Reset
 
 This product supports upgrading firmware.
 Firmware upgrade steps:
@@ -877,7 +881,7 @@ Firmware upgrade steps:
 
 <a name="AppendixC-FAQ"/>
   
-## Appendix C-FAQ
+## 9\. Appendix C-FAQ
 
 FAQ content is updated at any time, see: [FAQ](https://zhuanlan.zhihu.com/p/344884686)
 
@@ -887,7 +891,7 @@ For new product information and technical support, please pay attention to the o
   
 <a name="VersionHistory"/>
   
-## Version History
+## 10\. Version History
 
 Version | Changes | Date
 --- | --- | ---
@@ -895,6 +899,6 @@ Version | Changes | Date
   
 <a name="References"/>
   
-## References
+## 11\. References
 
 [^1]: Hard/soft magnetic(https://zhuanlan.zhihu.com/p/98325286)
