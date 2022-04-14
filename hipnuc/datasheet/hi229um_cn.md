@@ -45,21 +45,24 @@
     - [Example of data frame structure](#Exampleofdataframestructure)
       - [The data frame is configured as 0x90,0xA0,0xB0,0xC0,0xD0,0xF0 packets](#0x90)
       - [The data frame is configured as 0x91 packets](#0x91)
-- AT command
-  - AT+ID
-  - AT+INFO
-  - AT+ODR
-  - AT+BAUD
-  - AT+EOUT
-  - AT+RST
-  - AT+SETYAW
-  - AT+MODE
-  - AT+SETPTL
-- Appendix A - Evaluation Board
-  - Introduction to the Evaluation Board
-  - Remove the product from the evaluation board
-- Appendix C - Firmware Upgrade and Factory Reset
-- Appendix D - FAQ
+  - [AT command](#ATcommand)
+    - [AT+ID](#AT+ID)
+    - [AT+INFO](#AT+INFO)
+    - [AT+ODR](#AT+ODR)
+    - [AT+BAUD](#AT+BAUD)
+    - [AT+EOUT](#AT+EOUT)
+    - [AT+RST](#AT+RST)
+    - [AT+TRG](#AT+TRG)
+    - [AT+SETPTL](#AT+SETPTL)
+    - [AT+MODE](#AT+MODE)
+    - [AT+SETYAW](#AT+SETYAW)
+- [Version History](#VersionHistory)
+- [References](#References)
+- [Appendix A - Evaluation Board](#AppendixA-EvaluationBoard)
+  - [Introduction to Evaluation Board](#IntroductiontoEvaluationBoard)
+  - [Remove the product from the evaluation board](#Removetheproductfromtheevaluationboard)
+- [Appendix B - Firmware Upgrade and Factory Reset](#AppendixB-FirmwareUpgradeandFactoryReset)
+- [Appendix C - FAQ](#AppendixC-FAQ)
 
 <a name="FunctionalOverview"/>
 
@@ -720,3 +723,176 @@ mag : 19.183 -26.208 -34.542
 eul(R/P/Y) : 48.720 -21.014 -45.512
 quat : 0.855 0.310 -0.310 -0.277
 ```
+
+<a name="ATcommand"/>
+
+### AT command
+
+When using the serial port to communicate with the module, the module supports AT command set configuration/view module parameters. AT commands always start with ASCII code, followed by control characters, and finally ends with a carriage return and a newline `\r\n`.
+
+Use the host computer to enter the AT command:
+
+<p align="left"><img width="400", src="https://user-images.githubusercontent.com/60751518/163299877-ee861325-7ddf-409f-b875-5f920f93f67e.png"></p>
+
+Use the serial port debugging assistant for testing：
+
+<p align="left"><img width="800", src="https://user-images.githubusercontent.com/60751518/163300108-8623dc40-8638-4daf-ae11-875a119fff7e.png"></p>
+
+The general module AT commands are as follows
+
+Commands | Description | Power-off save (Y) | Immediately effective (Y), reset effective (R) | Condition
+--- | --- | --- | --- | ---
+AT+ID | Set module user ID | Y | R
+AT+INFO | Print module information | N | Y
+AT+ODR | Set the output rate of the module serial port | Y | R
+AT+BAUD | Set the serial port baud rate | Y | R
+AT+EOUT | Serial output switch | N | Y
+AT+RST | Reset module | N | Y
+AT+TRG | Single output trigger | N | Y | Some models support
+AT+SETPTL | Set the output data packet | Y | Y | Some models support
+AT+MODE | Set module operating mode | Y | R | Some models support
+AT+SETYAW | Set the heading angle |
+~AT+GWID~ | Set the wireless gateway ID | Y | R | Some models support
+
+<a name="AT+ID"/>
+
+#### AT+ID
+Set the module user ID
+
+Example `AT+ID=1`
+
+<a name="AT+INFO"/>
+
+#### AT+INFO
+Print module information, including product model, version, firmware release date, etc.
+
+<a name="AT+ODR"/>
+
+#### AT+ODR
+Set the output rate of the module serial port. Power-off save, reset the module to take effect
+
+Example: Set the serial output rate to 100Hz: `AT+ODR=100`
+
+**Notice:** When the output frame rate is set relatively high (such as 200), the default 115200 baud rate may not meet the output bandwidth requirements. In this case, the module needs to be set to a high baud rate (such as 921600), that the module can output a high frame rate stably. The output frame rate can be 1, 2, 5, 10, 20, 50, 100, 200, 400Hz.
+
+<a name="AT+BAUD"/>
+
+#### AT+BAUD
+Set the serial port baud rate, optional value: `9600/115200/460800/921600`
+
+Example `AT+BAUD=115200`
+
+**Notice:** 
+- When using this command, special attention should be paid. Entering an incorrect baud rate will lead to failure to communicate with the module.
+- After setting the baud rate parameter, power off and save, and reset the module to take effect. The baud rate of the host computer should also be modified accordingly.
+- When upgrading the firmware, you need to switch back to 115200 baud rate.
+
+<a name="AT+EOUT"/>
+
+#### AT+EOUT
+Serial output switch
+
+Example: 
+- Open the serial port output `AT+EOUT=1` 
+- Close the serial port output `AT+EOUT=0`
+
+<a name="AT+RST"/>
+
+#### AT+RST
+Reset module
+
+Example `AT+RST`
+
+<a name="AT+TRG"/>
+
+#### AT+TRG
+The trigger module outputs a frame of data, which can be used with AT+ODR=0 to achieve a single trigger output.
+
+Example `AT+TRG`
+
+<a name="AT+SETPTL"/>
+
+#### AT+SETPTL
+Set the output protocol:
+
+Set the data packets contained in a frame: the format is `AT+SETPTL=<ITEM_ID>,<ITEM_ID>...`
+
+Example: Configuration module output: 91 data packets (IMUSOL) `AT+SETPTL=91`
+Configuration module output: acceleration (A0), angular velocity (B0), shaping format Euler angle (D0) and quaternion (D1) `AT+SETPTL=A0,B0,D0,D1`
+
+<a name="AT+MODE"/>
+
+#### AT+MODE
+Set the module working mode
+Example
+- Set the module to work in 6-axis mode (non-magnetic calibration) `AT+MODE=0`
+- Set the module to work in 9-axis mode (magnetic field sensor participates in heading angle correction) `AT+MODE=1`
+
+<a name="AT+SETYAW"/>
+
+#### AT+SETYAW
+Set the heading angle, the format is AT+SETYAW=<MODE>,<VAL>
+Example
+- MODE=0 Absolute mode: Set the heading angle directly to the value of VAL. For example, `AT+SETYAW=0,90` will directly set the heading angle to 90°
+- MODE=1 Relative mode: Increment the original heading angle by VAL value. For example, `AT+SETYAW=1, -10.5` will increase the heading angle by -10.5°. If the original is 30°, the heading angle will become 19.5° after sending the command.
+  
+<a name="VersionHistory"/>
+  
+## Version History
+
+Version | Changes | Date
+--- | --- | ---
+1.0 | translate into English | April 14, 2022
+  
+<a name="References"/>
+  
+## References
+
+<a name="AppendixA-EvaluationBoard"/>
+  
+## Appendix A - Evaluation Board
+
+<p align="left"><img width="800", src="https://user-images.githubusercontent.com/60751518/163308421-d58fb959-dd0f-4f45-b071-01ac47b183ff.png"></p>
+
+<a name="IntroductiontoEvaluationBoard"/>
+  
+### Introduction to Evaluation Board
+
+Provide power supply + USB to serial port function, which is convenient for customers to quickly evaluate products.
+
+The data package contains the CP2104 USB-UART driver. Connect the USB cable to the computer and the module, open the host computer in the data package, and connect the serial port. By default, the module will output the factory default data packet at 115200 baud rate.
+
+<a name="Removetheproductfromtheevaluationboard"/>
+  
+### Remove the product from the evaluation board
+
+The module is embedded in the PLCC28 slot of the evaluation board by default. To remove the module, please follow the steps below:
+
+- Power off, prepare a fine screwdriver or tweezers
+- Pry the module from the PLCC socket or eject the circular hole on the back. 
+
+**Notice:**
+
+- The evaluation board is for quick verification and evaluation of module performance. It does not have any other calculation functions. 
+- The USB interface is not suitable for industrial-grade scenarios or high-motion environments. If your application is a high-motion environment (motion capture, etc.), it is not recommended to use the evaluation board directly in your product.
+
+<a name="AppendixB-FirmwareUpgradeandFactoryReset"/>
+  
+## Appendix B - Firmware Upgrade and Factory Reset
+
+This product supports upgrading firmware.
+Firmware upgrade steps:
+- Connect the module, turn on the host computer, and set the baud rate of both the module and the host computer to 115200.  Open the firmware upgrade window
+- Click the Connect button, if the module connection information appears. It means that the upgrade system is ready, click the file selector (…) to select the firmware with the extension .hex, and then click to start programming. After the download is complete,  the programming will be prompted to complete. At this time, close the serial port, power on the module again, and the module upgrade is complete.
+
+<p align="left"><img width="800", src="https://user-images.githubusercontent.com/60751518/163308619-c866aa05-0239-4b7c-bb3a-b671b559e542.png"></p>
+
+<a name="AppendixC-FAQ"/>
+  
+## Appendix C-FAQ
+
+FAQ content is updated at any time, see: [FAQ](https://zhuanlan.zhihu.com/p/344884686)
+
+For new product information and technical support, please pay attention to the official account of HiPNUC:
+
+<p align="left"><img width="300", src="https://raw.githubusercontent.com/hipnuc/products/master/img/qrcode_for_gh_1d8b6b51409d_258.jpg"></p>
