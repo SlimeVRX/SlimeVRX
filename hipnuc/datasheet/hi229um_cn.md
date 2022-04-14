@@ -56,13 +56,13 @@
     - [AT+SETPTL](#AT+SETPTL)
     - [AT+MODE](#AT+MODE)
     - [AT+SETYAW](#AT+SETYAW)
-- [Version History](#VersionHistory)
-- [References](#References)
 - [Appendix A-Evaluation Board](#AppendixA-EvaluationBoard)
   - [Introduction to Evaluation Board](#IntroductiontoEvaluationBoard)
   - [Remove the product from the evaluation board](#Removetheproductfromtheevaluationboard)
 - [Appendix B-Firmware Upgrade and Factory Reset](#AppendixB-FirmwareUpgradeandFactoryReset)
 - [Appendix C-FAQ](#AppendixC-FAQ)
+- [Version History](#VersionHistory)
+- [References](#References)
 
 <a name="FunctionalOverview"/>
 
@@ -250,7 +250,7 @@ Just care about `fiterr`: 0.03 or less indicates that the calibration result is 
 Mode | Description | Typical Interference Source | Influence | Precaution
 --- | --- | --- | --- | ---
 Spatial magnetic field interference (Distortions that do not move with sensor). | The interference does not move with the sensor movement, but is in the world coordinate system. | Various fixed sources of magnetic field interference, furniture, household appliances, cables, reinforced structures in houses, etc. All sources of interference that do not move with the movement of the magnetic sensor. | Regardless of whether the magnetic field sensor is well calibrated or not, the interference of these spatial magnetic fields (or the non-uniformity of the environmental magnetic field) will distort the spatial magnetic field. Magnetic compensation will be wrong and the correct heading angle will not be obtained. They are the main culprit that makes indoor magnetic fusion difficult to use. This interference cannot be calibrated and will seriously affect the magnetic properties. Spatial magnetic field interference is especially serious indoors. | Can only try to avoid this source of interference.
-Interference in the sensor coordinate system (Distortions that move with sensor). | The interference source moves with sensor movement. | Module PCB, boards fixed together with modules, instruments, products, etc. They are regarded as the same rigid body as the magnetic sensor and move with the movement of the magnetic sensor. | Causes hard/soft magnetic interference to the sensor [Link](https://zhuanlan.zhihu.com/p/98325286). These disturbances can be well eliminated by the magnetic field calibration algorithm. | Module automatic magnetic field calibration.
+Interference in the sensor coordinate system (Distortions that move with sensor). | The interference source moves with sensor movement. | Module PCB, boards fixed together with modules, instruments, products, etc. They are regarded as the same rigid body as the magnetic sensor and move with the movement of the magnetic sensor. | Causes hard/soft magnetic interference to the sensor [^1]. These disturbances can be well eliminated by the magnetic field calibration algorithm. | Module automatic magnetic field calibration.
 
 <p align="left"><img width="500", src="https://user-images.githubusercontent.com/60751518/162626362-8ef1d2fd-8254-4dc4-b104-308d4c29741d.png"></p>
 
@@ -836,20 +836,6 @@ Example
 - MODE=0 Absolute mode: Set the heading angle directly to the value of VAL. For example, `AT+SETYAW=0,90` will directly set the heading angle to 90°
 - MODE=1 Relative mode: Increment the original heading angle by VAL value. For example, `AT+SETYAW=1, -10.5` will increase the heading angle by -10.5°. If the original is 30°, the heading angle will become 19.5° after sending the command.
   
-<a name="VersionHistory"/>
-  
-## Version History
-
-Version | Changes | Date
---- | --- | ---
-1.0 | translate into English | April 14, 2022
-  
-<a name="References"/>
-  
-## References
-
-1. Hard/soft magnetic(https://zhuanlan.zhihu.com/p/98325286)
-
 <a name="AppendixA-EvaluationBoard"/>
   
 ## Appendix A-Evaluation Board
@@ -898,3 +884,17 @@ FAQ content is updated at any time, see: [FAQ](https://zhuanlan.zhihu.com/p/3448
 For new product information and technical support, please pay attention to the official account of HiPNUC:
 
 <p align="left"><img width="300", src="https://raw.githubusercontent.com/hipnuc/products/master/img/qrcode_for_gh_1d8b6b51409d_258.jpg"></p>
+  
+<a name="VersionHistory"/>
+  
+## Version History
+
+Version | Changes | Date
+--- | --- | ---
+1.0 | translate into English | April 14, 2022
+  
+<a name="References"/>
+  
+## References
+
+[^1]: Hard/soft magnetic(https://zhuanlan.zhihu.com/p/98325286)
