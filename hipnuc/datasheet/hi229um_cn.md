@@ -4,10 +4,6 @@
 
 <p align="left"><img width="400", src="https://user-images.githubusercontent.com/60751518/162100908-e1a732ac-b3e2-40f8-a385-436e349fcdae.png"></p>
 
-<!-- !numberedheadings (level=4 minlevel=2 skip=1) -->
-
-<!-- !toc (level=4 minlevel=2 omit="Table of Contents") -->
-
 * [1\. Functional Overview](#FunctionalOverview)
   * [1.1\. Key features](#Keyfeatures)
   * [1.2\. Key features of integrated sensors](#Keyfeaturesofintegratedsensors)
