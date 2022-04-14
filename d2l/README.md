@@ -6,7 +6,7 @@
     * [6.3.1\. Serial data frame structure](#Serialdataframestructure)
       * [6.3.2.1\. 0x90 (User ID)](#0x90(UserID))
 
-- Giới thiệu từ nhóm dịch
+- [Giới thiệu từ nhóm dịch](00.gioithieutunhomdich.md)
 - Lời nói đầu
 - Cài đặt
 - Ký hiệu
