@@ -58,11 +58,11 @@
     - [AT+SETYAW](#AT+SETYAW)
 - [Version History](#VersionHistory)
 - [References](#References)
-- [Appendix A - Evaluation Board](#AppendixA-EvaluationBoard)
+- [Appendix A-Evaluation Board](#AppendixA-EvaluationBoard)
   - [Introduction to Evaluation Board](#IntroductiontoEvaluationBoard)
   - [Remove the product from the evaluation board](#Removetheproductfromtheevaluationboard)
-- [Appendix B - Firmware Upgrade and Factory Reset](#AppendixB-FirmwareUpgradeandFactoryReset)
-- [Appendix C - FAQ](#AppendixC-FAQ)
+- [Appendix B-Firmware Upgrade and Factory Reset](#AppendixB-FirmwareUpgradeandFactoryReset)
+- [Appendix C-FAQ](#AppendixC-FAQ)
 
 <a name="FunctionalOverview"/>
 
@@ -848,9 +848,11 @@ Version | Changes | Date
   
 ## References
 
+1. Hard/soft magnetic(https://zhuanlan.zhihu.com/p/98325286)
+
 <a name="AppendixA-EvaluationBoard"/>
   
-## Appendix A - Evaluation Board
+## Appendix A-Evaluation Board
 
 <p align="left"><img width="800", src="https://user-images.githubusercontent.com/60751518/163308421-d58fb959-dd0f-4f45-b071-01ac47b183ff.png"></p>
 
@@ -878,7 +880,7 @@ The module is embedded in the PLCC28 slot of the evaluation board by default. To
 
 <a name="AppendixB-FirmwareUpgradeandFactoryReset"/>
   
-## Appendix B - Firmware Upgrade and Factory Reset
+## Appendix B-Firmware Upgrade and Factory Reset
 
 This product supports upgrading firmware.
 Firmware upgrade steps:
