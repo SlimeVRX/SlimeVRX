@@ -2,6 +2,7 @@
 Đắm mình vào học sâu
 
 - [Giới thiệu từ nhóm dịch](00.0.gioithieutunhomdich.md)
+- [Lời nói đầu](00.1.loinoidau.md)
 * [8\. Mạng Nơ-ron Hồi tiếp]
   * [8.1\. Mô hình chuỗi]
   * [8.2\. Tiền Xử lý Dữ liệu Văn bản]
