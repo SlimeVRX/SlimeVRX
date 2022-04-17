@@ -14,7 +14,7 @@
   * [1.8\. Bài tập](01.0.gioithieu.md#18-bài-tập)
   * [1.9\. Thảo luận](01.0.gioithieu.md#19-thảo-luận)
   * [1.10\. Những người thực hiện](01.0.gioithieu.md#110-những-người-thực-hiện)
-* [2\. Sơ bộ]
+* [2\. Sơ bộ](02.0.sobo.md)
   * [2.1\. Thao tác với Dữ liệu]
   * [2.2\. Tiền xử lý dữ liệu]
   * [2.3\. Đại số tuyến tính]
