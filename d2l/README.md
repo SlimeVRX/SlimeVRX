@@ -17,7 +17,7 @@
 * [2\. Sơ bộ](02.0.sobo.md)
   * [2.1\. Thao tác với Dữ liệu](02.1.thaotacvoidulieu.md)
   * [2.2\. Tiền xử lý dữ liệu](02.2.tienxulydulieu.md)
-  * [2.3\. Đại số tuyến tính]
+  * [2.3\. Đại số tuyến tính](02.3.daisotuyentinh.md)
   * [2.4\. Giải tích]
   * [2.5\. Tính vi phân Tự động]
   * [2.6\. Xác suất]
