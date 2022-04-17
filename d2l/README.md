@@ -16,7 +16,7 @@
   * [1.10\. Những người thực hiện](01.0.gioithieu.md#110-những-người-thực-hiện)
 * [2\. Sơ bộ](02.0.sobo.md)
   * [2.1\. Thao tác với Dữ liệu](02.1.thaotacvoidulieu.md)
-  * [2.2\. Tiền xử lý dữ liệu]
+  * [2.2\. Tiền xử lý dữ liệu](02.2.tienxulydulieu.md)
   * [2.3\. Đại số tuyến tính]
   * [2.4\. Giải tích]
   * [2.5\. Tính vi phân Tự động]
