@@ -77,7 +77,6 @@ Key features | Description
 Outputs fused sensor data | Quaternion, Euler angles, Linear acceleration, Angular velocity, Magnetic field, ~~Gravity, Heading~~
 3 sensors in one device | A triaxial 16-bit gyroscope, a triaxial 12-bit accelerometer, a triaxial geomagnetic sensor, and a 32-bit ARM® Cortex™-M4 microcontroller
 Small package | Footprint 12 x 12 mm², Height 2.6 mm
-~~Power Management~~ | ~~Intelligent Power Management: normal, low power and suspend mode available~~
 Digital interface | UART (TTL 1.8V - 5.0V), USB (with USB evaluation board)
 Voltage supplies | VDD voltage range: 3.3V (± 100mV)
 Power consumption | 86mW @3.3V
@@ -817,8 +816,9 @@ Set the output protocol:
 
 Set the data packets contained in a frame: the format is `AT+SETPTL=<ITEM_ID>,<ITEM_ID>...`
 
-Example: Configuration module output: 91 data packets (IMUSOL) `AT+SETPTL=91`
-Configuration module output: acceleration (A0), angular velocity (B0), shaping format Euler angle (D0) and quaternion (D1) `AT+SETPTL=A0,B0,D0,D1`
+Example
+- Configuration module output: 91 data packets (IMUSOL) `AT+SETPTL=91`
+- Configuration module output: acceleration (A0), angular velocity (B0), shaping format Euler angle (D0) and quaternion (D1) `AT+SETPTL=A0,B0,D0,D1`
 
 <a name="AT+MODE"/>
 
