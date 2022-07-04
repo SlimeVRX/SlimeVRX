@@ -4,8 +4,16 @@ Mục tiêu là ước tính cơ thể người từ cảm biến quán tính ch
 
 ![image](https://user-images.githubusercontent.com/99313947/177080878-94779625-96d5-4c1e-932d-d92f5cefaff5.png)
 
+[So sánh IMU](https://docs.slimevr.dev/diy/imu-comparison.html)
+- BNO085
+- BNO055
+- MPU6050
+- MPU6500
+- MPU9250
+- ICM20948
+- BMI160
+- Hi229 xin tài trợ từ HiPNUC
+
 Thực hiện: Tái tạo lại kết quả của bài báo Transpose.
-
-
 
 - (2017) [(ARXIV)](https://arxiv.org/abs/1703.08014) Sparse Inertial Poser: Automatic 3D Human Pose Estimation from Sparse IMU
