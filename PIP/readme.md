@@ -17,3 +17,5 @@ Mục tiêu là ước tính cơ thể người từ cảm biến quán tính ch
 Thực hiện: Tái tạo lại kết quả của bài báo Transpose.
 
 - (2017) [(ARXIV)](https://arxiv.org/abs/1703.08014) Sparse Inertial Poser: Automatic 3D Human Pose Estimation from Sparse IMU
+
+SMPL
