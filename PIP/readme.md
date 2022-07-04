@@ -18,6 +18,7 @@ Công việc thực hiện: Tái tạo lại kết quả của bài báo Transpo
 - Sử dụng cảm biến MPU6050A + ESP8266
 - Sử dụng cảm biến Hi229
 
-- (2017) [(ARXIV)](https://arxiv.org/abs/1703.08014) Sparse Inertial Poser: Automatic 3D Human Pose Estimation from Sparse IMU
+| Paper | Link |
+| --- | --- |
+| (2017) [(ARXIV)](https://arxiv.org/abs/1703.08014) Sparse Inertial Poser: Automatic 3D Human Pose Estimation from Sparse IMU | file:///C:/Users/thanh/Downloads/html/1703.08014.html |
 
-SMPL
