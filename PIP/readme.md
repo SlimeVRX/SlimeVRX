@@ -14,7 +14,9 @@ Mục tiêu là ước tính cơ thể người từ cảm biến quán tính ch
 - BMI160
 - Hi229 xin tài trợ từ HiPNUC
 
-Thực hiện: Tái tạo lại kết quả của bài báo Transpose.
+Công việc thực hiện: Tái tạo lại kết quả của bài báo Transpose.
+- Sử dụng cảm biến MPU6050A + ESP8266
+- Sử dụng cảm biến Hi229
 
 - (2017) [(ARXIV)](https://arxiv.org/abs/1703.08014) Sparse Inertial Poser: Automatic 3D Human Pose Estimation from Sparse IMU
 
