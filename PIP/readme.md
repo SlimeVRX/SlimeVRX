@@ -2,6 +2,8 @@
 
 Mục tiêu là ước tính cơ thể người từ 6 cảm biến quán tính chi phí thấp. Ứng dụng full body tracking trong VRChat. Đối tượng so sánh SlimeVR [Crowsupply](https://www.crowdsupply.com/slimevr/slimevr-full-body-tracker) kêu gọi 1.000.000 USD
 
+Các phương pháp trước đây sử dụng một số lượng lớn cảm biến, hoặc đầu vào video bổ sung. Chúng tôi thực hiện một cách tiếp cận khác và hạn chế vấn đề bằng cách: (i) sử dụng mô hình cơ thể thống kê thực tế bao gồm các ràng buộc nhân trắc học và (ii) sử dụng khung tối ưu hóa chung để phù hợp với mô hình để định hướng và đo gia tốc trên nhiều khung hình. Trình theo dõi kết quả là Sparse Inertial Poser (SIP) cho phép ước tính tư thế con người 3D chỉ sử dụng 6 cảm biến (gắn vào cổ tay, chân dưới, lưng và đầu) và hoạt động cho các chuyển động tùy ý của con người.
+
 ![image](https://user-images.githubusercontent.com/99313947/177080878-94779625-96d5-4c1e-932d-d92f5cefaff5.png)
 
 [So sánh IMU](https://docs.slimevr.dev/diy/imu-comparison.html)
