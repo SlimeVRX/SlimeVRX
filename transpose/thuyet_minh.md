@@ -57,7 +57,7 @@ Chúng tôi lấy số đo vòng quay và gia tốc của mỗi IMU làm đầu 
 
 ### 3.2\. Convert Local - Global:
 
-![image](https://user-images.githubusercontent.com/99313947/178130703-0006b8e1-7d59-4edb-92d6-a7e38901d905.png)
+![image](https://user-images.githubusercontent.com/99313947/178130727-5ea3a0ac-a583-45b6-8d80-46c79b8b7e9d.png)
 
 ### 3.3\. Convert Pytorch - ONNX:
 
