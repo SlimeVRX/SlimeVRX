@@ -1,8 +1,14 @@
 # Ước tính cơ thể người từ 6 cảm biến quán tính chi phí thấp trong thời gian thực
 
-## 1\. Tóm tắt:
+## ABSTRACT:
 
 Khả năng chụp chuyển động từ các cảm biến quán tính đã cho thấy tiềm năng lớn so với các phương pháp tiếp cận dựa trên hình ảnh vì không gặp phải những khó khăn như không gian chuyển động phạm vi rộng và tắc nghẽn do các bộ phận cơ thể người bị che khuất. Các phương pháp hiện đại gần đây hầu hết sử dụng các cảm biến quán tính chuyên dụng của Xsens và Noitom, rất đắt tiền, làm cho việc triển khai thực tế rất khó khăn và khó phổ biến. Việc nắm bắt chuyển động và vị trí toàn cầu chỉ từ một bộ cảm biến quán tính chi phí thấp và chạy nó theo thời gian thực trên CPU là một thách thức. Để đạt được mục đích này, chúng tôi trình bày để tái tạo kết quả của bài báo Transpose bằng cách sử dụng 6 cảm biến quán tính Hi229 chi phí thấp và tối ưu hóa mô hình mạng nơ-ron cho CPU để đạt được 24 FPS trong thời gian thực. Các thí nghiệm chứng minh rằng các cảm biến quán tính chi phí thấp có thể được sử dụng để ghi lại chuyển động với độ chính xác và ổn định theo thời gian.
 
 Keywords: IMU, Pose Estimation, Inverse Kinematics, Real-time, Low-cost
+
+## 1\. Introduction:
+
+### 1.1\ Background:
+
+
 
