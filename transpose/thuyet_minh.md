@@ -24,7 +24,7 @@ Các nghiên cứu SOTA gần đây hầu hết sử dụng các cảm biến qu
 
 Mục tiêu của nghiên cứu này là triển khai lại kết quả bài báo Transpose bằng cách sử dụng cảm biến quán tính chi phí thấp và yêu cầu cấu hình máy chỉ cần CPU. Đáng chú ý, luận án này đề xuất cách chuyển đổi hệ tọa độ từ hệ tọa độ local của từng cảm biến thành hệ tọa độ global liên hệ tất cả các cảm biến. Bên cạch đó luận án này đóng góp chuyển đổi framework neuralnetwork nghiên cứu Python sang framework ONNX chuyên cho việc tối ưu cho triển khai.
 
-### 1.4\. Organization Tổ chức
+### 1.4\. Organization: Tổ chức
 
 Bài viết này được cấu trúc như sau. Chương 2 giới thiệu các nghiên cứu tài liệu liên quan đến luận án. Chương 3 trình bày chi tiết các chiến lược của chúng tôi, bao gồm kiến trúc mô phỏng tùy chỉnh và phương pháp giảng dạy. Chương 4 trình bày việc thực hiện thiết kế và các thí nghiệm. Chương 5 kết thúc luận án và đề xuất công việc trong tương lai
 
