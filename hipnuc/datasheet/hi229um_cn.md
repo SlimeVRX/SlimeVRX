@@ -12,7 +12,7 @@
   * [1.5\. Hi229 Connectivity](#Hi229Connectivity)
     * [1.5.1\. Pin Descriptions](#PinDescriptions)
 * [2\. Performance Characteristics](#PerformanceCharacteristics)
-  * [2.1\. Attitude angle](#Attitudeangle)
+  * [2.1\. Attitude angle accuracy](#Attitudeangle)
   * [2.2\. Accelerometer](#Accelerometer)
   * [2.3\. Gyroscope](#Gyroscope)
   * [2.4\. Magnetometer](#Magnetometer)
@@ -147,7 +147,7 @@ Pin Number | Name | Description
 
 <a name="Attitudeangle"/>
 
-### 2.1\. Attitude angle
+### 2.1\. Attitude angle accuracy
 
 Parameter | Value
 --- | ---
