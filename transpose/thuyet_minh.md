@@ -46,9 +46,14 @@ Tuy nhiên, tất cả các tác phẩm này đều có độ trễ không đán
 
 ## 3\. Method: Phương pháp
 
-Nhiệm vụ của chúng tôi là ước tính các tư thế và bản dịch của chủ đề trong thời gian thực bằng cách sử dụng 6 IMU. Như được hiển thị trong Hình 3, 6 IMU được gắn trên xương chậu, chân dưới bên trái và bên phải, cẳng tay trái và phải và đầu. Sau đây, chúng tôi đề cập đến các khớp nối này ngoại trừ xương chậu, được đặt tên là khớp gốc. Chúng tôi chia nhiệm vụ này thành hai nhiệm vụ: 
-
-Chuyển đổi hệ tọa độ từ hệ tọa độ local của từng cảm biến thành hệ tọa độ global liên hệ tất cả các cảm biến (Phần 3.1) và chuyển đổi framework neuralnetwork nghiên cứu Python sang framework ONNX chuyên cho việc tối ưu cho triển khai (Phần 3.2).
+Nhiệm vụ của chúng tôi là ước tính các tư thế và bản dịch của chủ đề trong thời gian thực bằng cách sử dụng 6 IMU. Như được hiển thị trong Hình 3, 6 IMU được gắn trên xương chậu, chân dưới bên trái và bên phải, cẳng tay trái và phải và đầu. Sau đây, chúng tôi đề cập đến các khớp nối này ngoại trừ xương chậu, được đặt tên là khớp gốc. Chúng tôi chia nhiệm vụ này thành hai nhiệm vụ: Chuyển đổi hệ tọa độ từ hệ tọa độ local của từng cảm biến thành hệ tọa độ global liên hệ tất cả các cảm biến (Phần 3.2) và chuyển đổi framework neuralnetwork nghiên cứu Python sang framework ONNX chuyên cho việc tối ưu cho triển khai (Phần 3.3).
 
 ![image](https://user-images.githubusercontent.com/99313947/178130401-fe8f0574-9933-4405-8f33-716dbce70e4a.png)
 Hình 3. Vị trí IMU. 6 IMU được gắn trên cẳng tay trái và phải, cẳng chân trái và phải, đầu và xương chậu. Chúng tôi yêu cầu các cảm biến được kết dính chặt chẽ xung quanh các khớp với các hướng tùy ý.
+
+### 3.1\. System Input: Đầu vào hệ thống
+
+Chúng tôi lấy số đo vòng quay và gia tốc của mỗi IMU làm đầu vào tổng thể của hệ thống. Chúng tôi sắp xếp các phép đo này vào cùng một hệ quy chiếu và chuẩn hóa chúng để thu được vectơ đầu vào nối liền là 𝒙 (0) = [Rroot, · · ·, Rrarm, Rroot, · · ·, Rrarm] ∈ R 72 trong đó 𝒂 ∈ R 3 là gia tốc và 𝑹 ∈ R 3 × 3 là ma trận quay. Chúng tôi sử dụng 𝒙 (0) (𝑡) để chỉ các phép đo của khung thứ 𝑡 và chỉ số trên (0) có nghĩa là nó là đầu vào tổng thể. Vui lòng tham khảo Phụ lục A để biết thêm chi tiết về tiền xử lý cảm biến.
+
+### 3.2\. Convert Local - Global:
+
