@@ -1,6 +1,6 @@
 # Key
-vision - thị giác máy tính
-occlusion - tắc nghẽn
+- vision - thị giác máy tính
+- occlusion - tắc nghẽn
 
 # Ước tính cơ thể người từ 6 cảm biến quán tính chi phí thấp trong thời gian thực
 
