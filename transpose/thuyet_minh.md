@@ -72,5 +72,5 @@ Chúng tôi lấy số đo vòng quay và gia tốc của mỗi IMU làm đầu 
 
 ![image](https://user-images.githubusercontent.com/99313947/178130684-6cc7fc80-11de-4426-b7db-3b272c8770e8.png)
 
-
+b
 
