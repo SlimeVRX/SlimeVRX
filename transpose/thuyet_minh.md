@@ -153,7 +153,7 @@ Bên cạnh việc nghiên cứu ra các mô hình học sâu ngày càng chính
 
 ONNX là viết tắt của Open Neural Network Exchange, là một công cụ đóng vai trò như một trung gian hỗ trợ chuyển đổi mô hình học máy từ các framework khác nhau về dạng ONNX cung cấp nhờ đó giúp chúng ta chuyển đổi dễ dàng giữa các framework khác nhau. ONNX hỗ trợ chuyển đổi giữa nhiều framework phổ biến hiện nay như Keras, Tensorfow, Scikit-learn, Pytorch và XGBoost.
 
-Vậy ONNX có bí quyết gì để thực hiện điều đó:
+Vậy ONNX cung cấp:
 
 - Cung cấp đồ thị biểu diễn chuẩn: Mỗi framework khác nhau sẽ có đồ thị biểu diễn tính toán khác nhau. ONNX cung cấp một đồ thị chuẩn được biểu diễn bằng nhiều nút tính toán có thể biểu diễn đồ thị của tất cả framework.
 - Cung cấp kiểu dữ liệu chuẩn: ONNX cung cấp các kiểu dữ liệu chuẩn bao gồm int8,int16, float16, ...
@@ -259,3 +259,8 @@ torch.onnx.export(
     }
 )
 ```
+Sử dụng phần mềm Netron để xem mạng nơ-ron sau khi chuyển đổi
+- Trước 
+![weights](https://user-images.githubusercontent.com/99313947/178601341-d55ac6e7-51be-4c0b-9483-f19a654ed2d7.png)
+- Sau
+![model_11](https://user-images.githubusercontent.com/99313947/178601331-9a28c136-390c-42e0-862a-5262c89b5d81.png)
