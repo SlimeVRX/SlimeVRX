@@ -62,11 +62,88 @@ Bài viết này được cấu trúc như sau. Chương 2 giới thiệu các n
 
 ![image](https://user-images.githubusercontent.com/99313947/178130727-5ea3a0ac-a583-45b6-8d80-46c79b8b7e9d.png)
 
-### 3\. Convert Local - Global: Chuyển đội hệ tọa độ cảm biến quán tính IMU
+## 3\. Chuyển đổi hệ tọa độ cảm biến quán tính IMU
+
+Vì mỗi cảm biến quán tính có hệ tọa độ riêng, nên trước tiên chúng ta cần chuyển đổi các phép đo quán tính thô thành cùng một hệ quy chiếu, được gọi là Hiệu chuẩn - calibration, và sau đó biến đổi quán tính khớp lá - leaf joint về không gian của khớp gốc - root và thay đổi tỉ lệ thành kích thước phù hợp cho đầu vào mạng Neural Network, được gọi là Chuẩn hóa - normalization. Các cảm biến có thể được đặt với các góc quay tùy ý trong quá trình thiết lập và phương pháp của chúng tôi tự động tính toán các ma trận chuyển tiếp cho từng cảm biến trước khi ghi lại chuyển động. Quá trình này yêu cầu đối tượng giữ tư thế chữ T trong vài giây. Trong phần này, chúng tôi giải thích chi tiết về tiền xử lý cảm biến trong phương pháp của chúng tôi, bao gồm các công việc Hiệu chuẩn [Phần A.1] và Chuẩn hóa [Phần A.2]
+
+### 3.1\. Hiệu chuẩn:
 
 ![image](https://user-images.githubusercontent.com/99313947/178522537-1677cddd-e524-4dec-8fa6-d66794033109.png)
 
+Quy ước:
+-	V: hệ mô phỏng SMPL (Virtual)
+-	S: hệ khớp xương (Arm)
+-	I: hệ cảm biến (IMU)
+-	E: hệ trục trái đất (Global)
+-	M: ma trận xoay (Rotation matrix)
 
+Do vị trí và trạng thái của cảm biến lúc đặt lên người là ở trạng thái tự do nên sẽ không có một cơ sở nào để mô hình có thể hiểu được các giá trị của mô hình nên ta cần phải canh chỉnh lại cũng như chuyển đổi giá trị trong hệ trục trái đất sang hệ trục dùng trong mô phỏng. Giả dữ liệu thí nghiệm, ta nhận thấy rằng cảm biến gắn trên một khớp xương nào đó sẽ tạo ra một góc quay cố định. Và sự quay trên cảm biến cũng kéo theo sự quay trên khớp xương. Từ đó tìm ra sự phụ thuộc của góc quay đó tìm góc quay của khớp xương trong hệ mô phỏng.
+
+Trước khi chụp chuyển động, trước tiên chúng tôi đặt một IMU với các trục của khung tọa độ cảm biến của nó căn chỉnh với các trục tương ứng của khung tọa độ SMPL, tức là đặt IMU với X - trục bên trái, Y - trục lên trên và Z - trục về phía trước trong thế giới thực. Trong hệ trục trái đất trục X hướng về phía Bắc, trục Y hướng về phía Tây và trục Z hướng lên. Do hệ trục mô phỏng SMPL không trùng với hệ trục trái đất nên ta có ma trận xoay từ trái đất sang mô phỏng SMPL:
+
+![image](https://user-images.githubusercontent.com/99313947/178567904-9b5f5ab5-6cfa-401d-813c-c3ae41ff6d1d.png)
+
+Một vector trong khớp xương có thể được thể hiện bằng một vector khác trong hệ mô phỏng bằng cách nhân với ma trận xoay của khớp xương ở phía trước.
+
+![image](https://user-images.githubusercontent.com/99313947/178571166-6c1ff95b-ac03-4bf7-9b29-335fbd990479.png) (1)
+
+Tiếp theo, chúng tôi đặt từng IMU lên phần cơ thể tương ứng với các hướng tùy ý và giữ yên ở tư thế chữ T trong vài giây.
+Chúng tôi đọc các phép đo IMU và tính toán gia tốc trung bình và định hướng của mỗi cảm biến. Ta có các ma trận xoay của cảm biến được tính ra từ các giá trị Quaternion trên cảm biến:
+
+![image](https://user-images.githubusercontent.com/99313947/178567330-60e4fd36-5be7-463f-a799-f89d98abcf66.png)
+
+Cảm biến với khớp xương có một góc quay với ma trận xoay cố định ![image](https://user-images.githubusercontent.com/99313947/178572002-df961eef-6094-44c7-80f1-79a1cd3815a5.png) nên khi ở một tư thế bất kì thì vector trong khung xương có thể được tính từ vector của cảm biến với. Giả định rằng các góc giữa cảm biến và xương là hằng số. 
+
+![image](https://user-images.githubusercontent.com/99313947/178572199-761748d6-a077-40ec-b7bc-6f08b548f5d3.png) (2)
+
+Ở tư thế chữ T thì vector trong khớp xương trùng với vector trong hệ mô phỏng nên ta có:
+
+![image](https://user-images.githubusercontent.com/99313947/178572292-94e109a5-6a2b-401c-b3dc-c18ab8976cfd.png) (3)
+
+Để chuyển đổi từ hệ trái đất sang hệ mô phỏng ta dùng công thức:
+
+![image](https://user-images.githubusercontent.com/99313947/178572460-6c1e268d-452f-43e1-85ed-fe7edd17635a.png) (4)
+
+Trong hệ trục trái đất, vector có thể được tính từ vector của cảm biến với góc quay của nó.
+
+![image](https://user-images.githubusercontent.com/99313947/178572525-e5bcdb5c-60d7-4485-b208-90a67c5700cb.png) (5)
+
+Từ (3) và (4) ta có:
+
+![image](https://user-images.githubusercontent.com/99313947/178572578-b1a144b3-1fd6-41ca-b7fc-4bc33d1b326c.png) (6)
+
+Từ (5) và (6) ta có:
+
+![image](https://user-images.githubusercontent.com/99313947/178572659-ec5d7d8a-5f2f-4893-9561-d305cf9947c7.png) (7)
+
+Từ (2) và (7) ta có:
+
+![image](https://user-images.githubusercontent.com/99313947/178572710-f95b1a25-f14b-4bb9-86ea-8052291bee54.png) (8)
+
+Từ (1), (4) và (5) ta có:
+
+![image](https://user-images.githubusercontent.com/99313947/178572797-bf97390d-6a13-408d-903b-1dde82d9286a.png) (9)
+
+Từ (8) và (9) ta có:
+
+![image](https://user-images.githubusercontent.com/99313947/178572874-ead84c6d-e14a-472b-b8d5-7d1e1f43e36d.png)
+
+Do đó ta có ma trận xoay của khớp xương trong hệ mô phỏng được tính từ ma trận xoay của cảm biến:
+
+![image](https://user-images.githubusercontent.com/99313947/178572962-753779a1-1219-4752-9c2a-a8cd093a3290.png)
+
+
+
+
+
+
+
+
+
+
+
+
+### 3.2\. Chuẩn hóa:
 
 
 ### 3.1.2\. Cảm biến quán tính Hi229:
