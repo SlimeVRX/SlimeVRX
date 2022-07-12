@@ -138,10 +138,8 @@ Chúng tôi giải thích quy trình chuẩn hóa của chúng tôi trong phần
 [𝒂root, · · ·, 𝒂rarm] ∈ R 3x6 và định hướng (Orientation) [Rroot, · · ·, Rrarm] ∈ R 3x3x6 đo bằng IMU. Chúng tôi chuyển các phép đo này từ hệ tọa độ riêng của chúng sang hệ quy chiếu SMPL, thu được 𝒂 và R như được mô tả trong [Phần A.1] . Sau đó, chúng tôi căn chỉnh các phép đo quán tính khớp lá - leaf joint đối với gốc - root và Chuẩn hóa các phép đo khớp gốc - root. Cuối cùng, chúng tôi thay đổi tỉ lệ gia tốc để phù hợp kích thước mạng nơ-ron.
 
 
-### 3.1.2\. Cảm biến quán tính Hi229:
-
-### 3.1.3\. Chuyển đổi hệ tạo độ:
-
-### 3.2\. Convert Pytorch - ONNX:
+## 4\. Lý thuyết mạng nơ-ron:
 
 ![image](https://user-images.githubusercontent.com/99313947/178130684-6cc7fc80-11de-4426-b7db-3b272c8770e8.png)
+
+## 5\. Chuyển đổi mạng nơ-ron từ Pytorch sang ONNX:
