@@ -260,7 +260,11 @@ torch.onnx.export(
 )
 ```
 Sử dụng phần mềm Netron để xem mạng nơ-ron sau khi chuyển đổi
+
 - Trước 
+
 ![weights](https://user-images.githubusercontent.com/99313947/178601341-d55ac6e7-51be-4c0b-9483-f19a654ed2d7.png)
+
 - Sau
+
 ![model_11](https://user-images.githubusercontent.com/99313947/178601331-9a28c136-390c-42e0-862a-5262c89b5d81.png)
