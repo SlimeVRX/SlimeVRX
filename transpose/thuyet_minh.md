@@ -59,80 +59,14 @@ Phương pháp đề xuất triển khai lại kết quả của bài báo Trans
 Bài viết này được cấu trúc như sau. Chương 2 giới thiệu các nghiên cứu tài liệu liên quan đến luận án. Chương 3 ... Chương 4 ...
 
 ## 2\. Lý thuyết về IMU:
-### 2.1\. Tổng quan về cảm biến quán tính IMU:
-#### 2.1.1\. Cảm biến quán tính IMU là gì?:
-
-Inertial Measurement Unit = Đơn vị đo lường quán tính, có chức năng cung cấp thông tin về tốc độ góc và góc nghiêng của hệ thống. Dựa trên nguyên lý hoạt động của 2 cảm biến accelemeter (gia tốc kế) và gyroscope ( con quay hồi chuyển ). Tuy nhiên khái niệm này được sử dụng khá lỏng lẻo: do vậy IMU có thể hiểu là đơn vị đo lường quán tính của hệ thống, cung cấp các giá trị cảm biến sau khi đã xử lý giúp cho hệ thống hoạt động tốt nhất.
-
-IMU  cơ bản sẽ bao gồm 6-DOF (6 Degrees Of Freedom) tức là 6 trục độc lập (3 của accel và 3 của gyro). Tuy vậy đôi khi như thế vẫn là không đủ, những dự án phức tạp như là điều khiển máy bay hoặc robot có thể sẽ cần đến 9-DOF (thêm một cảm biến từ trường 3 trục – magnetometer – hoạt động gần giống một la bàn để định hướng), hoặc 10-DOF (thêm một áp kế – barometer – dùng để đo độ cao) hoặc thậm chí 11-DOF (thêm module GPS để xác định vị trí).
-
-#### 2.1.2\. Ứng dụng của IMU:
-
-Các cảm biến IMU được sử dụng trong các ứng dụng như: robot tự cân bằng, quadcopter, điện thoại thông minh hay đề tài chúng em đang nghiên cứu là ước tính cơ thể người…. Cảm biến IMU giúp chúng ta có được vị trí của vật thể gắn với cảm biến trong không gian ba. Chúng được sử dụng để phát hiện hướng của điện thoại thông minh hoặc trong các tiện ích như Fitbit, sử dụng cảm biến IMU để theo dõi chuyển động.
-Module cảm biến IMU có thể được tích hợp gồm hai hoặc nhiều cảm biến như:
-•	Cảm biến gia tốc (Accelemeter)
-•	Cảm biến góc quay (Gyroscope)
-•	Cảm biến từ trường (Magnetometer)
-
-#### 2.1.3\. Nguyên lý hoạt động của từng loại cảm biến:
-
-##### 2.1.3.1\ Cảm biến gia tốc kế Accelemeter:
-
-Khi bạn đặt một con chip IMU để im không chuyển động, giá trị trả về gyro = [0.0, 0.0, 0.0] do không có bất cứ chuyển động quay nào cả. Gyro chỉ đo tốc độ quay chứ không đo trực tiếp góc quay, nên khi bạn quay module một góc nào đó rồi dừng, giá trị của gyro sẽ tăng lên rồi hạ xuống về 0.
-
-##### 2.1.3.2\ Cảm biến con quay hồi chuyển Gyroscope:
-
-Nguyên tắc để đo góc dùng gia tốc kế là phân tích sự tác dụng của trọng lực lên các trục ta có thể dùng nó để tính các góc lệch roll và pitch.
-
-##### 2.1.3.3\ Cảm biến từ trường Magnetometer:
-
-[Hình]
-
-Cảm biến từ trường đa phần hoạt động dựa trên hiệu ứng Hall. Ta cấp nguồn cho dòng eletron chạy qua mạch, có một tấm dẫn điện như trên hình.
-
-[Hình]
-
-Khi xung quanh nó có từ trường, lực Lorent sẽ làm dòng eletron chạy trong mạch nó di chuyển lệch đi về 2 phía. Nếu ta đo điện áp thì sẽ biết được độ lớn của nguồn từ trường này.
-
-Nếu chọn trục z là trục vuông góc với mặt đất thì góc yaw là góc khi xoay trục z. Nó thường được ứng dụng để đo góc yaw bằng công thức đơn giản. Trên thực tế ta có thể tính toán góc yaw bằng gyroscope, nhưng nếu ta kết hợp thêm cảm biến từ trường nó sẽ cho kết quả chính xác hơn, lấp đi nhược điểm khi dùng gyroscope.
-
-
-#### 2.1.4\. Đặc tính của một số loại cảm biến:
-
-##### 2.1.4.1\ Cảm biến gia tốc kế Accelemeter:
-
-Vấn đề thường gặp phải nhất của gyro là drift = độ trôi, nó thay đổi chậm theo thời gian. Nguyên nhân bởi vì do các tác động cơ khí, rung động tác động lên gyro, sau một thời gian sử dụng thì giá trị trôi này tích lũy lên đáng kể, làm giá trị đo góc không còn chính xác.
-
-Dù vậy, điểm mạnh của gyro là ít bị nhiễu hơn accelemeter, nghĩa là giá trị tức thời của nó đáng tin cậy.
-
-##### 2.1.4.2\ Cảm biến con quay hồi chuyển Gyroscope:
-
-Accel luôn có offset trên mỗi trục làm cho giá trị đo được thường lệch đi so với thực tế một chút. Ngoài ra, giá trị đó được theo accel thường nhạy với rung động cơ khí nhỏ khiến cho giá trị tức thời của nó không đáng tin cậy, do đó chúng ta chỉ sử dụng giá trị trung bình của acc thì nó mới có hữu hiệu, vì nếu để lâu dài thì accel không bị trôi như gyro.
-
-#### 2.1.5\. Các giải thuật tính toán IMU
-
-### 2.2\. Cảm biến Hi229
-
-#### 2.2.1\. Mô tả chung
-
-Hi229 do HiPNUC sản xuất là Hệ thống trong gói (SiP) tích hợp gia tốc kế ba trục, con quay hồi chuyển ba trục, từ kế ba trục và vi điều khiển 32-bit ARM® Cortex ™ -M4 chạy chương trình cơ sở kết hợp cảm biến của HiPNUC. Phần sụn cung cấp các thuật toán xử lý tín hiệu phức tạp để xử lý dữ liệu cảm biến và cung cấp định hướng 3D thời gian thực chính xác, tiêu đề, gia tốc đã hiệu chỉnh và vận tốc góc đã hiệu chỉnh, cũng như dữ liệu cảm biến thô đã được hiệu chỉnh. Hi229 có một số đặc tính chống nhiễu từ trường nhất định trong nhà và vẫn có thể hoạt động bình thường trong môi trường nhiễu từ trường cường độ nhất định.
-
-#### 2.2.2\. Các tính năng chính
-#### 2.2.3\. Các tính năng chính của cảm biến tích hợp
-Ứng dụng tiêu biểu
-Kết nối Hi229
-
-Đặc điểm hoạt động
-Độ chính xác góc
-
-
-### 3.1\. Convert Local - Global:
 
 ![image](https://user-images.githubusercontent.com/99313947/178130727-5ea3a0ac-a583-45b6-8d80-46c79b8b7e9d.png)
 
+### 3\. Convert Local - Global: Chuyển đội hệ tọa độ cảm biến quán tính IMU
+
+![image](https://user-images.githubusercontent.com/99313947/178522537-1677cddd-e524-4dec-8fa6-d66794033109.png)
 
 
-3.2.1.1.4 Đặc tính của một số loại cảm biến
 
 
 ### 3.1.2\. Cảm biến quán tính Hi229:
@@ -142,6 +76,3 @@ Kết nối Hi229
 ### 3.2\. Convert Pytorch - ONNX:
 
 ![image](https://user-images.githubusercontent.com/99313947/178130684-6cc7fc80-11de-4426-b7db-3b272c8770e8.png)
-
-Chúng tôi lấy số đo vòng quay và gia tốc của mỗi IMU làm đầu vào tổng thể của hệ thống. Chúng tôi sắp xếp các phép đo này vào cùng một hệ quy chiếu và chuẩn hóa chúng để thu được vectơ đầu vào nối liền là 𝒙 (0) = [Rroot, · · ·, Rrarm, Rroot, · · ·, Rrarm] ∈ R 72 trong đó 𝒂 ∈ R 3 là gia tốc và 𝑹 ∈ R 3 × 3 là ma trận quay. Chúng tôi sử dụng 𝒙 (0) (𝑡) để chỉ các phép đo của khung thứ 𝑡 và chỉ số trên (0) có nghĩa là nó là đầu vào tổng thể. Vui lòng tham khảo Phụ lục A để biết thêm chi tiết về tiền xử lý cảm biến.
-
