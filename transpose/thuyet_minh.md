@@ -5,6 +5,7 @@
 - Abstract - Tóm tắt
 - FPS - Frame per second
 - 9 DOF
+- Framework - là các đoạn code đã được viết sẵn, cấu thành nên một bộ khung và các thư viện lập trình được đóng gói.
 
 # Ước tính cơ thể người từ 6 cảm biến quán tính chi phí thấp trong thời gian thực
 
