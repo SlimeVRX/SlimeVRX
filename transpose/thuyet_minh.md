@@ -144,3 +144,7 @@ Chúng tôi giải thích quy trình chuẩn hóa của chúng tôi trong phần
 ![image](https://user-images.githubusercontent.com/99313947/178130684-6cc7fc80-11de-4426-b7db-3b272c8770e8.png)
 
 ## 5\. Chuyển đổi mạng nơ-ron từ Pytorch sang ONNX:
+
+Bên cạnh việc nghiên cứu ra các mô hình học sâu ngày càng chính xác thì việc triển khai mô hình cũng không kém phần quan trọng và gặp nhiều thách thức. Đặc biệt trong việc chuyển từ mô hình được viết bằng Framework này sang Framework khác vì mỗi thư viện có các hàm và kiểu dữ liệu khác nhau. Pytorch thường được sử dụng trong nghiên cứu thử nghiệm mô hình vì dễ sử dụng và cộng đồng nghiên cứu cũng dùng Pytorch nhiều rất tiện việc tra cứu. ONNX là một công cụ tối ưu để triển khai các mô hình suy luận hiệu suất cao.
+
+![image](https://user-images.githubusercontent.com/99313947/178598082-cc409451-a4c3-4362-8e3e-d90c13fd6cc1.png)
