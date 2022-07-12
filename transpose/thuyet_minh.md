@@ -147,4 +147,115 @@ Chúng tôi giải thích quy trình chuẩn hóa của chúng tôi trong phần
 
 Bên cạnh việc nghiên cứu ra các mô hình học sâu ngày càng chính xác thì việc triển khai mô hình cũng không kém phần quan trọng và gặp nhiều thách thức. Đặc biệt trong việc chuyển từ mô hình được viết bằng Framework này sang Framework khác vì mỗi thư viện có các hàm và kiểu dữ liệu khác nhau. Pytorch thường được sử dụng trong nghiên cứu thử nghiệm mô hình vì dễ sử dụng và cộng đồng nghiên cứu cũng dùng Pytorch nhiều rất tiện việc tra cứu. ONNX là một công cụ tối ưu để triển khai các mô hình suy luận hiệu suất cao.
 
+## 5.1\. ONNX là gì?
+
 ![image](https://user-images.githubusercontent.com/99313947/178598082-cc409451-a4c3-4362-8e3e-d90c13fd6cc1.png)
+
+ONNX là viết tắt của Open Neural Network Exchange, là một công cụ đóng vai trò như một trung gian hỗ trợ chuyển đổi mô hình học máy từ các framework khác nhau về dạng ONNX cung cấp nhờ đó giúp chúng ta chuyển đổi dễ dàng giữa các framework khác nhau. ONNX hỗ trợ chuyển đổi giữa nhiều framework phổ biến hiện nay như Keras, Tensorfow, Scikit-learn, Pytorch và XGBoost.
+
+Vậy ONNX có bí quyết gì để thực hiện điều đó:
+
+- Cung cấp đồ thị biểu diễn chuẩn: Mỗi framework khác nhau sẽ có đồ thị biểu diễn tính toán khác nhau. ONNX cung cấp một đồ thị chuẩn được biểu diễn bằng nhiều nút tính toán có thể biểu diễn đồ thị của tất cả framework.
+- Cung cấp kiểu dữ liệu chuẩn: ONNX cung cấp các kiểu dữ liệu chuẩn bao gồm int8,int16, float16, ...
+- Cung cấp các hàm chuẩn: ONNX cung cấp các hàm có thể chuyển đổi với các hàm tương ứng trong framework mong muốn. Ví dụ hàm softmax trong torch sẽ được chuyển tương ứng thành hàm softmax trong ONNX.
+
+## 5.2\. Chuyển mô hình Transpose từ Pytorch sang ONNX
+
+- Bước 1: Import thư viện và khởi tạo cấu hình cần thiết
+
+```
+!git clone https://github.com/SlimeVRX/TransPose.git
+!pip install chumpy
+!pip install onnx
+!pip install onnxruntime
+
+%cd TransPose
+```
+
+- Bước 2: Xây dựng mô hình và tải pretrained weight
+
+```
+import torch
+from net import TransPoseNet
+from config import paths
+from utils import normalize_and_concat
+import os
+import articulate as art
+
+
+device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
+net = TransPoseNet().to(device)
+
+imu = torch.randn(26, 72).to(device)
+rnn_state_0 = torch.randn(2, 1, 256).to(device)
+rnn_state_1 = torch.randn(2, 1, 256).to(device)
+rnn_state = tuple([rnn_state_0, rnn_state_1])
+```
+
+```
+net
+TransPoseNet(
+  (pose_s1): RNN(
+    (rnn): LSTM(256, 256, num_layers=2, bidirectional=True)
+    (linear1): Linear(in_features=72, out_features=256, bias=True)
+    (linear2): Linear(in_features=512, out_features=15, bias=True)
+    (dropout): Dropout(p=0.2, inplace=False)
+  )
+  (pose_s2): RNN(
+    (rnn): LSTM(64, 64, num_layers=2, bidirectional=True)
+    (linear1): Linear(in_features=87, out_features=64, bias=True)
+    (linear2): Linear(in_features=128, out_features=69, bias=True)
+    (dropout): Dropout(p=0.2, inplace=False)
+  )
+  (pose_s3): RNN(
+    (rnn): LSTM(128, 128, num_layers=2, bidirectional=True)
+    (linear1): Linear(in_features=141, out_features=128, bias=True)
+    (linear2): Linear(in_features=256, out_features=90, bias=True)
+    (dropout): Dropout(p=0.2, inplace=False)
+  )
+  (tran_b1): RNN(
+    (rnn): LSTM(64, 64, num_layers=2, bidirectional=True)
+    (linear1): Linear(in_features=87, out_features=64, bias=True)
+    (linear2): Linear(in_features=128, out_features=2, bias=True)
+    (dropout): Dropout(p=0.2, inplace=False)
+  )
+  (tran_b2): RNN(
+    (rnn): LSTM(256, 256, num_layers=2)
+    (linear1): Linear(in_features=141, out_features=256, bias=True)
+    (linear2): Linear(in_features=256, out_features=3, bias=True)
+    (dropout): Dropout(p=0.2, inplace=False)
+  )
+)
+```
+- Bước 3: Chuyển mô hình về dạng ONNX
+
+Một số tham số của hàm export:
+
+- model: mô hình đã được load weight
+- dummy input: một tensor hoặc một tuple chứa nhiều tensor tượng trưng cho đầu vào của model
+- save_path: đường dẫn nơi lưu mô hình sau khi convert
+- Input names: đặt tên cho tham số đầu vào
+- output_names: đặt tên cho các giá trị trả về
+- export_params: Xác định có dùng pretrained weight hay không ? Có đặt là True
+- verbose: Bằng True thì sẽ in ra đồ thị mô hình dưới dạng con người có thể đọc được
+
+Export mô hình Transpose
+```
+# Model conversion to onnx
+model_onnx_path_3 = "model_33.onnx"
+torch.onnx.export(
+    net, 
+    args=(imu, rnn_state),
+    f=model_onnx_path_3,
+    export_params=True,
+    opset_version=11,
+    input_names=["sequence_1", "sequence_2", "sequence_3"],
+    output_names=["output"],
+    dynamic_axes={
+        "sequence_1": {0: "batch_size"},
+        "sequence_2": {0: "batch_size"},
+        "sequence_3": {0: "batch_size"},
+        "output": {0: "batch_size"}
+    }
+)
+```
