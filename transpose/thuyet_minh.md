@@ -132,18 +132,10 @@ Do đó ta có ma trận xoay của khớp xương trong hệ mô phỏng đư�
 
 ![image](https://user-images.githubusercontent.com/99313947/178572962-753779a1-1219-4752-9c2a-a8cd093a3290.png)
 
-
-
-
-
-
-
-
-
-
-
-
 ### 3.2\. Chuẩn hóa:
+
+Chúng tôi giải thích quy trình chuẩn hóa của chúng tôi trong phần này. Đối với mỗi khung hình, đầu vào thô là gia tốc
+[𝒂root, · · ·, 𝒂rarm] ∈ R 3x6 và định hướng (Orientation) [Rroot, · · ·, Rrarm] ∈ R 3x3x6 đo bằng IMU. Chúng tôi chuyển các phép đo này từ hệ tọa độ riêng của chúng sang hệ quy chiếu SMPL, thu được 𝒂 và R như được mô tả trong [Phần A.1] . Sau đó, chúng tôi căn chỉnh các phép đo quán tính khớp lá (leaf-joint) đối với gốc (root) và Chuẩn hóa các phép đo khớp gốc (root). Cuối cùng, chúng tôi thay đổi tỉ lệ gia tốc để phù hợp kích thước mạng nơ-ron.
 
 
 ### 3.1.2\. Cảm biến quán tính Hi229:
