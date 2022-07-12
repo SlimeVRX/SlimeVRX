@@ -57,22 +57,15 @@ Các phương pháp sử dụng cảm biến quán tính là một cách tiếp 
 
 ## 3\. Method: Phương pháp
 
-Mục tiêu của nghiên cứu này là ước tính tư thế và chuyển động trong không gian 3D trong thời gian thực bằng cách sử dụng 6 cảm biến quán tính chi phí thấp và chạy trên máy tính cấu hình thấp chỉ sử dụng CPU không cần GPU. Như được hiển thị trong ~Hình 3~, 6 cảm biến quán tính được gắn trên xương chậu, phía dưới đầu gối chân bên trái và bên phải, cổ tay trái và phải và đầu. Chúng tôi chia nhiệm vụ này thành hai nhiệm vụ: Chuyển đổi hệ tọa độ từ hệ tọa độ local của từng cảm biến thành hệ tọa độ global liên hệ tất cả các cảm biến (Phần 3.2) và chuyển đổi framework neuralnetwork nghiên cứu Python sang framework ONNX chuyên cho việc tối ưu cho triển khai (Phần 3.3).
+Phương pháp đề xuất triển khai lại kết quả của bài báo Transpose sử dụng cảm biến quán tính chi phí thấp và chạy trên máy tính cấu hình thấp chỉ sử dụng CPU không cần GPU. 6 cảm biến quán tính Hi229 9-DOF chi phí thấp được sử dụng thay thế 6 cảm biến chuyên dụng Noitom được trình bày trong bài báo Transpose. Ngoài ra, chúng tôi triển khai lại cấu trúc mạng Neural Network từ Pytorch framwork sang ONNX framwork tối ưu cho việc trển khai trên CPU. Trong luận án này, trước tiên chúng tôi giới thiệu kiến thức liên quan về IMU và mô tả ~giải thích~ phương pháp chuyển đổi hệ tọa độ IMU từ hệ tọa độ local riêng từng cảm biến sang global toàn bộ cảm biến (Phần 3.1). Sau đó, chúng tôi giới thiệu nền tảng kến thức liên quan về mạng Neural Network và trình bày phương pháp chuyển đổi cấu trúc mạng Neural Network từ Pytorch framwork sang ONNX framwork (Phần 3.2)
 
-![image](https://user-images.githubusercontent.com/99313947/178130401-fe8f0574-9933-4405-8f33-716dbce70e4a.png)
-Hình 3. Vị trí IMU. 6 IMU được gắn trên cẳng tay trái và phải, cẳng chân trái và phải, đầu và xương chậu. Chúng tôi yêu cầu các cảm biến được kết dính chặt chẽ xung quanh các khớp với các hướng tùy ý.
-
-### 3.1\. System Input: Đầu vào hệ thống
-
-Chúng tôi lấy số đo vòng quay và gia tốc của mỗi IMU làm đầu vào tổng thể của hệ thống. Chúng tôi sắp xếp các phép đo này vào cùng một hệ quy chiếu và chuẩn hóa chúng để thu được vectơ đầu vào nối liền là 𝒙 (0) = [Rroot, · · ·, Rrarm, Rroot, · · ·, Rrarm] ∈ R 72 trong đó 𝒂 ∈ R 3 là gia tốc và 𝑹 ∈ R 3 × 3 là ma trận quay. Chúng tôi sử dụng 𝒙 (0) (𝑡) để chỉ các phép đo của khung thứ 𝑡 và chỉ số trên (0) có nghĩa là nó là đầu vào tổng thể. Vui lòng tham khảo Phụ lục A để biết thêm chi tiết về tiền xử lý cảm biến.
-
-### 3.2\. Convert Local - Global:
+### 3.1\. Convert Local - Global:
 
 ![image](https://user-images.githubusercontent.com/99313947/178130727-5ea3a0ac-a583-45b6-8d80-46c79b8b7e9d.png)
 
-### 3.3\. Convert Pytorch - ONNX:
+### 3.2\. Convert Pytorch - ONNX:
 
 ![image](https://user-images.githubusercontent.com/99313947/178130684-6cc7fc80-11de-4426-b7db-3b272c8770e8.png)
 
-b
+Chúng tôi lấy số đo vòng quay và gia tốc của mỗi IMU làm đầu vào tổng thể của hệ thống. Chúng tôi sắp xếp các phép đo này vào cùng một hệ quy chiếu và chuẩn hóa chúng để thu được vectơ đầu vào nối liền là 𝒙 (0) = [Rroot, · · ·, Rrarm, Rroot, · · ·, Rrarm] ∈ R 72 trong đó 𝒂 ∈ R 3 là gia tốc và 𝑹 ∈ R 3 × 3 là ma trận quay. Chúng tôi sử dụng 𝒙 (0) (𝑡) để chỉ các phép đo của khung thứ 𝑡 và chỉ số trên (0) có nghĩa là nó là đầu vào tổng thể. Vui lòng tham khảo Phụ lục A để biết thêm chi tiết về tiền xử lý cảm biến.
 
