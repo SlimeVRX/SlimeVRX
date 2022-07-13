@@ -146,6 +146,18 @@ Ví dụ, các thông số chi tiết về địa từ trường của Đà Nẵ
 
 Có thể thấy, tổng cường độ từ trường tại khu vực Đà Nẵng là ~ 43uT, thành phần thẳng đứng: 16uT, thành phần ngang: 40uT, Inclination: 21 °, Declination: -1 °
 
+### 2.3\. Đặc tính của mỗi loại cảm biến
+
+### 2.3.1\. Cảm biến gia tốc kế:
+
+Cảm biến gia tốc kế luôn được bù trừ trên mỗi trục làm cho giá trị đo được thường lệch đi so với thực tế một chút. Ngoài ra, giá trị đo được từ cảm biến gia tốc thường nhạy với rung động nhỏ khiến cho giá trị tức thời của nó không đáng tin cậy, do đó chúng ta chỉ sử dụng giá trị trung bình. Nếu để lâu dài thì cảm biến gia tốc kế không bị trôi như cảm biến con quay hồi chuyển.
+
+### 2.3.2\. Cảm biến con quay hồi chuyển:
+
+Vấn đề thường gặp phải nhất của cảm biến con quay hồi chuyển là drift - độ trôi, nó thay đổi chậm theo thời gian. Nguyên nhân bởi vì do các tác động cơ khí, rung động tác động lên gyro, sau một thời gian sử dụng thì giá trị trôi này tích lũy lên đáng kể, làm giá trị đo góc không còn chính xác. Dù vậy, điểm mạnh của cảm biến con quay hồi chuyển là ít bị nhiễu hơn cảm biến gia tốc, nghĩa là giá trị tức thời của nó đáng tin cậy.
+
+### 2.4\. Các giải thuật tính toán IMU:
+
 ## 3\. Chuyển đổi hệ tọa độ cảm biến quán tính IMU
 
 Vì mỗi cảm biến quán tính có hệ tọa độ riêng, nên trước tiên chúng ta cần chuyển đổi các phép đo quán tính thô thành cùng một hệ quy chiếu, được gọi là Hiệu chuẩn - calibration, và sau đó biến đổi quán tính khớp lá - leaf joint về không gian của khớp gốc - root và thay đổi tỉ lệ thành kích thước phù hợp cho đầu vào mạng nơ-ron, được gọi là Chuẩn hóa - normalization. Các cảm biến có thể được đặt với các góc quay tùy ý trong quá trình thiết lập và phương pháp của chúng tôi tự động tính toán các ma trận chuyển tiếp cho từng cảm biến trước khi ghi lại chuyển động. Quá trình này yêu cầu đối tượng giữ tư thế chữ T trong vài giây. Trong phần này, chúng tôi giải thích chi tiết về tiền xử lý cảm biến trong phương pháp của chúng tôi, bao gồm các công việc Hiệu chuẩn [Phần A.1] và Chuẩn hóa [Phần A.2]
