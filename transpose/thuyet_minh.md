@@ -63,9 +63,88 @@ Phương pháp đề xuất triển khai lại kết quả của bài báo Trans
 
 Bài viết này được cấu trúc như sau. Chương 2 giới thiệu các nghiên cứu tài liệu liên quan đến luận án. Chương 3 ... Chương 4 ...
 
-## 2\. Lý thuyết về IMU:
+## 2\. Tổng quan về IMU:
 
 ![image](https://user-images.githubusercontent.com/99313947/178130727-5ea3a0ac-a583-45b6-8d80-46c79b8b7e9d.png)
+
+### 2.1\. IMU là gì?
+
+Đơn vị đo lường quán tính - IMU là một loại cảm biến đặc biệt đo gia tốc, tốc độ góc và từ trường. IMU cơ bản sẽ bao gồm một gia tốc kế 3 trục và một con quay hồi chuyển 3 trục được gọi là IMU 6 trục. Tuy vậy đôi khi như thế vẫn là không đủ, những dự án phức tạp như là điều khiển máy bay hoặc robot có thể sẽ cần đến IMU 9 trục - thêm một cảm biến từ trường 3 trục hoạt động gần giống một la bàn để định hướng, hoặc IMU 10 trục - thêm một áp kế dùng để đo độ cao hoặc thậm chí 11 trục - thêm module GPS để xác định vị trí.
+
+Về mặt kỹ thuật, thuật ngữ IMU chỉ dùng để chỉ cảm biến, nhưng IMU thường được ghép nối với phần mềm kết hợp cảm biến, kết hợp dữ liệu từ nhiều cảm biến để cung cấp các phép đo Orientation và Heading. Trong cách sử dụng phổ biến, thuật ngữ IMU có thể được sử dụng để chỉ sự kết hợp giữa cảm biến và phần mềm tổng hợp cảm biến, sự kết hợp này còn được gọi là AHRS (Attitude Heading Reference System).
+
+### 2.2\. Nguyên lý hoạt động của từng loại cảm biến:
+
+### 2.2.1\. Cảm biến gia tốc kế:
+
+Gia tốc là một cảm biến quán tính được sử dụng phổ biến để đo gia tốc tuyến tính.
+
+![image](https://user-images.githubusercontent.com/99313947/178685244-c6d9a6fa-1bbd-495f-bf77-49b53e085df2.png)
+
+Gia tốc kế đo gia tốc cảm nhận theo ba trục, vì vậy khi đặt gia tốc kế nằm ngang và đứng yên trên trái đất, trị số đọc là 0,0,1G. Khi gia tốc kế nhận được gia tốc 1G theo chiều dương của trục X, trị số đọc là 1,0,1G
+
+Trọng lực hướng xuống theo phương thẳng đứng, khi đặt gia tốc kế nằm ngang và đứng yên trên trái đất, trị số đọc là 0,0,1G, tại sao không phải 0,0,-1G. Điều này là do gia tốc kế cảm nhận được lực tác động ta từ bên ngoài đặt gia tốc kế như mô hình lò xo chứ không phải là một trường hấp dẫn.
+
+![image](https://user-images.githubusercontent.com/99313947/178685691-80ec569e-48b8-4ed1-94ea-91bee845ab99.png)
+
+Mô hình gia tốc kế
+
+### 2.2.2\. Cảm biến con quay hồi chuyển:
+
+Khi bạn đặt một con chip IMU để im không chuyển động, giá trị trả về gyro = [0.0, 0.0, 0.0] do không có bất cứ chuyển động quay nào cả. Gyro chỉ đo tốc độ quay chứ không đo trực tiếp góc quay, nên khi bạn quay module một góc nào đó rồi dừng, giá trị của gyro sẽ tăng lên rồi hạ xuống về 0.
+
+Con quay hồi chuyển đo vận tốc góc ba trục, nói thẳng ra là nó đo chuyển động quay quanh mỗi trục, nó còn được gọi là cảm biến vận tốc góc và cũng là một thiết bị quán tính. Khi IMU để im không chuyển động, giá trị trả về Gyroscope = [0.0, 0.0, 0.0] do không có bất cứ chuyển động quay nào, khi quay module một góc nào đó rồi dừng, giá trị của Gyroscope sẽ tăng lên rồi hạ xuống về 0.
+
+![image](https://user-images.githubusercontent.com/99313947/178686484-b9832622-3251-4476-9b3e-52e194b03971.png)
+
+Gia tốc kế + Con quay hồi chuyển được gọi là IMU, hay được gọi là cảm biến IMU 6 trục
+
+### 2.2.3\. Cảm biến trường địa từ:
+
+Cảm biến trường địa từ đo cường độ từ trường theo ba trục bao gồm từ trường địa từ và các từ trường gây nhiễu khác gần đó chẳng hạn như nam châm, vật kim loại,...
+
+![image](https://user-images.githubusercontent.com/99313947/178687032-9984eb12-86ad-49b3-ab10-5942a6bd95e6.png)
+
+Được gọi là cảm biến 9 trục, hoặc MARG (Magnetic, Angular Rate, and Gravity sensors). Nếu được kết hợp với một vi máy tính chip đơn, nó sẽ có sức mạnh xử lý + thuật toán thích hợp, nó có thể được gọi là AHRS.
+
+### 2.2.4\. Từ trường của trái đất:
+
+Sự phân bố hình học của từ trường trái đất rất không đều. Các đường sức từ bắt đầu từ cực nam và quay trở lại cực bắc của từ trường
+
+![image](https://user-images.githubusercontent.com/99313947/178705645-1577e28b-cee5-48f4-a4ac-bac48a93cbbf.png)
+
+Chú ý đến chiều của các đường sức từ: từ cực nam đến cực bắc của đường sức từ.
+
+Đối với bán cầu bắc, hướng của địa từ nghiêng xuống và đối với bán cầu nam, hướng của địa từ nghiêng lên trên.
+
+![image](https://user-images.githubusercontent.com/99313947/178705874-41752473-736a-4045-85bb-7e1ac3eecebd.png)
+
+Một trường địa từ điển hình ở bán cầu bắc
+
+Dòng Cường độ là giá trị đọc của cảm biến từ trường 3 trục, là vectơ không gian ba chiều. Mô đun của Cường độ từ trường
+
+![image](https://user-images.githubusercontent.com/99313947/178706904-a368b25b-a170-4bf6-ba9c-35be9049609e.png)
+
+- Declination - độ từ thiên: Góc giữa từ trường Trái đất và hướng bắc địa lý.
+- Inclination - độ từ khuynh: Góc giữa từ trường Trái đất và phương nằm ngang.
+- Chuyển đổi đơn vị: Đơn vị phổ biến: MicroTesla (uT), MilliGauss (mGauss)
+- 1 uT = 10 mGauss, phạm vi của trường địa từ: 250 - 650 mGauss hoặc 25 - 64 uT
+
+Trong hệ tọa độ NED
+
+![image](https://user-images.githubusercontent.com/99313947/178708119-2fffdddd-4886-49f7-950c-18beef83756c.png)
+
+Công thức tính vectơ trường địa từ
+Với:
+- ![image](https://user-images.githubusercontent.com/99313947/178708225-40a00f7b-6359-4e73-b689-62dcc4376b6d.png) Độ từ thiên
+- ![image](https://user-images.githubusercontent.com/99313947/178708323-6f9af4f5-0878-43cb-b027-34158260268b.png) Độ từ khuynh
+- ![image](https://user-images.githubusercontent.com/99313947/178708406-1b8a9362-edd2-4a5f-8ed5-af0b232db074.png) Độ lớn của từ trường trái đất
+
+Ví dụ, các thông số chi tiết về địa từ trường của Đà Nẵng được kiểm tra thông qua trang web của [NOAA](https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml#igrfwmm) là:
+
+![image](https://user-images.githubusercontent.com/99313947/178709653-bca5ca07-7867-431d-a8cc-0c7e3af9b131.png)
+
+Có thể thấy, tổng cường độ từ trường tại khu vực Đà Nẵng là ~ 43uT, thành phần thẳng đứng: 16uT, thành phần ngang: 40uT, Inclination: 21 °, Declination: -1 °
 
 ## 3\. Chuyển đổi hệ tọa độ cảm biến quán tính IMU
 
