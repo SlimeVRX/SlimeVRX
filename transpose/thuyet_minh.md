@@ -156,7 +156,24 @@ Cảm biến gia tốc kế luôn được bù trừ trên mỗi trục làm cho
 
 Vấn đề thường gặp phải nhất của cảm biến con quay hồi chuyển là drift - độ trôi, nó thay đổi chậm theo thời gian. Nguyên nhân bởi vì do các tác động cơ khí, rung động tác động lên gyro, sau một thời gian sử dụng thì giá trị trôi này tích lũy lên đáng kể, làm giá trị đo góc không còn chính xác. Dù vậy, điểm mạnh của cảm biến con quay hồi chuyển là ít bị nhiễu hơn cảm biến gia tốc, nghĩa là giá trị tức thời của nó đáng tin cậy.
 
-### 2.4\. Các giải thuật tính toán IMU:
+## 2.4\. Các giải thuật tính toán IMU:
+
+Roll, Pitch, Yaw, Quaternion
+
+### 2.4.1\. Xoay 2D:
+
+![image](https://user-images.githubusercontent.com/99313947/178715312-57550214-b61d-49b8-909a-95d8d7d7b249.png)
+
+Hệ tạo độ 2 chiều, quay hệ trục tọa độ ngược chiều kim đồng hồ một góc nhất định
+
+Ma trận xoay 2D
+
+![image](https://user-images.githubusercontent.com/99313947/178715566-7e5b7c90-c488-49bd-bfbf-ee255db60936.png)
+
+Nếu ta xác định hệ tọa độ trước phép quay là hệ b và hệ tọa độ sau phép quay là hệ i thì ma trận A là ma trận chuyển tọa độ từ hệ b sang hệ i là:
+
+![image](https://user-images.githubusercontent.com/99313947/178715815-0149c301-f8d4-4b7c-83f8-3e5d1873b0bf.png)
+
 
 ## 3\. Chuyển đổi hệ tọa độ cảm biến quán tính IMU
 
