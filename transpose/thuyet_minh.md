@@ -91,8 +91,6 @@ Mô hình gia tốc kế
 
 ### 2.2.2\. Cảm biến con quay hồi chuyển:
 
-Khi bạn đặt một con chip IMU để im không chuyển động, giá trị trả về gyro = [0.0, 0.0, 0.0] do không có bất cứ chuyển động quay nào cả. Gyro chỉ đo tốc độ quay chứ không đo trực tiếp góc quay, nên khi bạn quay module một góc nào đó rồi dừng, giá trị của gyro sẽ tăng lên rồi hạ xuống về 0.
-
 Con quay hồi chuyển đo vận tốc góc ba trục, nói thẳng ra là nó đo chuyển động quay quanh mỗi trục, nó còn được gọi là cảm biến vận tốc góc và cũng là một thiết bị quán tính. Khi IMU để im không chuyển động, giá trị trả về Gyroscope = [0.0, 0.0, 0.0] do không có bất cứ chuyển động quay nào, khi quay module một góc nào đó rồi dừng, giá trị của Gyroscope sẽ tăng lên rồi hạ xuống về 0.
 
 ![image](https://user-images.githubusercontent.com/99313947/178686484-b9832622-3251-4476-9b3e-52e194b03971.png)
