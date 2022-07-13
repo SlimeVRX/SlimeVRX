@@ -71,7 +71,7 @@ Bài viết này được cấu trúc như sau. Chương 2 giới thiệu các n
 
 Đơn vị đo lường quán tính - IMU là một loại cảm biến đặc biệt đo gia tốc, tốc độ góc và từ trường. IMU cơ bản sẽ bao gồm một gia tốc kế 3 trục và một con quay hồi chuyển 3 trục được gọi là IMU 6 trục. Tuy vậy đôi khi như thế vẫn là không đủ, những dự án phức tạp như là điều khiển máy bay hoặc robot có thể sẽ cần đến IMU 9 trục - thêm một cảm biến từ trường 3 trục hoạt động gần giống một la bàn để định hướng, hoặc IMU 10 trục - thêm một áp kế dùng để đo độ cao hoặc thậm chí 11 trục - thêm module GPS để xác định vị trí.
 
-Về mặt kỹ thuật, thuật ngữ IMU chỉ dùng để chỉ cảm biến, nhưng IMU thường được ghép nối với phần mềm kết hợp cảm biến, kết hợp dữ liệu từ nhiều cảm biến để cung cấp các phép đo Orientation và Heading. Trong cách sử dụng phổ biến, thuật ngữ IMU có thể được sử dụng để chỉ sự kết hợp giữa cảm biến và phần mềm tổng hợp cảm biến, sự kết hợp này còn được gọi là AHRS (Attitude Heading Reference System).
+Về mặt kỹ thuật, thuật ngữ IMU chỉ dùng để chỉ cảm biến, nhưng IMU thường được ghép nối với phần mềm kết hợp cảm biến, kết hợp dữ liệu từ nhiều cảm biến để cung cấp các phép đo Orientation và Heading. Trong cách sử dụng thông thường, thuật ngữ IMU có thể được sử dụng để chỉ sự kết hợp giữa cảm biến và phần mềm tổng hợp cảm biến, sự kết hợp này còn được gọi là AHRS (Attitude Heading Reference System).
 
 ### 2.2\. Nguyên lý hoạt động của từng loại cảm biến:
 
