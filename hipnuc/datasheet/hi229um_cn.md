@@ -618,9 +618,9 @@ Z-axis angular velocity = (int16_t)((0x00<<8)+ 0x44) = 68
 `C0 80 FF 60 FF 32 FF`: Magnetic field data packet, 0xC0 is the data packet label, and the three-axis magnetic field is：
 
 ```
-X-axis angular velocity = (int16_t)((0xFF<<8)+ 0x80) = -128 (unit is 0.001GAUSS)
-Y-axis angular velocity = (int16_t)((0xFF<<8)+ 0x60) = -160
-Z-axis angular velocity = (int16_t)((0xFF<<8)+ 0x32) = -206
+X-axis ~angular velocity~ magnetic field = (int16_t)((0xFF<<8)+ 0x80) = -128 (unit is 0.001GAUSS)
+Y-axis ~angular velocity~ magnetic field = (int16_t)((0xFF<<8)+ 0x60) = -160
+Z-axis ~angular velocity~ magnetic field = (int16_t)((0xFF<<8)+ 0x32) = -206
 ```
 
 `D0 64 F2 6C 0E BB 01`: Euler angle data packet, 0xD0 is the data packet label
