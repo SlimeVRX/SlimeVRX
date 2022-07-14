@@ -8,7 +8,7 @@
 - Framework - là các đoạn code đã được viết sẵn, cấu thành nên một bộ khung và các thư viện lập trình được đóng gói.
 
 # Edit Word
-Download: [thuyetminh_supermain_1958.docx](https://github.com/SlimeVRX/SlimeVRX/files/9102347/thuyetminh_supermain_1958.docx)
+Download: [thuyetminh_supermain_141352.docx](https://github.com/SlimeVRX/SlimeVRX/files/9109288/thuyetminh_supermain_141352.docx)
 
 
 # Ước tính cơ thể người từ 6 cảm biến quán tính chi phí thấp trong thời gian thực
