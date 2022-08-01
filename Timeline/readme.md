@@ -2,7 +2,7 @@
 
 > ### "Nếu thiên tài của Ngây Dụ Quân gọi là thiên tài, ta cảm thấy hắn biết rõ mình muốn làm gì, cũng bỏ ra thời gian, thu hoạch thành quả."
 
-Mục tiêu quan trọng: Tiếng Anh, Nghiên cứu Ước tính tư thế, Robot.
+Mục tiêu quan trọng: Tiếng Anh, Nghiên cứu Ước tính tư thế, Robot, Coursera.org, HỌC SÂU BOOK.
 
 Phân bổ thời gian: 01-05 / 08.
 
