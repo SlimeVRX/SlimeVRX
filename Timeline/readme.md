@@ -1,5 +1,7 @@
 # Quản lý thời gian / Lập kế hoạch / Phát triển thói quen
 
+> ### "Nếu thiên tài của Ngây Dụ Quân gọi là thiên tài, ta cảm thấy hắn biết rõ mình muốn làm gì, cũng bỏ ra thời gian, thu hoạch thành quả."
+
 Mục tiêu quan trọng: Tiếng Anh, Nghiên cứu Ước tính tư thế, Robot.
 
 Phân bổ thời gian: 01-05 / 08.
