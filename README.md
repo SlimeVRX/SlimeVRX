@@ -32,6 +32,7 @@ Kế hoạch 2: $$$ Xây dựng hệ thống mocap từ cảm biến Lighthouse
 - Máy học SOMA: Solving Optical Marker-Based MoCap Automatically
 
 Mục tiêu 1: Phát triển tool Animation cho nhóm làm game 3D, core khung xương cho Vtuber HanaVR, chuyển động của finger, eyes, facial.
+Cải thiện hiệu năng trong các chuyển động phức tạp, yêu cần version 1, version 2 --> version 10.
 
-Mục tiêu 2: Gọi vốn một bộ đồ 6 cảm biến giá 300$ ứng dụng vào game VRChat.
+Mục tiêu 2: Gọi vốn một bộ đồ 6 cảm biến giá 599$.
 
